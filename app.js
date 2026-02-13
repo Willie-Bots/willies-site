@@ -14,12 +14,19 @@ async function loadNewsletter() {
 
     (data.articles || []).forEach((a) => {
       const li = document.createElement('li');
+
       const link = document.createElement('a');
       link.href = a.link;
       link.target = '_blank';
       link.rel = 'noopener noreferrer';
       link.textContent = a.title;
+
+      const summary = document.createElement('p');
+      summary.className = 'article-summary';
+      summary.textContent = a.description || 'No summary available.';
+
       li.appendChild(link);
+      li.appendChild(summary);
       listEl.appendChild(li);
     });
   } catch (err) {

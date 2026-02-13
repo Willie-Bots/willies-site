@@ -62,5 +62,11 @@ body {
   margin: 8px 0 0;
   padding-left: 18px;
 }
-#newsletterList li { margin: 7px 0; }
+#newsletterList li { margin: 10px 0; }
 #newsletterList a { color: var(--text); text-decoration-color: var(--accent); }
+.article-summary {
+  margin: 4px 0 0;
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.35;
+}
