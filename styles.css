@@ -1,82 +1,73 @@
 :root {
-  --bg: #070707;
-  --panel: #101010;
-  --panel-2: #141414;
-  --text: #f4f4f4;
-  --muted: #a7a7a7;
-  --line: #232323;
-  --accent: #c9ff3b;
-  --accent-soft: rgba(201, 255, 59, 0.16);
+  --bg: #f5f5f7;
+  --panel: rgba(255, 255, 255, 0.72);
+  --panel-strong: rgba(255, 255, 255, 0.86);
+  --text: #111114;
+  --muted: #6e6e73;
+  --line: rgba(17, 17, 20, 0.08);
+  --accent: #0071e3;
 }
 
 * { box-sizing: border-box; }
 
 body {
   margin: 0;
-  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, Arial, sans-serif;
   color: var(--text);
   background:
-    radial-gradient(900px 500px at 90% -20%, rgba(201, 255, 59, 0.08), transparent 60%),
-    radial-gradient(600px 300px at -10% 40%, rgba(255, 255, 255, 0.04), transparent 60%),
+    radial-gradient(900px 380px at 10% -20%, rgba(0, 113, 227, 0.08), transparent 60%),
+    radial-gradient(900px 380px at 90% -20%, rgba(0, 0, 0, 0.06), transparent 60%),
     var(--bg);
 }
 
 .container {
-  max-width: 980px;
+  max-width: 1024px;
   margin: 0 auto;
-  padding: 34px 18px 56px;
+  padding: 38px 18px 64px;
 }
 
 .hero {
   border: 1px solid var(--line);
-  border-radius: 18px;
-  background: linear-gradient(155deg, #131313 0%, #0d0d0d 100%);
-  padding: 28px 22px;
-  position: relative;
-  overflow: hidden;
-}
-
-.hero::after {
-  content: "";
-  position: absolute;
-  right: -60px;
-  top: -50px;
-  width: 180px;
-  height: 180px;
-  background: var(--accent-soft);
-  border-radius: 999px;
-  filter: blur(20px);
+  border-radius: 24px;
+  background: var(--panel-strong);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  padding: 34px 26px;
+  box-shadow:
+    0 12px 36px rgba(0, 0, 0, 0.08),
+    inset 0 1px 0 rgba(255, 255, 255, 0.6);
 }
 
 .hero h1 {
   margin: 0;
-  font-size: clamp(2.2rem, 6vw, 3.7rem);
-  letter-spacing: -0.02em;
+  font-size: clamp(2.2rem, 6vw, 4rem);
+  letter-spacing: -0.03em;
   line-height: 0.95;
+  font-weight: 700;
 }
 
 .hero p {
-  margin: 10px 0 0;
+  margin: 12px 0 0;
   color: var(--muted);
-  max-width: 60ch;
+  max-width: 62ch;
+  font-size: 1.03rem;
 }
 
-.section {
-  margin-top: 28px;
-}
+.section { margin-top: 32px; }
 
 .section h2 {
   margin: 0 0 12px;
-  font-size: 0.9rem;
-  letter-spacing: 0.11em;
+  font-size: 0.82rem;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: var(--accent);
+  color: var(--muted);
+  font-weight: 700;
 }
 
 .grid.two {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 12px;
+  gap: 14px;
 }
 
 @media (min-width: 760px) {
@@ -84,38 +75,47 @@ body {
 }
 
 .card {
-  background: linear-gradient(165deg, var(--panel-2) 0%, var(--panel) 100%);
+  background: var(--panel);
   border: 1px solid var(--line);
-  border-radius: 16px;
-  padding: 16px;
-  transition: transform 180ms ease, border-color 180ms ease, background 180ms ease;
+  border-radius: 18px;
+  padding: 18px;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow:
+    0 10px 24px rgba(0, 0, 0, 0.06),
+    inset 0 1px 0 rgba(255, 255, 255, 0.65);
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
 }
 
 .card:hover {
   transform: translateY(-2px);
-  border-color: #323232;
+  border-color: rgba(17, 17, 20, 0.14);
+  box-shadow:
+    0 14px 28px rgba(0, 0, 0, 0.08),
+    inset 0 1px 0 rgba(255, 255, 255, 0.75);
 }
 
 .card h3 {
   margin: 0 0 8px;
   font-size: 1.05rem;
+  letter-spacing: -0.01em;
 }
 
 .card p {
   margin: 0 0 10px;
   color: var(--muted);
-  line-height: 1.4;
+  line-height: 1.45;
 }
 
 .card a {
-  color: var(--text);
-  text-decoration-color: var(--accent);
-  text-underline-offset: 3px;
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
 }
 
-.newsletter {
-  padding: 18px;
-}
+.card a:hover { text-decoration: underline; }
+
+.newsletter { padding: 20px; }
 
 .newsletter-top {
   display: flex;
@@ -126,31 +126,27 @@ body {
 
 .newsletter-top h3 {
   margin: 0;
-  font-size: 1.08rem;
+  font-size: 1.1rem;
 }
 
 .newsletter-top span {
   color: var(--muted);
-  font-size: 0.86rem;
+  font-size: 0.88rem;
   white-space: nowrap;
 }
 
-#newsletterSummary {
-  margin-top: 10px;
-}
+#newsletterSummary { margin-top: 10px; }
 
 #newsletterList {
   margin: 10px 0 0;
   padding-left: 18px;
 }
 
-#newsletterList li {
-  margin: 10px 0;
-}
+#newsletterList li { margin: 10px 0; }
 
 #newsletterList a {
   color: var(--text);
-  text-decoration-color: var(--accent);
+  text-decoration-color: rgba(0, 113, 227, 0.45);
   text-underline-offset: 3px;
 }
 
