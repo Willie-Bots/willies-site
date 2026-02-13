@@ -1,0 +1,56 @@
+{
+  "source": "https://www.paymentsdive.com/feeds/news/",
+  "generated_at": "2026-02-13T20:48:33.571005Z",
+  "generated_date": "2026-02-13",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "articles": [
+    {
+      "title": "Why virtual cards can be safer than plastic",
+      "link": "https://www.paymentsdive.com/news/why-virtual-cards-are-safer-than-plastic/812184/",
+      "description": "Many companies are swapping plastic payment cards for virtual because they&rsquo;re less prone to fraud, Boost Payments Chief Revenue Officer Seth Goodman said.",
+      "published": "Fri, 13 Feb 2026 08:57:30 -0500"
+    },
+    {
+      "title": "Cash App debuts payment links",
+      "link": "https://www.paymentsdive.com/news/cash-app-debuts-payment-links-text-email-paypal/812114/",
+      "description": "After PayPal debuted a similar feature last year, Cash App also wants to simplify payment requests for users.",
+      "published": "Thu, 12 Feb 2026 12:46:08 -0500"
+    },
+    {
+      "title": "Cash App to sell its credit score",
+      "link": "https://www.paymentsdive.com/news/cash-app-to-share-its-credit-scores-loans-consumer-lending/812076/",
+      "description": "Block on Thursday opened up a waitlist for companies that want to access deeper insights from its Cash App consumer scoring.",
+      "published": "Thu, 12 Feb 2026 09:50:28 -0500"
+    },
+    {
+      "title": "Bill weighs the best path to profits",
+      "link": "https://www.paymentsdive.com/news/bill-weighs-the-best-path-to-profits/812067/",
+      "description": "Business payments company Bill Holdings is mulling a sale, according to a media report, as recent B2B fintech deals show ample buyer interest.",
+      "published": "Thu, 12 Feb 2026 09:35:58 -0500"
+    },
+    {
+      "title": "JPMorgan, Nacha to share data via blockchain",
+      "link": "https://www.paymentsdive.com/news/jpmorgan-nacha-to-share-data-via-blockchain/812015/",
+      "description": "The companies aim to simplify the account verification process for JPMorgan Chase customers.",
+      "published": "Wed, 11 Feb 2026 15:31:50 -0500"
+    },
+    {
+      "title": "GAO details CFPB\u2019s downsizing",
+      "link": "https://www.paymentsdive.com/news/gao-details-cfpbs-downsizing/811943/",
+      "description": "The scope of the CFPB&rsquo;s downsizing were explored in two reports released Monday, one of which concludes that the changes cost consumers $19 billion.",
+      "published": "Wed, 11 Feb 2026 10:30:14 -0500"
+    },
+    {
+      "title": "Merchants seek hearing on card pact",
+      "link": "https://www.paymentsdive.com/news/merchants-seek-hearing-on-card-pact/811931/",
+      "description": "Large retailers opposing a swipe-fee settlement with Visa and Mastercard want a judge to hear oral arguments before he rules on the proposal.",
+      "published": "Wed, 11 Feb 2026 09:36:05 -0500"
+    },
+    {
+      "title": "Judge backs Illinois law on card fees",
+      "link": "https://www.paymentsdive.com/news/judge-backs-illinois-law-on-card-fees/811924/",
+      "description": "A U.S. judge ruled that federal bank law doesn&rsquo;t preempt an Illinois effort to ban card interchange fees on sales tax and tips. Bank groups vowed to appeal.",
+      "published": "Wed, 11 Feb 2026 09:10:39 -0500"
+    }
+  ]
+}

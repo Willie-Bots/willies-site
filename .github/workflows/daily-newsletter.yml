@@ -1,0 +1,34 @@
+name: Daily PaymentsDive Newsletter
+
+on:
+  schedule:
+    - cron: '15 12 * * *' # 08:15 America/New_York (approx, no DST adjustment)
+  workflow_dispatch:
+
+jobs:
+  update-newsletter:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Generate newsletter JSON
+        run: python scripts/generate_paymentsdive_newsletter.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/paymentsdive-newsletter.json
+          git diff --staged --quiet || git commit -m "Update daily PaymentsDive newsletter"
+          git push
