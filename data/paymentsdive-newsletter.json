@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-02-16T14:34:26.340602Z",
-  "generated_date": "2026-02-16",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-02-18T15:07:30.704175Z",
+  "generated_date": "2026-02-18",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
   "articles": [
+    {
+      "title": "How stablecoins are finding a foothold",
+      "link": "https://www.paymentsdive.com/news/how-stablecoins-are-finding-a-foothold/812302/",
+      "description": "The digital currency&rsquo;s earliest use cases are focused mostly on cross-border payments and peer-to-peer remittances.",
+      "published": "Tue, 17 Feb 2026 09:16:51 -0500"
+    },
+    {
+      "title": "Affirm partnerships target growth",
+      "link": "https://www.paymentsdive.com/news/affirm-partnerships-target-growth/812158/",
+      "description": "The company&rsquo;s latest collaborations are aimed at branching out into more sectors of the economy, consultants and analysts say.",
+      "published": "Tue, 17 Feb 2026 08:14:00 -0500"
+    },
+    {
+      "title": "4 steps to building your own fintech",
+      "link": "https://www.paymentsdive.com/spons/4-steps-to-building-your-own-fintech/811864/",
+      "description": "Go from payments to full-suite fintech: four proven steps to master your embedded finance journey.",
+      "published": "Tue, 17 Feb 2026 05:00:00 -0500"
+    },
     {
       "title": "Why virtual cards can be safer than plastic",
       "link": "https://www.paymentsdive.com/news/why-virtual-cards-are-safer-than-plastic/812184/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/jpmorgan-nacha-to-share-data-via-blockchain/812015/",
       "description": "The companies aim to simplify the account verification process for JPMorgan Chase customers.",
       "published": "Wed, 11 Feb 2026 15:31:50 -0500"
-    },
-    {
-      "title": "GAO details CFPB\u2019s downsizing",
-      "link": "https://www.paymentsdive.com/news/gao-details-cfpbs-downsizing/811943/",
-      "description": "The scope of the CFPB&rsquo;s downsizing were explored in two reports released Monday, one of which concludes that the changes cost consumers $19 billion.",
-      "published": "Wed, 11 Feb 2026 10:30:14 -0500"
-    },
-    {
-      "title": "Merchants seek hearing on card pact",
-      "link": "https://www.paymentsdive.com/news/merchants-seek-hearing-on-card-pact/811931/",
-      "description": "Large retailers opposing a swipe-fee settlement with Visa and Mastercard want a judge to hear oral arguments before he rules on the proposal.",
-      "published": "Wed, 11 Feb 2026 09:36:05 -0500"
-    },
-    {
-      "title": "Judge backs Illinois law on card fees",
-      "link": "https://www.paymentsdive.com/news/judge-backs-illinois-law-on-card-fees/811924/",
-      "description": "A U.S. judge ruled that federal bank law doesn&rsquo;t preempt an Illinois effort to ban card interchange fees on sales tax and tips. Bank groups vowed to appeal.",
-      "published": "Wed, 11 Feb 2026 09:10:39 -0500"
     }
   ]
 }
