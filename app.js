@@ -8,7 +8,7 @@ async function loadNewsletter() {
     if (!res.ok) throw new Error('Could not load newsletter data');
     const data = await res.json();
 
-    dateEl.textContent = data.generated_date || 'Today';
+    dateEl.textContent = `Updated: ${data.generated_date || 'Today'}`;
     summaryEl.textContent = data.summary || 'Latest PaymentsDive headlines.';
     listEl.innerHTML = '';
 

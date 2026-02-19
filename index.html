@@ -3,42 +3,22 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Willie’s Site</title>
+    <title>Willie Richter</title>
+    <meta name="description" content="A place to capture ideas and progress." />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <main class="container">
-      <header class="hero">
-        <h1>Willie’s Site</h1>
-        <p>Minimal home for what I create and what I consume.</p>
+    <main class="wrap">
+      <header>
+        <h1>Willie Richter</h1>
+        <p class="tagline">A place to capture ideas and progress.</p>
       </header>
 
-      <section class="section" id="create">
-        <h2>Create</h2>
-        <div class="grid two">
-          <article class="card">
-            <h3>Blogs</h3>
-            <p>Writing, notes, and ideas in progress.</p>
-            <a href="#" aria-label="Open blogs">Coming soon</a>
-          </article>
-          <article class="card">
-            <h3>Projects</h3>
-            <p>Builds, experiments, and shipped tools.</p>
-            <a href="#" aria-label="Open projects">Coming soon</a>
-          </article>
-        </div>
-      </section>
-
-      <section class="section" id="consume">
-        <h2>Consume</h2>
-        <article class="card newsletter">
-          <div class="newsletter-top">
-            <h3>Daily PaymentsDive Recap</h3>
-            <span id="newsletterDate">Loading…</span>
-          </div>
-          <p id="newsletterSummary">Loading summary…</p>
-          <ul id="newsletterList"></ul>
-        </article>
+      <section class="section">
+        <h2>Latest Payments Briefings</h2>
+        <p id="newsletterSummary" class="summary">Loading summary…</p>
+        <ul id="newsletterList" class="list"></ul>
+        <p class="meta" id="newsletterDate">Loading…</p>
       </section>
     </main>
 
