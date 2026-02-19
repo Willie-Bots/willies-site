@@ -1,9 +1,33 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-02-18T15:07:30.704175Z",
-  "generated_date": "2026-02-18",
+  "generated_at": "2026-02-19T15:09:58.043237Z",
+  "generated_date": "2026-02-19",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Global Payments builds salesforce",
+      "link": "https://www.paymentsdive.com/news/global-payments-builds-salesforce/812459/",
+      "description": "The payments processor plans to hire hundreds of additional sales agents this year as it builds on its acquisition of Worldpay.",
+      "published": "Wed, 18 Feb 2026 10:53:00 -0500"
+    },
+    {
+      "title": "Senator spars with JPM\u2019s Dimon",
+      "link": "https://www.paymentsdive.com/news/senator-spars-with-jpms-dimon/812386/",
+      "description": "Sen. Elizabeth Warren says a bill she&rsquo;s backing emulates a proposal by JPMorgan Chase CEO Jamie Dimon to let states determine their own card interest rate caps.",
+      "published": "Wed, 18 Feb 2026 10:34:00 -0500"
+    },
+    {
+      "title": "Sezzle adds phone service offer",
+      "link": "https://www.paymentsdive.com/news/sezzle-adds-phone-service-offer/812421/",
+      "description": "The new plans will be available at cheaper rates for&nbsp;Sezzle subscribers, as the BNPL provider seeks to grow its subscription business.",
+      "published": "Wed, 18 Feb 2026 10:33:00 -0500"
+    },
+    {
+      "title": "Stripe\u2019s Bridge wins OCC conditional approval",
+      "link": "https://www.paymentsdive.com/news/stripe-bridge-occ-conditional-approval-national-trust-bank-charter/812425/",
+      "description": "The nod for a&nbsp;national trust bank charter comes after digital-asset firms Circle, Ripple and Paxos received a similar green light.",
+      "published": "Wed, 18 Feb 2026 10:09:00 -0500"
+    },
     {
       "title": "How stablecoins are finding a foothold",
       "link": "https://www.paymentsdive.com/news/how-stablecoins-are-finding-a-foothold/812302/",
@@ -27,30 +51,6 @@
       "link": "https://www.paymentsdive.com/news/why-virtual-cards-are-safer-than-plastic/812184/",
       "description": "Many companies are swapping plastic payment cards for virtual because they&rsquo;re less prone to fraud, Boost Payments Chief Revenue Officer Seth Goodman said.",
       "published": "Fri, 13 Feb 2026 08:57:30 -0500"
-    },
-    {
-      "title": "Cash App debuts payment links",
-      "link": "https://www.paymentsdive.com/news/cash-app-debuts-payment-links-text-email-paypal/812114/",
-      "description": "After PayPal debuted a similar feature last year, Cash App also wants to simplify payment requests for users.",
-      "published": "Thu, 12 Feb 2026 12:46:08 -0500"
-    },
-    {
-      "title": "Cash App to sell its credit score",
-      "link": "https://www.paymentsdive.com/news/cash-app-to-share-its-credit-scores-loans-consumer-lending/812076/",
-      "description": "Block on Thursday opened up a waitlist for companies that want to access deeper insights from its Cash App consumer scoring.",
-      "published": "Thu, 12 Feb 2026 09:50:28 -0500"
-    },
-    {
-      "title": "Bill weighs the best path to profits",
-      "link": "https://www.paymentsdive.com/news/bill-weighs-the-best-path-to-profits/812067/",
-      "description": "Business payments company Bill Holdings is mulling a sale, according to a media report, as recent B2B fintech deals show ample buyer interest.",
-      "published": "Thu, 12 Feb 2026 09:35:58 -0500"
-    },
-    {
-      "title": "JPMorgan, Nacha to share data via blockchain",
-      "link": "https://www.paymentsdive.com/news/jpmorgan-nacha-to-share-data-via-blockchain/812015/",
-      "description": "The companies aim to simplify the account verification process for JPMorgan Chase customers.",
-      "published": "Wed, 11 Feb 2026 15:31:50 -0500"
     }
   ]
 }
