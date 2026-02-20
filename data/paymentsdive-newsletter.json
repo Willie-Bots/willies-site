@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-02-19T15:09:58.043237Z",
-  "generated_date": "2026-02-19",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
+  "generated_at": "2026-02-20T14:29:33.136620Z",
+  "generated_date": "2026-02-20",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on product + fintech innovation.",
   "articles": [
+    {
+      "title": "Visa to buy Prisma in Argentina",
+      "link": "https://www.paymentsdive.com/news/visa-to-buy-prisma-in-argentina/812584/",
+      "description": "The card network company is buying the card processing and real-time payments assets as it expands its reach in South America.",
+      "published": "Thu, 19 Feb 2026 10:36:00 -0500"
+    },
+    {
+      "title": "Remitly co-founder CEO exits",
+      "link": "https://www.paymentsdive.com/news/remitly-hires-santander-openbank-gunningham-ceo-oppenheimer-chair/812575/",
+      "description": "Matt Oppenheimer, who has been CEO of the remittance provider for nearly 15 years, will become the board&rsquo;s chair, with former Santander executive Sebastian Gunningham becoming CEO.",
+      "published": "Thu, 19 Feb 2026 10:25:00 -0500"
+    },
+    {
+      "title": "Toast courts fast-food restaurants",
+      "link": "https://www.paymentsdive.com/news/toast-courts-fast-food-restaurant-point-of-sale/812528/",
+      "description": "The company is entering the drive-thru business in a bid to attract more of the quick-service sector to its customer rolls.",
+      "published": "Thu, 19 Feb 2026 09:12:00 -0500"
+    },
     {
       "title": "Global Payments builds salesforce",
       "link": "https://www.paymentsdive.com/news/global-payments-builds-salesforce/812459/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/how-stablecoins-are-finding-a-foothold/812302/",
       "description": "The digital currency&rsquo;s earliest use cases are focused mostly on cross-border payments and peer-to-peer remittances.",
       "published": "Tue, 17 Feb 2026 09:16:51 -0500"
-    },
-    {
-      "title": "Affirm partnerships target growth",
-      "link": "https://www.paymentsdive.com/news/affirm-partnerships-target-growth/812158/",
-      "description": "The company&rsquo;s latest collaborations are aimed at branching out into more sectors of the economy, consultants and analysts say.",
-      "published": "Tue, 17 Feb 2026 08:14:00 -0500"
-    },
-    {
-      "title": "4 steps to building your own fintech",
-      "link": "https://www.paymentsdive.com/spons/4-steps-to-building-your-own-fintech/811864/",
-      "description": "Go from payments to full-suite fintech: four proven steps to master your embedded finance journey.",
-      "published": "Tue, 17 Feb 2026 05:00:00 -0500"
-    },
-    {
-      "title": "Why virtual cards can be safer than plastic",
-      "link": "https://www.paymentsdive.com/news/why-virtual-cards-are-safer-than-plastic/812184/",
-      "description": "Many companies are swapping plastic payment cards for virtual because they&rsquo;re less prone to fraud, Boost Payments Chief Revenue Officer Seth Goodman said.",
-      "published": "Fri, 13 Feb 2026 08:57:30 -0500"
     }
   ]
 }
