@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-02-20T14:29:33.136620Z",
-  "generated_date": "2026-02-20",
+  "generated_at": "2026-02-21T13:55:38.199623Z",
+  "generated_date": "2026-02-21",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on product + fintech innovation.",
   "articles": [
+    {
+      "title": "Klarna pursues more banking customers",
+      "link": "https://www.paymentsdive.com/news/klarna-pursues-more-banking-customers-26-million-loss-siemiatkowski/812691/",
+      "description": "The company is targeting more long-term loan and debit card customers as an avenue for growth as it tries to curtail losses.",
+      "published": "Fri, 20 Feb 2026 10:07:00 -0500"
+    },
+    {
+      "title": "How to hire Uber without a phone",
+      "link": "https://www.paymentsdive.com/news/how-to-hire-uber-without-a-phone/812535/",
+      "description": "Payments processor Adyen and rideshare pioneer Uber are installing kiosks at airports and hotels for travelers without the app (or those with a dead phone).",
+      "published": "Fri, 20 Feb 2026 09:15:00 -0500"
+    },
     {
       "title": "Visa to buy Prisma in Argentina",
       "link": "https://www.paymentsdive.com/news/visa-to-buy-prisma-in-argentina/812584/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/sezzle-adds-phone-service-offer/812421/",
       "description": "The new plans will be available at cheaper rates for&nbsp;Sezzle subscribers, as the BNPL provider seeks to grow its subscription business.",
       "published": "Wed, 18 Feb 2026 10:33:00 -0500"
-    },
-    {
-      "title": "Stripe\u2019s Bridge wins OCC conditional approval",
-      "link": "https://www.paymentsdive.com/news/stripe-bridge-occ-conditional-approval-national-trust-bank-charter/812425/",
-      "description": "The nod for a&nbsp;national trust bank charter comes after digital-asset firms Circle, Ripple and Paxos received a similar green light.",
-      "published": "Wed, 18 Feb 2026 10:09:00 -0500"
-    },
-    {
-      "title": "How stablecoins are finding a foothold",
-      "link": "https://www.paymentsdive.com/news/how-stablecoins-are-finding-a-foothold/812302/",
-      "description": "The digital currency&rsquo;s earliest use cases are focused mostly on cross-border payments and peer-to-peer remittances.",
-      "published": "Tue, 17 Feb 2026 09:16:51 -0500"
     }
   ]
 }
