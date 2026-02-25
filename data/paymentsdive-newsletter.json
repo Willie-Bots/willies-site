@@ -1,9 +1,39 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-02-24T15:13:25.759547Z",
-  "generated_date": "2026-02-24",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on product + fintech innovation.",
+  "generated_at": "2026-02-25T15:14:58.360792Z",
+  "generated_date": "2026-02-25",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Stripe\u2019s slower view of agentic commerce",
+      "link": "https://www.paymentsdive.com/news/stripes-slower-view-of-agentic-commerce/813056/",
+      "description": "The processing giant, like some other digital commerce specialists, sees agent-enabled shopping evolving at a measured pace.",
+      "published": "Wed, 25 Feb 2026 09:15:43 -0500"
+    },
+    {
+      "title": "For JPMorgan\u2019s CEO: \u2018anxiety is high\u2019",
+      "link": "https://www.paymentsdive.com/news/jpmorgan-dimon-credit-cycle-competition-acquisitions/812985/",
+      "description": "Elevated asset prices and an intensely competitive landscape remind the CEO of the years just prior to the 2008 financial crisis, he said Monday. Still, he expects payments is one area where the bank could make acquisitions.",
+      "published": "Tue, 24 Feb 2026 14:59:00 -0500"
+    },
+    {
+      "title": "Who could swallow PayPal?",
+      "link": "https://www.paymentsdive.com/news/who-could-swallow-paypal/812974/",
+      "description": "It&rsquo;s a $40-billion bite, with only a handful of payments players that could swallow it. But is a financial buyer more likely?",
+      "published": "Tue, 24 Feb 2026 10:58:00 -0500"
+    },
+    {
+      "title": "Stripe valued at $159B in tender offer",
+      "link": "https://www.paymentsdive.com/news/stripe-valued-at-159b-in-tender-offer-ipo-payments/812883/",
+      "description": "The payment processor&rsquo;s tender offer Tuesday to buy shares relieves pressure on the company to go public, analysts said.",
+      "published": "Tue, 24 Feb 2026 10:23:00 -0500"
+    },
+    {
+      "title": "New York releases draft BNPL rules",
+      "link": "https://www.paymentsdive.com/news/new-york-releases-draft-bnpl-rules/812916/",
+      "description": "The state aims to set a national standard for regulating buy now, pay later lenders with its regulations issued Monday.",
+      "published": "Tue, 24 Feb 2026 10:09:00 -0500"
+    },
     {
       "title": "CPI Card Group CFO exits",
       "link": "https://www.paymentsdive.com/news/cpi-card-group-cfo-exits/812773/",
@@ -21,36 +51,6 @@
       "link": "https://www.paymentsdive.com/news/klarna-pursues-more-banking-customers-26-million-loss-siemiatkowski/812691/",
       "description": "The company is targeting more long-term loan and debit card customers as an avenue for growth as it tries to curtail losses.",
       "published": "Fri, 20 Feb 2026 10:07:00 -0500"
-    },
-    {
-      "title": "How to hire Uber without a phone",
-      "link": "https://www.paymentsdive.com/news/how-to-hire-uber-without-a-phone/812535/",
-      "description": "Payments processor Adyen and rideshare pioneer Uber are installing kiosks at airports and hotels for travelers without the app (or those with a dead phone).",
-      "published": "Fri, 20 Feb 2026 09:15:00 -0500"
-    },
-    {
-      "title": "Visa to buy Prisma in Argentina",
-      "link": "https://www.paymentsdive.com/news/visa-to-buy-prisma-in-argentina/812584/",
-      "description": "The card network company is buying the card processing and real-time payments assets as it expands its reach in South America.",
-      "published": "Thu, 19 Feb 2026 10:36:00 -0500"
-    },
-    {
-      "title": "Remitly co-founder CEO exits",
-      "link": "https://www.paymentsdive.com/news/remitly-hires-santander-openbank-gunningham-ceo-oppenheimer-chair/812575/",
-      "description": "Matt Oppenheimer, who has been CEO of the remittance provider for nearly 15 years, will become the board&rsquo;s chair, with former Santander executive Sebastian Gunningham becoming CEO.",
-      "published": "Thu, 19 Feb 2026 10:25:00 -0500"
-    },
-    {
-      "title": "Toast courts fast-food restaurants",
-      "link": "https://www.paymentsdive.com/news/toast-courts-fast-food-restaurant-point-of-sale/812528/",
-      "description": "The company is entering the drive-thru business in a bid to attract more of the quick-service sector to its customer rolls.",
-      "published": "Thu, 19 Feb 2026 09:12:00 -0500"
-    },
-    {
-      "title": "Global Payments builds salesforce",
-      "link": "https://www.paymentsdive.com/news/global-payments-builds-salesforce/812459/",
-      "description": "The payments processor plans to hire hundreds of additional sales agents this year as it builds on its acquisition of Worldpay.",
-      "published": "Wed, 18 Feb 2026 10:53:00 -0500"
     }
   ]
 }
