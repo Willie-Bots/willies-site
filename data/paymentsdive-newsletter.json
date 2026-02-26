@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-02-25T15:14:58.360792Z",
-  "generated_date": "2026-02-25",
+  "generated_at": "2026-02-26T15:08:33.943288Z",
+  "generated_date": "2026-02-26",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "FIS caters to banks\u2019 AI appetite",
+      "link": "https://www.paymentsdive.com/news/fis-caters-to-banks-ai-appetite/813093/",
+      "description": "Fidelity National Information Services views artificial intelligence as a &ldquo;strategic accelerant&rdquo; to its business, said CEO Stephanie Ferris, who discounted risks.",
+      "published": "Wed, 25 Feb 2026 11:15:36 -0500"
+    },
+    {
+      "title": "Payoneer applies for bank charter",
+      "link": "https://www.paymentsdive.com/news/payoneer-applies-occ-national-trust-bank-charter-bridge/813094/",
+      "description": "The cross-border platform joins a slew of fintechs seeking banking licenses to issue and custody stablecoins.",
+      "published": "Wed, 25 Feb 2026 10:28:00 -0500"
+    },
     {
       "title": "Stripe\u2019s slower view of agentic commerce",
       "link": "https://www.paymentsdive.com/news/stripes-slower-view-of-agentic-commerce/813056/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/cpi-card-group-cfo-exits/812773/",
       "description": "The card company&rsquo;s chief financial officer headed for the exit this month ahead of an earnings report next week.",
       "published": "Mon, 23 Feb 2026 10:02:00 -0500"
-    },
-    {
-      "title": "Mastercard, Ericsson craft payment tools",
-      "link": "https://www.paymentsdive.com/news/mastercard-ericsson-craft-payment-tools/812756/",
-      "description": "The payments provider and telecom company are teaming up to offer more&nbsp;payments capabilities to businesses in the Middle East and Africa.",
-      "published": "Mon, 23 Feb 2026 09:52:00 -0500"
-    },
-    {
-      "title": "Klarna pursues more banking customers",
-      "link": "https://www.paymentsdive.com/news/klarna-pursues-more-banking-customers-26-million-loss-siemiatkowski/812691/",
-      "description": "The company is targeting more long-term loan and debit card customers as an avenue for growth as it tries to curtail losses.",
-      "published": "Fri, 20 Feb 2026 10:07:00 -0500"
     }
   ]
 }
