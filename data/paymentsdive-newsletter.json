@@ -1,9 +1,33 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-02-26T15:08:33.943288Z",
-  "generated_date": "2026-02-26",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
+  "generated_at": "2026-02-27T14:28:57.128677Z",
+  "generated_date": "2026-02-27",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Block swaps 4,000 workers for AI",
+      "link": "https://www.paymentsdive.com/news/block-swaps-4000-workers-for-ai/813315/",
+      "description": "CEO Jack Dorsey told investors Thursday that Block&rsquo;s headcount will drop about 40% as it leans on artificial intelligence for efficiencies.",
+      "published": "Thu, 26 Feb 2026 16:07:00 -0500"
+    },
+    {
+      "title": "Debit card fraud losses rise",
+      "link": "https://www.paymentsdive.com/news/debit-card-fraud-losses-rise/813226/",
+      "description": "Fraud loss rates for debit cardholders have climbed in recent years, according to a Federal Reserve analysis published this week.",
+      "published": "Thu, 26 Feb 2026 10:48:00 -0500"
+    },
+    {
+      "title": "Fiserv appoints new executives",
+      "link": "https://www.paymentsdive.com/news/fiserv-appoints-new-executives/813151/",
+      "description": "The payment processor added two chief revenue officers and a business development executive as it seeks to raise sales figures.",
+      "published": "Thu, 26 Feb 2026 10:41:00 -0500"
+    },
+    {
+      "title": "Meta dips a toe back into crypto",
+      "link": "https://www.paymentsdive.com/news/meta-stablecoins-dips-a-toe-back-into-crypto-social-media-whatsapp/813199/",
+      "description": "The social media giant is exploring the use of stablecoin payments in its app ecosystem, years after its Diem digital currency experiment imploded.",
+      "published": "Thu, 26 Feb 2026 10:19:00 -0500"
+    },
     {
       "title": "FIS caters to banks\u2019 AI appetite",
       "link": "https://www.paymentsdive.com/news/fis-caters-to-banks-ai-appetite/813093/",
@@ -27,30 +51,6 @@
       "link": "https://www.paymentsdive.com/news/jpmorgan-dimon-credit-cycle-competition-acquisitions/812985/",
       "description": "Elevated asset prices and an intensely competitive landscape remind the CEO of the years just prior to the 2008 financial crisis, he said Monday. Still, he expects payments is one area where the bank could make acquisitions.",
       "published": "Tue, 24 Feb 2026 14:59:00 -0500"
-    },
-    {
-      "title": "Who could swallow PayPal?",
-      "link": "https://www.paymentsdive.com/news/who-could-swallow-paypal/812974/",
-      "description": "It&rsquo;s a $40-billion bite, with only a handful of payments players that could swallow it. But is a financial buyer more likely?",
-      "published": "Tue, 24 Feb 2026 10:58:00 -0500"
-    },
-    {
-      "title": "Stripe valued at $159B in tender offer",
-      "link": "https://www.paymentsdive.com/news/stripe-valued-at-159b-in-tender-offer-ipo-payments/812883/",
-      "description": "The payment processor&rsquo;s tender offer Tuesday to buy shares relieves pressure on the company to go public, analysts said.",
-      "published": "Tue, 24 Feb 2026 10:23:00 -0500"
-    },
-    {
-      "title": "New York releases draft BNPL rules",
-      "link": "https://www.paymentsdive.com/news/new-york-releases-draft-bnpl-rules/812916/",
-      "description": "The state aims to set a national standard for regulating buy now, pay later lenders with its regulations issued Monday.",
-      "published": "Tue, 24 Feb 2026 10:09:00 -0500"
-    },
-    {
-      "title": "CPI Card Group CFO exits",
-      "link": "https://www.paymentsdive.com/news/cpi-card-group-cfo-exits/812773/",
-      "description": "The card company&rsquo;s chief financial officer headed for the exit this month ahead of an earnings report next week.",
-      "published": "Mon, 23 Feb 2026 10:02:00 -0500"
     }
   ]
 }
