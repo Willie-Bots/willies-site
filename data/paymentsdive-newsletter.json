@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-02-27T14:28:57.128677Z",
-  "generated_date": "2026-02-27",
+  "generated_at": "2026-02-28T13:49:53.718402Z",
+  "generated_date": "2026-02-28",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "PayPal, Rainforest join forces",
+      "link": "https://www.paymentsdive.com/news/paypal-rainforest-join-forces/813372/",
+      "description": "The digital payments pioneer and software services firm are locking arms to simplify embedded payments for merchants.",
+      "published": "Fri, 27 Feb 2026 10:53:26 -0500"
+    },
+    {
+      "title": "Block job cuts prompt CFO AI questions",
+      "link": "https://www.paymentsdive.com/news/block-jack-dorsey-job-cuts-ai-mid-market-cfo-question-ai-layoff-assumptions-nick-araco-cfo-alliance-/813374/",
+      "description": "As one of technology&rsquo;s largest AI-driven job cuts of the year takes shape, CFO Alliance roundtables show finance leaders discussing operating design and execution capacity before resizing teams.",
+      "published": "Fri, 27 Feb 2026 10:20:00 -0500"
+    },
+    {
+      "title": "Marqeta flags Cash App hit",
+      "link": "https://www.paymentsdive.com/news/marqeta-flags-cash-app-hit/813350/",
+      "description": "Marqeta&rsquo;s largest customer is realizing some better pricing from contract changes related to Cash App&rsquo;s debit cards.",
+      "published": "Fri, 27 Feb 2026 10:07:00 -0500"
+    },
     {
       "title": "Block swaps 4,000 workers for AI",
       "link": "https://www.paymentsdive.com/news/block-swaps-4000-workers-for-ai/813315/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fis-caters-to-banks-ai-appetite/813093/",
       "description": "Fidelity National Information Services views artificial intelligence as a &ldquo;strategic accelerant&rdquo; to its business, said CEO Stephanie Ferris, who discounted risks.",
       "published": "Wed, 25 Feb 2026 11:15:36 -0500"
-    },
-    {
-      "title": "Payoneer applies for bank charter",
-      "link": "https://www.paymentsdive.com/news/payoneer-applies-occ-national-trust-bank-charter-bridge/813094/",
-      "description": "The cross-border platform joins a slew of fintechs seeking banking licenses to issue and custody stablecoins.",
-      "published": "Wed, 25 Feb 2026 10:28:00 -0500"
-    },
-    {
-      "title": "Stripe\u2019s slower view of agentic commerce",
-      "link": "https://www.paymentsdive.com/news/stripes-slower-view-of-agentic-commerce/813056/",
-      "description": "The processing giant, like some other digital commerce specialists, sees agent-enabled shopping evolving at a measured pace.",
-      "published": "Wed, 25 Feb 2026 09:15:43 -0500"
-    },
-    {
-      "title": "For JPMorgan\u2019s CEO: \u2018anxiety is high\u2019",
-      "link": "https://www.paymentsdive.com/news/jpmorgan-dimon-credit-cycle-competition-acquisitions/812985/",
-      "description": "Elevated asset prices and an intensely competitive landscape remind the CEO of the years just prior to the 2008 financial crisis, he said Monday. Still, he expects payments is one area where the bank could make acquisitions.",
-      "published": "Tue, 24 Feb 2026 14:59:00 -0500"
     }
   ]
 }
