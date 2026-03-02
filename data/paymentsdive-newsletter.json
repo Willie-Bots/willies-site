@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-03-01T13:52:05.116824Z",
-  "generated_date": "2026-03-01",
+  "generated_at": "2026-03-02T14:33:06.181968Z",
+  "generated_date": "2026-03-02",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "The future of payments: Fighting the 89% surge in fraud",
+      "link": "https://www.paymentsdive.com/spons/the-future-of-payments-fighting-the-89-surge-in-fraud/812012/",
+      "description": "Payments fraud is up 89%. Get insights on AI threats, compliance and biometric security.",
+      "published": "Mon, 02 Mar 2026 05:00:00 -0500"
+    },
     {
       "title": "PayPal, Rainforest join forces",
       "link": "https://www.paymentsdive.com/news/paypal-rainforest-join-forces/813372/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/meta-stablecoins-dips-a-toe-back-into-crypto-social-media-whatsapp/813199/",
       "description": "The social media giant is exploring the use of stablecoin payments in its app ecosystem, years after its Diem digital currency experiment imploded.",
       "published": "Thu, 26 Feb 2026 10:19:00 -0500"
-    },
-    {
-      "title": "FIS caters to banks\u2019 AI appetite",
-      "link": "https://www.paymentsdive.com/news/fis-caters-to-banks-ai-appetite/813093/",
-      "description": "Fidelity National Information Services views artificial intelligence as a &ldquo;strategic accelerant&rdquo; to its business, said CEO Stephanie Ferris, who discounted risks.",
-      "published": "Wed, 25 Feb 2026 11:15:36 -0500"
     }
   ]
 }
