@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://willierichter.com/sitemap.xml
