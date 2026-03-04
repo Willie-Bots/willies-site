@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-03-03T14:33:55.344220Z",
-  "generated_date": "2026-03-03",
+  "generated_at": "2026-03-04T14:28:14.841884Z",
+  "generated_date": "2026-03-04",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Would a bank buy PayPal?",
+      "link": "https://www.paymentsdive.com/news/would-a-bank-buy-paypal/813642/",
+      "description": "Whether major banks, such as JPMorgan Chase and Capital One, might have an interest in owning PayPal could turn on their ability to monetize that two-sided network.",
+      "published": "Tue, 03 Mar 2026 10:38:00 -0500"
+    },
+    {
+      "title": "Shift4 taps xAI for customer service",
+      "link": "https://www.paymentsdive.com/news/shift4-taps-xai-for-customer-service/813580/",
+      "description": "The payment processor announced it would partner with Elon Musk&#39;s artificial intelligence company for a range of uses.",
+      "published": "Tue, 03 Mar 2026 10:30:00 -0500"
+    },
+    {
+      "title": "Apple, Google wallets get personal",
+      "link": "https://www.paymentsdive.com/news/apple-google-wallets-get-personal/813598/",
+      "description": "Beyond payments, the digital wallet is a platform for commerce with software startup Badge trying to help brands expand their wallet presence.",
+      "published": "Tue, 03 Mar 2026 10:27:00 -0500"
+    },
     {
       "title": "Amex doubles down on NYC",
       "link": "https://www.paymentsdive.com/news/amex-doubles-down-on-nyc/813497/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/paypal-rainforest-join-forces/813372/",
       "description": "The digital payments pioneer and software services firm are locking arms to simplify embedded payments for merchants.",
       "published": "Fri, 27 Feb 2026 10:53:26 -0500"
-    },
-    {
-      "title": "Block job cuts prompt CFO AI questions",
-      "link": "https://www.paymentsdive.com/news/block-jack-dorsey-job-cuts-ai-mid-market-cfo-question-ai-layoff-assumptions-nick-araco-cfo-alliance-/813374/",
-      "description": "As one of technology&rsquo;s largest AI-driven job cuts of the year takes shape, CFO Alliance roundtables show finance leaders discussing operating design and execution capacity before resizing teams.",
-      "published": "Fri, 27 Feb 2026 10:20:00 -0500"
-    },
-    {
-      "title": "Marqeta flags Cash App hit",
-      "link": "https://www.paymentsdive.com/news/marqeta-flags-cash-app-hit/813350/",
-      "description": "Marqeta&rsquo;s largest customer is realizing some better pricing from contract changes related to Cash App&rsquo;s debit cards.",
-      "published": "Fri, 27 Feb 2026 10:07:00 -0500"
-    },
-    {
-      "title": "Block swaps 4,000 workers for AI",
-      "link": "https://www.paymentsdive.com/news/block-swaps-4000-workers-for-ai/813315/",
-      "description": "CEO Jack Dorsey told investors Thursday that Block&rsquo;s headcount will drop about 40% as it leans on artificial intelligence for efficiencies.",
-      "published": "Thu, 26 Feb 2026 16:07:00 -0500"
     }
   ]
 }
