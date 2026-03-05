@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-03-04T14:28:14.841884Z",
-  "generated_date": "2026-03-04",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-03-05T15:09:07.320884Z",
+  "generated_date": "2026-03-05",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
   "articles": [
+    {
+      "title": "CCCA seeks new path to passage",
+      "link": "https://www.paymentsdive.com/news/ccca-seeks-new-path-to-passage/813789/",
+      "description": "Sens. Dick Durbin and Roger Marshall are angling to attach their credit card interchange fee legislation to a major housing bill before Congress.",
+      "published": "Wed, 04 Mar 2026 10:41:00 -0500"
+    },
+    {
+      "title": "Bill open to M&A deals, CEO says",
+      "link": "https://www.paymentsdive.com/news/bill-open-to-ma-deals-ceo-says-saas-software-activist-investors/813750/",
+      "description": "Consolidation in business payments and finance automation affirms a growing interest in the space, the software firm&rsquo;s founder said.",
+      "published": "Wed, 04 Mar 2026 09:12:37 -0500"
+    },
+    {
+      "title": "Amex taps customers for fraud fight",
+      "link": "https://www.paymentsdive.com/news/amex-taps-customers-for-fraud-fight/813722/",
+      "description": "Conversations with cardholders are crucial in developing countermeasures to deter scammers, a top executive for the card company said.",
+      "published": "Wed, 04 Mar 2026 08:41:00 -0500"
+    },
     {
       "title": "Would a bank buy PayPal?",
       "link": "https://www.paymentsdive.com/news/would-a-bank-buy-paypal/813642/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/inside-toasts-2025-hiring-binge/813462/",
       "description": "The point-of-sale provider added 800 employees in 2025 as others were making steep cuts.",
       "published": "Mon, 02 Mar 2026 10:38:00 -0500"
-    },
-    {
-      "title": "Getting paid faster in construction",
-      "link": "https://www.paymentsdive.com/news/getting-paid-faster-in-construction-ai-accounting-software-payra/813464/",
-      "description": "A Tennessee software startup is trying to automate accounts receivable for large contractors, some of whom still deal with paper-based payments.",
-      "published": "Mon, 02 Mar 2026 10:32:00 -0500"
-    },
-    {
-      "title": "The future of payments: Fighting the 89% surge in fraud",
-      "link": "https://www.paymentsdive.com/spons/the-future-of-payments-fighting-the-89-surge-in-fraud/812012/",
-      "description": "Payments fraud is up 89%. Get insights on AI threats, compliance and biometric security.",
-      "published": "Mon, 02 Mar 2026 05:00:00 -0500"
-    },
-    {
-      "title": "PayPal, Rainforest join forces",
-      "link": "https://www.paymentsdive.com/news/paypal-rainforest-join-forces/813372/",
-      "description": "The digital payments pioneer and software services firm are locking arms to simplify embedded payments for merchants.",
-      "published": "Fri, 27 Feb 2026 10:53:26 -0500"
     }
   ]
 }
