@@ -1,9 +1,33 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-03-06T14:08:06.706566Z",
-  "generated_date": "2026-03-06",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
+  "generated_at": "2026-03-07T13:51:43.738134Z",
+  "generated_date": "2026-03-07",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Boston Fed touts FedNow",
+      "link": "https://www.paymentsdive.com/news/boston-fed-touts-fednow/814032/",
+      "description": "The Federal Reserve has been updating its instant payments service, FedNow, to attract more banks and ultimately reach more consumers.",
+      "published": "Fri, 06 Mar 2026 10:35:00 -0500"
+    },
+    {
+      "title": "Pilot, NCR Voyix agree to 5-year pact",
+      "link": "https://www.paymentsdive.com/news/pilot-ncr-voyix-agree-to-5-year-pact/814051/",
+      "description": "The retailer, which has used NCR&rsquo;s self-checkout kiosks for years, will now also deploy the payment service company&rsquo;s point-of-sale technology.",
+      "published": "Fri, 06 Mar 2026 10:09:00 -0500"
+    },
+    {
+      "title": "Affirm pursues affluent consumers",
+      "link": "https://www.paymentsdive.com/news/affirm-pursues-affluent-consumers/813993/",
+      "description": "Shoppers with more purchasing power spend more, and are more likely to use the company&rsquo;s products again, an executive said.",
+      "published": "Fri, 06 Mar 2026 10:03:00 -0500"
+    },
+    {
+      "title": "Why EWA services matter",
+      "link": "https://www.paymentsdive.com/news/why-ewa-services-matter-wages-affordability-hourly-workers/813987/",
+      "description": "&ldquo;We&rsquo;re already seeing high-growth from restaurant and hospitality companies that now view instant payments, including digital tips, as a competitive advantage,&rdquo; writes one earned wage access CEO.",
+      "published": "Fri, 06 Mar 2026 09:43:00 -0500"
+    },
     {
       "title": "Visa, Mastercard jockey to set agentic standards",
       "link": "https://www.paymentsdive.com/news/visa-mastercard-jockey-to-set-agentic-standards/813910/",
@@ -27,30 +51,6 @@
       "link": "https://www.paymentsdive.com/news/inside-a-startup-building-tools-for-ai-agents/813892/",
       "description": "Funded by Stripe and Samsung, Circuit &amp; Chisel wants to set the protocol for how artificial intelligence agents navigate the web autonomously.",
       "published": "Thu, 05 Mar 2026 10:18:00 -0500"
-    },
-    {
-      "title": "CCCA seeks new path to passage",
-      "link": "https://www.paymentsdive.com/news/ccca-seeks-new-path-to-passage/813789/",
-      "description": "Sens. Dick Durbin and Roger Marshall are angling to attach their credit card interchange fee legislation to a major housing bill before Congress.",
-      "published": "Wed, 04 Mar 2026 10:41:00 -0500"
-    },
-    {
-      "title": "Bill open to M&A deals, CEO says",
-      "link": "https://www.paymentsdive.com/news/bill-open-to-ma-deals-ceo-says-saas-software-activist-investors/813750/",
-      "description": "Consolidation in business payments and finance automation affirms a growing interest in the space, the software firm&rsquo;s founder said.",
-      "published": "Wed, 04 Mar 2026 09:12:37 -0500"
-    },
-    {
-      "title": "Amex taps customers for fraud fight",
-      "link": "https://www.paymentsdive.com/news/amex-taps-customers-for-fraud-fight/813722/",
-      "description": "Conversations with cardholders are crucial in developing countermeasures to deter scammers, a top executive for the card company said.",
-      "published": "Wed, 04 Mar 2026 08:41:00 -0500"
-    },
-    {
-      "title": "Would a bank buy PayPal?",
-      "link": "https://www.paymentsdive.com/news/would-a-bank-buy-paypal/813642/",
-      "description": "Whether major banks, such as JPMorgan Chase and Capital One, might have an interest in owning PayPal could turn on their ability to monetize that two-sided network.",
-      "published": "Tue, 03 Mar 2026 10:38:00 -0500"
     }
   ]
 }
