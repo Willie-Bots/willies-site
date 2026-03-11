@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-03-10T15:13:31.558630Z",
-  "generated_date": "2026-03-10",
+  "generated_at": "2026-03-11T15:08:46.241048Z",
+  "generated_date": "2026-03-11",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "PayPal pivots for 2026",
+      "link": "https://www.paymentsdive.com/news/paypal-pivots-for-2026/814319/",
+      "description": "The digital payment player aims to keep scaling its collection of integrated businesses, the company&rsquo;s chief financial and operating officer said.",
+      "published": "Tue, 10 Mar 2026 10:51:00 -0400"
+    },
     {
       "title": "Shift4 promotes Global Blue execs",
       "link": "https://www.paymentsdive.com/news/shift4-promotes-global-blue-execs/814301/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/pilot-ncr-voyix-agree-to-5-year-pact/814051/",
       "description": "The retailer, which has used NCR&rsquo;s self-checkout kiosks for years, will now also deploy the payment service company&rsquo;s point-of-sale technology.",
       "published": "Fri, 06 Mar 2026 10:09:00 -0500"
-    },
-    {
-      "title": "Affirm pursues affluent consumers",
-      "link": "https://www.paymentsdive.com/news/affirm-pursues-affluent-consumers/813993/",
-      "description": "Shoppers with more purchasing power spend more, and are more likely to use the company&rsquo;s products again, an executive said.",
-      "published": "Fri, 06 Mar 2026 10:03:00 -0500"
     }
   ]
 }
