@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-03-11T15:08:46.241048Z",
-  "generated_date": "2026-03-11",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
+  "generated_at": "2026-03-12T13:36:16.390488Z",
+  "generated_date": "2026-03-12",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on product + fintech innovation.",
   "articles": [
+    {
+      "title": "Engine aims to fix SMB cards",
+      "link": "https://www.paymentsdive.com/news/a-payment-card-for-smaller-biz-travel-expense-manage-engine-fares/814408/",
+      "description": "Engine, a business-travel startup, says its smaller-business customers aren&rsquo;t served by current travel and entertainment card players in the market.",
+      "published": "Wed, 11 Mar 2026 10:29:00 -0400"
+    },
+    {
+      "title": "Global Payments feels Middle East impact",
+      "link": "https://www.paymentsdive.com/news/global-payments-feels-middle-east-impact/814433/",
+      "description": "The payments services provider said the conflict in the Middle East is taking a toll as some of its airline customers are impacted.",
+      "published": "Wed, 11 Mar 2026 10:25:00 -0400"
+    },
+    {
+      "title": "Cash-strapped homeowners tap BNPL",
+      "link": "https://www.paymentsdive.com/news/cash-strapped-homeowners-tap-bnpl/814345/",
+      "description": "Researchers at the JPMorgan Chase Institute found that homeowners are most likely to use buy now, pay later tools when their bank accounts are low or their credit cards are maxed out.",
+      "published": "Wed, 11 Mar 2026 10:21:00 -0400"
+    },
     {
       "title": "PayPal pivots for 2026",
       "link": "https://www.paymentsdive.com/news/paypal-pivots-for-2026/814319/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/aws-leaps-into-agentic-payments/814169/",
       "description": "Amazon Web Services, the tech giant&rsquo;s cloud computing network, is gearing up for armies of AI-powered agents and transactions.",
       "published": "Mon, 09 Mar 2026 10:07:26 -0400"
-    },
-    {
-      "title": "Clarity Act stokes debate on crypto",
-      "link": "https://www.paymentsdive.com/news/clarity-act-stokes-debate-on-crypto/814152/",
-      "description": "The bill aims to identify which agencies should regulate digital currencies.",
-      "published": "Mon, 09 Mar 2026 08:51:37 -0400"
-    },
-    {
-      "title": "Boston Fed touts FedNow",
-      "link": "https://www.paymentsdive.com/news/boston-fed-touts-fednow/814032/",
-      "description": "The Federal Reserve has been updating its instant payments service, FedNow, to attract more banks and ultimately reach more consumers.",
-      "published": "Fri, 06 Mar 2026 10:35:00 -0500"
-    },
-    {
-      "title": "Pilot, NCR Voyix agree to 5-year pact",
-      "link": "https://www.paymentsdive.com/news/pilot-ncr-voyix-agree-to-5-year-pact/814051/",
-      "description": "The retailer, which has used NCR&rsquo;s self-checkout kiosks for years, will now also deploy the payment service company&rsquo;s point-of-sale technology.",
-      "published": "Fri, 06 Mar 2026 10:09:00 -0500"
     }
   ]
 }
