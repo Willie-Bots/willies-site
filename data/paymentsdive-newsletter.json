@@ -1,9 +1,33 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-03-12T13:36:16.390488Z",
-  "generated_date": "2026-03-12",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on product + fintech innovation.",
+  "generated_at": "2026-03-13T13:33:38.062873Z",
+  "generated_date": "2026-03-13",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Instant pay can boost low-income workers\u2019 savings habits: report",
+      "link": "https://www.paymentsdive.com/news/instant-paychecks-can-boost-low-income-workers-savings-habits-report-find/814326/",
+      "description": "Despite consumer advocates&rsquo; concerns about earned wage access fees, researchers found modest usage can help with financial planning.",
+      "published": "Thu, 12 Mar 2026 16:40:00 -0400"
+    },
+    {
+      "title": "Social media blasted over fraud",
+      "link": "https://www.paymentsdive.com/news/social-media-blasted-over-fraud/814562/",
+      "description": "The Consumer Federation of America estimates the annual cost of online scams at $119 billion, pointing to social media as a big part of the problem.",
+      "published": "Thu, 12 Mar 2026 10:55:00 -0400"
+    },
+    {
+      "title": "Visa, Mastercard face U.K. challenge",
+      "link": "https://www.paymentsdive.com/news/visa-mastercard-face-uk-challenge/814542/",
+      "description": "&ldquo;In seeking to reduce its reliance on Visa and Mastercard, the United Kingdom banking sector is justified, given the perceived risk that the two main schemes have too much control over the market,&rdquo; a European executive says.",
+      "published": "Thu, 12 Mar 2026 10:44:00 -0400"
+    },
+    {
+      "title": "Fraud battle calls for cross-sector effort",
+      "link": "https://www.paymentsdive.com/news/fraud-battle-requires-cross-sector-effort-cybercrime-Trump-ai-panel/814550/",
+      "description": "As criminals adopt AI-enabled tactics, financial institutions need to consider data-sharing with other industries, fraud-fighting professionals contend.",
+      "published": "Thu, 12 Mar 2026 10:26:14 -0400"
+    },
     {
       "title": "Engine aims to fix SMB cards",
       "link": "https://www.paymentsdive.com/news/a-payment-card-for-smaller-biz-travel-expense-manage-engine-fares/814408/",
@@ -27,30 +51,6 @@
       "link": "https://www.paymentsdive.com/news/paypal-pivots-for-2026/814319/",
       "description": "The digital payment player aims to keep scaling its collection of integrated businesses, the company&rsquo;s chief financial and operating officer said.",
       "published": "Tue, 10 Mar 2026 10:51:00 -0400"
-    },
-    {
-      "title": "Shift4 promotes Global Blue execs",
-      "link": "https://www.paymentsdive.com/news/shift4-promotes-global-blue-execs/814301/",
-      "description": "The payments processor promoted three executives to leadership roles, naming Pier Francesco Nervini as head of its international division.",
-      "published": "Tue, 10 Mar 2026 09:52:30 -0400"
-    },
-    {
-      "title": "Meta revamps ad payment policy",
-      "link": "https://www.paymentsdive.com/news/meta-revamps-ad-payment-policy/814295/",
-      "description": "The social media company is mandating that some of its advertisers make their monthly payments via invoice or debit starting next month.",
-      "published": "Tue, 10 Mar 2026 09:42:00 -0400"
-    },
-    {
-      "title": "Par Tech faces investor pressure",
-      "link": "https://www.paymentsdive.com/news/par-tech-faces-investor-pressure/814192/",
-      "description": "One of the point-of-sale software company&rsquo;s largest shareholders began urging it to consider &ldquo;strategic alternatives,&rdquo; such as a sale, last week.",
-      "published": "Mon, 09 Mar 2026 10:40:00 -0400"
-    },
-    {
-      "title": "AWS leaps into agentic payments",
-      "link": "https://www.paymentsdive.com/news/aws-leaps-into-agentic-payments/814169/",
-      "description": "Amazon Web Services, the tech giant&rsquo;s cloud computing network, is gearing up for armies of AI-powered agents and transactions.",
-      "published": "Mon, 09 Mar 2026 10:07:26 -0400"
     }
   ]
 }
