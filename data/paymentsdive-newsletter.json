@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-03-13T13:33:38.062873Z",
-  "generated_date": "2026-03-13",
+  "generated_at": "2026-03-14T13:14:40.698565Z",
+  "generated_date": "2026-03-14",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "AI drives global fraud surge",
+      "link": "https://www.paymentsdive.com/news/ai-drives-global-fraud-surge/814646/",
+      "description": "Losses to fraud and scams climbed 9.2% in 2025, with much of the increase attributed to bad actors leveraging artificial intelligence, said a report from Nasdaq&#39;s Verafin financial crime-fighting software unit.",
+      "published": "Fri, 13 Mar 2026 09:06:00 -0400"
+    },
+    {
+      "title": "Scam prevention requires \u2018upstream\u2019 focus: panel",
+      "link": "https://www.paymentsdive.com/news/scam-prevention-requires-upstream-focus-panel/814577/",
+      "description": "&ldquo;We need to bring in these social media companies at the point where [scammers are] first contacting consumers, to look at shared liability,&rdquo; an AARP executive said at a Payments Dive event Wednesday.",
+      "published": "Fri, 13 Mar 2026 08:40:00 -0400"
+    },
     {
       "title": "Instant pay can boost low-income workers\u2019 savings habits: report",
       "link": "https://www.paymentsdive.com/news/instant-paychecks-can-boost-low-income-workers-savings-habits-report-find/814326/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/global-payments-feels-middle-east-impact/814433/",
       "description": "The payments services provider said the conflict in the Middle East is taking a toll as some of its airline customers are impacted.",
       "published": "Wed, 11 Mar 2026 10:25:00 -0400"
-    },
-    {
-      "title": "Cash-strapped homeowners tap BNPL",
-      "link": "https://www.paymentsdive.com/news/cash-strapped-homeowners-tap-bnpl/814345/",
-      "description": "Researchers at the JPMorgan Chase Institute found that homeowners are most likely to use buy now, pay later tools when their bank accounts are low or their credit cards are maxed out.",
-      "published": "Wed, 11 Mar 2026 10:21:00 -0400"
-    },
-    {
-      "title": "PayPal pivots for 2026",
-      "link": "https://www.paymentsdive.com/news/paypal-pivots-for-2026/814319/",
-      "description": "The digital payment player aims to keep scaling its collection of integrated businesses, the company&rsquo;s chief financial and operating officer said.",
-      "published": "Tue, 10 Mar 2026 10:51:00 -0400"
     }
   ]
 }
