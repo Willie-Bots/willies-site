@@ -1,9 +1,39 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-03-16T13:53:50.947094Z",
-  "generated_date": "2026-03-16",
+  "generated_at": "2026-03-17T13:51:40.901720Z",
+  "generated_date": "2026-03-17",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "FDIC to make stablecoin move",
+      "link": "https://www.paymentsdive.com/news/fdic-to-make-stablecoin-move/814862/",
+      "description": "The Federal Deposit Insurance Corp. plans to propose that pass-through insurance not be available for stablecoin deposits.",
+      "published": "Mon, 16 Mar 2026 16:13:00 -0400"
+    },
+    {
+      "title": "CFPB again told it must request funds from Fed",
+      "link": "https://www.paymentsdive.com/news/cfpb-must-request-funds-fed-vought/814830/",
+      "description": "In the second court ruling rejecting the bureau&rsquo;s position on requesting Fed funds, a judge in California called agency Acting Director Russ Vought&rsquo;s plan a &ldquo;transparent display of partisanship.&rdquo;",
+      "published": "Mon, 16 Mar 2026 12:04:00 -0400"
+    },
+    {
+      "title": "Fintechs push 36% state rate caps",
+      "link": "https://www.paymentsdive.com/news/fintechs-push-36-percent-state-rate-caps-afc-goldfeder/814818/",
+      "description": "While there is a 36% interest rate standard for lending in the U.S., it&rsquo;s not codified for all consumers. Now, the effort to set one has moved to the states.",
+      "published": "Mon, 16 Mar 2026 11:01:00 -0400"
+    },
+    {
+      "title": "Payments firms diverge on checks",
+      "link": "https://www.paymentsdive.com/news/payments-firms-diverge-on-checks/814801/",
+      "description": "Payment companies offered different ways to move past paper checks in comments to the Federal Reserve regarding plans to shift to digital alternatives.",
+      "published": "Mon, 16 Mar 2026 10:45:40 -0400"
+    },
+    {
+      "title": "Robinhood takes on premium card issuers",
+      "link": "https://www.paymentsdive.com/news/robinhood-takes-on-premium-card-issuers-amex-platinum-chase-travel/814761/",
+      "description": "The fintech&rsquo;s new $695 credit card aims to lure young, wealthy people uninterested in hoarding points or using a card for airport lounge access.",
+      "published": "Mon, 16 Mar 2026 08:56:00 -0400"
+    },
     {
       "title": "AI drives global fraud surge",
       "link": "https://www.paymentsdive.com/news/ai-drives-global-fraud-surge/814646/",
@@ -21,36 +51,6 @@
       "link": "https://www.paymentsdive.com/news/instant-paychecks-can-boost-low-income-workers-savings-habits-report-find/814326/",
       "description": "Despite consumer advocates&rsquo; concerns about earned wage access fees, researchers found modest usage can help with financial planning.",
       "published": "Thu, 12 Mar 2026 16:40:00 -0400"
-    },
-    {
-      "title": "Social media blasted over fraud",
-      "link": "https://www.paymentsdive.com/news/social-media-blasted-over-fraud/814562/",
-      "description": "The Consumer Federation of America estimates the annual cost of online scams at $119 billion, pointing to social media as a big part of the problem.",
-      "published": "Thu, 12 Mar 2026 10:55:00 -0400"
-    },
-    {
-      "title": "Visa, Mastercard face U.K. challenge",
-      "link": "https://www.paymentsdive.com/news/visa-mastercard-face-uk-challenge/814542/",
-      "description": "&ldquo;In seeking to reduce its reliance on Visa and Mastercard, the United Kingdom banking sector is justified, given the perceived risk that the two main schemes have too much control over the market,&rdquo; a European executive says.",
-      "published": "Thu, 12 Mar 2026 10:44:00 -0400"
-    },
-    {
-      "title": "Fraud battle calls for cross-sector effort",
-      "link": "https://www.paymentsdive.com/news/fraud-battle-requires-cross-sector-effort-cybercrime-Trump-ai-panel/814550/",
-      "description": "As criminals adopt AI-enabled tactics, financial institutions need to consider data-sharing with other industries, fraud-fighting professionals contend.",
-      "published": "Thu, 12 Mar 2026 10:26:14 -0400"
-    },
-    {
-      "title": "Engine aims to fix SMB cards",
-      "link": "https://www.paymentsdive.com/news/a-payment-card-for-smaller-biz-travel-expense-manage-engine-fares/814408/",
-      "description": "Engine, a business-travel startup, says its smaller-business customers aren&rsquo;t served by current travel and entertainment card players in the market.",
-      "published": "Wed, 11 Mar 2026 10:29:00 -0400"
-    },
-    {
-      "title": "Global Payments feels Middle East impact",
-      "link": "https://www.paymentsdive.com/news/global-payments-feels-middle-east-impact/814433/",
-      "description": "The payments services provider said the conflict in the Middle East is taking a toll as some of its airline customers are impacted.",
-      "published": "Wed, 11 Mar 2026 10:25:00 -0400"
     }
   ]
 }
