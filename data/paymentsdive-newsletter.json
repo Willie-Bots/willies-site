@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-03-17T13:51:40.901720Z",
-  "generated_date": "2026-03-17",
+  "generated_at": "2026-03-18T13:53:41.867907Z",
+  "generated_date": "2026-03-18",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Mastercard to buy BVNK for $1.8B",
+      "link": "https://www.paymentsdive.com/news/mastercard-to-buy-bvnk-for-18b/814948/",
+      "description": "&ldquo;Adding on-chain rails to our network will support speed and programmability for virtually every type of transaction,&rdquo; a Mastercard executive said.",
+      "published": "Tue, 17 Mar 2026 10:42:00 -0400"
+    },
     {
       "title": "FDIC to make stablecoin move",
       "link": "https://www.paymentsdive.com/news/fdic-to-make-stablecoin-move/814862/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/scam-prevention-requires-upstream-focus-panel/814577/",
       "description": "&ldquo;We need to bring in these social media companies at the point where [scammers are] first contacting consumers, to look at shared liability,&rdquo; an AARP executive said at a Payments Dive event Wednesday.",
       "published": "Fri, 13 Mar 2026 08:40:00 -0400"
-    },
-    {
-      "title": "Instant pay can boost low-income workers\u2019 savings habits: report",
-      "link": "https://www.paymentsdive.com/news/instant-paychecks-can-boost-low-income-workers-savings-habits-report-find/814326/",
-      "description": "Despite consumer advocates&rsquo; concerns about earned wage access fees, researchers found modest usage can help with financial planning.",
-      "published": "Thu, 12 Mar 2026 16:40:00 -0400"
     }
   ]
 }
