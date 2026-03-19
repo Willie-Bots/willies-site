@@ -1,14 +1,26 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-03-18T13:53:41.867907Z",
-  "generated_date": "2026-03-18",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-03-19T13:42:05.514372Z",
+  "generated_date": "2026-03-19",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "State interchange fee laws progress",
+      "link": "https://www.paymentsdive.com/news/state-interchange-fee-laws-progress/815072/",
+      "description": "Legislatures in Colorado and Delaware advanced bills that would curtail interchange fees last week, as a federal appellate court mulls the issue.",
+      "published": "Wed, 18 Mar 2026 10:40:00 -0400"
+    },
     {
       "title": "Mastercard to buy BVNK for $1.8B",
       "link": "https://www.paymentsdive.com/news/mastercard-to-buy-bvnk-for-18b/814948/",
       "description": "&ldquo;Adding on-chain rails to our network will support speed and programmability for virtually every type of transaction,&rdquo; a Mastercard executive said.",
       "published": "Tue, 17 Mar 2026 10:42:00 -0400"
+    },
+    {
+      "title": "EWS pairs with Citi to offer Paze",
+      "link": "https://www.paymentsdive.com/news/ews-pairs-with-citi-to-offer-paze/815023/",
+      "description": "The collaboration marks the first time the financial technology company has worked with a non-owner bank on the digital wallet.",
+      "published": "Tue, 17 Mar 2026 10:12:00 -0400"
     },
     {
       "title": "FDIC to make stablecoin move",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/robinhood-takes-on-premium-card-issuers-amex-platinum-chase-travel/814761/",
       "description": "The fintech&rsquo;s new $695 credit card aims to lure young, wealthy people uninterested in hoarding points or using a card for airport lounge access.",
       "published": "Mon, 16 Mar 2026 08:56:00 -0400"
-    },
-    {
-      "title": "AI drives global fraud surge",
-      "link": "https://www.paymentsdive.com/news/ai-drives-global-fraud-surge/814646/",
-      "description": "Losses to fraud and scams climbed 9.2% in 2025, with much of the increase attributed to bad actors leveraging artificial intelligence, said a report from Nasdaq&#39;s Verafin financial crime-fighting software unit.",
-      "published": "Fri, 13 Mar 2026 09:06:00 -0400"
-    },
-    {
-      "title": "Scam prevention requires \u2018upstream\u2019 focus: panel",
-      "link": "https://www.paymentsdive.com/news/scam-prevention-requires-upstream-focus-panel/814577/",
-      "description": "&ldquo;We need to bring in these social media companies at the point where [scammers are] first contacting consumers, to look at shared liability,&rdquo; an AARP executive said at a Payments Dive event Wednesday.",
-      "published": "Fri, 13 Mar 2026 08:40:00 -0400"
     }
   ]
 }
