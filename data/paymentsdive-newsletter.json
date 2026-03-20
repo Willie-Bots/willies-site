@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-03-19T13:42:05.514372Z",
-  "generated_date": "2026-03-19",
+  "generated_at": "2026-03-20T13:34:13.719437Z",
+  "generated_date": "2026-03-20",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Amex soups up cards for Concur",
+      "link": "https://www.paymentsdive.com/news/amex-soups-up-cards-for-concur/815197/",
+      "description": "The card company and the expense management firm have locked arms to add virtual card features for business clients.",
+      "published": "Thu, 19 Mar 2026 10:35:00 -0400"
+    },
+    {
+      "title": "Affirm outlines options if economic stress rises",
+      "link": "https://www.paymentsdive.com/news/affirm-outlines-options-if-economic-stress-rises/815195/",
+      "description": "The buy now, pay later player spelled out ways in which it could adjust its lending in the event U.S. economic uncertainty creates more stress for consumers.",
+      "published": "Thu, 19 Mar 2026 10:34:00 -0400"
+    },
+    {
+      "title": "Elavon nabs BofA exec for CEO",
+      "link": "https://www.paymentsdive.com/news/elavon-nabs-bofa-exec-for-ceo/815146/",
+      "description": "The payments processor, which is a unit of U.S. Bank, poached Wally Mlynarski from a bank rival to be its CEO, replacing Jamie Walker.",
+      "published": "Thu, 19 Mar 2026 09:44:00 -0400"
+    },
     {
       "title": "State interchange fee laws progress",
       "link": "https://www.paymentsdive.com/news/state-interchange-fee-laws-progress/815072/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/cfpb-must-request-funds-fed-vought/814830/",
       "description": "In the second court ruling rejecting the bureau&rsquo;s position on requesting Fed funds, a judge in California called agency Acting Director Russ Vought&rsquo;s plan a &ldquo;transparent display of partisanship.&rdquo;",
       "published": "Mon, 16 Mar 2026 12:04:00 -0400"
-    },
-    {
-      "title": "Fintechs push 36% state rate caps",
-      "link": "https://www.paymentsdive.com/news/fintechs-push-36-percent-state-rate-caps-afc-goldfeder/814818/",
-      "description": "While there is a 36% interest rate standard for lending in the U.S., it&rsquo;s not codified for all consumers. Now, the effort to set one has moved to the states.",
-      "published": "Mon, 16 Mar 2026 11:01:00 -0400"
-    },
-    {
-      "title": "Payments firms diverge on checks",
-      "link": "https://www.paymentsdive.com/news/payments-firms-diverge-on-checks/814801/",
-      "description": "Payment companies offered different ways to move past paper checks in comments to the Federal Reserve regarding plans to shift to digital alternatives.",
-      "published": "Mon, 16 Mar 2026 10:45:40 -0400"
-    },
-    {
-      "title": "Robinhood takes on premium card issuers",
-      "link": "https://www.paymentsdive.com/news/robinhood-takes-on-premium-card-issuers-amex-platinum-chase-travel/814761/",
-      "description": "The fintech&rsquo;s new $695 credit card aims to lure young, wealthy people uninterested in hoarding points or using a card for airport lounge access.",
-      "published": "Mon, 16 Mar 2026 08:56:00 -0400"
     }
   ]
 }
