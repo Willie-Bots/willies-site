@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-03-20T13:34:13.719437Z",
-  "generated_date": "2026-03-20",
+  "generated_at": "2026-03-21T13:11:56.297936Z",
+  "generated_date": "2026-03-21",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Visa, PayPal execs react to K-shaped economy",
+      "link": "https://www.paymentsdive.com/news/visa-paypal-execs-react-to-k-shaped-economy/815323/",
+      "description": "The economic model suggests some consumers are becoming wealthier, while the economic well-being of others descends. Here&rsquo;s how some industry executives view the impact.",
+      "published": "Fri, 20 Mar 2026 10:57:00 -0400"
+    },
+    {
+      "title": "Stablecoin use surges",
+      "link": "https://www.paymentsdive.com/news/stablecoin-use-surges/815288/",
+      "description": "The total transaction volume for the digital assets more than doubled in the past year, according to the asset management firm Macquarie Group.",
+      "published": "Fri, 20 Mar 2026 10:46:00 -0400"
+    },
     {
       "title": "Amex soups up cards for Concur",
       "link": "https://www.paymentsdive.com/news/amex-soups-up-cards-for-concur/815197/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/ews-pairs-with-citi-to-offer-paze/815023/",
       "description": "The collaboration marks the first time the financial technology company has worked with a non-owner bank on the digital wallet.",
       "published": "Tue, 17 Mar 2026 10:12:00 -0400"
-    },
-    {
-      "title": "FDIC to make stablecoin move",
-      "link": "https://www.paymentsdive.com/news/fdic-to-make-stablecoin-move/814862/",
-      "description": "The Federal Deposit Insurance Corp. plans to propose that pass-through insurance not be available for stablecoin deposits.",
-      "published": "Mon, 16 Mar 2026 16:13:00 -0400"
-    },
-    {
-      "title": "CFPB again told it must request funds from Fed",
-      "link": "https://www.paymentsdive.com/news/cfpb-must-request-funds-fed-vought/814830/",
-      "description": "In the second court ruling rejecting the bureau&rsquo;s position on requesting Fed funds, a judge in California called agency Acting Director Russ Vought&rsquo;s plan a &ldquo;transparent display of partisanship.&rdquo;",
-      "published": "Mon, 16 Mar 2026 12:04:00 -0400"
     }
   ]
 }
