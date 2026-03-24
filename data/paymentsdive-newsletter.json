@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-03-23T13:48:48.725330Z",
-  "generated_date": "2026-03-23",
+  "generated_at": "2026-03-24T13:50:52.570343Z",
+  "generated_date": "2026-03-24",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "PayPal takes Venmo global",
+      "link": "https://www.paymentsdive.com/news/paypal-takes-venmo-global/815473/",
+      "description": "The peer-to-peer payment app will be available to users in 90 countries by integrating with PayPal accounts, the company said Monday.",
+      "published": "Mon, 23 Mar 2026 16:02:00 -0400"
+    },
+    {
+      "title": "Synchrony, others broaden horizons to tap top talent",
+      "link": "https://www.paymentsdive.com/news/synchrony-others-broaden-horizons-to-tap-top-talent-recruiting-tech-hr-people/815420/",
+      "description": "Payments companies are often seeking experience outside of financial services, including in tech, in their search for new hires.",
+      "published": "Mon, 23 Mar 2026 10:23:00 -0400"
+    },
+    {
+      "title": "NY forces cash acceptance",
+      "link": "https://www.paymentsdive.com/news/ny-forces-cash-acceptance/815416/",
+      "description": "New York Attorney General Letitia James reminded consumers and businesses that a new state law, effective Saturday, makes it illegal to decline cash payments.",
+      "published": "Mon, 23 Mar 2026 09:59:00 -0400"
+    },
     {
       "title": "Visa, PayPal execs react to K-shaped economy",
       "link": "https://www.paymentsdive.com/news/visa-paypal-execs-react-to-k-shaped-economy/815323/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/elavon-nabs-bofa-exec-for-ceo/815146/",
       "description": "The payments processor, which is a unit of U.S. Bank, poached Wally Mlynarski from a bank rival to be its CEO, replacing Jamie Walker.",
       "published": "Thu, 19 Mar 2026 09:44:00 -0400"
-    },
-    {
-      "title": "State interchange fee laws progress",
-      "link": "https://www.paymentsdive.com/news/state-interchange-fee-laws-progress/815072/",
-      "description": "Legislatures in Colorado and Delaware advanced bills that would curtail interchange fees last week, as a federal appellate court mulls the issue.",
-      "published": "Wed, 18 Mar 2026 10:40:00 -0400"
-    },
-    {
-      "title": "Mastercard to buy BVNK for $1.8B",
-      "link": "https://www.paymentsdive.com/news/mastercard-to-buy-bvnk-for-18b/814948/",
-      "description": "&ldquo;Adding on-chain rails to our network will support speed and programmability for virtually every type of transaction,&rdquo; a Mastercard executive said.",
-      "published": "Tue, 17 Mar 2026 10:42:00 -0400"
-    },
-    {
-      "title": "EWS pairs with Citi to offer Paze",
-      "link": "https://www.paymentsdive.com/news/ews-pairs-with-citi-to-offer-paze/815023/",
-      "description": "The collaboration marks the first time the financial technology company has worked with a non-owner bank on the digital wallet.",
-      "published": "Tue, 17 Mar 2026 10:12:00 -0400"
     }
   ]
 }
