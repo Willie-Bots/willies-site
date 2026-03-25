@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-03-24T13:50:52.570343Z",
-  "generated_date": "2026-03-24",
+  "generated_at": "2026-03-25T13:49:29.059972Z",
+  "generated_date": "2026-03-25",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Amex floats first new business card in 7 years",
+      "link": "https://www.paymentsdive.com/news/amex-floats-first-new-business-card-in-7-years/815618/",
+      "description": "The bank is betting that a card without preset spending caps, plus 2% cash back, will win over businesses.",
+      "published": "Wed, 25 Mar 2026 07:00:00 -0400"
+    },
+    {
+      "title": "Electronic Transactions Association acquires peer",
+      "link": "https://www.paymentsdive.com/news/electronic-transactions-association-acquires-peer/815501/",
+      "description": "The trade group&rsquo;s absorption of the American Transaction Processors Coalition will bolster its payments industry advocacy.",
+      "published": "Tue, 24 Mar 2026 09:46:00 -0400"
+    },
+    {
+      "title": "Mastercard bets on AI virtual CFOs",
+      "link": "https://www.paymentsdive.com/news/mastercard-bets-ai-can-fill-cfo-gap-small-businesses/815568/",
+      "description": "The company&rsquo;s new &ldquo;virtual CFO&rdquo; tool is tailored for lean teams and designed to augment &mdash;&nbsp;not replace &mdash;&nbsp;human leadership, Mastercard&rsquo;s Mark Barnett said.",
+      "published": "Tue, 24 Mar 2026 06:00:00 -0400"
+    },
     {
       "title": "PayPal takes Venmo global",
       "link": "https://www.paymentsdive.com/news/paypal-takes-venmo-global/815473/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/stablecoin-use-surges/815288/",
       "description": "The total transaction volume for the digital assets more than doubled in the past year, according to the asset management firm Macquarie Group.",
       "published": "Fri, 20 Mar 2026 10:46:00 -0400"
-    },
-    {
-      "title": "Amex soups up cards for Concur",
-      "link": "https://www.paymentsdive.com/news/amex-soups-up-cards-for-concur/815197/",
-      "description": "The card company and the expense management firm have locked arms to add virtual card features for business clients.",
-      "published": "Thu, 19 Mar 2026 10:35:00 -0400"
-    },
-    {
-      "title": "Affirm outlines options if economic stress rises",
-      "link": "https://www.paymentsdive.com/news/affirm-outlines-options-if-economic-stress-rises/815195/",
-      "description": "The buy now, pay later player spelled out ways in which it could adjust its lending in the event U.S. economic uncertainty creates more stress for consumers.",
-      "published": "Thu, 19 Mar 2026 10:34:00 -0400"
-    },
-    {
-      "title": "Elavon nabs BofA exec for CEO",
-      "link": "https://www.paymentsdive.com/news/elavon-nabs-bofa-exec-for-ceo/815146/",
-      "description": "The payments processor, which is a unit of U.S. Bank, poached Wally Mlynarski from a bank rival to be its CEO, replacing Jamie Walker.",
-      "published": "Thu, 19 Mar 2026 09:44:00 -0400"
     }
   ]
 }
