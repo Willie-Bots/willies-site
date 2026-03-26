@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-03-25T13:49:29.059972Z",
-  "generated_date": "2026-03-25",
+  "generated_at": "2026-03-26T13:58:26.768439Z",
+  "generated_date": "2026-03-26",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "FIS leans into big bank strategy",
+      "link": "https://www.paymentsdive.com/news/fis-leans-into-big-bank-strategy/815670/",
+      "description": "The bank technology and card processing company has renewed its focus on large bank clients in the battle against rivals like Fiserv.",
+      "published": "Wed, 25 Mar 2026 09:56:00 -0400"
+    },
     {
       "title": "Amex floats first new business card in 7 years",
       "link": "https://www.paymentsdive.com/news/amex-floats-first-new-business-card-in-7-years/815618/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/visa-paypal-execs-react-to-k-shaped-economy/815323/",
       "description": "The economic model suggests some consumers are becoming wealthier, while the economic well-being of others descends. Here&rsquo;s how some industry executives view the impact.",
       "published": "Fri, 20 Mar 2026 10:57:00 -0400"
-    },
-    {
-      "title": "Stablecoin use surges",
-      "link": "https://www.paymentsdive.com/news/stablecoin-use-surges/815288/",
-      "description": "The total transaction volume for the digital assets more than doubled in the past year, according to the asset management firm Macquarie Group.",
-      "published": "Fri, 20 Mar 2026 10:46:00 -0400"
     }
   ]
 }
