@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-03-29T13:19:28.874042Z",
-  "generated_date": "2026-03-29",
+  "generated_at": "2026-03-30T14:02:40.240056Z",
+  "generated_date": "2026-03-30",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Transforming the payment experience: How consumers are steering payment innovation",
+      "link": "https://www.paymentsdive.com/spons/transforming-the-payment-experience-how-consumers-are-steering-payment-inn/815667/",
+      "description": "Merchants can create enhanced shopping experiences that exceed evolving consumer expectations.",
+      "published": "Mon, 30 Mar 2026 05:00:00 -0400"
+    },
+    {
+      "title": "Beyond the safari: The realities of managing a global workforce in Africa",
+      "link": "https://www.paymentsdive.com/spons/beyond-the-safari-the-realities-of-managing-a-global-workforce-in-africa/815078/",
+      "description": "The real challenge in Africa isn&rsquo;t hiring - it&rsquo;s moving money.",
+      "published": "Mon, 30 Mar 2026 05:00:00 -0400"
+    },
     {
       "title": "Walmart brings Sparky to ChatGPT",
       "link": "https://www.paymentsdive.com/news/walmart-sparky-chatgpt-instant-checkout/816002/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/ftc-threatens-major-payments-players/815925/",
       "description": "The Federal Trade Commission sent letters to the CEOs of Visa, Mastercard, PayPal and Stripe, saying that denying consumer services for political or religious reasons could prompt enforcement actions.",
       "published": "Thu, 26 Mar 2026 09:30:00 -0400"
-    },
-    {
-      "title": "FIS leans into big bank strategy",
-      "link": "https://www.paymentsdive.com/news/fis-leans-into-big-bank-strategy/815670/",
-      "description": "The bank technology and card processing company has renewed its focus on large bank clients in the battle against rivals like Fiserv.",
-      "published": "Wed, 25 Mar 2026 09:56:00 -0400"
-    },
-    {
-      "title": "Amex floats first new business card in 7 years",
-      "link": "https://www.paymentsdive.com/news/amex-floats-first-new-business-card-in-7-years/815618/",
-      "description": "The bank is betting that a card without preset spending caps, plus 2% cash back, will win over businesses.",
-      "published": "Wed, 25 Mar 2026 07:00:00 -0400"
     }
   ]
 }
