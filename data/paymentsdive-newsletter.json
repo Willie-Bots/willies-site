@@ -1,9 +1,33 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-03-30T14:02:40.240056Z",
-  "generated_date": "2026-03-30",
+  "generated_at": "2026-03-31T14:01:28.947267Z",
+  "generated_date": "2026-03-31",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Visa pushes subscription management tool",
+      "link": "https://www.paymentsdive.com/news/visa-pushes-subscription-management-tool/816160/",
+      "description": "The card network is pitching a tool it says will make it easier to manage and cancel subscriptions in a single digital hub.",
+      "published": "Tue, 31 Mar 2026 08:42:00 -0400"
+    },
+    {
+      "title": "Visa-DOJ discovery dispute goes to judge",
+      "link": "https://www.paymentsdive.com/news/visa-doj-discovery-dispute-goes-to-judge-antitrust-debit-lawsuit/816038/",
+      "description": "Visa is asking a federal court to intervene in a conflict over the company&rsquo;s discovery request for U.S. Treasury documents.",
+      "published": "Mon, 30 Mar 2026 15:28:00 -0400"
+    },
+    {
+      "title": "Visa\u2019s stablecoin ally falls for Mastercard",
+      "link": "https://www.paymentsdive.com/news/visas-stablecoin-ally-falls-for-mastercard/816093/",
+      "description": "Stablecoin startup BVNK crowed about an investment from the largest U.S. card network last year, but now it&rsquo;s being acquired by a rival.",
+      "published": "Mon, 30 Mar 2026 10:45:00 -0400"
+    },
+    {
+      "title": "How Amex exploits new AI tools",
+      "link": "https://www.paymentsdive.com/news/how-amex-exploits-new-ai-tools/816000/",
+      "description": "The bank has identified &ldquo;hundreds&rdquo; of use cases for artificial intelligence, its CEO says.",
+      "published": "Mon, 30 Mar 2026 09:49:00 -0400"
+    },
     {
       "title": "Transforming the payment experience: How consumers are steering payment innovation",
       "link": "https://www.paymentsdive.com/spons/transforming-the-payment-experience-how-consumers-are-steering-payment-inn/815667/",
@@ -11,8 +35,8 @@
       "published": "Mon, 30 Mar 2026 05:00:00 -0400"
     },
     {
-      "title": "Beyond the safari: The realities of managing a global workforce in Africa",
-      "link": "https://www.paymentsdive.com/spons/beyond-the-safari-the-realities-of-managing-a-global-workforce-in-africa/815078/",
+      "title": "The realities of managing a global workforce in Africa",
+      "link": "https://www.paymentsdive.com/spons/the-realities-of-managing-a-global-workforce-in-africa/815078/",
       "description": "The real challenge in Africa isn&rsquo;t hiring - it&rsquo;s moving money.",
       "published": "Mon, 30 Mar 2026 05:00:00 -0400"
     },
@@ -27,30 +51,6 @@
       "link": "https://www.paymentsdive.com/news/durbin-targets-airline-points-with-bill/815916/",
       "description": "A Senate bill proposed by the Illinois Democrat would regulate airline loyalty programs, with increased disclosure requirements for the carriers.",
       "published": "Fri, 27 Mar 2026 08:06:00 -0400"
-    },
-    {
-      "title": "Branch integrates with Stripe for digital wallet payouts",
-      "link": "https://www.paymentsdive.com/news/branch-integrates-with-stripe-for-digital-wallet-payouts/815852/",
-      "description": "The EWA provider is using Stripe&rsquo;s infrastructure to offer another tool that enables companies and contractors to pay their workforces.",
-      "published": "Thu, 26 Mar 2026 10:28:00 -0400"
-    },
-    {
-      "title": "Citi pursues payments advances",
-      "link": "https://www.paymentsdive.com/news/citi-payments-advances-debopama-sen-real-time-stablecoin-fednow-agentic-ai/815818/",
-      "description": "Real-time payments, agentic commerce and stablecoin advances are all topics the bank is discussing with clients, a top executive said.",
-      "published": "Thu, 26 Mar 2026 10:08:00 -0400"
-    },
-    {
-      "title": "Klarna struggles with loan loss accounting",
-      "link": "https://www.paymentsdive.com/news/klarna-struggles-to-explain-itself-consumer-loans-bnpl/815822/",
-      "description": "With an assertive push into banking, the buy now, pay later pioneer has expanded consumer lending &ndash; along with growth in its loss provisions.",
-      "published": "Thu, 26 Mar 2026 09:39:47 -0400"
-    },
-    {
-      "title": "FTC threatens major payments players",
-      "link": "https://www.paymentsdive.com/news/ftc-threatens-major-payments-players/815925/",
-      "description": "The Federal Trade Commission sent letters to the CEOs of Visa, Mastercard, PayPal and Stripe, saying that denying consumer services for political or religious reasons could prompt enforcement actions.",
-      "published": "Thu, 26 Mar 2026 09:30:00 -0400"
     }
   ]
 }
