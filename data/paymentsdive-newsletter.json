@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-03-31T14:01:28.947267Z",
-  "generated_date": "2026-03-31",
+  "generated_at": "2026-04-01T14:04:20.129309Z",
+  "generated_date": "2026-04-01",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Amazon ditches Amex for Mastercard",
+      "link": "https://www.paymentsdive.com/news/amazon-ditches-amex-for-mastercard/816213/",
+      "description": "The retailer is tapping the card network and U.S. Bank for two new credit cards aimed at small business owners.",
+      "published": "Tue, 31 Mar 2026 10:28:00 -0400"
+    },
     {
       "title": "Visa pushes subscription management tool",
       "link": "https://www.paymentsdive.com/news/visa-pushes-subscription-management-tool/816160/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/walmart-sparky-chatgpt-instant-checkout/816002/",
       "description": "OpenAI is pivoting away from handling purchases after its initial efforts failed to provide enough flexibility.",
       "published": "Fri, 27 Mar 2026 15:02:00 -0400"
-    },
-    {
-      "title": "Durbin targets airline points with bill",
-      "link": "https://www.paymentsdive.com/news/durbin-targets-airline-points-with-bill/815916/",
-      "description": "A Senate bill proposed by the Illinois Democrat would regulate airline loyalty programs, with increased disclosure requirements for the carriers.",
-      "published": "Fri, 27 Mar 2026 08:06:00 -0400"
     }
   ]
 }
