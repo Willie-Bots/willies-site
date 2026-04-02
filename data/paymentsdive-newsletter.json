@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-01T14:04:20.129309Z",
-  "generated_date": "2026-04-01",
+  "generated_at": "2026-04-02T13:56:32.800548Z",
+  "generated_date": "2026-04-02",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Block\u2019s Dorsey rethinks corporate structure",
+      "link": "https://www.paymentsdive.com/news/blocks-dorsey-rethinks-corporate-structure/816347/",
+      "description": "As AI plays a bigger role in operations, the middle management layer becomes less important, the company&rsquo;s head says.",
+      "published": "Wed, 01 Apr 2026 10:58:00 -0400"
+    },
+    {
+      "title": "PayPal board lures ex-Square executive",
+      "link": "https://www.paymentsdive.com/news/paypal-board-lures-ex-square-executive/816310/",
+      "description": "Under PayPal&rsquo;s new CEO, the board has added a director who brings an industry-savvy perspective at a watershed moment for the company.",
+      "published": "Wed, 01 Apr 2026 10:54:00 -0400"
+    },
     {
       "title": "Amazon ditches Amex for Mastercard",
       "link": "https://www.paymentsdive.com/news/amazon-ditches-amex-for-mastercard/816213/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/spons/transforming-the-payment-experience-how-consumers-are-steering-payment-inn/815667/",
       "description": "Merchants can create enhanced shopping experiences that exceed evolving consumer expectations.",
       "published": "Mon, 30 Mar 2026 05:00:00 -0400"
-    },
-    {
-      "title": "The realities of managing a global workforce in Africa",
-      "link": "https://www.paymentsdive.com/spons/the-realities-of-managing-a-global-workforce-in-africa/815078/",
-      "description": "The real challenge in Africa isn&rsquo;t hiring - it&rsquo;s moving money.",
-      "published": "Mon, 30 Mar 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Walmart brings Sparky to ChatGPT",
-      "link": "https://www.paymentsdive.com/news/walmart-sparky-chatgpt-instant-checkout/816002/",
-      "description": "OpenAI is pivoting away from handling purchases after its initial efforts failed to provide enough flexibility.",
-      "published": "Fri, 27 Mar 2026 15:02:00 -0400"
     }
   ]
 }
