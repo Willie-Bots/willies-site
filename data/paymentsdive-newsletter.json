@@ -1,9 +1,33 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-02T13:56:32.800548Z",
-  "generated_date": "2026-04-02",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
+  "generated_at": "2026-04-03T13:37:33.893317Z",
+  "generated_date": "2026-04-03",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on product + fintech innovation.",
   "articles": [
+    {
+      "title": "Stablecoins roll on as rules evolve",
+      "link": "https://www.paymentsdive.com/news/stablecoins-roll-on-as-rules-evolve/816455/",
+      "description": "PayPal, Convera and Nium are among the companies racing to incorporate stablecoins in cross-border plays, even as regulators voice caution.",
+      "published": "Thu, 02 Apr 2026 10:32:00 -0400"
+    },
+    {
+      "title": "Sharpton cites BNPL racial disparities",
+      "link": "https://www.paymentsdive.com/news/sharpton-cites-bnpl-racial-disparities/816466/",
+      "description": "The civil rights leader noted that Black and Hispanic consumers are more likely to use buy now, pay later loans and urged state AGs to expand their inquiry.",
+      "published": "Thu, 02 Apr 2026 10:24:02 -0400"
+    },
+    {
+      "title": "Branch CFO says IPOs are a \u2018discipline, not a deadline\u2019",
+      "link": "https://www.paymentsdive.com/news/branch-cfo-says-ipos-are-a-discipline-not-a-deadline-Matt-Peterson/816463/",
+      "description": "Matt Peterson, who joined the fintech as finance chief in late 2025, previously led an initial public offering for cloud computing services company Fastly.",
+      "published": "Thu, 02 Apr 2026 10:17:00 -0400"
+    },
+    {
+      "title": "How TreviPay\u2019s CFO starts his day",
+      "link": "https://www.paymentsdive.com/news/the-6-am-cfo-how-trevipays-joel-campbell-starts-his-day-strategy-disruptions-leadership/816464/",
+      "description": "Chief Financial Officer Joel Campbell shares insights on consistency, handling disruptions and the James Bond item on his desk.",
+      "published": "Thu, 02 Apr 2026 10:07:00 -0400"
+    },
     {
       "title": "Block\u2019s Dorsey rethinks corporate structure",
       "link": "https://www.paymentsdive.com/news/blocks-dorsey-rethinks-corporate-structure/816347/",
@@ -27,30 +51,6 @@
       "link": "https://www.paymentsdive.com/news/visa-pushes-subscription-management-tool/816160/",
       "description": "The card network is pitching a tool it says will make it easier to manage and cancel subscriptions in a single digital hub.",
       "published": "Tue, 31 Mar 2026 08:42:00 -0400"
-    },
-    {
-      "title": "Visa-DOJ discovery dispute goes to judge",
-      "link": "https://www.paymentsdive.com/news/visa-doj-discovery-dispute-goes-to-judge-antitrust-debit-lawsuit/816038/",
-      "description": "Visa is asking a federal court to intervene in a conflict over the company&rsquo;s discovery request for U.S. Treasury documents.",
-      "published": "Mon, 30 Mar 2026 15:28:00 -0400"
-    },
-    {
-      "title": "Visa\u2019s stablecoin ally falls for Mastercard",
-      "link": "https://www.paymentsdive.com/news/visas-stablecoin-ally-falls-for-mastercard/816093/",
-      "description": "Stablecoin startup BVNK crowed about an investment from the largest U.S. card network last year, but now it&rsquo;s being acquired by a rival.",
-      "published": "Mon, 30 Mar 2026 10:45:00 -0400"
-    },
-    {
-      "title": "How Amex exploits new AI tools",
-      "link": "https://www.paymentsdive.com/news/how-amex-exploits-new-ai-tools/816000/",
-      "description": "The bank has identified &ldquo;hundreds&rdquo; of use cases for artificial intelligence, its CEO says.",
-      "published": "Mon, 30 Mar 2026 09:49:00 -0400"
-    },
-    {
-      "title": "Transforming the payment experience: How consumers are steering payment innovation",
-      "link": "https://www.paymentsdive.com/spons/transforming-the-payment-experience-how-consumers-are-steering-payment-inn/815667/",
-      "description": "Merchants can create enhanced shopping experiences that exceed evolving consumer expectations.",
-      "published": "Mon, 30 Mar 2026 05:00:00 -0400"
     }
   ]
 }
