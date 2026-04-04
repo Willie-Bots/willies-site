@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-03T13:37:33.893317Z",
-  "generated_date": "2026-04-03",
+  "generated_at": "2026-04-04T13:19:56.517387Z",
+  "generated_date": "2026-04-04",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on product + fintech innovation.",
   "articles": [
+    {
+      "title": "Card volume rises with digital boost",
+      "link": "https://www.paymentsdive.com/news/card-volume-rises-with-digital-boost/816600/",
+      "description": "Volume on Visa, Mastercard, American Express and Discover cards issued in the U.S. climbed 6.4% last year over 2024, with an assist from digital plays, according to Nilson Report&rsquo;s publisher.",
+      "published": "Fri, 03 Apr 2026 11:17:00 -0400"
+    },
+    {
+      "title": "Walmart alumni open POS test lab",
+      "link": "https://www.paymentsdive.com/news/walmart-alumni-open-pos-test-lab/816556/",
+      "description": "As retailers seek omnichannel sales solutions, a new vendor-neutral demonstration lab offers point-of-sale equipment evaluation.",
+      "published": "Fri, 03 Apr 2026 09:43:00 -0400"
+    },
     {
       "title": "Stablecoins roll on as rules evolve",
       "link": "https://www.paymentsdive.com/news/stablecoins-roll-on-as-rules-evolve/816455/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/paypal-board-lures-ex-square-executive/816310/",
       "description": "Under PayPal&rsquo;s new CEO, the board has added a director who brings an industry-savvy perspective at a watershed moment for the company.",
       "published": "Wed, 01 Apr 2026 10:54:00 -0400"
-    },
-    {
-      "title": "Amazon ditches Amex for Mastercard",
-      "link": "https://www.paymentsdive.com/news/amazon-ditches-amex-for-mastercard/816213/",
-      "description": "The retailer is tapping the card network and U.S. Bank for two new credit cards aimed at small business owners.",
-      "published": "Tue, 31 Mar 2026 10:28:00 -0400"
-    },
-    {
-      "title": "Visa pushes subscription management tool",
-      "link": "https://www.paymentsdive.com/news/visa-pushes-subscription-management-tool/816160/",
-      "description": "The card network is pitching a tool it says will make it easier to manage and cancel subscriptions in a single digital hub.",
-      "published": "Tue, 31 Mar 2026 08:42:00 -0400"
     }
   ]
 }
