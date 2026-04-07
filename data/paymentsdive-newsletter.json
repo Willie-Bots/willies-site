@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-06T13:45:54.748194Z",
-  "generated_date": "2026-04-06",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on product + fintech innovation.",
+  "generated_at": "2026-04-07T14:00:33.248022Z",
+  "generated_date": "2026-04-07",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
   "articles": [
+    {
+      "title": "US digital wallet use projected to grow by 2030",
+      "link": "https://www.paymentsdive.com/news/us-digital-wallet-use-projected-to-grow-by-2030/816718/",
+      "description": "U.S. consumers will shift away from credit cards and toward digital wallets in the coming years, WorldPay predicts in a report on consumer payments.",
+      "published": "Mon, 06 Apr 2026 11:26:42 -0400"
+    },
+    {
+      "title": "Global cyber fraud attacks rose last year",
+      "link": "https://www.paymentsdive.com/news/global-cyber-fraud-attacks-rose-last-year/816717/",
+      "description": "The rate of cyber fraud in transactions climbed worldwide last year, with fraudsters increasing their attacks on desktop computers, according to a report from LexisNexis Risk Solutions.",
+      "published": "Mon, 06 Apr 2026 10:52:00 -0400"
+    },
     {
       "title": "How Order.co is modernizing procurement and spend management at scale",
       "link": "https://www.paymentsdive.com/spons/how-orderco-is-modernizing-procurement-and-spend-management-at-scale/816510/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/branch-cfo-says-ipos-are-a-discipline-not-a-deadline-Matt-Peterson/816463/",
       "description": "Matt Peterson, who joined the fintech as finance chief in late 2025, previously led an initial public offering for cloud computing services company Fastly.",
       "published": "Thu, 02 Apr 2026 10:17:00 -0400"
-    },
-    {
-      "title": "How TreviPay\u2019s CFO starts his day",
-      "link": "https://www.paymentsdive.com/news/the-6-am-cfo-how-trevipays-joel-campbell-starts-his-day-strategy-disruptions-leadership/816464/",
-      "description": "Chief Financial Officer Joel Campbell shares insights on consistency, handling disruptions and the James Bond item on his desk.",
-      "published": "Thu, 02 Apr 2026 10:07:00 -0400"
-    },
-    {
-      "title": "Block\u2019s Dorsey rethinks corporate structure",
-      "link": "https://www.paymentsdive.com/news/blocks-dorsey-rethinks-corporate-structure/816347/",
-      "description": "As AI plays a bigger role in operations, the middle management layer becomes less important, the company&rsquo;s head says.",
-      "published": "Wed, 01 Apr 2026 10:58:00 -0400"
     }
   ]
 }
