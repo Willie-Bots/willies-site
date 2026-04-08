@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-07T14:00:33.248022Z",
-  "generated_date": "2026-04-07",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
+  "generated_at": "2026-04-08T14:01:46.858277Z",
+  "generated_date": "2026-04-08",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Fiserv, grocer expand pay-by-bank effort",
+      "link": "https://www.paymentsdive.com/news/fiserv-grocer-expand-pay-by-bank-effort/816840/",
+      "description": "The payments processor said it&rsquo;s expanding a pilot with the stateside arm of the Dutch grocer Ahold Delhaize to let more U.S. customers pay directly from their banks.",
+      "published": "Tue, 07 Apr 2026 10:32:00 -0400"
+    },
+    {
+      "title": "Illinois AG defends card fee law",
+      "link": "https://www.paymentsdive.com/news/illinois-ag-defends-card-fee-law/816820/",
+      "description": "Illinois law banning card interchange fees on tax and tips doesn&rsquo;t restrict banks or card networks, the state told an appeals court.",
+      "published": "Tue, 07 Apr 2026 10:26:00 -0400"
+    },
     {
       "title": "US digital wallet use projected to grow by 2030",
       "link": "https://www.paymentsdive.com/news/us-digital-wallet-use-projected-to-grow-by-2030/816718/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/stablecoins-roll-on-as-rules-evolve/816455/",
       "description": "PayPal, Convera and Nium are among the companies racing to incorporate stablecoins in cross-border plays, even as regulators voice caution.",
       "published": "Thu, 02 Apr 2026 10:32:00 -0400"
-    },
-    {
-      "title": "Sharpton cites BNPL racial disparities",
-      "link": "https://www.paymentsdive.com/news/sharpton-cites-bnpl-racial-disparities/816466/",
-      "description": "The civil rights leader noted that Black and Hispanic consumers are more likely to use buy now, pay later loans and urged state AGs to expand their inquiry.",
-      "published": "Thu, 02 Apr 2026 10:24:02 -0400"
-    },
-    {
-      "title": "Branch CFO says IPOs are a \u2018discipline, not a deadline\u2019",
-      "link": "https://www.paymentsdive.com/news/branch-cfo-says-ipos-are-a-discipline-not-a-deadline-Matt-Peterson/816463/",
-      "description": "Matt Peterson, who joined the fintech as finance chief in late 2025, previously led an initial public offering for cloud computing services company Fastly.",
-      "published": "Thu, 02 Apr 2026 10:17:00 -0400"
     }
   ]
 }
