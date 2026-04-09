@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-08T14:01:46.858277Z",
-  "generated_date": "2026-04-08",
+  "generated_at": "2026-04-09T14:13:46.156657Z",
+  "generated_date": "2026-04-09",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "FDIC floats stablecoin guidelines, AML revamp",
+      "link": "https://www.paymentsdive.com/news/fdic-aml-revamp-occ-ncua-stablecoin-guidelines/816987/",
+      "description": "The Federal Deposit Insurance Corp. proposed a rule under the Genius Act for supervising payment stablecoin issuers.",
+      "published": "Wed, 08 Apr 2026 22:34:00 -0400"
+    },
+    {
+      "title": "How US credit card fees may ebb",
+      "link": "https://www.paymentsdive.com/news/how-us-credit-card-fees-may-ebb/816964/",
+      "description": "The Nilson Report&rsquo;s publisher explained how competition, merchants and court dynamics are influencing the evolution of interchange fees.",
+      "published": "Wed, 08 Apr 2026 10:40:00 -0400"
+    },
+    {
+      "title": "Stablecoins to infiltrate market, investors say",
+      "link": "https://www.paymentsdive.com/news/stablecoins-to-infiltrate-market-investors-say/816939/",
+      "description": "The digital assets have a role within &ldquo;hybrid&rdquo; payment systems but can&rsquo;t supplant some older systems, a QED Investors panel predicts.",
+      "published": "Wed, 08 Apr 2026 10:15:00 -0400"
+    },
     {
       "title": "Fiserv, grocer expand pay-by-bank effort",
       "link": "https://www.paymentsdive.com/news/fiserv-grocer-expand-pay-by-bank-effort/816840/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/spons/how-orderco-is-modernizing-procurement-and-spend-management-at-scale/816510/",
       "description": "How Order.co automates procurement at scale with virtual cards and spend controls.",
       "published": "Mon, 06 Apr 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Card volume rises with digital boost",
-      "link": "https://www.paymentsdive.com/news/card-volume-rises-with-digital-boost/816600/",
-      "description": "Volume on Visa, Mastercard, American Express and Discover cards issued in the U.S. climbed 6.4% last year over 2024, with an assist from digital plays, according to Nilson Report&rsquo;s publisher.",
-      "published": "Fri, 03 Apr 2026 11:17:00 -0400"
-    },
-    {
-      "title": "Walmart alumni open POS test lab",
-      "link": "https://www.paymentsdive.com/news/walmart-alumni-open-pos-test-lab/816556/",
-      "description": "As retailers seek omnichannel sales solutions, a new vendor-neutral demonstration lab offers point-of-sale equipment evaluation.",
-      "published": "Fri, 03 Apr 2026 09:43:00 -0400"
-    },
-    {
-      "title": "Stablecoins roll on as rules evolve",
-      "link": "https://www.paymentsdive.com/news/stablecoins-roll-on-as-rules-evolve/816455/",
-      "description": "PayPal, Convera and Nium are among the companies racing to incorporate stablecoins in cross-border plays, even as regulators voice caution.",
-      "published": "Thu, 02 Apr 2026 10:32:00 -0400"
     }
   ]
 }
