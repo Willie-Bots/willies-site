@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-09T14:13:46.156657Z",
-  "generated_date": "2026-04-09",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-04-10T13:49:28.081572Z",
+  "generated_date": "2026-04-10",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Fed mulls FedNow x-border use",
+      "link": "https://www.paymentsdive.com/news/fed-mulls-fednow-x-border-use/817041/",
+      "description": "The Federal Reserve proposed letting participants in the real-time payments system use intermediaries to make cross-border fund transfers.",
+      "published": "Thu, 09 Apr 2026 10:06:00 -0400"
+    },
+    {
+      "title": "CHIPS network boasts daily payment growth",
+      "link": "https://www.paymentsdive.com/news/chips-network-boasts-daily-payment-growth/817066/",
+      "description": "CHIPS network growth underscores its rising use for large-value domestic and cross-border payments, The Clearing House said.",
+      "published": "Thu, 09 Apr 2026 10:04:00 -0400"
+    },
     {
       "title": "FDIC floats stablecoin guidelines, AML revamp",
       "link": "https://www.paymentsdive.com/news/fdic-aml-revamp-occ-ncua-stablecoin-guidelines/816987/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/us-digital-wallet-use-projected-to-grow-by-2030/816718/",
       "description": "U.S. consumers will shift away from credit cards and toward digital wallets in the coming years, WorldPay predicts in a report on consumer payments.",
       "published": "Mon, 06 Apr 2026 11:26:42 -0400"
-    },
-    {
-      "title": "Global cyber fraud attacks rose last year",
-      "link": "https://www.paymentsdive.com/news/global-cyber-fraud-attacks-rose-last-year/816717/",
-      "description": "The rate of cyber fraud in transactions climbed worldwide last year, with fraudsters increasing their attacks on desktop computers, according to a report from LexisNexis Risk Solutions.",
-      "published": "Mon, 06 Apr 2026 10:52:00 -0400"
-    },
-    {
-      "title": "How Order.co is modernizing procurement and spend management at scale",
-      "link": "https://www.paymentsdive.com/spons/how-orderco-is-modernizing-procurement-and-spend-management-at-scale/816510/",
-      "description": "How Order.co automates procurement at scale with virtual cards and spend controls.",
-      "published": "Mon, 06 Apr 2026 05:00:00 -0400"
     }
   ]
 }
