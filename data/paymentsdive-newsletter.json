@@ -1,9 +1,33 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-10T13:49:28.081572Z",
-  "generated_date": "2026-04-10",
+  "generated_at": "2026-04-11T13:30:23.487851Z",
+  "generated_date": "2026-04-11",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Repay faces Kubra purchase opposition",
+      "link": "https://www.paymentsdive.com/news/repay-faces-kubra-purchase-opposition/817219/",
+      "description": "A major shareholder of the digital bill payment services provider bashed its plan to buy a bill payment peer.",
+      "published": "Fri, 10 Apr 2026 10:59:00 -0400"
+    },
+    {
+      "title": "Adyen tool speeds business payments",
+      "link": "https://www.paymentsdive.com/news/fintech-firm-adyen-tackles-cfos-treasury-fragmentation-problem/817206/",
+      "description": "Financial operations at global enterprises remain &ldquo;stubbornly complex,&rdquo; as treasury teams juggle multiple banking and payment systems, the company said.",
+      "published": "Fri, 10 Apr 2026 10:51:00 -0400"
+    },
+    {
+      "title": "Bolt lays off roughly 30% of staff in AI push",
+      "link": "https://www.paymentsdive.com/news/bolt-layoffs-ai-30-percent-breslow-valuation-drop/817040/",
+      "description": "The workforce reduction marks the fintech&rsquo;s fourth round of cuts since 2022, as it has navigated leadership changes.",
+      "published": "Fri, 10 Apr 2026 09:38:00 -0400"
+    },
+    {
+      "title": "Why the subscription model should change",
+      "link": "https://www.paymentsdive.com/news/why-the-subscription-model-should-change/817186/",
+      "description": "&ldquo;The question isn&#39;t whether government intervention in subscription cancellation policies is good or bad,&rdquo; writes one industry executive.",
+      "published": "Fri, 10 Apr 2026 09:26:28 -0400"
+    },
     {
       "title": "Fed mulls FedNow x-border use",
       "link": "https://www.paymentsdive.com/news/fed-mulls-fednow-x-border-use/817041/",
@@ -27,30 +51,6 @@
       "link": "https://www.paymentsdive.com/news/how-us-credit-card-fees-may-ebb/816964/",
       "description": "The Nilson Report&rsquo;s publisher explained how competition, merchants and court dynamics are influencing the evolution of interchange fees.",
       "published": "Wed, 08 Apr 2026 10:40:00 -0400"
-    },
-    {
-      "title": "Stablecoins to infiltrate market, investors say",
-      "link": "https://www.paymentsdive.com/news/stablecoins-to-infiltrate-market-investors-say/816939/",
-      "description": "The digital assets have a role within &ldquo;hybrid&rdquo; payment systems but can&rsquo;t supplant some older systems, a QED Investors panel predicts.",
-      "published": "Wed, 08 Apr 2026 10:15:00 -0400"
-    },
-    {
-      "title": "Fiserv, grocer expand pay-by-bank effort",
-      "link": "https://www.paymentsdive.com/news/fiserv-grocer-expand-pay-by-bank-effort/816840/",
-      "description": "The payments processor said it&rsquo;s expanding a pilot with the stateside arm of the Dutch grocer Ahold Delhaize to let more U.S. customers pay directly from their banks.",
-      "published": "Tue, 07 Apr 2026 10:32:00 -0400"
-    },
-    {
-      "title": "Illinois AG defends card fee law",
-      "link": "https://www.paymentsdive.com/news/illinois-ag-defends-card-fee-law/816820/",
-      "description": "Illinois law banning card interchange fees on tax and tips doesn&rsquo;t restrict banks or card networks, the state told an appeals court.",
-      "published": "Tue, 07 Apr 2026 10:26:00 -0400"
-    },
-    {
-      "title": "US digital wallet use projected to grow by 2030",
-      "link": "https://www.paymentsdive.com/news/us-digital-wallet-use-projected-to-grow-by-2030/816718/",
-      "description": "U.S. consumers will shift away from credit cards and toward digital wallets in the coming years, WorldPay predicts in a report on consumer payments.",
-      "published": "Mon, 06 Apr 2026 11:26:42 -0400"
     }
   ]
 }
