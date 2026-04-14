@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-13T14:07:04.538359Z",
-  "generated_date": "2026-04-13",
+  "generated_at": "2026-04-14T14:11:36.320451Z",
+  "generated_date": "2026-04-14",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Which Discover jobs are disappearing",
+      "link": "https://www.paymentsdive.com/news/which-discover-jobs-are-disappearing/817330/",
+      "description": "As Capital One integrates the card business, it&rsquo;s eliminating more than 100 application engineer jobs.",
+      "published": "Mon, 13 Apr 2026 11:11:00 -0400"
+    },
+    {
+      "title": "Expensive tabs shift to mobile: Stripe",
+      "link": "https://www.paymentsdive.com/news/expensive-tabs-shift-to-mobile-stripe/817309/",
+      "description": "Digital wallets are driving a migration of more expensive purchases from desktop to mobile devices, a Stripe report found.",
+      "published": "Mon, 13 Apr 2026 10:54:00 -0400"
+    },
     {
       "title": "Repay faces Kubra purchase opposition",
       "link": "https://www.paymentsdive.com/news/repay-faces-kubra-purchase-opposition/817219/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/chips-network-boasts-daily-payment-growth/817066/",
       "description": "CHIPS network growth underscores its rising use for large-value domestic and cross-border payments, The Clearing House said.",
       "published": "Thu, 09 Apr 2026 10:04:00 -0400"
-    },
-    {
-      "title": "FDIC floats stablecoin guidelines, AML revamp",
-      "link": "https://www.paymentsdive.com/news/fdic-aml-revamp-occ-ncua-stablecoin-guidelines/816987/",
-      "description": "The Federal Deposit Insurance Corp. proposed a rule under the Genius Act for supervising payment stablecoin issuers.",
-      "published": "Wed, 08 Apr 2026 22:34:00 -0400"
-    },
-    {
-      "title": "How US credit card fees may ebb",
-      "link": "https://www.paymentsdive.com/news/how-us-credit-card-fees-may-ebb/816964/",
-      "description": "The Nilson Report&rsquo;s publisher explained how competition, merchants and court dynamics are influencing the evolution of interchange fees.",
-      "published": "Wed, 08 Apr 2026 10:40:00 -0400"
     }
   ]
 }
