@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-14T14:11:36.320451Z",
-  "generated_date": "2026-04-14",
+  "generated_at": "2026-04-15T14:04:35.004560Z",
+  "generated_date": "2026-04-15",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Stablecoins remain little used for payments",
+      "link": "https://www.paymentsdive.com/news/stablecoins-remain-little-used-for-payments/817449/",
+      "description": "Less than one percent of stablecoins are used for payments, and about a fifth aren&rsquo;t being used at all, a Kansas City Fed researcher estimated.",
+      "published": "Tue, 14 Apr 2026 11:10:00 -0400"
+    },
+    {
+      "title": "DailyPay pushes back against NY AG",
+      "link": "https://www.paymentsdive.com/news/dailypay-pushes-back-against-ny-ag/817389/",
+      "description": "The earned wage access provider says its relationship with employers means it&rsquo;s not a consumer lender, as the New York attorney general alleges.",
+      "published": "Tue, 14 Apr 2026 09:18:00 -0400"
+    },
     {
       "title": "Which Discover jobs are disappearing",
       "link": "https://www.paymentsdive.com/news/which-discover-jobs-are-disappearing/817330/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/why-the-subscription-model-should-change/817186/",
       "description": "&ldquo;The question isn&#39;t whether government intervention in subscription cancellation policies is good or bad,&rdquo; writes one industry executive.",
       "published": "Fri, 10 Apr 2026 09:26:28 -0400"
-    },
-    {
-      "title": "Fed mulls FedNow x-border use",
-      "link": "https://www.paymentsdive.com/news/fed-mulls-fednow-x-border-use/817041/",
-      "description": "The Federal Reserve proposed letting participants in the real-time payments system use intermediaries to make cross-border fund transfers.",
-      "published": "Thu, 09 Apr 2026 10:06:00 -0400"
-    },
-    {
-      "title": "CHIPS network boasts daily payment growth",
-      "link": "https://www.paymentsdive.com/news/chips-network-boasts-daily-payment-growth/817066/",
-      "description": "CHIPS network growth underscores its rising use for large-value domestic and cross-border payments, The Clearing House said.",
-      "published": "Thu, 09 Apr 2026 10:04:00 -0400"
     }
   ]
 }
