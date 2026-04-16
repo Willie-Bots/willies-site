@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-15T14:04:35.004560Z",
-  "generated_date": "2026-04-15",
+  "generated_at": "2026-04-16T14:12:12.208369Z",
+  "generated_date": "2026-04-16",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "JPMorgan revenue rises on payments, card income",
+      "link": "https://www.paymentsdive.com/news/jpmorgan-revenue-rises-on-payments-card-income/817567/",
+      "description": "The largest U.S. bank benefited from corporate and consumer demand for its services in the first quarter despite macroeconomic turmoil.",
+      "published": "Wed, 15 Apr 2026 11:17:00 -0400"
+    },
+    {
+      "title": "Warren pounds X Money plans",
+      "link": "https://www.paymentsdive.com/news/warren-pounds-x-money-plans/817555/",
+      "description": "Sen. Elizabeth Warren demanded information from billionaire Elon Musk about his plans to launch a digital wallet this month.",
+      "published": "Wed, 15 Apr 2026 10:29:00 -0400"
+    },
     {
       "title": "Stablecoins remain little used for payments",
       "link": "https://www.paymentsdive.com/news/stablecoins-remain-little-used-for-payments/817449/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fintech-firm-adyen-tackles-cfos-treasury-fragmentation-problem/817206/",
       "description": "Financial operations at global enterprises remain &ldquo;stubbornly complex,&rdquo; as treasury teams juggle multiple banking and payment systems, the company said.",
       "published": "Fri, 10 Apr 2026 10:51:00 -0400"
-    },
-    {
-      "title": "Bolt lays off roughly 30% of staff in AI push",
-      "link": "https://www.paymentsdive.com/news/bolt-layoffs-ai-30-percent-breslow-valuation-drop/817040/",
-      "description": "The workforce reduction marks the fintech&rsquo;s fourth round of cuts since 2022, as it has navigated leadership changes.",
-      "published": "Fri, 10 Apr 2026 09:38:00 -0400"
-    },
-    {
-      "title": "Why the subscription model should change",
-      "link": "https://www.paymentsdive.com/news/why-the-subscription-model-should-change/817186/",
-      "description": "&ldquo;The question isn&#39;t whether government intervention in subscription cancellation policies is good or bad,&rdquo; writes one industry executive.",
-      "published": "Fri, 10 Apr 2026 09:26:28 -0400"
     }
   ]
 }
