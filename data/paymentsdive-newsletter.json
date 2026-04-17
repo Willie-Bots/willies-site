@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-16T14:12:12.208369Z",
-  "generated_date": "2026-04-16",
+  "generated_at": "2026-04-17T13:58:14.552820Z",
+  "generated_date": "2026-04-17",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "U.S. Bank eyes Amazon tie-up for small-biz boost",
+      "link": "https://www.paymentsdive.com/news/us-bank-amazon-credit-card-partnership-smb-business-banking/817726/",
+      "description": "The lender aims to pitch banking services to the 700,000 small-business owners it will gain exposure to through a credit card partnership with Amazon.",
+      "published": "Thu, 16 Apr 2026 11:55:01 -0400"
+    },
+    {
+      "title": "Visa, Mastercard settle merchant claims",
+      "link": "https://www.paymentsdive.com/news/visa-mastercard-settle-merchant-claims/817693/",
+      "description": "About 65 retailers suing the networks over card swipe fees in a New York case have now settled claims.",
+      "published": "Thu, 16 Apr 2026 10:31:00 -0400"
+    },
+    {
+      "title": "OCC plans to preempt Illinois interchange law",
+      "link": "https://www.paymentsdive.com/news/occ-plans-to-preempt-illinois-interchange-law/817618/",
+      "description": "The Trump administration is reviewing an executive order that would preempt the state&rsquo;s law aimed at eliminating card interchange fees on taxes and tips.",
+      "published": "Thu, 16 Apr 2026 09:53:00 -0400"
+    },
     {
       "title": "JPMorgan revenue rises on payments, card income",
       "link": "https://www.paymentsdive.com/news/jpmorgan-revenue-rises-on-payments-card-income/817567/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/which-discover-jobs-are-disappearing/817330/",
       "description": "As Capital One integrates the card business, it&rsquo;s eliminating more than 100 application engineer jobs.",
       "published": "Mon, 13 Apr 2026 11:11:00 -0400"
-    },
-    {
-      "title": "Expensive tabs shift to mobile: Stripe",
-      "link": "https://www.paymentsdive.com/news/expensive-tabs-shift-to-mobile-stripe/817309/",
-      "description": "Digital wallets are driving a migration of more expensive purchases from desktop to mobile devices, a Stripe report found.",
-      "published": "Mon, 13 Apr 2026 10:54:00 -0400"
-    },
-    {
-      "title": "Repay faces Kubra purchase opposition",
-      "link": "https://www.paymentsdive.com/news/repay-faces-kubra-purchase-opposition/817219/",
-      "description": "A major shareholder of the digital bill payment services provider bashed its plan to buy a bill payment peer.",
-      "published": "Fri, 10 Apr 2026 10:59:00 -0400"
-    },
-    {
-      "title": "Adyen tool speeds business payments",
-      "link": "https://www.paymentsdive.com/news/fintech-firm-adyen-tackles-cfos-treasury-fragmentation-problem/817206/",
-      "description": "Financial operations at global enterprises remain &ldquo;stubbornly complex,&rdquo; as treasury teams juggle multiple banking and payment systems, the company said.",
-      "published": "Fri, 10 Apr 2026 10:51:00 -0400"
     }
   ]
 }
