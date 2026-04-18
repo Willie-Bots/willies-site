@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-17T13:58:14.552820Z",
-  "generated_date": "2026-04-17",
+  "generated_at": "2026-04-18T13:35:31.473503Z",
+  "generated_date": "2026-04-18",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "How EWA improves workers\u2019 lives",
+      "link": "https://www.paymentsdive.com/news/how-ewa-improves-workers-lives/817825/",
+      "description": "Earned wage access &ldquo;users are savvy managers of their money who value EWA products, use them responsibly, and have positive experiences,&rdquo; writes a trade group leader.",
+      "published": "Fri, 17 Apr 2026 10:57:12 -0400"
+    },
+    {
+      "title": "Amex to buy Hypercard",
+      "link": "https://www.paymentsdive.com/news/amex-to-buy-hypercard/817795/",
+      "description": "The card company has agreed to purchase the agentic expense management firm backed by OpenAI CEO Sam Altman.",
+      "published": "Fri, 17 Apr 2026 10:09:00 -0400"
+    },
     {
       "title": "U.S. Bank eyes Amazon tie-up for small-biz boost",
       "link": "https://www.paymentsdive.com/news/us-bank-amazon-credit-card-partnership-smb-business-banking/817726/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/stablecoins-remain-little-used-for-payments/817449/",
       "description": "Less than one percent of stablecoins are used for payments, and about a fifth aren&rsquo;t being used at all, a Kansas City Fed researcher estimated.",
       "published": "Tue, 14 Apr 2026 11:10:00 -0400"
-    },
-    {
-      "title": "DailyPay pushes back against NY AG",
-      "link": "https://www.paymentsdive.com/news/dailypay-pushes-back-against-ny-ag/817389/",
-      "description": "The earned wage access provider says its relationship with employers means it&rsquo;s not a consumer lender, as the New York attorney general alleges.",
-      "published": "Tue, 14 Apr 2026 09:18:00 -0400"
-    },
-    {
-      "title": "Which Discover jobs are disappearing",
-      "link": "https://www.paymentsdive.com/news/which-discover-jobs-are-disappearing/817330/",
-      "description": "As Capital One integrates the card business, it&rsquo;s eliminating more than 100 application engineer jobs.",
-      "published": "Mon, 13 Apr 2026 11:11:00 -0400"
     }
   ]
 }
