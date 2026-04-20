@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-19T13:34:11.666355Z",
-  "generated_date": "2026-04-19",
+  "generated_at": "2026-04-20T14:11:12.284388Z",
+  "generated_date": "2026-04-20",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "The business case for blockchain in B2B payments",
+      "link": "https://www.paymentsdive.com/spons/the-business-case-for-blockchain-in-b2b-payments/817662/",
+      "description": "Increased regulatory clarity and the rise of stablecoin infrastructure have transformed how digital assets are used.",
+      "published": "Mon, 20 Apr 2026 05:00:00 -0400"
+    },
+    {
+      "title": "Tapping into the latest emerging payment solution trends",
+      "link": "https://www.paymentsdive.com/spons/tapping-into-the-latest-emerging-payment-solution-trends/817649/",
+      "description": "Strategically integrating these solutions can help deliver the seamless shopping customers demand.",
+      "published": "Mon, 20 Apr 2026 05:00:00 -0400"
+    },
     {
       "title": "How EWA improves workers\u2019 lives",
       "link": "https://www.paymentsdive.com/news/how-ewa-improves-workers-lives/817825/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/jpmorgan-revenue-rises-on-payments-card-income/817567/",
       "description": "The largest U.S. bank benefited from corporate and consumer demand for its services in the first quarter despite macroeconomic turmoil.",
       "published": "Wed, 15 Apr 2026 11:17:00 -0400"
-    },
-    {
-      "title": "Warren pounds X Money plans",
-      "link": "https://www.paymentsdive.com/news/warren-pounds-x-money-plans/817555/",
-      "description": "Sen. Elizabeth Warren demanded information from billionaire Elon Musk about his plans to launch a digital wallet this month.",
-      "published": "Wed, 15 Apr 2026 10:29:00 -0400"
-    },
-    {
-      "title": "Stablecoins remain little used for payments",
-      "link": "https://www.paymentsdive.com/news/stablecoins-remain-little-used-for-payments/817449/",
-      "description": "Less than one percent of stablecoins are used for payments, and about a fifth aren&rsquo;t being used at all, a Kansas City Fed researcher estimated.",
-      "published": "Tue, 14 Apr 2026 11:10:00 -0400"
     }
   ]
 }
