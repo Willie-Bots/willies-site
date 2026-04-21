@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-20T14:11:12.284388Z",
-  "generated_date": "2026-04-20",
+  "generated_at": "2026-04-21T14:08:08.554205Z",
+  "generated_date": "2026-04-21",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "How the Visa-Mastercard card fee case may end",
+      "link": "https://www.paymentsdive.com/news/how-the-visa-mastercard-card-fee-case-may-end/817852/",
+      "description": "A federal court is likely to weigh how much a proposed settlement over interchange fees differs from a pact that was rejected two years ago.",
+      "published": "Mon, 20 Apr 2026 10:23:00 -0400"
+    },
+    {
+      "title": "FIS, Barclays extend core banking tie",
+      "link": "https://www.paymentsdive.com/news/fis-barclays-extend-core-banking-tie/817930/",
+      "description": "The payments processor has won a multi-year extension of its core banking technology contract with the British financial institution.",
+      "published": "Mon, 20 Apr 2026 10:02:00 -0400"
+    },
     {
       "title": "The business case for blockchain in B2B payments",
       "link": "https://www.paymentsdive.com/spons/the-business-case-for-blockchain-in-b2b-payments/817662/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/visa-mastercard-settle-merchant-claims/817693/",
       "description": "About 65 retailers suing the networks over card swipe fees in a New York case have now settled claims.",
       "published": "Thu, 16 Apr 2026 10:31:00 -0400"
-    },
-    {
-      "title": "OCC plans to preempt Illinois interchange law",
-      "link": "https://www.paymentsdive.com/news/occ-plans-to-preempt-illinois-interchange-law/817618/",
-      "description": "The Trump administration is reviewing an executive order that would preempt the state&rsquo;s law aimed at eliminating card interchange fees on taxes and tips.",
-      "published": "Thu, 16 Apr 2026 09:53:00 -0400"
-    },
-    {
-      "title": "JPMorgan revenue rises on payments, card income",
-      "link": "https://www.paymentsdive.com/news/jpmorgan-revenue-rises-on-payments-card-income/817567/",
-      "description": "The largest U.S. bank benefited from corporate and consumer demand for its services in the first quarter despite macroeconomic turmoil.",
-      "published": "Wed, 15 Apr 2026 11:17:00 -0400"
     }
   ]
 }
