@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-21T14:08:08.554205Z",
-  "generated_date": "2026-04-21",
+  "generated_at": "2026-04-22T14:08:27.844379Z",
+  "generated_date": "2026-04-22",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "ACH Network starts 2026 with surge",
+      "link": "https://www.paymentsdive.com/news/ach-network-starts-2026-with-surge/818103/",
+      "description": "The payments network saw growth across healthcare, peer-to-peer, online and direct deposits in the first quarter, pushing the volume value past $24 trillion.",
+      "published": "Tue, 21 Apr 2026 14:29:00 -0400"
+    },
+    {
+      "title": "Fintechs push bill for Fed payment rail access",
+      "link": "https://www.paymentsdive.com/news/fintechs-push-bill-for-fed-payment-rail-access/818048/",
+      "description": "House legislation introduced Tuesday would let financial technology firms access Federal Reserve payments rails.",
+      "published": "Tue, 21 Apr 2026 10:18:00 -0400"
+    },
+    {
+      "title": "PayPal, NFL make connection",
+      "link": "https://www.paymentsdive.com/news/paypal-nfl-make-connection/818072/",
+      "description": "The digital payments pioneer will team with the professional football league in a bid to move money between fans.",
+      "published": "Tue, 21 Apr 2026 10:08:00 -0400"
+    },
     {
       "title": "How the Visa-Mastercard card fee case may end",
       "link": "https://www.paymentsdive.com/news/how-the-visa-mastercard-card-fee-case-may-end/817852/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/how-ewa-improves-workers-lives/817825/",
       "description": "Earned wage access &ldquo;users are savvy managers of their money who value EWA products, use them responsibly, and have positive experiences,&rdquo; writes a trade group leader.",
       "published": "Fri, 17 Apr 2026 10:57:12 -0400"
-    },
-    {
-      "title": "Amex to buy Hypercard",
-      "link": "https://www.paymentsdive.com/news/amex-to-buy-hypercard/817795/",
-      "description": "The card company has agreed to purchase the agentic expense management firm backed by OpenAI CEO Sam Altman.",
-      "published": "Fri, 17 Apr 2026 10:09:00 -0400"
-    },
-    {
-      "title": "U.S. Bank eyes Amazon tie-up for small-biz boost",
-      "link": "https://www.paymentsdive.com/news/us-bank-amazon-credit-card-partnership-smb-business-banking/817726/",
-      "description": "The lender aims to pitch banking services to the 700,000 small-business owners it will gain exposure to through a credit card partnership with Amazon.",
-      "published": "Thu, 16 Apr 2026 11:55:01 -0400"
-    },
-    {
-      "title": "Visa, Mastercard settle merchant claims",
-      "link": "https://www.paymentsdive.com/news/visa-mastercard-settle-merchant-claims/817693/",
-      "description": "About 65 retailers suing the networks over card swipe fees in a New York case have now settled claims.",
-      "published": "Thu, 16 Apr 2026 10:31:00 -0400"
     }
   ]
 }
