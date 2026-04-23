@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-22T14:08:27.844379Z",
-  "generated_date": "2026-04-22",
+  "generated_at": "2026-04-23T14:10:39.836629Z",
+  "generated_date": "2026-04-23",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Repay attracts $1B takeover offer",
+      "link": "https://www.paymentsdive.com/news/repay-attracts-1b-takeover-offer/818178/",
+      "description": "The payments processing services company is the target of an unsolicited offer from an investor, just as it&rsquo;s trying to acquire another company.",
+      "published": "Wed, 22 Apr 2026 10:24:00 -0400"
+    },
     {
       "title": "ACH Network starts 2026 with surge",
       "link": "https://www.paymentsdive.com/news/ach-network-starts-2026-with-surge/818103/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/spons/tapping-into-the-latest-emerging-payment-solution-trends/817649/",
       "description": "Strategically integrating these solutions can help deliver the seamless shopping customers demand.",
       "published": "Mon, 20 Apr 2026 05:00:00 -0400"
-    },
-    {
-      "title": "How EWA improves workers\u2019 lives",
-      "link": "https://www.paymentsdive.com/news/how-ewa-improves-workers-lives/817825/",
-      "description": "Earned wage access &ldquo;users are savvy managers of their money who value EWA products, use them responsibly, and have positive experiences,&rdquo; writes a trade group leader.",
-      "published": "Fri, 17 Apr 2026 10:57:12 -0400"
     }
   ]
 }
