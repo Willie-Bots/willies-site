@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-23T14:10:39.836629Z",
-  "generated_date": "2026-04-23",
+  "generated_at": "2026-04-24T14:05:48.225143Z",
+  "generated_date": "2026-04-24",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Amex CEO gushes over next gen",
+      "link": "https://www.paymentsdive.com/news/amex-ceo-gushes-over-next-gen/818320/",
+      "description": "The card company&rsquo;s CEO, Steve Squeri, believes the younger cohort of Amex card holders are suited to withstand economic storms.",
+      "published": "Thu, 23 Apr 2026 10:44:00 -0400"
+    },
+    {
+      "title": "Visa, Mastercard face new suit over card fees",
+      "link": "https://www.paymentsdive.com/news/visa-mastercard-face-new-suit-over-card-fees/818294/",
+      "description": "Three plaintiffs say a 2019 settlement in card fee litigation should not give the card networks years of legal immunity for antitrust claims.",
+      "published": "Thu, 23 Apr 2026 10:15:00 -0400"
+    },
     {
       "title": "Repay attracts $1B takeover offer",
       "link": "https://www.paymentsdive.com/news/repay-attracts-1b-takeover-offer/818178/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fis-barclays-extend-core-banking-tie/817930/",
       "description": "The payments processor has won a multi-year extension of its core banking technology contract with the British financial institution.",
       "published": "Mon, 20 Apr 2026 10:02:00 -0400"
-    },
-    {
-      "title": "The business case for blockchain in B2B payments",
-      "link": "https://www.paymentsdive.com/spons/the-business-case-for-blockchain-in-b2b-payments/817662/",
-      "description": "Increased regulatory clarity and the rise of stablecoin infrastructure have transformed how digital assets are used.",
-      "published": "Mon, 20 Apr 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Tapping into the latest emerging payment solution trends",
-      "link": "https://www.paymentsdive.com/spons/tapping-into-the-latest-emerging-payment-solution-trends/817649/",
-      "description": "Strategically integrating these solutions can help deliver the seamless shopping customers demand.",
-      "published": "Mon, 20 Apr 2026 05:00:00 -0400"
     }
   ]
 }
