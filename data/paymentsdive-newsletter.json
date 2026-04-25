@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-24T14:05:48.225143Z",
-  "generated_date": "2026-04-24",
+  "generated_at": "2026-04-25T13:39:04.687556Z",
+  "generated_date": "2026-04-25",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Mastercard: Revenue growth, emissions reduction can coincide",
+      "link": "https://www.paymentsdive.com/news/mastercard-grows-revenue-reduces-emissions-for-third-straight-year/818339/",
+      "description": "The card network reduced its corporate carbon footprint again last year, even as revenue grew, according to an Earth Day blog post this week.",
+      "published": "Fri, 24 Apr 2026 11:28:50 -0400"
+    },
+    {
+      "title": "Why credit card rate caps hurt consumers, small businesses",
+      "link": "https://www.paymentsdive.com/news/why-credit-card-rate-caps-hurt-consumers-small-businesses/818381/",
+      "description": "&ldquo;Affordability is not just about the cost of credit,&quot; a former Treasury official writes. &quot;It is about whether credit is available at all.&rdquo;",
+      "published": "Fri, 24 Apr 2026 10:27:00 -0400"
+    },
+    {
+      "title": "What drives real-time payment growth",
+      "link": "https://www.paymentsdive.com/news/what-drives-real-time-payment-growth/818387/",
+      "description": "Corporations adopt faster digital payments based on their priorities and the rise of digital assets, an HSBC payments executive said.",
+      "published": "Fri, 24 Apr 2026 10:07:00 -0400"
+    },
     {
       "title": "Amex CEO gushes over next gen",
       "link": "https://www.paymentsdive.com/news/amex-ceo-gushes-over-next-gen/818320/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fintechs-push-bill-for-fed-payment-rail-access/818048/",
       "description": "House legislation introduced Tuesday would let financial technology firms access Federal Reserve payments rails.",
       "published": "Tue, 21 Apr 2026 10:18:00 -0400"
-    },
-    {
-      "title": "PayPal, NFL make connection",
-      "link": "https://www.paymentsdive.com/news/paypal-nfl-make-connection/818072/",
-      "description": "The digital payments pioneer will team with the professional football league in a bid to move money between fans.",
-      "published": "Tue, 21 Apr 2026 10:08:00 -0400"
-    },
-    {
-      "title": "How the Visa-Mastercard card fee case may end",
-      "link": "https://www.paymentsdive.com/news/how-the-visa-mastercard-card-fee-case-may-end/817852/",
-      "description": "A federal court is likely to weigh how much a proposed settlement over interchange fees differs from a pact that was rejected two years ago.",
-      "published": "Mon, 20 Apr 2026 10:23:00 -0400"
-    },
-    {
-      "title": "FIS, Barclays extend core banking tie",
-      "link": "https://www.paymentsdive.com/news/fis-barclays-extend-core-banking-tie/817930/",
-      "description": "The payments processor has won a multi-year extension of its core banking technology contract with the British financial institution.",
-      "published": "Mon, 20 Apr 2026 10:02:00 -0400"
     }
   ]
 }
