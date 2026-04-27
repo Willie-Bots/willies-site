@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-26T13:40:27.490127Z",
-  "generated_date": "2026-04-26",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
+  "generated_at": "2026-04-27T14:25:48.940961Z",
+  "generated_date": "2026-04-27",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Tactics to combat fraud and protect your business reputation",
+      "link": "https://www.paymentsdive.com/spons/tactics-to-combat-fraud-and-protect-your-business-reputation/818031/",
+      "description": "Businesses can adopt tools like tokenization to combat fraud and protect their reputations.",
+      "published": "Mon, 27 Apr 2026 05:00:00 -0400"
+    },
     {
       "title": "Mastercard: Revenue growth, emissions reduction can coincide",
       "link": "https://www.paymentsdive.com/news/mastercard-grows-revenue-reduces-emissions-for-third-straight-year/818339/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/ach-network-starts-2026-with-surge/818103/",
       "description": "The payments network saw growth across healthcare, peer-to-peer, online and direct deposits in the first quarter, pushing the volume value past $24 trillion.",
       "published": "Tue, 21 Apr 2026 14:29:00 -0400"
-    },
-    {
-      "title": "Fintechs push bill for Fed payment rail access",
-      "link": "https://www.paymentsdive.com/news/fintechs-push-bill-for-fed-payment-rail-access/818048/",
-      "description": "House legislation introduced Tuesday would let financial technology firms access Federal Reserve payments rails.",
-      "published": "Tue, 21 Apr 2026 10:18:00 -0400"
     }
   ]
 }
