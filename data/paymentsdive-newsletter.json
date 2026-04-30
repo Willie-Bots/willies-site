@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-29T14:30:09.844664Z",
-  "generated_date": "2026-04-29",
+  "generated_at": "2026-04-30T14:23:09.100303Z",
+  "generated_date": "2026-04-30",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Mercury nabs conditional OCC charter",
+      "link": "https://www.paymentsdive.com/news/mercury-fintech-nabs-conditional-occ-charter/818722/",
+      "description": "The fintech has received conditional approval four months after it applied for a national bank charter, when it named a SoFi alum as CEO of the proposed Mercury Bank.",
+      "published": "Wed, 29 Apr 2026 10:39:22 -0400"
+    },
+    {
+      "title": "Amex pushes for agentic standards",
+      "link": "https://www.paymentsdive.com/news/amex-pushes-for-agentic-standards/818782/",
+      "description": "The credit card company has offered customers protections for bot shopping, and it&rsquo;s urging industry players to embrace a shared standard.",
+      "published": "Wed, 29 Apr 2026 10:12:00 -0400"
+    },
+    {
+      "title": "Visa CEO envisions stablecoin, agentic benefit",
+      "link": "https://www.paymentsdive.com/news/visa-ceo-envisions-stablecoin-agentic-benefit/818801/",
+      "description": "The card network giant is trying to position its services business as an essential infrastructure component in stablecoins and agentic commerce.",
+      "published": "Wed, 29 Apr 2026 09:44:00 -0400"
+    },
     {
       "title": "Nacha raises same-day ACH network limit",
       "link": "https://www.paymentsdive.com/news/nacha-raises-same-day-ach-network-limit/818688/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/sezzle-eyes-checking-accounts/818495/",
       "description": "The buy now, pay later provider is exploring additional financial services, including deposit accounts, as it seeks to build a &ldquo;super app.&rdquo;",
       "published": "Mon, 27 Apr 2026 10:30:08 -0400"
-    },
-    {
-      "title": "Tactics to combat fraud and protect your business reputation",
-      "link": "https://www.paymentsdive.com/spons/tactics-to-combat-fraud-and-protect-your-business-reputation/818031/",
-      "description": "Businesses can adopt tools like tokenization to combat fraud and protect their reputations.",
-      "published": "Mon, 27 Apr 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Mastercard: Revenue growth, emissions reduction can coincide",
-      "link": "https://www.paymentsdive.com/news/mastercard-grows-revenue-reduces-emissions-for-third-straight-year/818339/",
-      "description": "The card network reduced its corporate carbon footprint again last year, even as revenue grew, according to an Earth Day blog post this week.",
-      "published": "Fri, 24 Apr 2026 11:28:50 -0400"
-    },
-    {
-      "title": "Why credit card rate caps hurt consumers, small businesses",
-      "link": "https://www.paymentsdive.com/news/why-credit-card-rate-caps-hurt-consumers-small-businesses/818381/",
-      "description": "&ldquo;Affordability is not just about the cost of credit,&quot; a former Treasury official writes. &quot;It is about whether credit is available at all.&rdquo;",
-      "published": "Fri, 24 Apr 2026 10:27:00 -0400"
     }
   ]
 }
