@@ -1,9 +1,33 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-04-30T14:23:09.100303Z",
-  "generated_date": "2026-04-30",
+  "generated_at": "2026-05-01T13:53:44.715858Z",
+  "generated_date": "2026-05-01",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Visa, Mastercard cite travel slowdown impact",
+      "link": "https://www.paymentsdive.com/news/visa-mastercard-cite-travel-slowdown-impact/819036/",
+      "description": "While the war in Iran is depressing travel and hurting income, the card networks are leaning into stablecoins to drive future revenue growth.",
+      "published": "Thu, 30 Apr 2026 17:53:00 -0400"
+    },
+    {
+      "title": "Adyen nabs loyalty platform for $876M",
+      "link": "https://www.paymentsdive.com/news/adyen-acquire-talon-one-customer-identity-in-store-online-price-promotion-payments/818858/",
+      "description": "The deal for Talon.One will let the Dutch fintech connect a shopper&rsquo;s online and in-store interactions so promotions and pricing can be adjusted midstream.",
+      "published": "Thu, 30 Apr 2026 11:36:53 -0400"
+    },
+    {
+      "title": "Why EWS created Certos",
+      "link": "https://www.paymentsdive.com/news/why-ews-created-certos/818964/",
+      "description": "Early Warning Services wanted to do more than return to its roots. It&rsquo;s bolstering its anti-fraud services, following challenges on that front.",
+      "published": "Thu, 30 Apr 2026 10:50:00 -0400"
+    },
+    {
+      "title": "Stripe, Google partner on agentic commerce",
+      "link": "https://www.paymentsdive.com/news/stripe-google-partner-on-agentic-commerce/818915/",
+      "description": "With a Google partnership unveiled Wednesday, the payments processor is bringing agentic checkout to four of the largest AI platforms.",
+      "published": "Thu, 30 Apr 2026 08:28:24 -0400"
+    },
     {
       "title": "Mercury nabs conditional OCC charter",
       "link": "https://www.paymentsdive.com/news/mercury-fintech-nabs-conditional-occ-charter/818722/",
@@ -27,30 +51,6 @@
       "link": "https://www.paymentsdive.com/news/nacha-raises-same-day-ach-network-limit/818688/",
       "description": "Set to take effect in 2027, the new transaction limit aims to make high-value transactions for tax, payroll and other payments easier.",
       "published": "Tue, 28 Apr 2026 11:10:18 -0400"
-    },
-    {
-      "title": "Visa, Mastercard defend card fee settlement",
-      "link": "https://www.paymentsdive.com/news/visa-mastercard-defend-card-fee-settlement/818655/",
-      "description": "Large merchants argued in a Monday court hearing that card surcharges and discounts would pose significant burdens on their businesses.",
-      "published": "Tue, 28 Apr 2026 11:02:00 -0400"
-    },
-    {
-      "title": "Harnessing AI to fight fraud",
-      "link": "https://www.paymentsdive.com/news/harnessing-ai-to-fight-fraud/818676/",
-      "description": "Payments players are tapping artificial intelligence to beat back fraud bolstered by AI, and Congress may provide an assist.",
-      "published": "Tue, 28 Apr 2026 10:50:00 -0400"
-    },
-    {
-      "title": "ISO 20022 gains remain elusive",
-      "link": "https://www.paymentsdive.com/news/iso-20022-gains-remain-elusive/818550/",
-      "description": "Following increased adoption of the international standard in the U.S., companies are reaching to tap its rich data benefits.",
-      "published": "Mon, 27 Apr 2026 10:54:00 -0400"
-    },
-    {
-      "title": "Sezzle eyes checking accounts",
-      "link": "https://www.paymentsdive.com/news/sezzle-eyes-checking-accounts/818495/",
-      "description": "The buy now, pay later provider is exploring additional financial services, including deposit accounts, as it seeks to build a &ldquo;super app.&rdquo;",
-      "published": "Mon, 27 Apr 2026 10:30:08 -0400"
     }
   ]
 }
