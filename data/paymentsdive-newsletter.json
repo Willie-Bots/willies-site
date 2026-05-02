@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-01T13:53:44.715858Z",
-  "generated_date": "2026-05-01",
+  "generated_at": "2026-05-02T13:47:41.406298Z",
+  "generated_date": "2026-05-02",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Nacha confab fun included swag, mixers and games",
+      "link": "https://www.paymentsdive.com/news/nacha-confab-fun-included-swag-mixers-and-games/819082/",
+      "description": "The Smarter Faster Payments conference this week wasn&rsquo;t all work. There were games, freebies and parties to balance the heady panels.",
+      "published": "Fri, 01 May 2026 10:49:00 -0400"
+    },
+    {
+      "title": "How AI is bettering B2B payments",
+      "link": "https://www.paymentsdive.com/news/how-ai-is-bettering-b2b-payments/819048/",
+      "description": "AI is a new tool to help optimize accounts receivable, which has become a &ldquo;data science challenge&rdquo; for many large companies, Billtrust&rsquo;s CEO says.",
+      "published": "Fri, 01 May 2026 09:22:06 -0400"
+    },
+    {
+      "title": "Tourism group decries credit card bill",
+      "link": "https://www.paymentsdive.com/news/tourism-group-decries-credit-card-bill/818634/",
+      "description": "The organization backed by the Electronic Payments Coalition attacked the Consumer Credit Card Competition Act proposal.",
+      "published": "Fri, 01 May 2026 08:31:17 -0400"
+    },
     {
       "title": "Visa, Mastercard cite travel slowdown impact",
       "link": "https://www.paymentsdive.com/news/visa-mastercard-cite-travel-slowdown-impact/819036/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/mercury-fintech-nabs-conditional-occ-charter/818722/",
       "description": "The fintech has received conditional approval four months after it applied for a national bank charter, when it named a SoFi alum as CEO of the proposed Mercury Bank.",
       "published": "Wed, 29 Apr 2026 10:39:22 -0400"
-    },
-    {
-      "title": "Amex pushes for agentic standards",
-      "link": "https://www.paymentsdive.com/news/amex-pushes-for-agentic-standards/818782/",
-      "description": "The credit card company has offered customers protections for bot shopping, and it&rsquo;s urging industry players to embrace a shared standard.",
-      "published": "Wed, 29 Apr 2026 10:12:00 -0400"
-    },
-    {
-      "title": "Visa CEO envisions stablecoin, agentic benefit",
-      "link": "https://www.paymentsdive.com/news/visa-ceo-envisions-stablecoin-agentic-benefit/818801/",
-      "description": "The card network giant is trying to position its services business as an essential infrastructure component in stablecoins and agentic commerce.",
-      "published": "Wed, 29 Apr 2026 09:44:00 -0400"
-    },
-    {
-      "title": "Nacha raises same-day ACH network limit",
-      "link": "https://www.paymentsdive.com/news/nacha-raises-same-day-ach-network-limit/818688/",
-      "description": "Set to take effect in 2027, the new transaction limit aims to make high-value transactions for tax, payroll and other payments easier.",
-      "published": "Tue, 28 Apr 2026 11:10:18 -0400"
     }
   ]
 }
