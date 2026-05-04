@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-03T13:48:42.578193Z",
-  "generated_date": "2026-05-03",
+  "generated_at": "2026-05-04T14:30:05.473466Z",
+  "generated_date": "2026-05-04",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
   "articles": [
+    {
+      "title": "What keeps SMBs from using embedded payments",
+      "link": "https://www.paymentsdive.com/spons/what-keeps-smbs-from-using-embedded-payments/818644/",
+      "description": "The window between signup and first transaction is shorter than most platforms think.",
+      "published": "Mon, 04 May 2026 05:00:00 -0400"
+    },
     {
       "title": "Nacha confab fun included swag, mixers and games",
       "link": "https://www.paymentsdive.com/news/nacha-confab-fun-included-swag-mixers-and-games/819082/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/stripe-google-partner-on-agentic-commerce/818915/",
       "description": "With a Google partnership unveiled Wednesday, the payments processor is bringing agentic checkout to four of the largest AI platforms.",
       "published": "Thu, 30 Apr 2026 08:28:24 -0400"
-    },
-    {
-      "title": "Mercury nabs conditional OCC charter",
-      "link": "https://www.paymentsdive.com/news/mercury-fintech-nabs-conditional-occ-charter/818722/",
-      "description": "The fintech has received conditional approval four months after it applied for a national bank charter, when it named a SoFi alum as CEO of the proposed Mercury Bank.",
-      "published": "Wed, 29 Apr 2026 10:39:22 -0400"
     }
   ]
 }
