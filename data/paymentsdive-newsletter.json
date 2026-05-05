@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-04T14:30:05.473466Z",
-  "generated_date": "2026-05-04",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
+  "generated_at": "2026-05-05T14:23:09.047990Z",
+  "generated_date": "2026-05-05",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Amex to sell travel unit stake for $1.5B",
+      "link": "https://www.paymentsdive.com/news/amex-to-sell-travel-unit-stake-for-15b/819255/",
+      "description": "The card company is divesting its nearly one-third ownership of the corporate travel services firm Global Business Travel Group.",
+      "published": "Mon, 04 May 2026 16:55:00 -0400"
+    },
+    {
+      "title": "State AGs target e-cigarette payments",
+      "link": "https://www.paymentsdive.com/news/state-ags-target-e-cigarette-payments/819201/",
+      "description": "Attorneys general across the U.S. have alerted payments providers that their tobacco and nicotine sales may violate state or federal laws.",
+      "published": "Mon, 04 May 2026 10:48:00 -0400"
+    },
     {
       "title": "What keeps SMBs from using embedded payments",
       "link": "https://www.paymentsdive.com/spons/what-keeps-smbs-from-using-embedded-payments/818644/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/adyen-acquire-talon-one-customer-identity-in-store-online-price-promotion-payments/818858/",
       "description": "The deal for Talon.One will let the Dutch fintech connect a shopper&rsquo;s online and in-store interactions so promotions and pricing can be adjusted midstream.",
       "published": "Thu, 30 Apr 2026 11:36:53 -0400"
-    },
-    {
-      "title": "Why EWS created Certos",
-      "link": "https://www.paymentsdive.com/news/why-ews-created-certos/818964/",
-      "description": "Early Warning Services wanted to do more than return to its roots. It&rsquo;s bolstering its anti-fraud services, following challenges on that front.",
-      "published": "Thu, 30 Apr 2026 10:50:00 -0400"
-    },
-    {
-      "title": "Stripe, Google partner on agentic commerce",
-      "link": "https://www.paymentsdive.com/news/stripe-google-partner-on-agentic-commerce/818915/",
-      "description": "With a Google partnership unveiled Wednesday, the payments processor is bringing agentic checkout to four of the largest AI platforms.",
-      "published": "Thu, 30 Apr 2026 08:28:24 -0400"
     }
   ]
 }
