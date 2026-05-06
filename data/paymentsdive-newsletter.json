@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-05T14:23:09.047990Z",
-  "generated_date": "2026-05-05",
+  "generated_at": "2026-05-06T14:45:33.939906Z",
+  "generated_date": "2026-05-06",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Fiserv moves through \u2018transition year\u2019",
+      "link": "https://www.paymentsdive.com/news/fiserv-moves-through-transition-year/819390/",
+      "description": "During its first-quarter earnings report Tuesday, the payments processor&rsquo;s CEO cited new executive hires and cost cuts aimed at reviving growth.",
+      "published": "Wed, 06 May 2026 10:42:45 -0400"
+    },
+    {
+      "title": "How Spirit Airlines customers can navigate payments",
+      "link": "https://www.paymentsdive.com/news/how-spirit-airlines-customers-can-navigate-payments/819328/",
+      "description": "One consumer advocacy group is urging the airline&rsquo;s customers to seek refunds &ldquo;quickly&rdquo; after the carrier&rsquo;s abrupt shutdown.",
+      "published": "Tue, 05 May 2026 10:26:00 -0400"
+    },
     {
       "title": "Amex to sell travel unit stake for $1.5B",
       "link": "https://www.paymentsdive.com/news/amex-to-sell-travel-unit-stake-for-15b/819255/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/tourism-group-decries-credit-card-bill/818634/",
       "description": "The organization backed by the Electronic Payments Coalition attacked the Consumer Credit Card Competition Act proposal.",
       "published": "Fri, 01 May 2026 08:31:17 -0400"
-    },
-    {
-      "title": "Visa, Mastercard cite travel slowdown impact",
-      "link": "https://www.paymentsdive.com/news/visa-mastercard-cite-travel-slowdown-impact/819036/",
-      "description": "While the war in Iran is depressing travel and hurting income, the card networks are leaning into stablecoins to drive future revenue growth.",
-      "published": "Thu, 30 Apr 2026 17:53:00 -0400"
-    },
-    {
-      "title": "Adyen nabs loyalty platform for $876M",
-      "link": "https://www.paymentsdive.com/news/adyen-acquire-talon-one-customer-identity-in-store-online-price-promotion-payments/818858/",
-      "description": "The deal for Talon.One will let the Dutch fintech connect a shopper&rsquo;s online and in-store interactions so promotions and pricing can be adjusted midstream.",
-      "published": "Thu, 30 Apr 2026 11:36:53 -0400"
     }
   ]
 }
