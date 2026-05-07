@@ -1,14 +1,32 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-06T14:45:33.939906Z",
-  "generated_date": "2026-05-06",
+  "generated_at": "2026-05-07T14:49:39.255291Z",
+  "generated_date": "2026-05-07",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "US agentic sales to reach $1T by 2030: report",
+      "link": "https://www.paymentsdive.com/news/agentic-commerce-us-one-trillion-2030/819490/",
+      "description": "But even as the technology grows in popularity, the physical shopping experience will remain important, per a new report.",
+      "published": "Thu, 07 May 2026 09:55:49 -0400"
+    },
+    {
+      "title": "Global Payments touts Genius gains",
+      "link": "https://www.paymentsdive.com/news/global-payments-touts-genius-gains/819560/",
+      "description": "The payments processor has moved quickly to push its Genius point-of-sale solution to Worldpay&rsquo;s sales channels and financial customers.",
+      "published": "Thu, 07 May 2026 09:16:43 -0400"
+    },
     {
       "title": "Fiserv moves through \u2018transition year\u2019",
       "link": "https://www.paymentsdive.com/news/fiserv-moves-through-transition-year/819390/",
       "description": "During its first-quarter earnings report Tuesday, the payments processor&rsquo;s CEO cited new executive hires and cost cuts aimed at reviving growth.",
       "published": "Wed, 06 May 2026 10:42:45 -0400"
+    },
+    {
+      "title": "PayPal CEO aims to keep company intact",
+      "link": "https://www.paymentsdive.com/news/paypal-ceo-aims-to-keep-company-intact/819447/",
+      "description": "In comments to analysts, the payment player&rsquo;s new leader side-stepped speculation about breaking up the company, saying he sees PayPal, Venmo and Braintree together.",
+      "published": "Wed, 06 May 2026 10:13:26 -0400"
     },
     {
       "title": "How Spirit Airlines customers can navigate payments",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/spons/what-keeps-smbs-from-using-embedded-payments/818644/",
       "description": "The window between signup and first transaction is shorter than most platforms think.",
       "published": "Mon, 04 May 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Nacha confab fun included swag, mixers and games",
-      "link": "https://www.paymentsdive.com/news/nacha-confab-fun-included-swag-mixers-and-games/819082/",
-      "description": "The Smarter Faster Payments conference this week wasn&rsquo;t all work. There were games, freebies and parties to balance the heady panels.",
-      "published": "Fri, 01 May 2026 10:49:00 -0400"
-    },
-    {
-      "title": "How AI is bettering B2B payments",
-      "link": "https://www.paymentsdive.com/news/how-ai-is-bettering-b2b-payments/819048/",
-      "description": "AI is a new tool to help optimize accounts receivable, which has become a &ldquo;data science challenge&rdquo; for many large companies, Billtrust&rsquo;s CEO says.",
-      "published": "Fri, 01 May 2026 09:22:06 -0400"
-    },
-    {
-      "title": "Tourism group decries credit card bill",
-      "link": "https://www.paymentsdive.com/news/tourism-group-decries-credit-card-bill/818634/",
-      "description": "The organization backed by the Electronic Payments Coalition attacked the Consumer Credit Card Competition Act proposal.",
-      "published": "Fri, 01 May 2026 08:31:17 -0400"
     }
   ]
 }
