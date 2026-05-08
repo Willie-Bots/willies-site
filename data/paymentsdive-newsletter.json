@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-07T14:49:39.255291Z",
-  "generated_date": "2026-05-07",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
+  "generated_at": "2026-05-08T14:15:57.024624Z",
+  "generated_date": "2026-05-08",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Fed to launch roundtable to fight payment fraud",
+      "link": "https://www.paymentsdive.com/news/fed-to-launch-roundtable-to-fight-payment-fraud/819593/",
+      "description": "The Federal Reserve sees a rising threat of payment fraud and wants to collaborate with other agencies to stop it, a Fed Vice chair said.",
+      "published": "Thu, 07 May 2026 10:59:14 -0400"
+    },
     {
       "title": "US agentic sales to reach $1T by 2030: report",
       "link": "https://www.paymentsdive.com/news/agentic-commerce-us-one-trillion-2030/819490/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/state-ags-target-e-cigarette-payments/819201/",
       "description": "Attorneys general across the U.S. have alerted payments providers that their tobacco and nicotine sales may violate state or federal laws.",
       "published": "Mon, 04 May 2026 10:48:00 -0400"
-    },
-    {
-      "title": "What keeps SMBs from using embedded payments",
-      "link": "https://www.paymentsdive.com/spons/what-keeps-smbs-from-using-embedded-payments/818644/",
-      "description": "The window between signup and first transaction is shorter than most platforms think.",
-      "published": "Mon, 04 May 2026 05:00:00 -0400"
     }
   ]
 }
