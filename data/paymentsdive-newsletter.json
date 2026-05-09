@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-08T14:15:57.024624Z",
-  "generated_date": "2026-05-08",
+  "generated_at": "2026-05-09T13:51:36.433126Z",
+  "generated_date": "2026-05-09",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Appeals court remands Illinois card fee law",
+      "link": "https://www.paymentsdive.com/news/appeals-court-remands-illinois-card-fee-law/819741/",
+      "description": "A move by federal officials to preempt Illinois&rsquo; interchange fee ban requires further review by a district court, the 7th Circuit said Friday.",
+      "published": "Fri, 08 May 2026 13:00:18 -0400"
+    },
+    {
+      "title": "Block leans into its AI future",
+      "link": "https://www.paymentsdive.com/news/block-leans-into-its-ai-future/819669/",
+      "description": "After cutting 4,000 jobs, the company is eager to demonstrate the benefits of artificial intelligence both internally and for customers.",
+      "published": "Fri, 08 May 2026 06:57:36 -0400"
+    },
     {
       "title": "Fed to launch roundtable to fight payment fraud",
       "link": "https://www.paymentsdive.com/news/fed-to-launch-roundtable-to-fight-payment-fraud/819593/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/how-spirit-airlines-customers-can-navigate-payments/819328/",
       "description": "One consumer advocacy group is urging the airline&rsquo;s customers to seek refunds &ldquo;quickly&rdquo; after the carrier&rsquo;s abrupt shutdown.",
       "published": "Tue, 05 May 2026 10:26:00 -0400"
-    },
-    {
-      "title": "Amex to sell travel unit stake for $1.5B",
-      "link": "https://www.paymentsdive.com/news/amex-to-sell-travel-unit-stake-for-15b/819255/",
-      "description": "The card company is divesting its nearly one-third ownership of the corporate travel services firm Global Business Travel Group.",
-      "published": "Mon, 04 May 2026 16:55:00 -0400"
-    },
-    {
-      "title": "State AGs target e-cigarette payments",
-      "link": "https://www.paymentsdive.com/news/state-ags-target-e-cigarette-payments/819201/",
-      "description": "Attorneys general across the U.S. have alerted payments providers that their tobacco and nicotine sales may violate state or federal laws.",
-      "published": "Mon, 04 May 2026 10:48:00 -0400"
     }
   ]
 }
