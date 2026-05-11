@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-10T13:55:17.917702Z",
-  "generated_date": "2026-05-10",
+  "generated_at": "2026-05-11T15:35:00.030982Z",
+  "generated_date": "2026-05-11",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Senators query credit bureaus on BNPL",
+      "link": "https://www.paymentsdive.com/news/senators-query-credit-bureaus-on-bnpl/819830/",
+      "description": "A group of Democrats wants to know how credit agencies are using buy now, pay later data and what changes may be planned in the future.",
+      "published": "Mon, 11 May 2026 10:26:00 -0400"
+    },
+    {
+      "title": "North and Visa team to elevate the payments game",
+      "link": "https://www.paymentsdive.com/spons/north-and-visa-team-to-elevate-the-payments-game/818908/",
+      "description": "North and Visa, two of the biggest names in fintech, have partnered to deliver next-level solutions that meet the demands of today&#39;s complex payments landscape.",
+      "published": "Mon, 11 May 2026 05:00:00 -0400"
+    },
     {
       "title": "Appeals court remands Illinois card fee law",
       "link": "https://www.paymentsdive.com/news/appeals-court-remands-illinois-card-fee-law/819741/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fiserv-moves-through-transition-year/819390/",
       "description": "During its first-quarter earnings report Tuesday, the payments processor&rsquo;s CEO cited new executive hires and cost cuts aimed at reviving growth.",
       "published": "Wed, 06 May 2026 10:42:45 -0400"
-    },
-    {
-      "title": "PayPal CEO aims to keep company intact",
-      "link": "https://www.paymentsdive.com/news/paypal-ceo-aims-to-keep-company-intact/819447/",
-      "description": "In comments to analysts, the payment player&rsquo;s new leader side-stepped speculation about breaking up the company, saying he sees PayPal, Venmo and Braintree together.",
-      "published": "Wed, 06 May 2026 10:13:26 -0400"
-    },
-    {
-      "title": "How Spirit Airlines customers can navigate payments",
-      "link": "https://www.paymentsdive.com/news/how-spirit-airlines-customers-can-navigate-payments/819328/",
-      "description": "One consumer advocacy group is urging the airline&rsquo;s customers to seek refunds &ldquo;quickly&rdquo; after the carrier&rsquo;s abrupt shutdown.",
-      "published": "Tue, 05 May 2026 10:26:00 -0400"
     }
   ]
 }
