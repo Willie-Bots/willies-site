@@ -1,9 +1,33 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-12T14:48:29.345636Z",
-  "generated_date": "2026-05-12",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-05-13T15:13:20.596007Z",
+  "generated_date": "2026-05-13",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Shopify loses bid to toss Sezzle lawsuit",
+      "link": "https://www.paymentsdive.com/news/shopify-loses-bid-to-toss-sezzle-lawsuit/819971/",
+      "description": "The e-commerce platform can&#39;t jettison plausible monopoly claims made by the buy now, pay later company, a federal judge ruled Monday.",
+      "published": "Wed, 13 May 2026 09:04:00 -0400"
+    },
+    {
+      "title": "PayPal settles with DOJ over DEI",
+      "link": "https://www.paymentsdive.com/news/paypal-settles-with-doj-over-dei/820004/",
+      "description": "The digital payments company agreed Tuesday to a settlement with the Department of Justice over a 2020 diversity investment fund.",
+      "published": "Tue, 12 May 2026 13:59:14 -0400"
+    },
+    {
+      "title": "FIS discounts Pismo competition",
+      "link": "https://www.paymentsdive.com/news/fis-discounts-pismo-competition/819983/",
+      "description": "The payments processor and core tech provider doesn&rsquo;t expect competition from that Visa business to make an impact.",
+      "published": "Tue, 12 May 2026 10:39:00 -0400"
+    },
+    {
+      "title": "Judge combines Fiserv lawsuits",
+      "link": "https://www.paymentsdive.com/news/judge-combines-fiserv-lawsuits/819924/",
+      "description": "Shareholder complaints against the payment processor are closely related and should be adjudicated in a New York case, a Wisconsin federal judge ruled.",
+      "published": "Tue, 12 May 2026 08:38:44 -0400"
+    },
     {
       "title": "Senators query credit bureaus on BNPL",
       "link": "https://www.paymentsdive.com/news/senators-query-credit-bureaus-on-bnpl/819830/",
@@ -27,30 +51,6 @@
       "link": "https://www.paymentsdive.com/news/block-leans-into-its-ai-future/819669/",
       "description": "After cutting 4,000 jobs, the company is eager to demonstrate the benefits of artificial intelligence both internally and for customers.",
       "published": "Fri, 08 May 2026 06:57:36 -0400"
-    },
-    {
-      "title": "Fed to launch roundtable to fight payment fraud",
-      "link": "https://www.paymentsdive.com/news/fed-to-launch-roundtable-to-fight-payment-fraud/819593/",
-      "description": "The Federal Reserve sees a rising threat of payment fraud and wants to collaborate with other agencies to stop it, a Fed Vice chair said.",
-      "published": "Thu, 07 May 2026 10:59:14 -0400"
-    },
-    {
-      "title": "US agentic sales to reach $1T by 2030: report",
-      "link": "https://www.paymentsdive.com/news/agentic-commerce-us-one-trillion-2030/819490/",
-      "description": "But even as the technology grows in popularity, the physical shopping experience will remain important, per a new report.",
-      "published": "Thu, 07 May 2026 09:55:49 -0400"
-    },
-    {
-      "title": "Global Payments touts Genius gains",
-      "link": "https://www.paymentsdive.com/news/global-payments-touts-genius-gains/819560/",
-      "description": "The payments processor has moved quickly to push its Genius point-of-sale solution to Worldpay&rsquo;s sales channels and financial customers.",
-      "published": "Thu, 07 May 2026 09:16:43 -0400"
-    },
-    {
-      "title": "Fiserv moves through \u2018transition year\u2019",
-      "link": "https://www.paymentsdive.com/news/fiserv-moves-through-transition-year/819390/",
-      "description": "During its first-quarter earnings report Tuesday, the payments processor&rsquo;s CEO cited new executive hires and cost cuts aimed at reviving growth.",
-      "published": "Wed, 06 May 2026 10:42:45 -0400"
     }
   ]
 }
