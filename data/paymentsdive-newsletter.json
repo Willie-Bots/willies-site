@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-13T15:13:20.596007Z",
-  "generated_date": "2026-05-13",
+  "generated_at": "2026-05-14T14:39:31.788309Z",
+  "generated_date": "2026-05-14",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Block inches closer to DOJ settlement",
+      "link": "https://www.paymentsdive.com/news/block-inches-closer-to-doj-settlement/820194/",
+      "description": "The company set aside $240 million in the first quarter as it negotiates with the Justice Department over allegations in a 2023 short seller&rsquo;s report.",
+      "published": "Thu, 14 May 2026 09:32:09 -0400"
+    },
     {
       "title": "Shopify loses bid to toss Sezzle lawsuit",
       "link": "https://www.paymentsdive.com/news/shopify-loses-bid-to-toss-sezzle-lawsuit/819971/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/appeals-court-remands-illinois-card-fee-case/819741/",
       "description": "A move by federal officials to preempt Illinois&rsquo; interchange fee ban requires further review by a district court, the 7th Circuit said Friday.",
       "published": "Fri, 08 May 2026 13:00:18 -0400"
-    },
-    {
-      "title": "Block leans into its AI future",
-      "link": "https://www.paymentsdive.com/news/block-leans-into-its-ai-future/819669/",
-      "description": "After cutting 4,000 jobs, the company is eager to demonstrate the benefits of artificial intelligence both internally and for customers.",
-      "published": "Fri, 08 May 2026 06:57:36 -0400"
     }
   ]
 }
