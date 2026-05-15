@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-14T14:39:31.788309Z",
-  "generated_date": "2026-05-14",
+  "generated_at": "2026-05-15T14:34:20.541833Z",
+  "generated_date": "2026-05-15",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Fiserv seeks better days ahead",
+      "link": "https://www.paymentsdive.com/news/fiserv-seeks-better-days-ahead/820309/",
+      "description": "The payments processor and bank tech provider sought Thursday to bolster confidence in the company&rsquo;s plan for a recovery.",
+      "published": "Thu, 14 May 2026 16:23:00 -0400"
+    },
+    {
+      "title": "BNPL giants battle at Walmart",
+      "link": "https://www.paymentsdive.com/news/bnpl-giants-battle-at-walmart/820252/",
+      "description": "The retail behemoth swapped buy now, pay later provider Affirm for Klarna last year, but both BNPL companies say Walmart business is good.",
+      "published": "Thu, 14 May 2026 10:29:00 -0400"
+    },
+    {
+      "title": "Dive Deposits: Affirm\u2019s AI stance runs counter to trend",
+      "link": "https://www.paymentsdive.com/news/affirm-no-ai-layoffs-levchin-block-crypto-com-bolt-chime/820232/",
+      "description": "While some fintechs are content to do more with less through AI, BNPL platform Affirm simply aims to do more, as its top execs eschew human layoffs in favor of artificial intelligence.",
+      "published": "Thu, 14 May 2026 10:22:00 -0400"
+    },
     {
       "title": "Block inches closer to DOJ settlement",
       "link": "https://www.paymentsdive.com/news/block-inches-closer-to-doj-settlement/820194/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/judge-combines-fiserv-lawsuits/819924/",
       "description": "Shareholder complaints against the payment processor are closely related and should be adjudicated in a New York case, a Wisconsin federal judge ruled.",
       "published": "Tue, 12 May 2026 08:38:44 -0400"
-    },
-    {
-      "title": "Senators query credit bureaus on BNPL",
-      "link": "https://www.paymentsdive.com/news/senators-query-credit-bureaus-on-bnpl/819830/",
-      "description": "A group of Democrats wants to know how credit agencies are using buy now, pay later data and what changes may be planned in the future.",
-      "published": "Mon, 11 May 2026 10:26:00 -0400"
-    },
-    {
-      "title": "North and Visa team to elevate the payments game",
-      "link": "https://www.paymentsdive.com/spons/north-and-visa-team-to-elevate-the-payments-game/818908/",
-      "description": "North and Visa, two of the biggest names in fintech, have partnered to deliver next-level solutions that meet the demands of today&#39;s complex payments landscape.",
-      "published": "Mon, 11 May 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Appeals court remands Illinois card fee case",
-      "link": "https://www.paymentsdive.com/news/appeals-court-remands-illinois-card-fee-case/819741/",
-      "description": "A move by federal officials to preempt Illinois&rsquo; interchange fee ban requires further review by a district court, the 7th Circuit said Friday.",
-      "published": "Fri, 08 May 2026 13:00:18 -0400"
     }
   ]
 }
