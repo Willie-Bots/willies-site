@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-15T14:34:20.541833Z",
-  "generated_date": "2026-05-15",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
+  "generated_at": "2026-05-16T13:58:46.201852Z",
+  "generated_date": "2026-05-16",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "CFPB alum Chopra to lead state consumer agency",
+      "link": "https://www.paymentsdive.com/news/cfpb-alum-rohit-chopra-lead-california-consumer-agency/820351/",
+      "description": "Former CFPB head Rohit Chopra will lead a new California agency with oversight of consumer affairs and financial protection, among other duties.",
+      "published": "Fri, 15 May 2026 09:43:49 -0400"
+    },
+    {
+      "title": "The fight against fraud revs up",
+      "link": "https://www.paymentsdive.com/news/the-fight-against-fraud-revs-up/820328/",
+      "description": "Maybe crusaders against financial fraud and scams can finally make some headway with help from Congress, the White House and Nacha.",
+      "published": "Fri, 15 May 2026 09:00:00 -0400"
+    },
     {
       "title": "Fiserv seeks better days ahead",
       "link": "https://www.paymentsdive.com/news/fiserv-seeks-better-days-ahead/820309/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/paypal-settles-with-doj-over-dei/820004/",
       "description": "The digital payments company agreed Tuesday to a settlement with the Department of Justice over a 2020 diversity investment fund.",
       "published": "Tue, 12 May 2026 13:59:14 -0400"
-    },
-    {
-      "title": "FIS discounts Pismo competition",
-      "link": "https://www.paymentsdive.com/news/fis-discounts-pismo-competition/819983/",
-      "description": "The payments processor and core tech provider doesn&rsquo;t expect competition from that Visa business to make an impact.",
-      "published": "Tue, 12 May 2026 10:39:00 -0400"
-    },
-    {
-      "title": "Judge combines Fiserv lawsuits",
-      "link": "https://www.paymentsdive.com/news/judge-combines-fiserv-lawsuits/819924/",
-      "description": "Shareholder complaints against the payment processor are closely related and should be adjudicated in a New York case, a Wisconsin federal judge ruled.",
-      "published": "Tue, 12 May 2026 08:38:44 -0400"
     }
   ]
 }
