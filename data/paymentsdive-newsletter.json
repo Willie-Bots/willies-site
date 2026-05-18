@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-17T13:56:00.427570Z",
-  "generated_date": "2026-05-17",
+  "generated_at": "2026-05-18T15:55:39.834029Z",
+  "generated_date": "2026-05-18",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Facebook fraud becomes lightning rod",
+      "link": "https://www.paymentsdive.com/news/facebook-fraud-becomes-lightning-rod-social-media-scams/820468/",
+      "description": "Banks and consumer advocates are taking social media to task, while Facebook tries to rein in fake profiles and scam ads.",
+      "published": "Mon, 18 May 2026 09:43:00 -0400"
+    },
+    {
+      "title": "Judge fines payments processor Cliq",
+      "link": "https://www.paymentsdive.com/news/judge-fines-payments-processor-cliq/820434/",
+      "description": "A federal court assessed a $6.5 million penalty over non-compliance in a 2015 Federal Trade Commission settlement but declined to appoint a receiver.",
+      "published": "Mon, 18 May 2026 09:05:32 -0400"
+    },
     {
       "title": "CFPB alum Chopra to lead state consumer agency",
       "link": "https://www.paymentsdive.com/news/cfpb-alum-rohit-chopra-lead-california-consumer-agency/820351/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/block-inches-closer-to-doj-settlement/820194/",
       "description": "The company set aside $240 million in the first quarter as it negotiates with the Justice Department over allegations in a 2023 short seller&rsquo;s report.",
       "published": "Thu, 14 May 2026 09:32:09 -0400"
-    },
-    {
-      "title": "Shopify loses bid to toss Sezzle lawsuit",
-      "link": "https://www.paymentsdive.com/news/shopify-loses-bid-to-toss-sezzle-lawsuit/819971/",
-      "description": "The e-commerce platform can&#39;t jettison plausible monopoly claims made by the buy now, pay later company, a federal judge ruled Monday.",
-      "published": "Wed, 13 May 2026 09:04:00 -0400"
-    },
-    {
-      "title": "PayPal settles with DOJ over DEI",
-      "link": "https://www.paymentsdive.com/news/paypal-settles-with-doj-over-dei/820004/",
-      "description": "The digital payments company agreed Tuesday to a settlement with the Department of Justice over a 2020 diversity investment fund.",
-      "published": "Tue, 12 May 2026 13:59:14 -0400"
     }
   ]
 }
