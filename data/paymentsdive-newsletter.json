@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-18T15:55:39.834029Z",
-  "generated_date": "2026-05-18",
+  "generated_at": "2026-05-19T15:47:22.047958Z",
+  "generated_date": "2026-05-19",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Where stablecoin use is growing",
+      "link": "https://www.paymentsdive.com/news/stablecoin-use-is-growing-cross-border-payments-genius-act/820566/",
+      "description": "Cross-border transactions, worker payments and intercompany settlements are emerging use cases for the digital asset, according to two reports.",
+      "published": "Tue, 19 May 2026 06:35:05 -0400"
+    },
+    {
+      "title": "Consumers cling to cash",
+      "link": "https://www.paymentsdive.com/news/consumers-cling-to-cash/820281/",
+      "description": "Debit and credit cards have surpassed cash as the most common payment method, but consumers still rely on legal tender, a Fed report found.",
+      "published": "Tue, 19 May 2026 05:38:00 -0400"
+    },
     {
       "title": "Facebook fraud becomes lightning rod",
       "link": "https://www.paymentsdive.com/news/facebook-fraud-becomes-lightning-rod-social-media-scams/820468/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/bnpl-giants-battle-at-walmart/820252/",
       "description": "The retail behemoth swapped buy now, pay later provider Affirm for Klarna last year, but both BNPL companies say Walmart business is good.",
       "published": "Thu, 14 May 2026 10:29:00 -0400"
-    },
-    {
-      "title": "Dive Deposits: Affirm\u2019s AI stance runs counter to trend",
-      "link": "https://www.paymentsdive.com/news/affirm-no-ai-layoffs-levchin-block-crypto-com-bolt-chime/820232/",
-      "description": "While some fintechs are content to do more with less through AI, BNPL platform Affirm simply aims to do more, as its top execs eschew human layoffs in favor of artificial intelligence.",
-      "published": "Thu, 14 May 2026 10:22:00 -0400"
-    },
-    {
-      "title": "Block inches closer to DOJ settlement",
-      "link": "https://www.paymentsdive.com/news/block-inches-closer-to-doj-settlement/820194/",
-      "description": "The company set aside $240 million in the first quarter as it negotiates with the Justice Department over allegations in a 2023 short seller&rsquo;s report.",
-      "published": "Thu, 14 May 2026 09:32:09 -0400"
     }
   ]
 }
