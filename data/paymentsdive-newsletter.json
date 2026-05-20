@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-19T15:47:22.047958Z",
-  "generated_date": "2026-05-19",
+  "generated_at": "2026-05-20T15:54:56.760948Z",
+  "generated_date": "2026-05-20",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Trump order seeks to open Fed rails",
+      "link": "https://www.paymentsdive.com/news/trump-order-seeks-open-fed-rails/820730/",
+      "description": "The administration mandated a review of how the Federal Reserve and other agencies can aid fintech firms through&nbsp;greater central bank access.",
+      "published": "Wed, 20 May 2026 11:01:51 -0400"
+    },
+    {
+      "title": "Cash App will be financial \u2018protector,\u2019 Dorsey says",
+      "link": "https://www.paymentsdive.com/news/cash-app-will-be-financial-protector-dorsey-says/820691/",
+      "description": "As Block reorients around artificial intelligence, the app will become more interactive and predictive, co-founder Jack Dorsey said Tuesday.",
+      "published": "Wed, 20 May 2026 07:09:15 -0400"
+    },
     {
       "title": "Where stablecoin use is growing",
       "link": "https://www.paymentsdive.com/news/stablecoin-use-is-growing-cross-border-payments-genius-act/820566/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/the-fight-against-fraud-revs-up/820328/",
       "description": "Maybe crusaders against financial fraud and scams can finally make some headway with help from Congress, the White House and Nacha.",
       "published": "Fri, 15 May 2026 09:00:00 -0400"
-    },
-    {
-      "title": "Fiserv seeks better days ahead",
-      "link": "https://www.paymentsdive.com/news/fiserv-seeks-better-days-ahead/820309/",
-      "description": "The payments processor and bank tech provider sought Thursday to bolster confidence in the company&rsquo;s plan for a recovery.",
-      "published": "Thu, 14 May 2026 16:23:00 -0400"
-    },
-    {
-      "title": "BNPL giants battle at Walmart",
-      "link": "https://www.paymentsdive.com/news/bnpl-giants-battle-at-walmart/820252/",
-      "description": "The retail behemoth swapped buy now, pay later provider Affirm for Klarna last year, but both BNPL companies say Walmart business is good.",
-      "published": "Thu, 14 May 2026 10:29:00 -0400"
     }
   ]
 }
