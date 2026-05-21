@@ -1,13 +1,25 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-20T15:54:56.760948Z",
-  "generated_date": "2026-05-20",
+  "generated_at": "2026-05-21T15:50:26.532925Z",
+  "generated_date": "2026-05-21",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
     {
+      "title": "Fiserv prunes non-core assets",
+      "link": "https://www.paymentsdive.com/news/fiserv-prunes-non-core-assets/820872/",
+      "description": "The payments processor and banking tech provider has divested its education and ATM businesses this month, with more sales possible.",
+      "published": "Thu, 21 May 2026 10:39:00 -0400"
+    },
+    {
+      "title": "AI-fueled scams drive fraud: Visa",
+      "link": "https://www.paymentsdive.com/news/ai-fueled-scams-drive-fraud-visa/820800/",
+      "description": "Cybercriminals are using artificial intelligence tools for larger attacks that target individual victims, the card network said in a fraud report.",
+      "published": "Thu, 21 May 2026 09:53:00 -0400"
+    },
+    {
       "title": "Trump order seeks to open Fed rails",
       "link": "https://www.paymentsdive.com/news/trump-order-seeks-open-fed-rails/820730/",
-      "description": "The administration mandated a review of how the Federal Reserve and other agencies can aid fintech firms through&nbsp;greater central bank access.",
+      "description": "The administration mandated a review of how the Federal Reserve and federal agencies can aid fintech firms through more central bank access.",
       "published": "Wed, 20 May 2026 11:01:51 -0400"
     },
     {
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/judge-fines-payments-processor-cliq/820434/",
       "description": "A federal court assessed a $6.5 million penalty over non-compliance in a 2015 Federal Trade Commission settlement but declined to appoint a receiver.",
       "published": "Mon, 18 May 2026 09:05:32 -0400"
-    },
-    {
-      "title": "CFPB alum Chopra to lead state consumer agency",
-      "link": "https://www.paymentsdive.com/news/cfpb-alum-rohit-chopra-lead-california-consumer-agency/820351/",
-      "description": "Former CFPB head Rohit Chopra will lead a new California agency with oversight of consumer affairs and financial protection, among other duties.",
-      "published": "Fri, 15 May 2026 09:43:49 -0400"
-    },
-    {
-      "title": "The fight against fraud revs up",
-      "link": "https://www.paymentsdive.com/news/the-fight-against-fraud-revs-up/820328/",
-      "description": "Maybe crusaders against financial fraud and scams can finally make some headway with help from Congress, the White House and Nacha.",
-      "published": "Fri, 15 May 2026 09:00:00 -0400"
     }
   ]
 }
