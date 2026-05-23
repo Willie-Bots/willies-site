@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-22T15:21:17.053422Z",
-  "generated_date": "2026-05-22",
+  "generated_at": "2026-05-23T14:01:50.396553Z",
+  "generated_date": "2026-05-23",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "3 Big Numbers: The convenience store payments problem",
+      "link": "https://www.paymentsdive.com/news/3-big-numbers-the-payments-problem/821010/",
+      "description": "A surprising number of c-store operators have multiple payment systems across their stores. A recent survey from Vontier delved deeper into the pros and cons of that approach.",
+      "published": "Fri, 22 May 2026 15:11:00 -0400"
+    },
     {
       "title": "Fiserv prunes non-core assets",
       "link": "https://www.paymentsdive.com/news/fiserv-prunes-non-core-assets/820872/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/facebook-fraud-becomes-lightning-rod-social-media-scams/820468/",
       "description": "Banks and consumer advocates are taking social media to task, while Facebook tries to rein in fake profiles and scam ads.",
       "published": "Mon, 18 May 2026 09:43:00 -0400"
-    },
-    {
-      "title": "Judge fines payments processor Cliq",
-      "link": "https://www.paymentsdive.com/news/judge-fines-payments-processor-cliq/820434/",
-      "description": "A federal court assessed a $6.5 million penalty over non-compliance in a 2015 Federal Trade Commission settlement but declined to appoint a receiver.",
-      "published": "Mon, 18 May 2026 09:05:32 -0400"
     }
   ]
 }
