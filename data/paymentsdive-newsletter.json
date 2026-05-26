@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-25T15:28:16.237396Z",
-  "generated_date": "2026-05-25",
+  "generated_at": "2026-05-26T16:08:22.323880Z",
+  "generated_date": "2026-05-26",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "FIS, banks mull network uses",
+      "link": "https://www.paymentsdive.com/news/fis-banks-mull-network-uses/821110/",
+      "description": "The payments processor is in talks with banks about possible new strategies for use of its card network.",
+      "published": "Tue, 26 May 2026 10:41:00 -0400"
+    },
+    {
+      "title": "OCC aims to derail state card law",
+      "link": "https://www.paymentsdive.com/news/occ-aims-to-derail-state-card-law/821079/",
+      "description": "The Office of the Comptroller of the Currency urged a judge Friday to block an Illinois law on interchange fees that the agency has preempted.",
+      "published": "Tue, 26 May 2026 10:20:00 -0400"
+    },
     {
       "title": "3 Big Numbers: The convenience store payments problem",
       "link": "https://www.paymentsdive.com/news/3-big-numbers-the-payments-problem/821010/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/stablecoin-use-is-growing-cross-border-payments-genius-act/820566/",
       "description": "Cross-border transactions, worker payments and intercompany settlements are emerging use cases for the digital asset, according to two reports.",
       "published": "Tue, 19 May 2026 06:35:05 -0400"
-    },
-    {
-      "title": "Consumers cling to cash",
-      "link": "https://www.paymentsdive.com/news/consumers-cling-to-cash/820281/",
-      "description": "Debit and credit cards have surpassed cash as the most common payment method, but consumers still rely on legal tender, a Fed report found.",
-      "published": "Tue, 19 May 2026 05:38:00 -0400"
-    },
-    {
-      "title": "Facebook fraud becomes lightning rod",
-      "link": "https://www.paymentsdive.com/news/facebook-fraud-becomes-lightning-rod-social-media-scams/820468/",
-      "description": "Banks and consumer advocates are taking social media to task, while Facebook tries to rein in fake profiles and scam ads.",
-      "published": "Mon, 18 May 2026 09:43:00 -0400"
     }
   ]
 }
