@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-26T16:08:22.323880Z",
-  "generated_date": "2026-05-26",
+  "generated_at": "2026-05-27T16:11:37.424074Z",
+  "generated_date": "2026-05-27",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Visa, Mastercard envision agentic commerce benefits",
+      "link": "https://www.paymentsdive.com/news/visa-mastercard-envision-agentic-commerce-benefits/821205/",
+      "description": "Taking humans out of purchases is likely to multiply transactions and thereby boost fees, chief financial officers of the card networks said.",
+      "published": "Wed, 27 May 2026 10:23:00 -0400"
+    },
+    {
+      "title": "Tennessee levies tax on remittances",
+      "link": "https://www.paymentsdive.com/news/tennessee-levies-tax-on-remittances/821185/",
+      "description": "The Volunteer State will add a $10 tax for cross-border payments, and an extra 2% fee for some, under a new law drawing the ire of payments players.",
+      "published": "Wed, 27 May 2026 09:12:00 -0400"
+    },
     {
       "title": "FIS, banks mull network uses",
       "link": "https://www.paymentsdive.com/news/fis-banks-mull-network-uses/821110/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/trump-order-seeks-open-fed-rails/820730/",
       "description": "The administration mandated a review of how the Federal Reserve and federal agencies can aid fintech firms through more central bank access.",
       "published": "Wed, 20 May 2026 11:01:51 -0400"
-    },
-    {
-      "title": "Cash App will be financial \u2018protector,\u2019 Dorsey says",
-      "link": "https://www.paymentsdive.com/news/cash-app-will-be-financial-protector-dorsey-says/820691/",
-      "description": "As Block reorients around artificial intelligence, the app will become more interactive and predictive, co-founder Jack Dorsey said Tuesday.",
-      "published": "Wed, 20 May 2026 07:09:15 -0400"
-    },
-    {
-      "title": "Where stablecoin use is growing",
-      "link": "https://www.paymentsdive.com/news/stablecoin-use-is-growing-cross-border-payments-genius-act/820566/",
-      "description": "Cross-border transactions, worker payments and intercompany settlements are emerging use cases for the digital asset, according to two reports.",
-      "published": "Tue, 19 May 2026 06:35:05 -0400"
     }
   ]
 }
