@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-27T16:11:37.424074Z",
-  "generated_date": "2026-05-27",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-05-28T16:33:26.440914Z",
+  "generated_date": "2026-05-28",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Adyen CFO heads for exit",
+      "link": "https://www.paymentsdive.com/news/adyen-cfo-heads-for-exit/821365/",
+      "description": "The chief financial officer departure comes as the Dutch payments processor seeks to build up its U.S. presence.",
+      "published": "Thu, 28 May 2026 10:57:00 -0400"
+    },
+    {
+      "title": "Bill shuffles senior executives",
+      "link": "https://www.paymentsdive.com/news/bill-shuffles-senior-executives-ai-job-cuts-starboard-elliott/821312/",
+      "description": "Business payments company Bill Holdings named new leaders for product, technology and revenue roles amid a broader restructuring.",
+      "published": "Thu, 28 May 2026 09:56:00 -0400"
+    },
     {
       "title": "Visa, Mastercard envision agentic commerce benefits",
       "link": "https://www.paymentsdive.com/news/visa-mastercard-envision-agentic-commerce-benefits/821205/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fiserv-prunes-non-core-assets/820872/",
       "description": "The payments processor and banking tech provider has divested its education and ATM businesses this month, with more sales possible.",
       "published": "Thu, 21 May 2026 10:39:00 -0400"
-    },
-    {
-      "title": "AI-fueled scams drive fraud: Visa",
-      "link": "https://www.paymentsdive.com/news/ai-fueled-scams-drive-fraud-visa/820800/",
-      "description": "Cybercriminals are using artificial intelligence tools for larger attacks that target individual victims, the card network said in a fraud report.",
-      "published": "Thu, 21 May 2026 09:53:00 -0400"
-    },
-    {
-      "title": "Trump order seeks to open Fed rails",
-      "link": "https://www.paymentsdive.com/news/trump-order-seeks-open-fed-rails/820730/",
-      "description": "The administration mandated a review of how the Federal Reserve and federal agencies can aid fintech firms through more central bank access.",
-      "published": "Wed, 20 May 2026 11:01:51 -0400"
     }
   ]
 }
