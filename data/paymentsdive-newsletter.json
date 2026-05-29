@@ -1,7 +1,7 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-28T16:33:26.440914Z",
-  "generated_date": "2026-05-28",
+  "generated_at": "2026-05-29T16:07:28.125105Z",
+  "generated_date": "2026-05-29",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
     {
@@ -9,6 +9,12 @@
       "link": "https://www.paymentsdive.com/news/adyen-cfo-heads-for-exit/821365/",
       "description": "The chief financial officer departure comes as the Dutch payments processor seeks to build up its U.S. presence.",
       "published": "Thu, 28 May 2026 10:57:00 -0400"
+    },
+    {
+      "title": "Trump should nix high-cost loans",
+      "link": "https://www.paymentsdive.com/news/trump-should-nix-high-cost-loans/821435/",
+      "description": "&ldquo;If the president wants to provide people relief from high-interest debt ... he should lead a crackdown against high-cost credit schemes,&rdquo; writes a consumer advocate lawyer.",
+      "published": "Thu, 28 May 2026 10:55:00 -0400"
     },
     {
       "title": "Bill shuffles senior executives",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/3-big-numbers-the-payments-problem/821010/",
       "description": "A surprising number of c-store operators have multiple payment systems across their stores. A recent survey from Vontier delved deeper into the pros and cons of that approach.",
       "published": "Fri, 22 May 2026 15:11:00 -0400"
-    },
-    {
-      "title": "Fiserv prunes non-core assets",
-      "link": "https://www.paymentsdive.com/news/fiserv-prunes-non-core-assets/820872/",
-      "description": "The payments processor and banking tech provider has divested its education and ATM businesses this month, with more sales possible.",
-      "published": "Thu, 21 May 2026 10:39:00 -0400"
     }
   ]
 }
