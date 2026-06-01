@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-05-31T14:10:29.030296Z",
-  "generated_date": "2026-05-31",
+  "generated_at": "2026-06-01T18:14:58.462514Z",
+  "generated_date": "2026-06-01",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Illinois lawmakers again delay card fee law",
+      "link": "https://www.paymentsdive.com/news/illinois-lawmakers-again-delay-card-fee-law/821607/",
+      "description": "The state&rsquo;s lawmakers voted to hold off on implementing the law as federal bank regulators sought to preempt the statute that curbs swipe fees.",
+      "published": "Mon, 01 Jun 2026 10:46:00 -0400"
+    },
+    {
+      "title": "PayPal CEO leans on AI chief",
+      "link": "https://www.paymentsdive.com/news/paypal-ceo-leans-on-ai-chief/821604/",
+      "description": "The company&rsquo;s new CEO, Enrique Lores, is counting on a newly appointed executive to lead a cost-cutting campaign using artificial intelligence.",
+      "published": "Mon, 01 Jun 2026 10:42:00 -0400"
+    },
     {
       "title": "Fed\u2019s top payments official to exit",
       "link": "https://www.paymentsdive.com/news/feds-top-payments-official-exit-fednow/821495/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/tennessee-levies-tax-on-remittances/821185/",
       "description": "The Volunteer State will add a $10 tax for cross-border payments, and an extra 2% fee for some, under a new law drawing the ire of payments players.",
       "published": "Wed, 27 May 2026 09:12:00 -0400"
-    },
-    {
-      "title": "FIS, banks mull network uses",
-      "link": "https://www.paymentsdive.com/news/fis-banks-mull-network-uses/821110/",
-      "description": "The payments processor is in talks with banks about possible new strategies for use of its card network.",
-      "published": "Tue, 26 May 2026 10:41:00 -0400"
-    },
-    {
-      "title": "OCC aims to derail state card law",
-      "link": "https://www.paymentsdive.com/news/occ-aims-to-derail-state-card-law/821079/",
-      "description": "The Office of the Comptroller of the Currency urged a judge Friday to block an Illinois law on interchange fees that the agency has preempted.",
-      "published": "Tue, 26 May 2026 10:20:00 -0400"
     }
   ]
 }
