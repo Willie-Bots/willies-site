@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-06-01T18:14:58.462514Z",
-  "generated_date": "2026-06-01",
+  "generated_at": "2026-06-02T16:54:04.987035Z",
+  "generated_date": "2026-06-02",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Mastercard rearranges leadership",
+      "link": "https://www.paymentsdive.com/news/mastercard-rearranges-leadership/821730/",
+      "description": "The card network promoted a pack of new leaders, including to the chief financial officer post, as the old guard moved into other roles.",
+      "published": "Tue, 02 Jun 2026 11:30:22 -0400"
+    },
+    {
+      "title": "Fintech Wise probed over AML concerns",
+      "link": "https://www.paymentsdive.com/news/wise-aml-investigation-europe/821728/",
+      "description": "A Belgian prosecutor is looking into &ldquo;indications of non-compliance,&rdquo; particularly from &ldquo;a lack of proper identification of clients and their activities.&rdquo;",
+      "published": "Tue, 02 Jun 2026 11:08:40 -0400"
+    },
+    {
+      "title": "Judge blocks Illinois card fee law",
+      "link": "https://www.paymentsdive.com/news/judge-blocks-illinois-card-fee-law-fee-credit-debit-prohibition-act-kendall/821709/",
+      "description": "The injunction for banks and card networks Monday came after U.S. regulators moved to preempt the statute curbing card swipe fees.",
+      "published": "Tue, 02 Jun 2026 10:17:00 -0400"
+    },
     {
       "title": "Illinois lawmakers again delay card fee law",
       "link": "https://www.paymentsdive.com/news/illinois-lawmakers-again-delay-card-fee-law/821607/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/trump-should-nix-high-cost-loans/821435/",
       "description": "&ldquo;If the president wants to provide people relief from high-interest debt ... he should lead a crackdown against high-cost credit schemes,&rdquo; writes a consumer advocate lawyer.",
       "published": "Thu, 28 May 2026 10:55:00 -0400"
-    },
-    {
-      "title": "Bill shuffles senior executives",
-      "link": "https://www.paymentsdive.com/news/bill-shuffles-senior-executives-ai-job-cuts-starboard-elliott/821312/",
-      "description": "Business payments company Bill Holdings named new leaders for product, technology and revenue roles amid a broader restructuring.",
-      "published": "Thu, 28 May 2026 09:56:00 -0400"
-    },
-    {
-      "title": "Visa, Mastercard envision agentic commerce benefits",
-      "link": "https://www.paymentsdive.com/news/visa-mastercard-envision-agentic-commerce-benefits/821205/",
-      "description": "Taking humans out of purchases is likely to multiply transactions and thereby boost fees, chief financial officers of the card networks said.",
-      "published": "Wed, 27 May 2026 10:23:00 -0400"
-    },
-    {
-      "title": "Tennessee levies tax on remittances",
-      "link": "https://www.paymentsdive.com/news/tennessee-levies-tax-on-remittances/821185/",
-      "description": "The Volunteer State will add a $10 tax for cross-border payments, and an extra 2% fee for some, under a new law drawing the ire of payments players.",
-      "published": "Wed, 27 May 2026 09:12:00 -0400"
     }
   ]
 }
