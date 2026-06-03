@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-06-02T16:54:04.987035Z",
-  "generated_date": "2026-06-02",
+  "generated_at": "2026-06-03T17:16:16.527285Z",
+  "generated_date": "2026-06-03",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Visa-Mastercard swipe fee fund has paid $414M",
+      "link": "https://www.paymentsdive.com/news/visa-mastercard-swipe-fee-fund-has-paid-414m/821869/",
+      "description": "Payouts to merchants from a $5.5 billion settlement fund ponied up by the card networks began this year, with a second distribution in the offing.",
+      "published": "Wed, 03 Jun 2026 10:37:00 -0400"
+    },
+    {
+      "title": "Fiserv stablecoin arrives next month",
+      "link": "https://www.paymentsdive.com/news/fiserv-stablecoin-arrives-next-month/821877/",
+      "description": "The company&rsquo;s FIUSD coin &ldquo;goes live in July,&rdquo; CEO Mike Lyons said at an investor conference Thursday.",
+      "published": "Wed, 03 Jun 2026 10:34:00 -0400"
+    },
+    {
+      "title": "Block expands Afterpay on Cash App card",
+      "link": "https://www.paymentsdive.com/news/block-expands-afterpay-on-cash-app-card/821881/",
+      "description": "After piloting the buy now, pay later service on its debit cards, Block said it&rsquo;s going mainstream with its option to pay in installments.",
+      "published": "Wed, 03 Jun 2026 10:30:00 -0400"
+    },
     {
       "title": "Mastercard rearranges leadership",
       "link": "https://www.paymentsdive.com/news/mastercard-rearranges-leadership/821730/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/paypal-ceo-leans-on-ai-chief/821604/",
       "description": "The company&rsquo;s new CEO, Enrique Lores, is counting on a newly appointed executive to lead a cost-cutting campaign using artificial intelligence.",
       "published": "Mon, 01 Jun 2026 10:42:00 -0400"
-    },
-    {
-      "title": "Fed\u2019s top payments official to exit",
-      "link": "https://www.paymentsdive.com/news/feds-top-payments-official-exit-fednow/821495/",
-      "description": "Mark Gould, who was the Federal Reserve&rsquo;s first payments chief, said he will retire this year, but stay on while the central bank seeks his successor.",
-      "published": "Fri, 29 May 2026 11:40:39 -0400"
-    },
-    {
-      "title": "Adyen CFO heads for exit",
-      "link": "https://www.paymentsdive.com/news/adyen-cfo-heads-for-exit/821365/",
-      "description": "The chief financial officer departure comes as the Dutch payments processor seeks to build up its U.S. presence.",
-      "published": "Thu, 28 May 2026 10:57:00 -0400"
-    },
-    {
-      "title": "Trump should nix high-cost loans",
-      "link": "https://www.paymentsdive.com/news/trump-should-nix-high-cost-loans/821435/",
-      "description": "&ldquo;If the president wants to provide people relief from high-interest debt ... he should lead a crackdown against high-cost credit schemes,&rdquo; writes a consumer advocate lawyer.",
-      "published": "Thu, 28 May 2026 10:55:00 -0400"
     }
   ]
 }
