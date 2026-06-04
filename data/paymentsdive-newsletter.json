@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-06-03T17:16:16.527285Z",
-  "generated_date": "2026-06-03",
+  "generated_at": "2026-06-04T15:42:52.790176Z",
+  "generated_date": "2026-06-04",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Colorado interchange fee law vetoed",
+      "link": "https://www.paymentsdive.com/news/colorado-interchange-fee-law-vetoed/822002/",
+      "description": "The state&rsquo;s governor shot down a bill aimed at curbing interchange fees on card transactions even though members of his own party passed the legislation.",
+      "published": "Thu, 04 Jun 2026 10:25:00 -0400"
+    },
+    {
+      "title": "Klarna is an Amex-style brand, CEO says",
+      "link": "https://www.paymentsdive.com/news/klarna-is-an-amex-style-brand-ceo-says/821915/",
+      "description": "The buy now, pay later provider is using fashion, beauty and lifestyle branding to emulate the card company&rsquo;s early growth, Sebastian Siemiatkowski said.",
+      "published": "Thu, 04 Jun 2026 10:11:10 -0400"
+    },
+    {
+      "title": "CFPB tells Bilt to repay fees from card-swap problems",
+      "link": "https://www.paymentsdive.com/news/cfpb-bilt-reimburse-customers-card-transition/821924/",
+      "description": "After tech issues plagued the fintech&rsquo;s transition to a new bank partner this year, the CFPB said it&rsquo;s worked to ensure affected consumers &ldquo;are appropriately remedied.&rdquo;",
+      "published": "Wed, 03 Jun 2026 11:21:06 -0400"
+    },
     {
       "title": "Visa-Mastercard swipe fee fund has paid $414M",
       "link": "https://www.paymentsdive.com/news/visa-mastercard-swipe-fee-fund-has-paid-414m/821869/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/wise-aml-investigation-europe/821728/",
       "description": "A Belgian prosecutor is looking into &ldquo;indications of non-compliance,&rdquo; particularly from &ldquo;a lack of proper identification of clients and their activities.&rdquo;",
       "published": "Tue, 02 Jun 2026 11:08:40 -0400"
-    },
-    {
-      "title": "Judge blocks Illinois card fee law",
-      "link": "https://www.paymentsdive.com/news/judge-blocks-illinois-card-fee-law-fee-credit-debit-prohibition-act-kendall/821709/",
-      "description": "The injunction for banks and card networks Monday came after U.S. regulators moved to preempt the statute curbing card swipe fees.",
-      "published": "Tue, 02 Jun 2026 10:17:00 -0400"
-    },
-    {
-      "title": "Illinois lawmakers again delay card fee law",
-      "link": "https://www.paymentsdive.com/news/illinois-lawmakers-again-delay-card-fee-law/821607/",
-      "description": "The state&rsquo;s lawmakers voted to hold off on implementing the law as federal bank regulators sought to preempt the statute that curbs swipe fees.",
-      "published": "Mon, 01 Jun 2026 10:46:00 -0400"
-    },
-    {
-      "title": "PayPal CEO leans on AI chief",
-      "link": "https://www.paymentsdive.com/news/paypal-ceo-leans-on-ai-chief/821604/",
-      "description": "The company&rsquo;s new CEO, Enrique Lores, is counting on a newly appointed executive to lead a cost-cutting campaign using artificial intelligence.",
-      "published": "Mon, 01 Jun 2026 10:42:00 -0400"
     }
   ]
 }
