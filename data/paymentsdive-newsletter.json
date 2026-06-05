@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-06-04T15:42:52.790176Z",
-  "generated_date": "2026-06-04",
+  "generated_at": "2026-06-05T15:26:56.131063Z",
+  "generated_date": "2026-06-05",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "JPMorgan taps AI to process checks",
+      "link": "https://www.paymentsdive.com/news/jpmorgan-taps-ai-to-process-checks/822030/",
+      "description": "With paper checks remaining a popular form of payment, JPMorgan Chase is using AI and robotics to streamline its lockbox processing.",
+      "published": "Fri, 05 Jun 2026 09:26:00 -0400"
+    },
+    {
+      "title": "Ramp debuts accounting product, raises additional $750M",
+      "link": "https://www.paymentsdive.com/news/ramp-funding-rolls-out-accounting-product-ai-operating-system/821992/",
+      "description": "The new product marks the startup&rsquo;s entry into accounting, coming as Ramp raised more capital to boost its AI work.",
+      "published": "Fri, 05 Jun 2026 08:27:00 -0400"
+    },
     {
       "title": "Colorado interchange fee law vetoed",
       "link": "https://www.paymentsdive.com/news/colorado-interchange-fee-law-vetoed/822002/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/block-expands-afterpay-on-cash-app-card/821881/",
       "description": "After piloting the buy now, pay later service on its debit cards, Block said it&rsquo;s going mainstream with its option to pay in installments.",
       "published": "Wed, 03 Jun 2026 10:30:00 -0400"
-    },
-    {
-      "title": "Mastercard rearranges leadership",
-      "link": "https://www.paymentsdive.com/news/mastercard-rearranges-leadership/821730/",
-      "description": "The card network promoted a pack of new leaders, including to the chief financial officer post, as the old guard moved into other roles.",
-      "published": "Tue, 02 Jun 2026 11:30:22 -0400"
-    },
-    {
-      "title": "Fintech Wise probed over AML concerns",
-      "link": "https://www.paymentsdive.com/news/wise-aml-investigation-europe/821728/",
-      "description": "A Belgian prosecutor is looking into &ldquo;indications of non-compliance,&rdquo; particularly from &ldquo;a lack of proper identification of clients and their activities.&rdquo;",
-      "published": "Tue, 02 Jun 2026 11:08:40 -0400"
     }
   ]
 }
