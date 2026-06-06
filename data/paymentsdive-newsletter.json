@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-06-05T15:26:56.131063Z",
-  "generated_date": "2026-06-05",
+  "generated_at": "2026-06-06T14:06:53.569731Z",
+  "generated_date": "2026-06-06",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "States aim to keep stablecoin purview",
+      "link": "https://www.paymentsdive.com/news/states-seek-stablecoin-oversight-crypto-genius-act/822124/",
+      "description": "A group representing state bank supervisors is concerned about preserving sovereignty over the digital assets.",
+      "published": "Fri, 05 Jun 2026 10:30:00 -0400"
+    },
     {
       "title": "JPMorgan taps AI to process checks",
       "link": "https://www.paymentsdive.com/news/jpmorgan-taps-ai-to-process-checks/822030/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fiserv-stablecoin-arrives-next-month/821877/",
       "description": "The company&rsquo;s FIUSD coin &ldquo;goes live in July,&rdquo; CEO Mike Lyons said at an investor conference Thursday.",
       "published": "Wed, 03 Jun 2026 10:34:00 -0400"
-    },
-    {
-      "title": "Block expands Afterpay on Cash App card",
-      "link": "https://www.paymentsdive.com/news/block-expands-afterpay-on-cash-app-card/821881/",
-      "description": "After piloting the buy now, pay later service on its debit cards, Block said it&rsquo;s going mainstream with its option to pay in installments.",
-      "published": "Wed, 03 Jun 2026 10:30:00 -0400"
     }
   ]
 }
