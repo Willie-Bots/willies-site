@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-06-08T16:17:54.591046Z",
-  "generated_date": "2026-06-08",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-06-09T15:26:31.277652Z",
+  "generated_date": "2026-06-09",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Adyen taps North America chief",
+      "link": "https://www.paymentsdive.com/news/adyen-taps-north-america-chief/822345/",
+      "description": "The digital payments player appointed a new president to oversee operations in North America, where the Dutch company has been taking on U.S. rivals.",
+      "published": "Tue, 09 Jun 2026 09:40:00 -0400"
+    },
     {
       "title": "How Visa targets B2B payments",
       "link": "https://www.paymentsdive.com/news/how-visa-targets-b2b-payments/822241/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/ramp-funding-rolls-out-accounting-product-ai-operating-system/821992/",
       "description": "The new product marks the startup&rsquo;s entry into accounting, coming as Ramp raised more capital to boost its AI work.",
       "published": "Fri, 05 Jun 2026 08:27:00 -0400"
-    },
-    {
-      "title": "Colorado interchange fee law vetoed",
-      "link": "https://www.paymentsdive.com/news/colorado-interchange-fee-law-vetoed/822002/",
-      "description": "The state&rsquo;s governor shot down a bill aimed at curbing interchange fees on card transactions even though members of his own party passed the legislation.",
-      "published": "Thu, 04 Jun 2026 10:25:00 -0400"
     }
   ]
 }
