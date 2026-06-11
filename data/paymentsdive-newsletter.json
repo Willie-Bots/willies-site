@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-06-10T16:07:03.594903Z",
-  "generated_date": "2026-06-10",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-06-11T16:19:38.831060Z",
+  "generated_date": "2026-06-11",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "FTA sues to block Tennessee law",
+      "link": "https://www.paymentsdive.com/news/fta-sues-to-block-tennessee-law/822641/",
+      "description": "The fintech trade group asserts that the law is unconstitutional and will illegally impose higher costs on consumers.",
+      "published": "Thu, 11 Jun 2026 10:32:00 -0400"
+    },
+    {
+      "title": "How a Nuvei-Payoneer merger would build business",
+      "link": "https://www.paymentsdive.com/news/how-a-nuvei-payoneer-merger-would-build-business/822631/",
+      "description": "Nuvei&rsquo;s hand could be strengthened in processing stablecoin transactions and reaching small and mid-sized merchants if a reported deal happens.",
+      "published": "Thu, 11 Jun 2026 10:16:00 -0400"
+    },
+    {
+      "title": "Pagaya sues Klarna over alleged trade secret misappropriation",
+      "link": "https://www.paymentsdive.com/news/pagaya-sues-klarna-over-alleged-trade-secret-misappropriation/822559/",
+      "description": "The BNPL firm&rsquo;s objective was to &ldquo;absorb Pagaya&rsquo;s trade secrets, use them to build its own competing capabilities, and cut Pagaya out,&rdquo; the underwriting fintech alleged.",
+      "published": "Wed, 10 Jun 2026 15:22:00 -0400"
+    },
     {
       "title": "4 reasons the Visa-Mastercard pact survived",
       "link": "https://www.paymentsdive.com/news/4-reasons-the-visa-mastercard-pact-survived/822503/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/adyen-taps-north-america-chief/822345/",
       "description": "The digital payments player appointed a new president to oversee operations in North America, where the Dutch company has been taking on U.S. rivals.",
       "published": "Tue, 09 Jun 2026 09:40:00 -0400"
-    },
-    {
-      "title": "How Visa targets B2B payments",
-      "link": "https://www.paymentsdive.com/news/how-visa-targets-b2b-payments/822241/",
-      "description": "The card network is taking aim at verticals to expand in business-to-business payments, including with services for trucking fleet operators.",
-      "published": "Mon, 08 Jun 2026 10:48:00 -0400"
-    },
-    {
-      "title": "Visa-Mastercard fund will report claims status",
-      "link": "https://www.paymentsdive.com/news/visa-mastercard-fund-will-report-claims-status/822186/",
-      "description": "Merchants will be able to monitor the status of claims under a quarterly reporting system for their $5.5 billion settlement with Visa and Mastercard.",
-      "published": "Mon, 08 Jun 2026 07:52:35 -0400"
-    },
-    {
-      "title": "The revenue leak every retail executive is ignoring",
-      "link": "https://www.paymentsdive.com/spons/the-revenue-leak-every-retail-executive-is-ignoring/821756/",
-      "description": "Your fraud system is making revenue decisions, but is anyone measuring the cost?",
-      "published": "Mon, 08 Jun 2026 05:00:00 -0400"
     }
   ]
 }
