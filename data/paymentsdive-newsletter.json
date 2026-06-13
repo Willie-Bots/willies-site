@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-06-12T15:38:53.463337Z",
-  "generated_date": "2026-06-12",
+  "generated_at": "2026-06-13T14:24:26.020906Z",
+  "generated_date": "2026-06-13",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Adyen to buy Orb for $335M",
+      "link": "https://www.paymentsdive.com/news/adyen-to-buy-orb-for-335m/822807/",
+      "description": "The Dutch payments processor is swallowing the San Francisco startup as both adapt their businesses to the age of artificial intelligence.",
+      "published": "Fri, 12 Jun 2026 11:01:00 -0400"
+    },
+    {
+      "title": "Payments entrepreneur strikes again",
+      "link": "https://www.paymentsdive.com/news/payments-entrepreneur-strikes-again/822787/",
+      "description": "The former CEO of CardX is pitching a new artificial intelligence tool designed to let merchants automate chargebacks.",
+      "published": "Fri, 12 Jun 2026 10:32:00 -0400"
+    },
     {
       "title": "FTA sues to block Tennessee law",
       "link": "https://www.paymentsdive.com/news/fta-sues-to-block-tennessee-law/822641/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/court-approves-visa-mastercard-settlement/822440/",
       "description": "A federal judge ruled Tuesday that a settlement between the card networks and 12 million merchants over card-swipe fees is fair and reasonable.",
       "published": "Tue, 09 Jun 2026 15:55:00 -0400"
-    },
-    {
-      "title": "Klarna dives deeper into banking",
-      "link": "https://www.paymentsdive.com/news/klarna-dives-deeper-into-banking/822342/",
-      "description": "The buy now, pay later provider is debuting a savings account to lure more people away from banks and into its ecosystem.",
-      "published": "Tue, 09 Jun 2026 10:35:00 -0400"
-    },
-    {
-      "title": "Adyen taps North America chief",
-      "link": "https://www.paymentsdive.com/news/adyen-taps-north-america-chief/822345/",
-      "description": "The digital payments player appointed a new president to oversee operations in North America, where the Dutch company has been taking on U.S. rivals.",
-      "published": "Tue, 09 Jun 2026 09:40:00 -0400"
     }
   ]
 }
