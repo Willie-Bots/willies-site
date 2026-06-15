@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-06-14T14:27:30.509321Z",
-  "generated_date": "2026-06-14",
+  "generated_at": "2026-06-15T17:26:21.694929Z",
+  "generated_date": "2026-06-15",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Nuvei to buy Payoneer for $2.75B",
+      "link": "https://www.paymentsdive.com/news/nuvei-to-buy-payoneer-for-275b/822908/",
+      "description": "The Canadian payments processor will acquire the New York company to create a bigger cross-border payments player.&nbsp;",
+      "published": "Mon, 15 Jun 2026 10:49:46 -0400"
+    },
+    {
+      "title": "Fiserv CEO exits after rocky year",
+      "link": "https://www.paymentsdive.com/news/fiserv-ceo-exits-after-rocky-year/822882/",
+      "description": "The payments giant promoted Co-President Takis Georgakopoulos to the top role Monday as Mike Lyons leaves to return to the banking industry.",
+      "published": "Mon, 15 Jun 2026 08:52:00 -0400"
+    },
+    {
+      "title": "Reshaping the future of commerce, one payment at a time",
+      "link": "https://www.paymentsdive.com/spons/reshaping-the-future-of-commerce-one-payment-at-a-time/822593/",
+      "description": "See how to turn checkout into a strategic engine for growth and loyalty with solutions from Adobe and PayPal.",
+      "published": "Mon, 15 Jun 2026 05:00:00 -0400"
+    },
     {
       "title": "Adyen to buy Orb for $335M",
       "link": "https://www.paymentsdive.com/news/adyen-to-buy-orb-for-335m/822807/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/pagaya-sues-klarna-over-alleged-trade-secret-misappropriation/822559/",
       "description": "The BNPL firm&rsquo;s objective was to &ldquo;absorb Pagaya&rsquo;s trade secrets, use them to build its own competing capabilities, and cut Pagaya out,&rdquo; the underwriting fintech alleged.",
       "published": "Wed, 10 Jun 2026 15:22:00 -0400"
-    },
-    {
-      "title": "4 reasons the Visa-Mastercard pact survived",
-      "link": "https://www.paymentsdive.com/news/4-reasons-the-visa-mastercard-pact-survived/822503/",
-      "description": "Here&rsquo;s the thinking of a&nbsp;federal judge who approved the settlement covering merchants who sued Visa and Mastercard over interchange fees.",
-      "published": "Wed, 10 Jun 2026 10:58:00 -0400"
-    },
-    {
-      "title": "Bolt loses leaders",
-      "link": "https://www.paymentsdive.com/news/bolt-loses-leaders/822505/",
-      "description": "Two top executives have exited the checkout company in recent weeks as the business reshapes its strategy with AI.",
-      "published": "Wed, 10 Jun 2026 10:48:00 -0400"
-    },
-    {
-      "title": "Court approves Visa-Mastercard settlement",
-      "link": "https://www.paymentsdive.com/news/court-approves-visa-mastercard-settlement/822440/",
-      "description": "A federal judge ruled Tuesday that a settlement between the card networks and 12 million merchants over card-swipe fees is fair and reasonable.",
-      "published": "Tue, 09 Jun 2026 15:55:00 -0400"
     }
   ]
 }
