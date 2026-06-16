@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-06-15T17:26:21.694929Z",
-  "generated_date": "2026-06-15",
+  "generated_at": "2026-06-16T17:19:47.650821Z",
+  "generated_date": "2026-06-16",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Fiserv\u2019s new CEO retains team",
+      "link": "https://www.paymentsdive.com/news/fiservs-new-ceo-retains-team/823029/",
+      "description": "Aside from naming a new chief executive on Monday, the processor also took steps to retain other top executives.",
+      "published": "Tue, 16 Jun 2026 10:43:00 -0400"
+    },
+    {
+      "title": "Apple delves deeper into payments",
+      "link": "https://www.paymentsdive.com/news/apple-delves-deeper-into-payments-ai-iphone-siri-retail-merchants/822664/",
+      "description": "The iPhone maker is using artificial intelligence to simplify payments, changing its consumer wallet and payment technology.",
+      "published": "Tue, 16 Jun 2026 09:12:09 -0400"
+    },
     {
       "title": "Nuvei to buy Payoneer for $2.75B",
       "link": "https://www.paymentsdive.com/news/nuvei-to-buy-payoneer-for-275b/822908/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fta-sues-to-block-tennessee-law/822641/",
       "description": "The fintech trade group asserts that the law is unconstitutional and will illegally impose higher costs on consumers.",
       "published": "Thu, 11 Jun 2026 10:32:00 -0400"
-    },
-    {
-      "title": "How a Nuvei-Payoneer merger would build business",
-      "link": "https://www.paymentsdive.com/news/how-a-nuvei-payoneer-merger-would-build-business/822631/",
-      "description": "Nuvei&rsquo;s hand could be strengthened in processing stablecoin transactions and reaching small and mid-sized merchants if a reported deal happens.",
-      "published": "Thu, 11 Jun 2026 10:16:00 -0400"
-    },
-    {
-      "title": "Pagaya sues Klarna over alleged trade secret misappropriation",
-      "link": "https://www.paymentsdive.com/news/pagaya-sues-klarna-over-alleged-trade-secret-misappropriation/822559/",
-      "description": "The BNPL firm&rsquo;s objective was to &ldquo;absorb Pagaya&rsquo;s trade secrets, use them to build its own competing capabilities, and cut Pagaya out,&rdquo; the underwriting fintech alleged.",
-      "published": "Wed, 10 Jun 2026 15:22:00 -0400"
     }
   ]
 }
