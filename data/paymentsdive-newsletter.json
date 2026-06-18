@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-06-17T16:02:26.031328Z",
-  "generated_date": "2026-06-17",
+  "generated_at": "2026-06-18T15:52:00.601084Z",
+  "generated_date": "2026-06-18",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Lenders ramp up scam defenses",
+      "link": "https://www.paymentsdive.com/news/banks-scam-defenses-elder-fraud-fifth-third-star-one/823280/",
+      "description": "Financial institutions are implementing new strategies to detect scams earlier and being more proactive to stop fraudulent payments.",
+      "published": "Thu, 18 Jun 2026 10:08:32 -0400"
+    },
+    {
+      "title": "Tracking digital payments skids",
+      "link": "https://www.paymentsdive.com/news/tracking-digital-payments-skids/823194/",
+      "description": "&ldquo;We often talk about digitization as if the hard part is getting money to move electronically,&rdquo; writes an industry lawyer. &ldquo;But the hard part is preserving the information, controls, and accountability behind a payment.&rdquo;",
+      "published": "Wed, 17 Jun 2026 15:47:00 -0400"
+    },
     {
       "title": "Banks bring BNPL rivalry",
       "link": "https://www.paymentsdive.com/news/banks-bring-bnpl-rivalry/823141/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fiserv-ceo-exits-after-rocky-year/822882/",
       "description": "The payments giant promoted Co-President Takis Georgakopoulos to the top role Monday as Mike Lyons leaves to return to the banking industry.",
       "published": "Mon, 15 Jun 2026 08:52:00 -0400"
-    },
-    {
-      "title": "Reshaping the future of commerce, one payment at a time",
-      "link": "https://www.paymentsdive.com/spons/reshaping-the-future-of-commerce-one-payment-at-a-time/822593/",
-      "description": "See how to turn checkout into a strategic engine for growth and loyalty with solutions from Adobe and PayPal.",
-      "published": "Mon, 15 Jun 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Adyen to buy Orb for $335M",
-      "link": "https://www.paymentsdive.com/news/adyen-to-buy-orb-for-335m/822807/",
-      "description": "The Dutch payments processor is swallowing the San Francisco startup as both adapt their businesses to the age of artificial intelligence.",
-      "published": "Fri, 12 Jun 2026 11:01:00 -0400"
     }
   ]
 }
