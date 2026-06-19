@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-06-18T15:52:00.601084Z",
-  "generated_date": "2026-06-18",
+  "generated_at": "2026-06-19T15:42:16.259826Z",
+  "generated_date": "2026-06-19",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Deluxe makes $625M acquisition",
+      "link": "https://www.paymentsdive.com/news/deluxe-makes-625m-acquisition/823276/",
+      "description": "The paper check company seeking to evolve its business is purchasing payments processor Celero to boost its non-check revenue.",
+      "published": "Thu, 18 Jun 2026 10:57:12 -0400"
+    },
     {
       "title": "Lenders ramp up scam defenses",
       "link": "https://www.paymentsdive.com/news/banks-scam-defenses-elder-fraud-fifth-third-star-one/823280/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/nuvei-to-buy-payoneer-for-275b/822908/",
       "description": "The Canadian payments processor will acquire the New York company to create a bigger cross-border payments player.&nbsp;",
       "published": "Mon, 15 Jun 2026 10:49:46 -0400"
-    },
-    {
-      "title": "Fiserv CEO exits after rocky year",
-      "link": "https://www.paymentsdive.com/news/fiserv-ceo-exits-after-rocky-year/822882/",
-      "description": "The payments giant promoted Co-President Takis Georgakopoulos to the top role Monday as Mike Lyons leaves to return to the banking industry.",
-      "published": "Mon, 15 Jun 2026 08:52:00 -0400"
     }
   ]
 }
