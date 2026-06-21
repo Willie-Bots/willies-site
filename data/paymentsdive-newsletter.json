@@ -1,7 +1,7 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-06-20T14:28:42.599930Z",
-  "generated_date": "2026-06-20",
+  "generated_at": "2026-06-21T14:31:43.654159Z",
+  "generated_date": "2026-06-21",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
     {
@@ -23,15 +23,15 @@
       "published": "Wed, 17 Jun 2026 15:47:00 -0400"
     },
     {
-      "title": "Illinois action may curb fraud",
-      "link": "https://www.paymentsdive.com/news/illinois-pritzker-curb-fraud-social-media-kids/823155/",
-      "description": "A new law expected to be enacted by the state would force social media companies to better protect minors online, including from financial harm.",
-      "published": "Wed, 17 Jun 2026 10:49:00 -0400"
-    },
-    {
       "title": "Banks bring BNPL rivalry",
       "link": "https://www.paymentsdive.com/news/banks-bring-bnpl-rivalry/823141/",
       "description": "Buy now, pay later players, including Klarna and Affirm, are facing more competition as financial institutions begin offering installment payment options.",
+      "published": "Wed, 17 Jun 2026 10:49:00 -0400"
+    },
+    {
+      "title": "Illinois action may curb fraud",
+      "link": "https://www.paymentsdive.com/news/illinois-pritzker-curb-fraud-social-media-kids/823155/",
+      "description": "A new law expected to be enacted by the state would force social media companies to better protect minors online, including from financial harm.",
       "published": "Wed, 17 Jun 2026 10:49:00 -0400"
     },
     {
