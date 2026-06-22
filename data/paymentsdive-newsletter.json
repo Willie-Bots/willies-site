@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-06-21T14:31:43.654159Z",
-  "generated_date": "2026-06-21",
+  "generated_at": "2026-06-22T17:12:52.148719Z",
+  "generated_date": "2026-06-22",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Visa, Mastercard fend off fee foes",
+      "link": "https://www.paymentsdive.com/news/visa-mastercard-fend-off-fee-foes/823395/",
+      "description": "Despite the passage of state legislation and a federal court settlement aimed at taming credit and debit card fees, the card networks and their issuers prevailed in the first half of this year.",
+      "published": "Mon, 22 Jun 2026 10:45:00 -0400"
+    },
+    {
+      "title": "Nacha\u2019s fraud rules land",
+      "link": "https://www.paymentsdive.com/news/nachas-fraud-rules-land/823378/",
+      "description": "The payments organization&rsquo;s new push-credit rules force receiving financial institutions to monitor for fraud more closely.",
+      "published": "Mon, 22 Jun 2026 10:03:00 -0400"
+    },
+    {
+      "title": "How payment orchestration helps merchants drive business growth",
+      "link": "https://www.paymentsdive.com/spons/how-payment-orchestration-helps-merchants-drive-business-growth/822982/",
+      "description": "A solid payments strategy is key for expanding into new regions and meeting evolving consumer demands.",
+      "published": "Mon, 22 Jun 2026 05:00:00 -0400"
+    },
     {
       "title": "Deluxe makes $625M acquisition",
       "link": "https://www.paymentsdive.com/news/deluxe-makes-625m-acquisition/823276/",
@@ -23,34 +41,16 @@
       "published": "Wed, 17 Jun 2026 15:47:00 -0400"
     },
     {
-      "title": "Banks bring BNPL rivalry",
-      "link": "https://www.paymentsdive.com/news/banks-bring-bnpl-rivalry/823141/",
-      "description": "Buy now, pay later players, including Klarna and Affirm, are facing more competition as financial institutions begin offering installment payment options.",
-      "published": "Wed, 17 Jun 2026 10:49:00 -0400"
-    },
-    {
       "title": "Illinois action may curb fraud",
       "link": "https://www.paymentsdive.com/news/illinois-pritzker-curb-fraud-social-media-kids/823155/",
       "description": "A new law expected to be enacted by the state would force social media companies to better protect minors online, including from financial harm.",
       "published": "Wed, 17 Jun 2026 10:49:00 -0400"
     },
     {
-      "title": "Fiserv\u2019s new CEO retains team",
-      "link": "https://www.paymentsdive.com/news/fiservs-new-ceo-retains-team/823029/",
-      "description": "Aside from naming a new chief executive on Monday, the processor also took steps to retain other top executives.",
-      "published": "Tue, 16 Jun 2026 10:43:00 -0400"
-    },
-    {
-      "title": "Apple delves deeper into payments",
-      "link": "https://www.paymentsdive.com/news/apple-delves-deeper-into-payments-ai-iphone-siri-retail-merchants/822664/",
-      "description": "The iPhone maker is using artificial intelligence to simplify payments, changing its consumer wallet and payment technology.",
-      "published": "Tue, 16 Jun 2026 09:12:09 -0400"
-    },
-    {
-      "title": "Nuvei to buy Payoneer for $2.75B",
-      "link": "https://www.paymentsdive.com/news/nuvei-to-buy-payoneer-for-275b/822908/",
-      "description": "The Canadian payments processor will acquire the New York company to create a bigger cross-border payments player.&nbsp;",
-      "published": "Mon, 15 Jun 2026 10:49:46 -0400"
+      "title": "Banks bring BNPL rivalry",
+      "link": "https://www.paymentsdive.com/news/banks-bring-bnpl-rivalry/823141/",
+      "description": "Buy now, pay later players, including Klarna and Affirm, are facing more competition as financial institutions begin offering installment payment options.",
+      "published": "Wed, 17 Jun 2026 10:49:00 -0400"
     }
   ]
 }
