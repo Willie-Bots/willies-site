@@ -1,9 +1,33 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-06-23T15:23:51.878786Z",
-  "generated_date": "2026-06-23",
+  "generated_at": "2026-06-24T15:06:18.729541Z",
+  "generated_date": "2026-06-24",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Boston Fed forms payments council",
+      "link": "https://www.paymentsdive.com/news/boston-fed-forms-payments-council/823641/",
+      "description": "The Federal Reserve bank is gathering input from payments players, including Toast and Wex, as well as banks to help shape its policy outlook.",
+      "published": "Wed, 24 Jun 2026 10:02:00 -0400"
+    },
+    {
+      "title": "Tipalti counts on future IPO",
+      "link": "https://www.paymentsdive.com/news/tipalti-counts-on-future-ipo-ai-finance-automation-software/823594/",
+      "description": "The finance-automation software company is focused on AI and an eventual initial public stock offering, its president said.",
+      "published": "Wed, 24 Jun 2026 08:11:15 -0400"
+    },
+    {
+      "title": "Judge rules against Fiserv",
+      "link": "https://www.paymentsdive.com/news/judge-rules-against-fiserv/823537/",
+      "description": "The federal court decision denied the payment processor&rsquo;s motion to dismiss a credit union&rsquo;s lawsuit in California. It&rsquo;s one in a pack brought by such financial institutions nationwide.",
+      "published": "Tue, 23 Jun 2026 10:53:00 -0400"
+    },
+    {
+      "title": "BNPL groups \u2018neutral\u2019 on Illinois bill",
+      "link": "https://www.paymentsdive.com/news/bnpl-groups-neutral-on-illinois-bill/823503/",
+      "description": "Legislation to regulate buy now, pay later providers in Illinois hasn&rsquo;t yet drawn the same level of industry opposition as a 2025 New York law.",
+      "published": "Tue, 23 Jun 2026 10:42:00 -0400"
+    },
     {
       "title": "Visa, Mastercard fend off fee foes",
       "link": "https://www.paymentsdive.com/news/visa-mastercard-fend-off-fee-foes/823395/",
@@ -27,30 +51,6 @@
       "link": "https://www.paymentsdive.com/news/deluxe-makes-625m-acquisition/823276/",
       "description": "The paper check company seeking to evolve its business is purchasing payments processor Celero to boost its non-check revenue.",
       "published": "Thu, 18 Jun 2026 10:57:12 -0400"
-    },
-    {
-      "title": "Lenders ramp up scam defenses",
-      "link": "https://www.paymentsdive.com/news/banks-scam-defenses-elder-fraud-fifth-third-star-one/823280/",
-      "description": "Financial institutions are implementing new strategies to detect scams earlier and being more proactive to stop fraudulent payments.",
-      "published": "Thu, 18 Jun 2026 10:08:32 -0400"
-    },
-    {
-      "title": "Tracking digital payments skids",
-      "link": "https://www.paymentsdive.com/news/tracking-digital-payments-skids/823194/",
-      "description": "&ldquo;We often talk about digitization as if the hard part is getting money to move electronically,&rdquo; writes an industry lawyer. &ldquo;But the hard part is preserving the information, controls, and accountability behind a payment.&rdquo;",
-      "published": "Wed, 17 Jun 2026 15:47:00 -0400"
-    },
-    {
-      "title": "Illinois action may curb fraud",
-      "link": "https://www.paymentsdive.com/news/illinois-pritzker-curb-fraud-social-media-kids/823155/",
-      "description": "A new law expected to be enacted by the state would force social media companies to better protect minors online, including from financial harm.",
-      "published": "Wed, 17 Jun 2026 10:49:00 -0400"
-    },
-    {
-      "title": "Banks bring BNPL rivalry",
-      "link": "https://www.paymentsdive.com/news/banks-bring-bnpl-rivalry/823141/",
-      "description": "Buy now, pay later players, including Klarna and Affirm, are facing more competition as financial institutions begin offering installment payment options.",
-      "published": "Wed, 17 Jun 2026 10:49:00 -0400"
     }
   ]
 }
