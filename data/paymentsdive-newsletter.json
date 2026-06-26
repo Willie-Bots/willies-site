@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-06-25T15:11:34.849865Z",
-  "generated_date": "2026-06-25",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-06-26T14:46:43.052672Z",
+  "generated_date": "2026-06-26",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Illinois enacts BNPL law",
+      "link": "https://www.paymentsdive.com/news/illinois-enacts-bnpl-law-pritzker-consumer-crypto/823835/",
+      "description": "The state&rsquo;s governor signed a buy now, pay later act that forces providers to register with Illinois regulators and face new loan disclosure mandates.",
+      "published": "Thu, 25 Jun 2026 16:57:09 -0400"
+    },
+    {
+      "title": "Cash App eyes BNPL growth",
+      "link": "https://www.paymentsdive.com/news/cash-app-brings-credit-to-debit-spending-bnpl-lending/823778/",
+      "description": "Amid big shifts in the U.S. economy, a top Block executive contends that consumers are keen to link their Cash App debit accounts with Afterpay buy now, pay later.",
+      "published": "Thu, 25 Jun 2026 10:44:00 -0400"
+    },
+    {
+      "title": "Lawmakers spar over payment rails",
+      "link": "https://www.paymentsdive.com/news/lawmakers-spar-over-payment-rails/823773/",
+      "description": "House members on Wednesday debated the Payments Access and Consumer Efficiency Act, which would expand Federal Reserve services access.",
+      "published": "Thu, 25 Jun 2026 10:43:00 -0400"
+    },
     {
       "title": "Boston Fed forms payments council",
       "link": "https://www.paymentsdive.com/news/boston-fed-forms-payments-council/823641/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/visa-mastercard-fend-off-fee-foes/823395/",
       "description": "Despite the passage of state legislation and a federal court settlement aimed at taming credit and debit card fees, the card networks and their issuers prevailed in the first half of this year.",
       "published": "Mon, 22 Jun 2026 10:45:00 -0400"
-    },
-    {
-      "title": "Nacha\u2019s fraud rules land",
-      "link": "https://www.paymentsdive.com/news/nachas-fraud-rules-land/823378/",
-      "description": "The payments organization&rsquo;s new push-credit rules force receiving financial institutions to monitor for fraud more closely.",
-      "published": "Mon, 22 Jun 2026 10:03:00 -0400"
-    },
-    {
-      "title": "How payment orchestration helps merchants drive business growth",
-      "link": "https://www.paymentsdive.com/spons/how-payment-orchestration-helps-merchants-drive-business-growth/822982/",
-      "description": "A solid payments strategy is key for expanding into new regions and meeting evolving consumer demands.",
-      "published": "Mon, 22 Jun 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Deluxe makes $625M acquisition",
-      "link": "https://www.paymentsdive.com/news/deluxe-makes-625m-acquisition/823276/",
-      "description": "The paper check company seeking to evolve its business is purchasing payments processor Celero to boost its non-check revenue.",
-      "published": "Thu, 18 Jun 2026 10:57:12 -0400"
     }
   ]
 }
