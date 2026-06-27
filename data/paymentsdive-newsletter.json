@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-06-26T14:46:43.052672Z",
-  "generated_date": "2026-06-26",
+  "generated_at": "2026-06-27T14:05:27.152748Z",
+  "generated_date": "2026-06-27",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "InComm debuts healthcare rewards program",
+      "link": "https://www.paymentsdive.com/news/incomm-debuts-healthcare-rewards-program/823888/",
+      "description": "The payment company wants to help insurance companies incentivize their customers to engage in healthy habits.",
+      "published": "Fri, 26 Jun 2026 10:48:13 -0400"
+    },
     {
       "title": "Illinois enacts BNPL law",
       "link": "https://www.paymentsdive.com/news/illinois-enacts-bnpl-law-pritzker-consumer-crypto/823835/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/bnpl-groups-neutral-on-illinois-bill/823503/",
       "description": "Legislation to regulate buy now, pay later providers in Illinois hasn&rsquo;t yet drawn the same level of industry opposition as a 2025 New York law.",
       "published": "Tue, 23 Jun 2026 10:42:00 -0400"
-    },
-    {
-      "title": "Visa, Mastercard fend off fee foes",
-      "link": "https://www.paymentsdive.com/news/visa-mastercard-fend-off-fee-foes/823395/",
-      "description": "Despite the passage of state legislation and a federal court settlement aimed at taming credit and debit card fees, the card networks and their issuers prevailed in the first half of this year.",
-      "published": "Mon, 22 Jun 2026 10:45:00 -0400"
     }
   ]
 }
