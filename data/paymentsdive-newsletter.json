@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-06-28T14:14:39.437993Z",
-  "generated_date": "2026-06-28",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
+  "generated_at": "2026-06-29T16:09:35.858836Z",
+  "generated_date": "2026-06-29",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "World Cup chargebacks coming",
+      "link": "https://www.paymentsdive.com/news/world-cup-chargebacks-coming/823962/",
+      "description": "Companies that track fraud related to major events expect the chargebacks for fraudulent World Cup related purchases will arrive soon.",
+      "published": "Mon, 29 Jun 2026 10:33:00 -0400"
+    },
     {
       "title": "InComm debuts healthcare rewards program",
       "link": "https://www.paymentsdive.com/news/incomm-debuts-healthcare-rewards-program/823888/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/judge-rules-against-fiserv/823537/",
       "description": "The federal court decision denied the payment processor&rsquo;s motion to dismiss a credit union&rsquo;s lawsuit in California. It&rsquo;s one in a pack brought by such financial institutions nationwide.",
       "published": "Tue, 23 Jun 2026 10:53:00 -0400"
-    },
-    {
-      "title": "BNPL groups \u2018neutral\u2019 on Illinois bill",
-      "link": "https://www.paymentsdive.com/news/bnpl-groups-neutral-on-illinois-bill/823503/",
-      "description": "Legislation to regulate buy now, pay later providers in Illinois hasn&rsquo;t yet drawn the same level of industry opposition as a 2025 New York law.",
-      "published": "Tue, 23 Jun 2026 10:42:00 -0400"
     }
   ]
 }
