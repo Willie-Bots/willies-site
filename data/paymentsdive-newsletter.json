@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-06-30T14:42:20.359962Z",
-  "generated_date": "2026-06-30",
+  "generated_at": "2026-07-01T15:10:58.409517Z",
+  "generated_date": "2026-07-01",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Repay attracts new $1.4B bid",
+      "link": "https://www.paymentsdive.com/news/repay-attracts-1b-plus-bid/824103/",
+      "description": "Forager Capital Management boosted its offer to buy Repay Holdings, which said it plans to review the new bid.",
+      "published": "Tue, 30 Jun 2026 10:51:00 -0400"
+    },
+    {
+      "title": "Rhode Island enacts self-checkout law",
+      "link": "https://www.paymentsdive.com/news/rhode-island-first-state-mandate-staffing-ratio-self-checkout-grocery/824067/",
+      "description": "Legislation signed by Gov. Dan McKee and due to take effect in 2027 comes as other states also consider self-checkout restrictions.",
+      "published": "Tue, 30 Jun 2026 10:33:00 -0400"
+    },
+    {
+      "title": "SNAP payment errors too high: USDA",
+      "link": "https://www.paymentsdive.com/news/usda-snap-error-rates-states/824007/",
+      "description": "A majority of states made inaccurate payments to beneficiaries in fiscal 2025 and could be required to pay part of the cost of benefits starting in 2027.",
+      "published": "Tue, 30 Jun 2026 09:36:00 -0400"
+    },
     {
       "title": "World Cup chargebacks coming",
       "link": "https://www.paymentsdive.com/news/world-cup-chargebacks-coming/823962/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/lawmakers-spar-over-payment-rails/823773/",
       "description": "House members on Wednesday debated the Payments Access and Consumer Efficiency Act, which would expand Federal Reserve services access.",
       "published": "Thu, 25 Jun 2026 10:43:00 -0400"
-    },
-    {
-      "title": "Boston Fed forms payments council",
-      "link": "https://www.paymentsdive.com/news/boston-fed-forms-payments-council/823641/",
-      "description": "The Federal Reserve bank is gathering input from payments players, including Toast and Wex, as well as banks to help shape its policy outlook.",
-      "published": "Wed, 24 Jun 2026 10:02:00 -0400"
-    },
-    {
-      "title": "Tipalti counts on future IPO",
-      "link": "https://www.paymentsdive.com/news/tipalti-counts-on-future-ipo-ai-finance-automation-software/823594/",
-      "description": "The finance-automation software company is focused on AI and an eventual initial public stock offering, its president said.",
-      "published": "Wed, 24 Jun 2026 08:11:15 -0400"
-    },
-    {
-      "title": "Judge rules against Fiserv",
-      "link": "https://www.paymentsdive.com/news/judge-rules-against-fiserv/823537/",
-      "description": "The federal court decision denied the payment processor&rsquo;s motion to dismiss a credit union&rsquo;s lawsuit in California. It&rsquo;s one in a pack brought by such financial institutions nationwide.",
-      "published": "Tue, 23 Jun 2026 10:53:00 -0400"
     }
   ]
 }
