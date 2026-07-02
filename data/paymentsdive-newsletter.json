@@ -1,9 +1,39 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-01T15:10:58.409517Z",
-  "generated_date": "2026-07-01",
+  "generated_at": "2026-07-02T14:27:59.857281Z",
+  "generated_date": "2026-07-02",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Ramp elevates CTO to co-CEO",
+      "link": "https://www.paymentsdive.com/news/ramp-names-karim-atiyeh-co-ceo-glyman-cto-Rahul-Sengottuvelu/824283/",
+      "description": "&ldquo;If you know us, this won&rsquo;t feel like a change,&rdquo; wrote Eric Glyman of fellow co-founder Karim Atiyeh&rsquo;s move to the top of the fintech.",
+      "published": "Thu, 02 Jul 2026 08:51:00 -0400"
+    },
+    {
+      "title": "Card networks, banks, fintechs partner on \u2018low-cost\u2019 stablecoin",
+      "link": "https://www.paymentsdive.com/news/stablecoin-open-standard-bridge-abrams-bny-stripe-mastercard-visa-coinbase-adyen/824223/",
+      "description": "Visa, Mastercard, Klarna and MoneyGram were among the companies that lent their backing to a digital asset launched Tuesday by Open Standard.",
+      "published": "Wed, 01 Jul 2026 10:52:00 -0400"
+    },
+    {
+      "title": "Klarna wins $2B Google antitrust case",
+      "link": "https://www.paymentsdive.com/news/google-loses-2b-klarna-antitrust-case-online-shopping-consumer-spending-tech/824221/",
+      "description": "A Swedish court ruled Wednesday that the tech giant had violated antitrust laws in price comparison, harming a Klarna-owned European competitor.",
+      "published": "Wed, 01 Jul 2026 10:47:54 -0400"
+    },
+    {
+      "title": "Amazon settles FTC card fraud case",
+      "link": "https://www.paymentsdive.com/news/amazon-settles-ftc-card-fraud-case/824203/",
+      "description": "Regulators allege the digital retail giant created a &ldquo;Kafkaesque ordeal&rdquo; for ID theft victims trying to obtain records related to fraudulent transactions.",
+      "published": "Wed, 01 Jul 2026 09:50:35 -0400"
+    },
+    {
+      "title": "Payments events still ahead in 2026",
+      "link": "https://www.paymentsdive.com/news/payments-conferences-2026/761201/",
+      "description": "Stablecoins, fraud prevenetion and artificial intelligence have been hot topics at this year&rsquo;s payments industry conferences. There&rsquo;s more to come.",
+      "published": "Wed, 01 Jul 2026 09:00:00 -0400"
+    },
     {
       "title": "Repay attracts new $1.4B bid",
       "link": "https://www.paymentsdive.com/news/repay-attracts-1b-plus-bid/824103/",
@@ -21,36 +51,6 @@
       "link": "https://www.paymentsdive.com/news/usda-snap-error-rates-states/824007/",
       "description": "A majority of states made inaccurate payments to beneficiaries in fiscal 2025 and could be required to pay part of the cost of benefits starting in 2027.",
       "published": "Tue, 30 Jun 2026 09:36:00 -0400"
-    },
-    {
-      "title": "World Cup chargebacks coming",
-      "link": "https://www.paymentsdive.com/news/world-cup-chargebacks-coming/823962/",
-      "description": "Companies that track fraud related to major events expect the chargebacks for fraudulent World Cup related purchases will arrive soon.",
-      "published": "Mon, 29 Jun 2026 10:33:00 -0400"
-    },
-    {
-      "title": "InComm debuts healthcare rewards program",
-      "link": "https://www.paymentsdive.com/news/incomm-debuts-healthcare-rewards-program/823888/",
-      "description": "The payment company wants to help insurance companies incentivize their customers to engage in healthy habits.",
-      "published": "Fri, 26 Jun 2026 10:48:13 -0400"
-    },
-    {
-      "title": "Illinois enacts BNPL law",
-      "link": "https://www.paymentsdive.com/news/illinois-enacts-bnpl-law-pritzker-consumer-crypto/823835/",
-      "description": "The state&rsquo;s governor signed a buy now, pay later act that forces providers to register with Illinois regulators and face new loan disclosure mandates.",
-      "published": "Thu, 25 Jun 2026 16:57:09 -0400"
-    },
-    {
-      "title": "Cash App eyes BNPL growth",
-      "link": "https://www.paymentsdive.com/news/cash-app-brings-credit-to-debit-spending-bnpl-lending/823778/",
-      "description": "Amid big shifts in the U.S. economy, a top Block executive contends that consumers are keen to link their Cash App debit accounts with Afterpay buy now, pay later.",
-      "published": "Thu, 25 Jun 2026 10:44:00 -0400"
-    },
-    {
-      "title": "Lawmakers spar over payment rails",
-      "link": "https://www.paymentsdive.com/news/lawmakers-spar-over-payment-rails/823773/",
-      "description": "House members on Wednesday debated the Payments Access and Consumer Efficiency Act, which would expand Federal Reserve services access.",
-      "published": "Thu, 25 Jun 2026 10:43:00 -0400"
     }
   ]
 }
