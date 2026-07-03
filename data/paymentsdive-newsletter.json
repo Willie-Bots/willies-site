@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-02T14:27:59.857281Z",
-  "generated_date": "2026-07-02",
+  "generated_at": "2026-07-03T14:31:16.694969Z",
+  "generated_date": "2026-07-03",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Adyen promotes executives",
+      "link": "https://www.paymentsdive.com/news/adyen-names-interim-cfo-leadership-update-payments/824414/",
+      "description": "The Dutch payments processor appointed a chief product officer and an interim chief financial officer on Wednesday as it angles to integrate recent acquisitions.",
+      "published": "Thu, 02 Jul 2026 16:19:00 -0400"
+    },
+    {
+      "title": "Nuvei names new C-suite executives",
+      "link": "https://www.paymentsdive.com/news/nuvei-names-new-c-suite-executives/824358/",
+      "description": "The Canadian company that just bought New York-based Payoneer remade its C-suite, and is doubling down on agentic commerce.",
+      "published": "Thu, 02 Jul 2026 10:59:00 -0400"
+    },
+    {
+      "title": "Amex, Apple team on rewards",
+      "link": "https://www.paymentsdive.com/news/amex-apple-team-on-rewards-cards-digital-wallets/824268/",
+      "description": "American Express card holders can now redeem their rewards at checkout via Apple Pay online, or in the app.",
+      "published": "Thu, 02 Jul 2026 09:30:00 -0400"
+    },
     {
       "title": "Ramp elevates CTO to co-CEO",
       "link": "https://www.paymentsdive.com/news/ramp-names-karim-atiyeh-co-ceo-glyman-cto-Rahul-Sengottuvelu/824283/",
@@ -31,26 +49,8 @@
     {
       "title": "Payments events still ahead in 2026",
       "link": "https://www.paymentsdive.com/news/payments-conferences-2026/761201/",
-      "description": "Stablecoins, fraud prevenetion and artificial intelligence have been hot topics at this year&rsquo;s payments industry conferences. There&rsquo;s more to come.",
+      "description": "Stablecoins, fraud prevention and artificial intelligence have been hot topics at this year&rsquo;s payments industry conferences. There&rsquo;s more to come.",
       "published": "Wed, 01 Jul 2026 09:00:00 -0400"
-    },
-    {
-      "title": "Repay attracts new $1.4B bid",
-      "link": "https://www.paymentsdive.com/news/repay-attracts-1b-plus-bid/824103/",
-      "description": "Forager Capital Management boosted its offer to buy Repay Holdings, which said it plans to review the new bid.",
-      "published": "Tue, 30 Jun 2026 10:51:00 -0400"
-    },
-    {
-      "title": "Rhode Island enacts self-checkout law",
-      "link": "https://www.paymentsdive.com/news/rhode-island-first-state-mandate-staffing-ratio-self-checkout-grocery/824067/",
-      "description": "Legislation signed by Gov. Dan McKee and due to take effect in 2027 comes as other states also consider self-checkout restrictions.",
-      "published": "Tue, 30 Jun 2026 10:33:00 -0400"
-    },
-    {
-      "title": "SNAP payment errors too high: USDA",
-      "link": "https://www.paymentsdive.com/news/usda-snap-error-rates-states/824007/",
-      "description": "A majority of states made inaccurate payments to beneficiaries in fiscal 2025 and could be required to pay part of the cost of benefits starting in 2027.",
-      "published": "Tue, 30 Jun 2026 09:36:00 -0400"
     }
   ]
 }
