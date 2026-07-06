@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-05T14:08:14.176561Z",
-  "generated_date": "2026-07-05",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-07-06T15:53:42.759363Z",
+  "generated_date": "2026-07-06",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on product + fintech innovation.",
   "articles": [
+    {
+      "title": "Digital ID and payments turn to your face",
+      "link": "https://www.paymentsdive.com/news/digital-id-and-payments-turn-to-your-face/824041/",
+      "description": "As mobile devices and government regulators embrace facial recognition technology, your face is becoming both wallet and identification.",
+      "published": "Mon, 06 Jul 2026 08:26:00 -0400"
+    },
+    {
+      "title": "The B2B payments infrastructure gap: Most platforms weren\u2019t built for agentic AI",
+      "link": "https://www.paymentsdive.com/spons/the-b2b-payments-infrastructure-gap-most-platforms-werent-built-for-agent/824370/",
+      "description": "Legacy B2B tech stacks were designed to be compatible with automation &mdash; not today&rsquo;s agentic AI.",
+      "published": "Mon, 06 Jul 2026 05:00:00 -0400"
+    },
+    {
+      "title": "Simplifying the operations behind modern payments",
+      "link": "https://www.paymentsdive.com/spons/simplifying-the-operations-behind-modern-payments/823602/",
+      "description": "Reduce &ldquo;operational drag&rdquo; with a payment solution built for Adobe Commerce and Magento Open Source.",
+      "published": "Mon, 06 Jul 2026 05:00:00 -0400"
+    },
     {
       "title": "Adyen promotes executives",
       "link": "https://www.paymentsdive.com/news/adyen-names-interim-cfo-leadership-update-payments/824414/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/stablecoin-open-standard-bridge-abrams-bny-stripe-mastercard-visa-coinbase-adyen/824223/",
       "description": "Visa, Mastercard, Klarna and MoneyGram were among the companies that lent their backing to a digital asset launched Tuesday by Open Standard.",
       "published": "Wed, 01 Jul 2026 10:52:00 -0400"
-    },
-    {
-      "title": "Klarna wins $2B Google antitrust case",
-      "link": "https://www.paymentsdive.com/news/google-loses-2b-klarna-antitrust-case-online-shopping-consumer-spending-tech/824221/",
-      "description": "A Swedish court ruled Wednesday that the tech giant had violated antitrust laws in price comparison, harming a Klarna-owned European competitor.",
-      "published": "Wed, 01 Jul 2026 10:47:54 -0400"
-    },
-    {
-      "title": "Amazon settles FTC card fraud case",
-      "link": "https://www.paymentsdive.com/news/amazon-settles-ftc-card-fraud-case/824203/",
-      "description": "Regulators allege the digital retail giant created a &ldquo;Kafkaesque ordeal&rdquo; for ID theft victims trying to obtain records related to fraudulent transactions.",
-      "published": "Wed, 01 Jul 2026 09:50:35 -0400"
-    },
-    {
-      "title": "Payments events still ahead in 2026",
-      "link": "https://www.paymentsdive.com/news/payments-conferences-2026/761201/",
-      "description": "Stablecoins, fraud prevention and artificial intelligence have been hot topics at this year&rsquo;s payments industry conferences. There&rsquo;s more to come.",
-      "published": "Wed, 01 Jul 2026 09:00:00 -0400"
     }
   ]
 }
