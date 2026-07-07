@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-06T15:53:42.759363Z",
-  "generated_date": "2026-07-06",
+  "generated_at": "2026-07-07T15:13:12.416979Z",
+  "generated_date": "2026-07-07",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on product + fintech innovation.",
   "articles": [
+    {
+      "title": "How real-time payments expand",
+      "link": "https://www.paymentsdive.com/news/how-real-time-payments-expand-stripe-fintechs-fednow-rtp-consumers-banks/824410/",
+      "description": "An early Stripe executive predicts big advances for the growth of consumer-level, real-time payments over the next 18 months.",
+      "published": "Tue, 07 Jul 2026 08:47:00 -0400"
+    },
+    {
+      "title": "Ex-Bolt executive lands new post",
+      "link": "https://www.paymentsdive.com/news/ex-bolt-executive-lands-new-post/824479/",
+      "description": "The checkout company&rsquo;s former CEO has become president of the Australian merchant services firm Hello Clever.",
+      "published": "Mon, 06 Jul 2026 10:56:12 -0400"
+    },
     {
       "title": "Digital ID and payments turn to your face",
       "link": "https://www.paymentsdive.com/news/digital-id-and-payments-turn-to-your-face/824041/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/amex-apple-team-on-rewards-cards-digital-wallets/824268/",
       "description": "American Express card holders can now redeem their rewards at checkout via Apple Pay online, or in the app.",
       "published": "Thu, 02 Jul 2026 09:30:00 -0400"
-    },
-    {
-      "title": "Ramp elevates CTO to co-CEO",
-      "link": "https://www.paymentsdive.com/news/ramp-names-karim-atiyeh-co-ceo-glyman-cto-Rahul-Sengottuvelu/824283/",
-      "description": "&ldquo;If you know us, this won&rsquo;t feel like a change,&rdquo; wrote Eric Glyman of fellow co-founder Karim Atiyeh&rsquo;s move to the top of the fintech.",
-      "published": "Thu, 02 Jul 2026 08:51:00 -0400"
-    },
-    {
-      "title": "Card networks, banks, fintechs partner on \u2018low-cost\u2019 stablecoin",
-      "link": "https://www.paymentsdive.com/news/stablecoin-open-standard-bridge-abrams-bny-stripe-mastercard-visa-coinbase-adyen/824223/",
-      "description": "Visa, Mastercard, Klarna and MoneyGram were among the companies that lent their backing to a digital asset launched Tuesday by Open Standard.",
-      "published": "Wed, 01 Jul 2026 10:52:00 -0400"
     }
   ]
 }
