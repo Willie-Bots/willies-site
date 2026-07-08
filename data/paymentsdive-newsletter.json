@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-07T15:13:12.416979Z",
-  "generated_date": "2026-07-07",
+  "generated_at": "2026-07-08T14:39:41.965349Z",
+  "generated_date": "2026-07-08",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on product + fintech innovation.",
   "articles": [
+    {
+      "title": "Klarna seeks to disrupt US market",
+      "link": "https://www.paymentsdive.com/news/klarna-seeks-to-disrupt-us-market/824582/",
+      "description": "The Swedish buy now, pay later player aims to shake up financial services, linking with Southwest Air and seeking a bank license this week.",
+      "published": "Tue, 07 Jul 2026 10:43:00 -0400"
+    },
     {
       "title": "How real-time payments expand",
       "link": "https://www.paymentsdive.com/news/how-real-time-payments-expand-stripe-fintechs-fednow-rtp-consumers-banks/824410/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/nuvei-names-new-c-suite-executives/824358/",
       "description": "The Canadian company that just bought New York-based Payoneer remade its C-suite, and is doubling down on agentic commerce.",
       "published": "Thu, 02 Jul 2026 10:59:00 -0400"
-    },
-    {
-      "title": "Amex, Apple team on rewards",
-      "link": "https://www.paymentsdive.com/news/amex-apple-team-on-rewards-cards-digital-wallets/824268/",
-      "description": "American Express card holders can now redeem their rewards at checkout via Apple Pay online, or in the app.",
-      "published": "Thu, 02 Jul 2026 09:30:00 -0400"
     }
   ]
 }
