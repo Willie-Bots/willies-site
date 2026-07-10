@@ -1,14 +1,26 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-09T15:32:30.052431Z",
-  "generated_date": "2026-07-09",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
+  "generated_at": "2026-07-10T14:50:07.223747Z",
+  "generated_date": "2026-07-10",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Debit cards top payments, Fed says",
+      "link": "https://www.paymentsdive.com/news/debit-cards-top-payments-fed-says/824840/",
+      "description": "While the cards still dominate payments, growth in their use for 2024 was the slowest since a triennial Federal Reserve report started in 2001.",
+      "published": "Thu, 09 Jul 2026 10:57:00 -0400"
+    },
     {
       "title": "Cash App triggers $45M settlement",
       "link": "https://www.paymentsdive.com/news/cash-app-block-to-pay-45m-over-consumer-fraud-states-penalty/824795/",
       "description": "Block misled consumers about the safety of using the financial app and failed to help users who were fraud victims, 46 states alleged.",
       "published": "Thu, 09 Jul 2026 09:20:00 -0400"
+    },
+    {
+      "title": "U.S. Bank pursues payments-first strategy",
+      "link": "https://www.paymentsdive.com/news/us-bank-pursues-gen-z-payments-first-strategy-deposits-banking/824823/",
+      "description": "With payments as the entry point to banking relationships, the lender cultivates a low-cost funding base, said executive Arijit Roy.",
+      "published": "Thu, 09 Jul 2026 08:22:59 -0400"
     },
     {
       "title": "Fiserv president exits",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/ex-bolt-executive-lands-new-post/824479/",
       "description": "The checkout company&rsquo;s former CEO has become president of the Australian merchant services firm Hello Clever.",
       "published": "Mon, 06 Jul 2026 10:56:12 -0400"
-    },
-    {
-      "title": "Digital ID and payments turn to your face",
-      "link": "https://www.paymentsdive.com/news/digital-id-and-payments-turn-to-your-face/824041/",
-      "description": "As mobile devices and government regulators embrace facial recognition technology, your face is becoming both wallet and identification.",
-      "published": "Mon, 06 Jul 2026 08:26:00 -0400"
-    },
-    {
-      "title": "The B2B payments infrastructure gap: Most platforms weren\u2019t built for agentic AI",
-      "link": "https://www.paymentsdive.com/spons/the-b2b-payments-infrastructure-gap-most-platforms-werent-built-for-agent/824370/",
-      "description": "Legacy B2B tech stacks were designed to be compatible with automation &mdash; not today&rsquo;s agentic AI.",
-      "published": "Mon, 06 Jul 2026 05:00:00 -0400"
     }
   ]
 }
