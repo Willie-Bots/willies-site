@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-10T14:50:07.223747Z",
-  "generated_date": "2026-07-10",
+  "generated_at": "2026-07-11T13:53:18.591357Z",
+  "generated_date": "2026-07-11",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Fraud fight can\u2019t wait on government",
+      "link": "https://www.paymentsdive.com/news/merchants-must-fight-fraud-on-the-frontlines-retail-chargebacks/824949/",
+      "description": "&ldquo;While we wait for federal roundtable policies to trickle down, merchants are suffering heavily right now,&rdquo; writes one industry consultant.",
+      "published": "Fri, 10 Jul 2026 10:27:32 -0400"
+    },
+    {
+      "title": "Merchants blast credit union rule",
+      "link": "https://www.paymentsdive.com/news/merchants-blast-credit-union-card-fee-rule/824904/",
+      "description": "Retail and restaurant groups say federal credit union regulators imposed an &ldquo;unlawful&rdquo; rule preempting an Illinois law that curbs payment card fees.",
+      "published": "Fri, 10 Jul 2026 10:13:00 -0400"
+    },
     {
       "title": "Debit cards top payments, Fed says",
       "link": "https://www.paymentsdive.com/news/debit-cards-top-payments-fed-says/824840/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/klarna-seeks-to-disrupt-us-market/824582/",
       "description": "The Swedish buy now, pay later player aims to shake up financial services, linking with Southwest Air and seeking a bank license this week.",
       "published": "Tue, 07 Jul 2026 10:43:00 -0400"
-    },
-    {
-      "title": "How real-time payments expand",
-      "link": "https://www.paymentsdive.com/news/how-real-time-payments-expand-stripe-fintechs-fednow-rtp-consumers-banks/824410/",
-      "description": "An early Stripe executive predicts big advances for the growth of consumer-level, real-time payments over the next 18 months.",
-      "published": "Tue, 07 Jul 2026 08:47:00 -0400"
-    },
-    {
-      "title": "Ex-Bolt executive lands new post",
-      "link": "https://www.paymentsdive.com/news/ex-bolt-executive-lands-new-post/824479/",
-      "description": "The checkout company&rsquo;s former CEO has become president of the Australian merchant services firm Hello Clever.",
-      "published": "Mon, 06 Jul 2026 10:56:12 -0400"
     }
   ]
 }
