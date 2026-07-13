@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-12T13:55:00.416565Z",
-  "generated_date": "2026-07-12",
+  "generated_at": "2026-07-13T15:10:12.863300Z",
+  "generated_date": "2026-07-13",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Why Cash App wants food orders",
+      "link": "https://www.paymentsdive.com/news/why-cash-app-wants-food-orders-square-merchants-dining/825040/",
+      "description": "Block aims to meld its Square merchants network with Cash App users to push local dining, boosting the app&rsquo;s stickiness and payments volume.",
+      "published": "Mon, 13 Jul 2026 09:46:30 -0400"
+    },
     {
       "title": "Fraud fight can\u2019t wait on government",
       "link": "https://www.paymentsdive.com/news/merchants-must-fight-fraud-on-the-frontlines-retail-chargebacks/824949/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fiserv-debit-network-sale-skepticism-abounds/824706/",
       "description": "The payment processor reportedly has considered selling a debit network to one of several banks, but many analysts doubt it will happen.",
       "published": "Wed, 08 Jul 2026 10:59:00 -0400"
-    },
-    {
-      "title": "Klarna seeks to disrupt US market",
-      "link": "https://www.paymentsdive.com/news/klarna-seeks-to-disrupt-us-market/824582/",
-      "description": "The Swedish buy now, pay later player aims to shake up financial services, linking with Southwest Air and seeking a bank license this week.",
-      "published": "Tue, 07 Jul 2026 10:43:00 -0400"
     }
   ]
 }
