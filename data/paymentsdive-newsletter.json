@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-13T15:10:12.863300Z",
-  "generated_date": "2026-07-13",
+  "generated_at": "2026-07-14T14:12:28.216574Z",
+  "generated_date": "2026-07-14",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "FedNow advances over hurdles",
+      "link": "https://www.paymentsdive.com/news/fednow-advances-over-hurdles/825071/",
+      "description": "The Federal Reserve&rsquo;s instant payments system is adding banks and accounts, but building more use cases to spur uptake remains a challenge.",
+      "published": "Mon, 13 Jul 2026 11:22:53 -0400"
+    },
     {
       "title": "Why Cash App wants food orders",
       "link": "https://www.paymentsdive.com/news/why-cash-app-wants-food-orders-square-merchants-dining/825040/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fiserv-president-exits/824708/",
       "description": "As Dhivya Suryadevara announced her resignation Tuesday, the company elevated two other executives.",
       "published": "Wed, 08 Jul 2026 11:01:00 -0400"
-    },
-    {
-      "title": "Fiserv debit network sale skepticism abounds",
-      "link": "https://www.paymentsdive.com/news/fiserv-debit-network-sale-skepticism-abounds/824706/",
-      "description": "The payment processor reportedly has considered selling a debit network to one of several banks, but many analysts doubt it will happen.",
-      "published": "Wed, 08 Jul 2026 10:59:00 -0400"
     }
   ]
 }
