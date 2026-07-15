@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-14T14:12:28.216574Z",
-  "generated_date": "2026-07-14",
+  "generated_at": "2026-07-15T14:08:00.248355Z",
+  "generated_date": "2026-07-15",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Visa-Mastercard payouts inch forward",
+      "link": "https://www.paymentsdive.com/news/visa-mastercard-payouts-inch-forward-merchants-interchange-litigation/825191/",
+      "description": "A court official appointed for the swipe fee settlement is working through about 40,000 merchant claims issues, based on a quarterly update.",
+      "published": "Tue, 14 Jul 2026 11:35:35 -0400"
+    },
+    {
+      "title": "Amex, Delta card spending soars",
+      "link": "https://www.paymentsdive.com/news/amex-delta-card-spending-soars/825180/",
+      "description": "The card company is benefiting from a continuous rise in spending by consumers who hold Delta Air Lines branded cards.",
+      "published": "Tue, 14 Jul 2026 10:41:00 -0400"
+    },
     {
       "title": "FedNow advances over hurdles",
       "link": "https://www.paymentsdive.com/news/fednow-advances-over-hurdles/825071/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/cash-app-block-to-pay-45m-over-consumer-fraud-states-penalty/824795/",
       "description": "Block misled consumers about the safety of using the financial app and failed to help users who were fraud victims, 46 states alleged.",
       "published": "Thu, 09 Jul 2026 09:20:00 -0400"
-    },
-    {
-      "title": "U.S. Bank pursues payments-first strategy",
-      "link": "https://www.paymentsdive.com/news/us-bank-pursues-gen-z-payments-first-strategy-deposits-banking/824823/",
-      "description": "With payments as the entry point to banking relationships, the lender cultivates a low-cost funding base, said executive Arijit Roy.",
-      "published": "Thu, 09 Jul 2026 08:22:59 -0400"
-    },
-    {
-      "title": "Fiserv president exits",
-      "link": "https://www.paymentsdive.com/news/fiserv-president-exits/824708/",
-      "description": "As Dhivya Suryadevara announced her resignation Tuesday, the company elevated two other executives.",
-      "published": "Wed, 08 Jul 2026 11:01:00 -0400"
     }
   ]
 }
