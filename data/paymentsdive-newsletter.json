@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-15T14:08:00.248355Z",
-  "generated_date": "2026-07-15",
+  "generated_at": "2026-07-16T14:21:17.193555Z",
+  "generated_date": "2026-07-16",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "How a PayPal may benefit Stripe",
+      "link": "https://www.paymentsdive.com/news/how-a-paypal-may-benefit-stripe/825309/",
+      "description": "The digital payments startup has reportedly made a bid for a stake in its older predecessor, potentially creating a massive processor.",
+      "published": "Wed, 15 Jul 2026 10:56:00 -0400"
+    },
+    {
+      "title": "Is BNPL financing raising prices?",
+      "link": "https://www.paymentsdive.com/news/are-bnpl-loans-raising-prices-inflation-consumers-financing/825290/",
+      "description": "Buy now, pay later financing impacts consumer prices as merchants pass along processing costs, a consumer advocate report asserts.",
+      "published": "Wed, 15 Jul 2026 10:18:10 -0400"
+    },
     {
       "title": "Visa-Mastercard payouts inch forward",
       "link": "https://www.paymentsdive.com/news/visa-mastercard-payouts-inch-forward-merchants-interchange-litigation/825191/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/merchants-blast-credit-union-card-fee-rule/824904/",
       "description": "Retail and restaurant groups say federal credit union regulators imposed an &ldquo;unlawful&rdquo; rule preempting an Illinois law that curbs payment card fees.",
       "published": "Fri, 10 Jul 2026 10:13:00 -0400"
-    },
-    {
-      "title": "Debit cards top payments, Fed says",
-      "link": "https://www.paymentsdive.com/news/debit-cards-top-payments-fed-says/824840/",
-      "description": "While the cards still dominate payments, growth in their use for 2024 was the slowest since a triennial Federal Reserve report started in 2001.",
-      "published": "Thu, 09 Jul 2026 10:57:00 -0400"
-    },
-    {
-      "title": "Cash App triggers $45M settlement",
-      "link": "https://www.paymentsdive.com/news/cash-app-block-to-pay-45m-over-consumer-fraud-states-penalty/824795/",
-      "description": "Block misled consumers about the safety of using the financial app and failed to help users who were fraud victims, 46 states alleged.",
-      "published": "Thu, 09 Jul 2026 09:20:00 -0400"
     }
   ]
 }
