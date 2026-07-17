@@ -1,12 +1,30 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-16T14:21:17.193555Z",
-  "generated_date": "2026-07-16",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-07-17T14:01:35.279625Z",
+  "generated_date": "2026-07-17",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
     {
-      "title": "How a PayPal may benefit Stripe",
-      "link": "https://www.paymentsdive.com/news/how-a-paypal-may-benefit-stripe/825309/",
+      "title": "EWA backers push for CFPB move",
+      "link": "https://www.paymentsdive.com/news/ewa-backers-push-cfpb-move/825418/",
+      "description": "Supporters of earned wage access aim to update national oversight this year, backing a new law and seeking to confirm a Trump administration policy change.",
+      "published": "Thu, 16 Jul 2026 10:57:00 -0400"
+    },
+    {
+      "title": "Bottomline adds stablecoin tools",
+      "link": "https://www.paymentsdive.com/news/fintech-bottomline-brings-stablecoin-capabilities-cfo-suite/825337/",
+      "description": "The company is betting the new digital currency will gain traction across corporate payment, treasury and liquidity workflows.",
+      "published": "Thu, 16 Jul 2026 10:36:00 -0400"
+    },
+    {
+      "title": "Penny\u2019s end poses rounding challenge",
+      "link": "https://www.paymentsdive.com/news/pennys-end-poses-rounding-challenge/825398/",
+      "description": "Merchants press for passage of a bill to enact rounding standards as cash-handling businesses grapple with the cent&rsquo;s gradual demise.",
+      "published": "Thu, 16 Jul 2026 10:32:00 -0400"
+    },
+    {
+      "title": "How PayPal may benefit Stripe",
+      "link": "https://www.paymentsdive.com/news/how-paypal-may-benefit-stripe/825309/",
       "description": "The digital payments startup has reportedly made a bid for a stake in its older predecessor, potentially creating a massive processor.",
       "published": "Wed, 15 Jul 2026 10:56:00 -0400"
     },
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fednow-advances-over-hurdles/825071/",
       "description": "The Federal Reserve&rsquo;s instant payments system is adding banks and accounts, but building more use cases to spur uptake remains a challenge.",
       "published": "Mon, 13 Jul 2026 11:22:53 -0400"
-    },
-    {
-      "title": "Why Cash App wants food orders",
-      "link": "https://www.paymentsdive.com/news/why-cash-app-wants-food-orders-square-merchants-dining/825040/",
-      "description": "Block aims to meld its Square merchants network with Cash App users to push local dining, boosting the app&rsquo;s stickiness and payments volume.",
-      "published": "Mon, 13 Jul 2026 09:46:30 -0400"
-    },
-    {
-      "title": "Fraud fight can\u2019t wait on government",
-      "link": "https://www.paymentsdive.com/news/merchants-must-fight-fraud-on-the-frontlines-retail-chargebacks/824949/",
-      "description": "&ldquo;While we wait for federal roundtable policies to trickle down, merchants are suffering heavily right now,&rdquo; writes one industry consultant.",
-      "published": "Fri, 10 Jul 2026 10:27:32 -0400"
-    },
-    {
-      "title": "Merchants blast credit union rule",
-      "link": "https://www.paymentsdive.com/news/merchants-blast-credit-union-card-fee-rule/824904/",
-      "description": "Retail and restaurant groups say federal credit union regulators imposed an &ldquo;unlawful&rdquo; rule preempting an Illinois law that curbs payment card fees.",
-      "published": "Fri, 10 Jul 2026 10:13:00 -0400"
     }
   ]
 }
