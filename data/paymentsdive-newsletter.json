@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-17T14:01:35.279625Z",
-  "generated_date": "2026-07-17",
+  "generated_at": "2026-07-18T13:47:13.187533Z",
+  "generated_date": "2026-07-18",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Visa, Stripe join AI protocol project",
+      "link": "https://www.paymentsdive.com/news/visa-stripe-join-ai-protocol-project/825499/",
+      "description": "A pack of major fintechs have joined a nonprofit seeking to standardize how payments are sent online using artificial intelligence and software.",
+      "published": "Fri, 17 Jul 2026 09:48:00 -0400"
+    },
+    {
+      "title": "Backing the president\u2019s fintech order",
+      "link": "https://www.paymentsdive.com/news/backing-the-presidents-fintech-order/825493/",
+      "description": "&ldquo;Regulation should preserve confidence in the system, but it should not inhibit responsible innovation,&rdquo; writes one financial services lawyer.",
+      "published": "Fri, 17 Jul 2026 09:37:00 -0400"
+    },
     {
       "title": "EWA backers push for CFPB move",
       "link": "https://www.paymentsdive.com/news/ewa-backers-push-cfpb-move/825418/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/visa-mastercard-payouts-inch-forward-merchants-interchange-litigation/825191/",
       "description": "A court official appointed for the swipe fee settlement is working through about 40,000 merchant claims issues, based on a quarterly update.",
       "published": "Tue, 14 Jul 2026 11:35:35 -0400"
-    },
-    {
-      "title": "Amex, Delta card spending soars",
-      "link": "https://www.paymentsdive.com/news/amex-delta-card-spending-soars/825180/",
-      "description": "The card company is benefiting from a continuous rise in spending by consumers who hold Delta Air Lines branded cards.",
-      "published": "Tue, 14 Jul 2026 10:41:00 -0400"
-    },
-    {
-      "title": "FedNow advances over hurdles",
-      "link": "https://www.paymentsdive.com/news/fednow-advances-over-hurdles/825071/",
-      "description": "The Federal Reserve&rsquo;s instant payments system is adding banks and accounts, but building more use cases to spur uptake remains a challenge.",
-      "published": "Mon, 13 Jul 2026 11:22:53 -0400"
     }
   ]
 }
