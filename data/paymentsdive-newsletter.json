@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-20T14:32:08.352523Z",
-  "generated_date": "2026-07-20",
+  "generated_at": "2026-07-21T14:20:00.599455Z",
+  "generated_date": "2026-07-21",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Payments M&A spools up",
+      "link": "https://www.paymentsdive.com/news/payments-ma-spools-up/825653/",
+      "description": "Stripe&rsquo;s potential bid for PayPal isn&rsquo;t the only merger and acquisition activity underway as deal-making revs up for the second half of the year.",
+      "published": "Mon, 20 Jul 2026 11:06:00 -0400"
+    },
+    {
+      "title": "Why pricey credit cards may soon cost more",
+      "link": "https://www.paymentsdive.com/news/why-pricey-credit-cards-may-soon-cost-more/825609/",
+      "description": "A settlement over swipe fees could mark a major shift for retail payments as merchants embrace surcharges on high-end cards.",
+      "published": "Mon, 20 Jul 2026 10:37:00 -0400"
+    },
     {
       "title": "The next competitive edge is the payout experience",
       "link": "https://www.paymentsdive.com/spons/the-next-competitive-edge-is-the-payout-experience/824913/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fintech-bottomline-brings-stablecoin-capabilities-cfo-suite/825337/",
       "description": "The company is betting the new digital currency will gain traction across corporate payment, treasury and liquidity workflows.",
       "published": "Thu, 16 Jul 2026 10:36:00 -0400"
-    },
-    {
-      "title": "Penny\u2019s end poses rounding challenge",
-      "link": "https://www.paymentsdive.com/news/pennys-end-poses-rounding-challenge/825398/",
-      "description": "Merchants press for passage of a bill to enact rounding standards as cash-handling businesses grapple with the cent&rsquo;s gradual demise.",
-      "published": "Thu, 16 Jul 2026 10:32:00 -0400"
-    },
-    {
-      "title": "How PayPal may benefit Stripe",
-      "link": "https://www.paymentsdive.com/news/how-paypal-may-benefit-stripe/825309/",
-      "description": "The digital payments startup has reportedly made a bid for a stake in its older predecessor, potentially creating a massive processor.",
-      "published": "Wed, 15 Jul 2026 10:56:00 -0400"
     }
   ]
 }
