@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-21T14:20:00.599455Z",
-  "generated_date": "2026-07-21",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
+  "generated_at": "2026-07-22T14:20:44.491740Z",
+  "generated_date": "2026-07-22",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Oregon proposes BNPL rules",
+      "link": "https://www.paymentsdive.com/news/oregon-proposes-bnpl-rules/825792/",
+      "description": "The state&rsquo;s proposed rules would require buy now, pay later firms to obtain a payday or consumer finance license. A trade group countered the proposal.",
+      "published": "Tue, 21 Jul 2026 11:07:00 -0400"
+    },
+    {
+      "title": "Payments broker gets jail time",
+      "link": "https://www.paymentsdive.com/news/payments-broker-gets-jail-time/825788/",
+      "description": "The fraudster, who created sham online marketing companies to bilk consumers and businesses, was sentenced to three years in prison Monday.",
+      "published": "Tue, 21 Jul 2026 10:53:00 -0400"
+    },
     {
       "title": "Payments M&A spools up",
       "link": "https://www.paymentsdive.com/news/payments-ma-spools-up/825653/",
@@ -17,15 +29,15 @@
       "published": "Mon, 20 Jul 2026 10:37:00 -0400"
     },
     {
-      "title": "The next competitive edge is the payout experience",
-      "link": "https://www.paymentsdive.com/spons/the-next-competitive-edge-is-the-payout-experience/824913/",
-      "description": "Spending is instant. Getting paid back is not. Learn why that payout gap will impact your business.",
-      "published": "Mon, 20 Jul 2026 05:00:00 -0400"
-    },
-    {
       "title": "Retail media was the first wave. Financial services may define the next one.",
       "link": "https://www.paymentsdive.com/spons/retail-media-was-the-first-wave-financial-services-may-define-the-next-one/825477/",
       "description": "Retail media changed advertising. Financial services could define what comes next.",
+      "published": "Mon, 20 Jul 2026 05:00:00 -0400"
+    },
+    {
+      "title": "The next competitive edge is the payout experience",
+      "link": "https://www.paymentsdive.com/spons/the-next-competitive-edge-is-the-payout-experience/824913/",
+      "description": "Spending is instant. Getting paid back is not. Learn why that payout gap will impact your business.",
       "published": "Mon, 20 Jul 2026 05:00:00 -0400"
     },
     {
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/backing-the-presidents-fintech-order/825493/",
       "description": "&ldquo;Regulation should preserve confidence in the system, but it should not inhibit responsible innovation,&rdquo; writes one financial services lawyer.",
       "published": "Fri, 17 Jul 2026 09:37:00 -0400"
-    },
-    {
-      "title": "EWA backers push for CFPB move",
-      "link": "https://www.paymentsdive.com/news/ewa-backers-push-cfpb-move/825418/",
-      "description": "Supporters of earned wage access aim to update national oversight this year, backing a new law and seeking to confirm a Trump policy change.",
-      "published": "Thu, 16 Jul 2026 10:57:00 -0400"
-    },
-    {
-      "title": "Bottomline adds stablecoin tools",
-      "link": "https://www.paymentsdive.com/news/fintech-bottomline-brings-stablecoin-capabilities-cfo-suite/825337/",
-      "description": "The company is betting the new digital currency will gain traction across corporate payment, treasury and liquidity workflows.",
-      "published": "Thu, 16 Jul 2026 10:36:00 -0400"
     }
   ]
 }
