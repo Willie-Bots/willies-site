@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-22T14:20:44.491740Z",
-  "generated_date": "2026-07-22",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-07-23T14:29:50.311703Z",
+  "generated_date": "2026-07-23",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
   "articles": [
+    {
+      "title": "5 payments podcasts for a listen",
+      "link": "https://www.paymentsdive.com/news/5-payments-podcasts-for-a-listen/825929/",
+      "description": "With summer in full swing, it&rsquo;s a good time to head to the beach, take a walk or just lounge with an audio update on industry happenings.",
+      "published": "Wed, 22 Jul 2026 15:36:00 -0400"
+    },
+    {
+      "title": "Ramp, FIS make AI moves",
+      "link": "https://www.paymentsdive.com/news/ramp-fis-make-ai-moves/825904/",
+      "description": "The two payments companies this month embarked on separate artificial intelligence initiatives, with one focused on managing AI spending and the other using the technology to mitigate cybersecurity risks.",
+      "published": "Wed, 22 Jul 2026 10:55:00 -0400"
+    },
     {
       "title": "Oregon proposes BNPL rules",
       "link": "https://www.paymentsdive.com/news/oregon-proposes-bnpl-rules/825792/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/spons/the-next-competitive-edge-is-the-payout-experience/824913/",
       "description": "Spending is instant. Getting paid back is not. Learn why that payout gap will impact your business.",
       "published": "Mon, 20 Jul 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Visa, Stripe join AI protocol project",
-      "link": "https://www.paymentsdive.com/news/visa-stripe-join-ai-protocol-project/825499/",
-      "description": "A pack of major fintechs have joined a nonprofit seeking to standardize how payments are sent online using artificial intelligence and software.",
-      "published": "Fri, 17 Jul 2026 09:48:00 -0400"
-    },
-    {
-      "title": "Backing the president\u2019s fintech order",
-      "link": "https://www.paymentsdive.com/news/backing-the-presidents-fintech-order/825493/",
-      "description": "&ldquo;Regulation should preserve confidence in the system, but it should not inhibit responsible innovation,&rdquo; writes one financial services lawyer.",
-      "published": "Fri, 17 Jul 2026 09:37:00 -0400"
     }
   ]
 }
