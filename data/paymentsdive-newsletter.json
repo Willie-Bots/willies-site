@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-23T14:29:50.311703Z",
-  "generated_date": "2026-07-23",
+  "generated_at": "2026-07-24T14:11:12.330565Z",
+  "generated_date": "2026-07-24",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Nium targets stablecoins, growth",
+      "link": "https://www.paymentsdive.com/news/nium-targets-stablecoins-growth/826027/",
+      "description": "The cross-border payments company bought Cypher this month to roll forward its stablecoin strategy, says CEO Prajit Nanu.",
+      "published": "Thu, 23 Jul 2026 10:32:00 -0400"
+    },
     {
       "title": "5 payments podcasts for a listen",
       "link": "https://www.paymentsdive.com/news/5-payments-podcasts-for-a-listen/825929/",
@@ -44,12 +50,6 @@
       "title": "Retail media was the first wave. Financial services may define the next one.",
       "link": "https://www.paymentsdive.com/spons/retail-media-was-the-first-wave-financial-services-may-define-the-next-one/825477/",
       "description": "Retail media changed advertising. Financial services could define what comes next.",
-      "published": "Mon, 20 Jul 2026 05:00:00 -0400"
-    },
-    {
-      "title": "The next competitive edge is the payout experience",
-      "link": "https://www.paymentsdive.com/spons/the-next-competitive-edge-is-the-payout-experience/824913/",
-      "description": "Spending is instant. Getting paid back is not. Learn why that payout gap will impact your business.",
       "published": "Mon, 20 Jul 2026 05:00:00 -0400"
     }
   ]
