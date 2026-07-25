@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-24T14:11:12.330565Z",
-  "generated_date": "2026-07-24",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
+  "generated_at": "2026-07-25T14:00:34.669945Z",
+  "generated_date": "2026-07-25",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "OCC denies Wise a trust charter",
+      "link": "https://www.paymentsdive.com/news/occ-denies-wise-trust-charter-application-aml-deficiencies/826166/",
+      "description": "After the federal agency rejected its U.S. trust charter application, the British fintech plans to submit a new one under the Genius Act framework.",
+      "published": "Fri, 24 Jul 2026 12:31:00 -0400"
+    },
+    {
+      "title": "Amex ups marketing, tech spend",
+      "link": "https://www.paymentsdive.com/news/amex-ups-marketing-tech-spend/826146/",
+      "description": "To keep attracting new card holders, American Express is increasing its spending on marketing and technology in the second half of this year.",
+      "published": "Fri, 24 Jul 2026 11:45:00 -0400"
+    },
+    {
+      "title": "Maryland joins states issuing chip-enabled EBT cards",
+      "link": "https://www.paymentsdive.com/news/maryland-issuing-chip-enabled-ebt-cards-statewide/826144/",
+      "description": "The upgraded payment method will help to reduce fraud and replace legacy magnetic stripe cards, the state&rsquo;s governor said.",
+      "published": "Fri, 24 Jul 2026 11:09:00 -0400"
+    },
     {
       "title": "Nium targets stablecoins, growth",
       "link": "https://www.paymentsdive.com/news/nium-targets-stablecoins-growth/826027/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/payments-broker-gets-jail-time/825788/",
       "description": "The fraudster, who created sham online marketing companies to bilk consumers and businesses, was sentenced to three years in prison Monday.",
       "published": "Tue, 21 Jul 2026 10:53:00 -0400"
-    },
-    {
-      "title": "Payments M&A spools up",
-      "link": "https://www.paymentsdive.com/news/payments-ma-spools-up/825653/",
-      "description": "Stripe&rsquo;s potential bid for PayPal isn&rsquo;t the only merger and acquisition activity underway as deal-making revs up for the second half of the year.",
-      "published": "Mon, 20 Jul 2026 11:06:00 -0400"
-    },
-    {
-      "title": "Why pricey credit cards may soon cost more",
-      "link": "https://www.paymentsdive.com/news/why-pricey-credit-cards-may-soon-cost-more/825609/",
-      "description": "A settlement over swipe fees could mark a major shift for retail payments as merchants embrace surcharges on high-end cards.",
-      "published": "Mon, 20 Jul 2026 10:37:00 -0400"
-    },
-    {
-      "title": "Retail media was the first wave. Financial services may define the next one.",
-      "link": "https://www.paymentsdive.com/spons/retail-media-was-the-first-wave-financial-services-may-define-the-next-one/825477/",
-      "description": "Retail media changed advertising. Financial services could define what comes next.",
-      "published": "Mon, 20 Jul 2026 05:00:00 -0400"
     }
   ]
 }
