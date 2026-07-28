@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-27T15:11:53.486483Z",
-  "generated_date": "2026-07-27",
+  "generated_at": "2026-07-28T14:35:22.028228Z",
+  "generated_date": "2026-07-28",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Mastercard bolsters scam defense",
+      "link": "https://www.paymentsdive.com/news/mastercard-bolsters-scam-defense/826259/",
+      "description": "The card network and rival Visa are each pursuing new rules to induce merchants and their banks to join the fight against fraud.",
+      "published": "Mon, 27 Jul 2026 12:06:00 -0400"
+    },
     {
       "title": "Keeping pace with the next era of commerce payments",
       "link": "https://www.paymentsdive.com/spons/keeping-pace-with-the-next-era-of-commerce-payments/825735/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/ramp-fis-make-ai-moves/825904/",
       "description": "The two payments companies this month embarked on separate artificial intelligence initiatives, with one focused on managing AI spending and the other using the technology to mitigate cybersecurity risks.",
       "published": "Wed, 22 Jul 2026 10:55:00 -0400"
-    },
-    {
-      "title": "Oregon proposes BNPL rules",
-      "link": "https://www.paymentsdive.com/news/oregon-proposes-bnpl-rules/825792/",
-      "description": "The state&rsquo;s proposed rules would require buy now, pay later firms to obtain a payday or consumer finance license. A trade group countered the proposal.",
-      "published": "Tue, 21 Jul 2026 11:07:00 -0400"
     }
   ]
 }
