@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-28T14:35:22.028228Z",
-  "generated_date": "2026-07-28",
+  "generated_at": "2026-07-29T14:30:02.719916Z",
+  "generated_date": "2026-07-29",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "PayPal leans into financial services",
+      "link": "https://www.paymentsdive.com/news/paypal-leans-into-financial-services/826368/",
+      "description": "The company&rsquo;s CEO said that buy now, pay later and other consumer finance offerings will pump up revenue, but some analysts have doubts.",
+      "published": "Tue, 28 Jul 2026 10:53:00 -0400"
+    },
+    {
+      "title": "How ISO consolidation persists",
+      "link": "https://www.paymentsdive.com/news/how-iso-consolidation-persists/826359/",
+      "description": "Global Payments and other processors have been gobbling up smaller firms for years, but payments professionals keep forming new ones.",
+      "published": "Tue, 28 Jul 2026 10:36:00 -0400"
+    },
     {
       "title": "Mastercard bolsters scam defense",
       "link": "https://www.paymentsdive.com/news/mastercard-bolsters-scam-defense/826259/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/nium-targets-stablecoins-growth/826027/",
       "description": "The cross-border payments company bought Cypher this month to roll forward its stablecoin strategy, says CEO Prajit Nanu.",
       "published": "Thu, 23 Jul 2026 10:32:00 -0400"
-    },
-    {
-      "title": "5 payments podcasts for a listen",
-      "link": "https://www.paymentsdive.com/news/5-payments-podcasts-for-a-listen/825929/",
-      "description": "With summer in full swing, it&rsquo;s a good time to head to the beach, take a walk or just lounge with an audio update on industry happenings.",
-      "published": "Wed, 22 Jul 2026 15:36:00 -0400"
-    },
-    {
-      "title": "Ramp, FIS make AI moves",
-      "link": "https://www.paymentsdive.com/news/ramp-fis-make-ai-moves/825904/",
-      "description": "The two payments companies this month embarked on separate artificial intelligence initiatives, with one focused on managing AI spending and the other using the technology to mitigate cybersecurity risks.",
-      "published": "Wed, 22 Jul 2026 10:55:00 -0400"
     }
   ]
 }
