@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-29T14:30:02.719916Z",
-  "generated_date": "2026-07-29",
+  "generated_at": "2026-07-30T14:30:22.081189Z",
+  "generated_date": "2026-07-30",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Visa\u2019s revenue momentum slows",
+      "link": "https://www.paymentsdive.com/news/visas-revenue-momentum-slows/826475/",
+      "description": "The card network&rsquo;s recent revenue growth slowed in July, relative to last year, but customer spending remains healthy, the company said.",
+      "published": "Wed, 29 Jul 2026 11:10:43 -0400"
+    },
+    {
+      "title": "Pex aims to expand card biz",
+      "link": "https://www.paymentsdive.com/news/pex-aims-to-expand-card-biz/826457/",
+      "description": "The spend-management firm raised money from investors to grow its corporate card and finance software business.",
+      "published": "Wed, 29 Jul 2026 10:03:00 -0400"
+    },
     {
       "title": "PayPal leans into financial services",
       "link": "https://www.paymentsdive.com/news/paypal-leans-into-financial-services/826368/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/amex-ups-marketing-tech-spend/826146/",
       "description": "To keep attracting new card holders, American Express is increasing its spending on marketing and technology in the second half of this year.",
       "published": "Fri, 24 Jul 2026 11:45:00 -0400"
-    },
-    {
-      "title": "Maryland joins states issuing chip-enabled EBT cards",
-      "link": "https://www.paymentsdive.com/news/maryland-issuing-chip-enabled-ebt-cards-statewide/826144/",
-      "description": "The upgraded payment method will help to reduce fraud and replace legacy magnetic stripe cards, the state&rsquo;s governor said.",
-      "published": "Fri, 24 Jul 2026 11:09:00 -0400"
-    },
-    {
-      "title": "Nium targets stablecoins, growth",
-      "link": "https://www.paymentsdive.com/news/nium-targets-stablecoins-growth/826027/",
-      "description": "The cross-border payments company bought Cypher this month to roll forward its stablecoin strategy, says CEO Prajit Nanu.",
-      "published": "Thu, 23 Jul 2026 10:32:00 -0400"
     }
   ]
 }
