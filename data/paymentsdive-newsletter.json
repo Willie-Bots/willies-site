@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-30T14:30:22.081189Z",
-  "generated_date": "2026-07-30",
+  "generated_at": "2026-07-31T14:33:24.038132Z",
+  "generated_date": "2026-07-31",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Capital One provides Discover community investment update",
+      "link": "https://www.paymentsdive.com/news/capital-one-provides-discover-community-investment-update/826588/",
+      "description": "The bank issued a report last month on progress related to the $265 billion it had committed to invest as part of its bid to buy Discover Financial Services. Charitable organizations working with it offered little support for the statement.",
+      "published": "Thu, 30 Jul 2026 10:55:00 -0400"
+    },
+    {
+      "title": "Stablecoins complement dollar: Fed",
+      "link": "https://www.paymentsdive.com/news/stablecoins-complement-dollar-fed/826571/",
+      "description": "The greenback will retain its dominance as stablecoins increasingly shape cross-border payments, speakers at a Fed conference predicted.",
+      "published": "Thu, 30 Jul 2026 10:13:00 -0400"
+    },
     {
       "title": "Visa\u2019s revenue momentum slows",
       "link": "https://www.paymentsdive.com/news/visas-revenue-momentum-slows/826475/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/spons/keeping-pace-with-the-next-era-of-commerce-payments/825735/",
       "description": "Discover the strategic path to modernizing payments for Adobe Commerce and Magento Open Source.",
       "published": "Mon, 27 Jul 2026 05:00:00 -0400"
-    },
-    {
-      "title": "OCC denies Wise a trust charter",
-      "link": "https://www.paymentsdive.com/news/occ-denies-wise-trust-charter-application-aml-deficiencies/826166/",
-      "description": "After the federal agency rejected its U.S. trust charter application, the British fintech plans to submit a new one under the Genius Act framework.",
-      "published": "Fri, 24 Jul 2026 12:31:00 -0400"
-    },
-    {
-      "title": "Amex ups marketing, tech spend",
-      "link": "https://www.paymentsdive.com/news/amex-ups-marketing-tech-spend/826146/",
-      "description": "To keep attracting new card holders, American Express is increasing its spending on marketing and technology in the second half of this year.",
-      "published": "Fri, 24 Jul 2026 11:45:00 -0400"
     }
   ]
 }
