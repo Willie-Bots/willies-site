@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-07-31T14:33:24.038132Z",
-  "generated_date": "2026-07-31",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-08-01T13:54:05.265940Z",
+  "generated_date": "2026-08-01",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Apple\u2019s installment payments target affordability",
+      "link": "https://www.paymentsdive.com/news/apples-installment-payments-target-affordability/826721/",
+      "description": "Amid price increases, the iPhone maker&rsquo;s CEO says a new lease program run by BNPL player Klarna is designed to boost consumers&rsquo; ability to buy.",
+      "published": "Fri, 31 Jul 2026 11:31:15 -0400"
+    },
+    {
+      "title": "Why fintechs may skirt the US",
+      "link": "https://www.paymentsdive.com/news/why-fintechs-may-skirt-the-us/826668/",
+      "description": "&ldquo;There are clear signs that leading payments players and fintechs may be pulling out of the U.S. to prioritize other, more &lsquo;open banking-friendly&rsquo; regions,&rdquo; writes one financial software executive.",
+      "published": "Fri, 31 Jul 2026 10:16:00 -0400"
+    },
     {
       "title": "Capital One provides Discover community investment update",
       "link": "https://www.paymentsdive.com/news/capital-one-provides-discover-community-investment-update/826588/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/how-iso-consolidation-persists/826359/",
       "description": "Global Payments and other processors have been gobbling up smaller firms for years, but payments professionals keep forming new ones.",
       "published": "Tue, 28 Jul 2026 10:36:00 -0400"
-    },
-    {
-      "title": "Mastercard bolsters scam defense",
-      "link": "https://www.paymentsdive.com/news/mastercard-bolsters-scam-defense/826259/",
-      "description": "The card network and rival Visa are each pursuing new rules to induce merchants and their banks to join the fight against fraud.",
-      "published": "Mon, 27 Jul 2026 12:06:00 -0400"
-    },
-    {
-      "title": "Keeping pace with the next era of commerce payments",
-      "link": "https://www.paymentsdive.com/spons/keeping-pace-with-the-next-era-of-commerce-payments/825735/",
-      "description": "Discover the strategic path to modernizing payments for Adobe Commerce and Magento Open Source.",
-      "published": "Mon, 27 Jul 2026 05:00:00 -0400"
     }
   ]
 }
