@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-08-02T13:52:50.847155Z",
-  "generated_date": "2026-08-02",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
+  "generated_at": "2026-08-03T15:14:29.763542Z",
+  "generated_date": "2026-08-03",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Visa loses bid to dismiss porn lawsuit",
+      "link": "https://www.paymentsdive.com/news/visa-loses-bid-to-dismiss-porn-lawsuit/826777/",
+      "description": "The card network must defend itself against a 2021 lawsuit related to sexual videos of underage minors that were posted on pornography sites.",
+      "published": "Mon, 03 Aug 2026 09:41:50 -0400"
+    },
+    {
+      "title": "Visa to buy BioCatch for $2.4B",
+      "link": "https://www.paymentsdive.com/news/visa-to-buy-biocatch-for-24b/826816/",
+      "description": "The card network giant plans to scoop up the Israeli firm to strengthen its defenses in a fight against fraud fueled by artificial intelligence.",
+      "published": "Mon, 03 Aug 2026 09:15:00 -0400"
+    },
+    {
+      "title": "From POS provider to fintech platform: Epos Now\u2019s embedded finance journey",
+      "link": "https://www.paymentsdive.com/spons/from-pos-provider-to-fintech-platform-epos-nows-embedded-finance-journey/826308/",
+      "description": "See how Epos Now built a full fintech platform with Adyen to power 80k+ locations.",
+      "published": "Mon, 03 Aug 2026 05:00:00 -0400"
+    },
     {
       "title": "Apple\u2019s installment payments target affordability",
       "link": "https://www.paymentsdive.com/news/apples-installment-payments-target-affordability/826721/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/visas-revenue-momentum-slows/826475/",
       "description": "The card network&rsquo;s recent revenue growth slowed in July, relative to last year, but customer spending remains healthy, the company said.",
       "published": "Wed, 29 Jul 2026 11:10:43 -0400"
-    },
-    {
-      "title": "Pex aims to expand card biz",
-      "link": "https://www.paymentsdive.com/news/pex-aims-to-expand-card-biz/826457/",
-      "description": "The spend-management firm raised money from investors to grow its corporate card and finance software business.",
-      "published": "Wed, 29 Jul 2026 10:03:00 -0400"
-    },
-    {
-      "title": "PayPal leans into financial services",
-      "link": "https://www.paymentsdive.com/news/paypal-leans-into-financial-services/826368/",
-      "description": "The company&rsquo;s CEO said that buy now, pay later and other consumer finance offerings will pump up revenue, but some analysts have doubts.",
-      "published": "Tue, 28 Jul 2026 10:53:00 -0400"
-    },
-    {
-      "title": "How ISO consolidation persists",
-      "link": "https://www.paymentsdive.com/news/how-iso-consolidation-persists/826359/",
-      "description": "Global Payments and other processors have been gobbling up smaller firms for years, but payments professionals keep forming new ones.",
-      "published": "Tue, 28 Jul 2026 10:36:00 -0400"
     }
   ]
 }
