@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-08-03T15:14:29.763542Z",
-  "generated_date": "2026-08-03",
+  "generated_at": "2026-08-04T14:38:03.055831Z",
+  "generated_date": "2026-08-04",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Western Union faces profit drop",
+      "link": "https://www.paymentsdive.com/news/western-union-faces-profit-drop/826836/",
+      "description": "The cross-border payments company&rsquo;s business has been hurt by U.S. immigration policies, forcing it to embark on a cost-cutting plan.",
+      "published": "Mon, 03 Aug 2026 11:10:00 -0400"
+    },
     {
       "title": "Visa loses bid to dismiss porn lawsuit",
       "link": "https://www.paymentsdive.com/news/visa-loses-bid-to-dismiss-porn-lawsuit/826777/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/stablecoins-complement-dollar-fed/826571/",
       "description": "The greenback will retain its dominance as stablecoins increasingly shape cross-border payments, speakers at a Fed conference predicted.",
       "published": "Thu, 30 Jul 2026 10:13:00 -0400"
-    },
-    {
-      "title": "Visa\u2019s revenue momentum slows",
-      "link": "https://www.paymentsdive.com/news/visas-revenue-momentum-slows/826475/",
-      "description": "The card network&rsquo;s recent revenue growth slowed in July, relative to last year, but customer spending remains healthy, the company said.",
-      "published": "Wed, 29 Jul 2026 11:10:43 -0400"
     }
   ]
 }
