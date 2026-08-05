@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-08-04T14:38:03.055831Z",
-  "generated_date": "2026-08-04",
+  "generated_at": "2026-08-05T14:31:44.571317Z",
+  "generated_date": "2026-08-05",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "FIS seeks to sell parts of capital markets unit",
+      "link": "https://www.paymentsdive.com/news/fis-seeks-to-sell-parts-of-capital-markets-unit/826952/",
+      "description": "The banking and payments services company floated the plan to offload pieces of the business after sales declined for that segment.",
+      "published": "Tue, 04 Aug 2026 10:48:00 -0400"
+    },
+    {
+      "title": "Trump backs card bill, again",
+      "link": "https://www.paymentsdive.com/news/trump-backs-card-bill-again/826938/",
+      "description": "The president called card interchange fees a&nbsp;&ldquo;ripoff&rdquo; in a social media post backing the Republican co-sponsor of a bill aimed at reducing them.",
+      "published": "Tue, 04 Aug 2026 10:29:49 -0400"
+    },
     {
       "title": "Western Union faces profit drop",
       "link": "https://www.paymentsdive.com/news/western-union-faces-profit-drop/826836/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/why-fintechs-may-skirt-the-us/826668/",
       "description": "&ldquo;There are clear signs that leading payments players and fintechs may be pulling out of the U.S. to prioritize other, more &lsquo;open banking-friendly&rsquo; regions,&rdquo; writes one financial software executive.",
       "published": "Fri, 31 Jul 2026 10:16:00 -0400"
-    },
-    {
-      "title": "Capital One provides Discover community investment update",
-      "link": "https://www.paymentsdive.com/news/capital-one-provides-discover-community-investment-update/826588/",
-      "description": "The bank issued a report last month on progress related to the $265 billion it had committed to invest as part of its bid to buy Discover Financial Services. Charitable organizations working with it offered little support for the statement.",
-      "published": "Thu, 30 Jul 2026 10:55:00 -0400"
-    },
-    {
-      "title": "Stablecoins complement dollar: Fed",
-      "link": "https://www.paymentsdive.com/news/stablecoins-complement-dollar-fed/826571/",
-      "description": "The greenback will retain its dominance as stablecoins increasingly shape cross-border payments, speakers at a Fed conference predicted.",
-      "published": "Thu, 30 Jul 2026 10:13:00 -0400"
     }
   ]
 }
