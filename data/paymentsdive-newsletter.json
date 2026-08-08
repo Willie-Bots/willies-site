@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-08-07T13:37:22.892975Z",
-  "generated_date": "2026-08-07",
+  "generated_at": "2026-08-08T13:10:54.533090Z",
+  "generated_date": "2026-08-08",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Same-day ACH payments swell in Q2",
+      "link": "https://www.paymentsdive.com/news/same-day-ach-payments-swell-in-q2/827287/",
+      "description": "Nacha attributes the growth to financial firms&rsquo; increasing demand for faster payments.",
+      "published": "Fri, 07 Aug 2026 09:37:00 -0400"
+    },
+    {
+      "title": "Opening the Fed\u2019s payment rails",
+      "link": "https://www.paymentsdive.com/news/opening-the-feds-payment-rails/827005/",
+      "description": "&ldquo;Supervision will need to answer practical questions: what operational resilience should be required before a participant touches core payment infrastructure?&rdquo; wonders an SRM industry consultant.",
+      "published": "Fri, 07 Aug 2026 09:09:00 -0400"
+    },
+    {
+      "title": "Augustus aims to speed payments",
+      "link": "https://www.paymentsdive.com/news/fdic-approves-augustus-bank-application-deposit-insurance-ai-clearing/827138/",
+      "description": "The company received FDIC approval in its quest to create a bank that moves beyond the legacy approach to settlements.&nbsp;",
+      "published": "Fri, 07 Aug 2026 09:08:00 -0400"
+    },
     {
       "title": "Fiserv flags Clover revenue drop",
       "link": "https://www.paymentsdive.com/news/fiserv-flags-clover-revenue-drop/827224/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fis-seeks-to-sell-parts-of-capital-markets-unit/826952/",
       "description": "The banking and payments services company floated the plan to offload pieces of the business after sales declined for that segment.",
       "published": "Tue, 04 Aug 2026 10:48:00 -0400"
-    },
-    {
-      "title": "Trump backs card bill, again",
-      "link": "https://www.paymentsdive.com/news/trump-backs-card-bill-again/826938/",
-      "description": "The president called card interchange fees a&nbsp;&ldquo;ripoff&rdquo; in a social media post backing the Republican co-sponsor of a bill aimed at reducing them.",
-      "published": "Tue, 04 Aug 2026 10:29:49 -0400"
-    },
-    {
-      "title": "Western Union faces profit drop",
-      "link": "https://www.paymentsdive.com/news/western-union-faces-profit-drop/826836/",
-      "description": "The cross-border payments company&rsquo;s business has been hurt by U.S. immigration policies, forcing it to embark on a cost-cutting plan.",
-      "published": "Mon, 03 Aug 2026 11:10:00 -0400"
-    },
-    {
-      "title": "Visa loses bid to dismiss porn lawsuit",
-      "link": "https://www.paymentsdive.com/news/visa-loses-bid-to-dismiss-porn-lawsuit/826777/",
-      "description": "The card network must defend itself against a 2021 lawsuit related to sexual videos of underage minors that were posted on pornography sites.",
-      "published": "Mon, 03 Aug 2026 09:41:50 -0400"
     }
   ]
 }
