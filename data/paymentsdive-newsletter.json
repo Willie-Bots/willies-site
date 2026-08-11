@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-08-10T13:42:22.628230Z",
-  "generated_date": "2026-08-10",
+  "generated_at": "2026-08-11T13:41:02.029839Z",
+  "generated_date": "2026-08-11",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "FedNow extension wins support",
+      "link": "https://www.paymentsdive.com/news/fednow-extension-wins-support/827429/",
+      "description": "Stripe, Visa, Wise and industry trade groups back the Federal Reserve&rsquo;s plan to expand its instant payment system for cross-border use.",
+      "published": "Mon, 10 Aug 2026 09:56:00 -0400"
+    },
+    {
+      "title": "Visa debit case turns on market definition, lawyers say",
+      "link": "https://www.paymentsdive.com/news/visa-debit-case-doj-justice-antitrust-turns-on-market-definition-lawyers-say/827259/",
+      "description": "The card network will argue that the DOJ&rsquo;s view of the debit card market is too narrow, legal experts predicted as the case heads toward trial.",
+      "published": "Mon, 10 Aug 2026 09:38:00 -0400"
+    },
     {
       "title": "Same-day ACH payments swell in Q2",
       "link": "https://www.paymentsdive.com/news/same-day-ach-payments-swell-in-q2/827287/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/toast-aims-to-drive-ai-into-dining/827052/",
       "description": "Most restaurants don&rsquo;t have time to leverage AI tools, Toast executives say, anticipating profit from helping operators reap efficiencies.",
       "published": "Wed, 05 Aug 2026 10:48:00 -0400"
-    },
-    {
-      "title": "Visa, Mastercard join another stablecoin group",
-      "link": "https://www.paymentsdive.com/news/visa-mastercard-join-another-stablecoin-group/827078/",
-      "description": "The card networks are keeping their options open with respect to stablecoin communities, locking arms with Circle on its latest effort.",
-      "published": "Wed, 05 Aug 2026 10:44:00 -0400"
-    },
-    {
-      "title": "FIS seeks to sell parts of capital markets unit",
-      "link": "https://www.paymentsdive.com/news/fis-seeks-to-sell-parts-of-capital-markets-unit/826952/",
-      "description": "The banking and payments services company floated the plan to offload pieces of the business after sales declined for that segment.",
-      "published": "Tue, 04 Aug 2026 10:48:00 -0400"
     }
   ]
 }
