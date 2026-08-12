@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-08-11T13:41:02.029839Z",
-  "generated_date": "2026-08-11",
+  "generated_at": "2026-08-12T13:44:58.648094Z",
+  "generated_date": "2026-08-12",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Shift4 racked by Iran turmoil",
+      "link": "https://www.paymentsdive.com/news/shift4-racked-by-iran-turmoil/827411/",
+      "description": "The payments processor sees a large opportunity to expand merchant services sales within its Global Blue retail network, CEO Taylor Lauber said.",
+      "published": "Tue, 11 Aug 2026 09:34:02 -0400"
+    },
+    {
+      "title": "Senate passes cash-rounding bill",
+      "link": "https://www.paymentsdive.com/news/senate-passes-cash-rounding-bill/827514/",
+      "description": "If enacted, the new law would provide a federal framework for how to round cash retail transactions as pennies grow scarce.",
+      "published": "Tue, 11 Aug 2026 08:13:28 -0400"
+    },
     {
       "title": "FedNow extension wins support",
       "link": "https://www.paymentsdive.com/news/fednow-extension-wins-support/827429/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fiserv-flags-clover-revenue-drop/827224/",
       "description": "The payments processor said a slowdown in the merchant service unit&rsquo;s hardware sale is negatively impacting results.",
       "published": "Thu, 06 Aug 2026 11:47:54 -0400"
-    },
-    {
-      "title": "Block explores how to price AI",
-      "link": "https://www.paymentsdive.com/news/block-explores-how-to-price-ai/827204/",
-      "description": "Cash App&rsquo;s parent is focused on customer adoption of its AI tools before deciding how it will monetize those offerings, CEO Jack Dorsey said.",
-      "published": "Thu, 06 Aug 2026 10:21:10 -0400"
-    },
-    {
-      "title": "Toast aims to drive AI into dining",
-      "link": "https://www.paymentsdive.com/news/toast-aims-to-drive-ai-into-dining/827052/",
-      "description": "Most restaurants don&rsquo;t have time to leverage AI tools, Toast executives say, anticipating profit from helping operators reap efficiencies.",
-      "published": "Wed, 05 Aug 2026 10:48:00 -0400"
     }
   ]
 }
