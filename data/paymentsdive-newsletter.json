@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-08-12T13:44:58.648094Z",
-  "generated_date": "2026-08-12",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
+  "generated_at": "2026-08-13T13:45:46.897319Z",
+  "generated_date": "2026-08-13",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Cash lags credit, debit payments",
+      "link": "https://www.paymentsdive.com/news/cash-lags-credit-debit-payments-consumer-spending-federal-reserve/827751/",
+      "description": "Though most consumers prefer debit and credit card payments, 90% say they&rsquo;ll still use cash for the foreseeable future, a Fed survey finds.",
+      "published": "Thu, 13 Aug 2026 07:29:31 -0400"
+    },
+    {
+      "title": "Fiserv seeks investor lawsuit dismissal",
+      "link": "https://www.paymentsdive.com/news/fiserv-seeks-investor-lawsuit-dismissal-shareholders-litigation/827673/",
+      "description": "Shareholders angry over the stock&rsquo;s decline are alleging fraud with a complaint that has no merit, the payment processor said in its response.",
+      "published": "Wed, 12 Aug 2026 10:12:33 -0400"
+    },
+    {
+      "title": "States lean in on payments plays",
+      "link": "https://www.paymentsdive.com/news/states-lean-into-payments-oversight-earned-wage-access-bnpl-regulation/827633/",
+      "description": "States are taking a larger role to regulate emerging payments offerings, like earned wage access and buy now, pay later. How will that unfold? Here is the perspective of one lawyer who worked for California state government.",
+      "published": "Wed, 12 Aug 2026 09:00:00 -0400"
+    },
     {
       "title": "Shift4 racked by Iran turmoil",
       "link": "https://www.paymentsdive.com/news/shift4-racked-by-iran-turmoil/827411/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/same-day-ach-payments-swell-in-q2/827287/",
       "description": "Nacha attributes the growth to financial firms&rsquo; increasing demand for faster payments.",
       "published": "Fri, 07 Aug 2026 09:37:00 -0400"
-    },
-    {
-      "title": "Opening the Fed\u2019s payment rails",
-      "link": "https://www.paymentsdive.com/news/opening-the-feds-payment-rails/827005/",
-      "description": "&ldquo;Supervision will need to answer practical questions: what operational resilience should be required before a participant touches core payment infrastructure?&rdquo; wonders an SRM industry consultant.",
-      "published": "Fri, 07 Aug 2026 09:09:00 -0400"
-    },
-    {
-      "title": "Augustus aims to speed payments",
-      "link": "https://www.paymentsdive.com/news/fdic-approves-augustus-bank-application-deposit-insurance-ai-clearing/827138/",
-      "description": "The company received FDIC approval in its quest to create a bank that moves beyond the legacy approach to settlements.&nbsp;",
-      "published": "Fri, 07 Aug 2026 09:08:00 -0400"
-    },
-    {
-      "title": "Fiserv flags Clover revenue drop",
-      "link": "https://www.paymentsdive.com/news/fiserv-flags-clover-revenue-drop/827224/",
-      "description": "The payments processor said a slowdown in the merchant service unit&rsquo;s hardware sale is negatively impacting results.",
-      "published": "Thu, 06 Aug 2026 11:47:54 -0400"
     }
   ]
 }
