@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-08-13T13:45:46.897319Z",
-  "generated_date": "2026-08-13",
+  "generated_at": "2026-08-14T13:41:15.177244Z",
+  "generated_date": "2026-08-14",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Sezzle pivots to national bank charter",
+      "link": "https://www.paymentsdive.com/news/sezzle-pivots-to-national-bank-charter/827791/",
+      "description": "With states imposing tighter rules on buy now, pay later companies, Sezzle CEO Charlie Youakim views a federal charter as &ldquo;the most robust solution.&rdquo;",
+      "published": "Thu, 13 Aug 2026 10:11:25 -0400"
+    },
     {
       "title": "Cash lags credit, debit payments",
       "link": "https://www.paymentsdive.com/news/cash-lags-credit-debit-payments-consumer-spending-federal-reserve/827751/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/visa-debit-case-doj-justice-antitrust-turns-on-market-definition-lawyers-say/827259/",
       "description": "The card network will argue that the DOJ&rsquo;s view of the debit card market is too narrow, legal experts predicted as the case heads toward trial.",
       "published": "Mon, 10 Aug 2026 09:38:00 -0400"
-    },
-    {
-      "title": "Same-day ACH payments swell in Q2",
-      "link": "https://www.paymentsdive.com/news/same-day-ach-payments-swell-in-q2/827287/",
-      "description": "Nacha attributes the growth to financial firms&rsquo; increasing demand for faster payments.",
-      "published": "Fri, 07 Aug 2026 09:37:00 -0400"
     }
   ]
 }
