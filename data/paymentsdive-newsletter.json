@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-08-14T13:41:15.177244Z",
-  "generated_date": "2026-08-14",
+  "generated_at": "2026-08-15T12:57:50.161683Z",
+  "generated_date": "2026-08-15",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "How state payments oversight skids",
+      "link": "https://www.paymentsdive.com/news/how-state-payments-oversight-skids-ai-privacy/827508/",
+      "description": "&ldquo;In the absence of a federal consumer privacy framework, both consumers and businesses are paying the price,&rdquo; one company founder writes.",
+      "published": "Fri, 14 Aug 2026 09:00:00 -0400"
+    },
     {
       "title": "Sezzle pivots to national bank charter",
       "link": "https://www.paymentsdive.com/news/sezzle-pivots-to-national-bank-charter/827791/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fednow-extension-wins-support/827429/",
       "description": "Stripe, Visa, Wise and industry trade groups back the Federal Reserve&rsquo;s plan to expand its instant payment system for cross-border use.",
       "published": "Mon, 10 Aug 2026 09:56:00 -0400"
-    },
-    {
-      "title": "Visa debit case turns on market definition, lawyers say",
-      "link": "https://www.paymentsdive.com/news/visa-debit-case-doj-justice-antitrust-turns-on-market-definition-lawyers-say/827259/",
-      "description": "The card network will argue that the DOJ&rsquo;s view of the debit card market is too narrow, legal experts predicted as the case heads toward trial.",
-      "published": "Mon, 10 Aug 2026 09:38:00 -0400"
     }
   ]
 }
