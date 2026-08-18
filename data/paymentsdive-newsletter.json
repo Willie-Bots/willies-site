@@ -1,14 +1,32 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-08-17T13:04:24.873690Z",
-  "generated_date": "2026-08-17",
+  "generated_at": "2026-08-18T13:06:40.237097Z",
+  "generated_date": "2026-08-18",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Citi scoops up card rewards firm",
+      "link": "https://www.paymentsdive.com/news/citi-acquires-rewards-fintech-kard-loyalty/828046/",
+      "description": "The New York startup Kard&rsquo;s technology, talent and merchant ties are intended to strengthen the bank&rsquo;s loyalty strategy in its consumer cards business, Citi said.",
+      "published": "Mon, 17 Aug 2026 14:50:46 -0400"
+    },
+    {
+      "title": "Western Union navigates challenges",
+      "link": "https://www.paymentsdive.com/news/western-union-navigates-challenges/827976/",
+      "description": "The company is dealing with turmoil from the shift to digital money transfers as it seeks regulatory approvals for a $500 million deal for rival Intermex.",
+      "published": "Mon, 17 Aug 2026 08:26:42 -0400"
+    },
     {
       "title": "How state payments oversight skids",
       "link": "https://www.paymentsdive.com/news/how-state-payments-oversight-skids-ai-privacy/827508/",
       "description": "&ldquo;In the absence of a federal consumer privacy framework, both consumers and businesses are paying the price,&rdquo; one company founder writes.",
       "published": "Fri, 14 Aug 2026 09:00:00 -0400"
+    },
+    {
+      "title": "Credit card strain rises: study",
+      "link": "https://www.paymentsdive.com/news/credit-cards-strain-rises-study-debt-consumer-spending/827880/",
+      "description": "As consumers spend more monthly on their credit cards, some cardholders are carrying hefty balances, a J.D. Power analysis found.",
+      "published": "Fri, 14 Aug 2026 07:53:31 -0400"
     },
     {
       "title": "Sezzle pivots to national bank charter",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/states-lean-into-payments-oversight-earned-wage-access-bnpl-regulation/827633/",
       "description": "States are taking a larger role to regulate emerging payments offerings, like earned wage access and buy now, pay later. How will that unfold? Here is the perspective of one lawyer who worked for California state government.",
       "published": "Wed, 12 Aug 2026 09:00:00 -0400"
-    },
-    {
-      "title": "Shift4 racked by Iran turmoil",
-      "link": "https://www.paymentsdive.com/news/shift4-racked-by-iran-turmoil/827411/",
-      "description": "The payments processor sees a large opportunity to expand merchant services sales within its Global Blue retail network, CEO Taylor Lauber said.",
-      "published": "Tue, 11 Aug 2026 09:34:02 -0400"
-    },
-    {
-      "title": "Senate passes cash-rounding bill",
-      "link": "https://www.paymentsdive.com/news/senate-passes-cash-rounding-bill/827514/",
-      "description": "If enacted, the new law would provide a federal framework for how to round cash retail transactions as pennies grow scarce.",
-      "published": "Tue, 11 Aug 2026 08:13:28 -0400"
-    },
-    {
-      "title": "FedNow extension wins support",
-      "link": "https://www.paymentsdive.com/news/fednow-extension-wins-support/827429/",
-      "description": "Stripe, Visa, Wise and industry trade groups back the Federal Reserve&rsquo;s plan to expand its instant payment system for cross-border use.",
-      "published": "Mon, 10 Aug 2026 09:56:00 -0400"
     }
   ]
 }
