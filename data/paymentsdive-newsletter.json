@@ -1,13 +1,25 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-08-18T13:06:40.237097Z",
-  "generated_date": "2026-08-18",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-08-19T13:07:17.581741Z",
+  "generated_date": "2026-08-19",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Doxo to pay $2.1M settlement",
+      "link": "https://www.paymentsdive.com/news/doxo-to-pay-21m-settlement/828154/",
+      "description": "The online bill-pay company agreed to settle a case brought by the Federal Trade Commission over deceptive ads and undisclosed fees.",
+      "published": "Tue, 18 Aug 2026 10:49:00 -0400"
+    },
+    {
+      "title": "Klarna\u2019s growth hits speed bump",
+      "link": "https://www.paymentsdive.com/news/klarnas-growth-hits-speed-bump/828141/",
+      "description": "The buy now, pay later player won&rsquo;t live up to its financial forecast for this year because of a slowdown in one of its largest markets.",
+      "published": "Tue, 18 Aug 2026 10:34:12 -0400"
+    },
     {
       "title": "Citi scoops up card rewards firm",
       "link": "https://www.paymentsdive.com/news/citi-acquires-rewards-fintech-kard-loyalty/828046/",
-      "description": "The New York startup Kard&rsquo;s technology, talent and merchant ties are intended to strengthen the bank&rsquo;s loyalty strategy in its consumer cards business, Citi said.",
+      "description": "The New York startup Kard has&nbsp;technology, talent and merchant ties that the bank expects will&nbsp;strengthen a loyalty strategy for&nbsp;its consumer cards business.",
       "published": "Mon, 17 Aug 2026 14:50:46 -0400"
     },
     {
@@ -25,7 +37,7 @@
     {
       "title": "Credit card strain rises: study",
       "link": "https://www.paymentsdive.com/news/credit-cards-strain-rises-study-debt-consumer-spending/827880/",
-      "description": "As consumers spend more monthly on their credit cards, some cardholders are carrying hefty balances, a J.D. Power analysis found.",
+      "description": "As consumers spend more on their credit cards, some cardholders are carrying hefty balances, a J.D. Power analysis found.",
       "published": "Fri, 14 Aug 2026 07:53:31 -0400"
     },
     {
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/cash-lags-credit-debit-payments-consumer-spending-federal-reserve/827751/",
       "description": "Though most consumers prefer debit and credit card payments, 90% say they&rsquo;ll still use cash for the foreseeable future, a Fed survey finds.",
       "published": "Thu, 13 Aug 2026 07:29:31 -0400"
-    },
-    {
-      "title": "Fiserv seeks investor lawsuit dismissal",
-      "link": "https://www.paymentsdive.com/news/fiserv-seeks-investor-lawsuit-dismissal-shareholders-litigation/827673/",
-      "description": "Shareholders angry over the stock&rsquo;s decline are alleging fraud with a complaint that has no merit, the payment processor said in its response.",
-      "published": "Wed, 12 Aug 2026 10:12:33 -0400"
-    },
-    {
-      "title": "States lean in on payments plays",
-      "link": "https://www.paymentsdive.com/news/states-lean-into-payments-oversight-earned-wage-access-bnpl-regulation/827633/",
-      "description": "States are taking a larger role to regulate emerging payments offerings, like earned wage access and buy now, pay later. How will that unfold? Here is the perspective of one lawyer who worked for California state government.",
-      "published": "Wed, 12 Aug 2026 09:00:00 -0400"
     }
   ]
 }
