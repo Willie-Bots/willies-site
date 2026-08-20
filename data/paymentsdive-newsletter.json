@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-08-19T13:07:17.581741Z",
-  "generated_date": "2026-08-19",
+  "generated_at": "2026-08-20T13:09:40.610198Z",
+  "generated_date": "2026-08-20",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Stripe, OpenRouter finally strike a deal",
+      "link": "https://www.paymentsdive.com/news/stripe-openrouter-finally-strike-a-deal/828326/",
+      "description": "The payments behemoth&rsquo;s acquisition of the AI spend management firm has been in the works for weeks. The reported price tag: $7.5 billion.",
+      "published": "Wed, 19 Aug 2026 15:50:00 -0400"
+    },
+    {
+      "title": "Weave scooped up for $650M",
+      "link": "https://www.paymentsdive.com/news/weave-scooped-up-for-650m/828260/",
+      "description": "The latest purchase by Fransciso Partners adds to the private equity firm&rsquo;s stockpile of payments companies, including one it bought earlier this month.",
+      "published": "Wed, 19 Aug 2026 10:30:00 -0400"
+    },
+    {
+      "title": "Stripe acquisition may bolster its AI strategy",
+      "link": "https://www.paymentsdive.com/news/stripe-openrouter-acquisition-may-bolster-its-ai-strategy/828216/",
+      "description": "If the company completes a prospective acquisition of OpenRouter, it will set itself up to be at the center of artificial intelligence token payments.",
+      "published": "Wed, 19 Aug 2026 09:37:00 -0400"
+    },
     {
       "title": "Doxo to pay $2.1M settlement",
       "link": "https://www.paymentsdive.com/news/doxo-to-pay-21m-settlement/828154/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/how-state-payments-oversight-skids-ai-privacy/827508/",
       "description": "&ldquo;In the absence of a federal consumer privacy framework, both consumers and businesses are paying the price,&rdquo; one company founder writes.",
       "published": "Fri, 14 Aug 2026 09:00:00 -0400"
-    },
-    {
-      "title": "Credit card strain rises: study",
-      "link": "https://www.paymentsdive.com/news/credit-cards-strain-rises-study-debt-consumer-spending/827880/",
-      "description": "As consumers spend more on their credit cards, some cardholders are carrying hefty balances, a J.D. Power analysis found.",
-      "published": "Fri, 14 Aug 2026 07:53:31 -0400"
-    },
-    {
-      "title": "Sezzle pivots to national bank charter",
-      "link": "https://www.paymentsdive.com/news/sezzle-pivots-to-national-bank-charter/827791/",
-      "description": "With states imposing tighter rules on buy now, pay later companies, Sezzle CEO Charlie Youakim views a federal charter as &ldquo;the most robust solution.&rdquo;",
-      "published": "Thu, 13 Aug 2026 10:11:25 -0400"
-    },
-    {
-      "title": "Cash lags credit, debit payments",
-      "link": "https://www.paymentsdive.com/news/cash-lags-credit-debit-payments-consumer-spending-federal-reserve/827751/",
-      "description": "Though most consumers prefer debit and credit card payments, 90% say they&rsquo;ll still use cash for the foreseeable future, a Fed survey finds.",
-      "published": "Thu, 13 Aug 2026 07:29:31 -0400"
     }
   ]
 }
