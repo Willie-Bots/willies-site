@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-08-20T13:09:40.610198Z",
-  "generated_date": "2026-08-20",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
+  "generated_at": "2026-08-21T13:09:28.269796Z",
+  "generated_date": "2026-08-21",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Teens targeted for scams",
+      "link": "https://www.paymentsdive.com/news/teens-targeted-for-scams/828390/",
+      "description": "It&rsquo;s not just the elderly being drawn into fraud. Young people are also increasingly prey for financial crime, according to a Federal Reserve report.",
+      "published": "Thu, 20 Aug 2026 10:32:00 -0400"
+    },
+    {
+      "title": "Visa, DOJ lawyers clash ahead of trial",
+      "link": "https://www.paymentsdive.com/news/visa-doj-lawyers-clash-ahead-of-trial/828378/",
+      "description": "The government and card network are trading accusations of overly broad discovery requests and &lsquo;gamesmanship&rsquo; in the DOJ&rsquo;s debit card lawsuit.",
+      "published": "Thu, 20 Aug 2026 10:08:00 -0400"
+    },
     {
       "title": "Stripe, OpenRouter finally strike a deal",
       "link": "https://www.paymentsdive.com/news/stripe-openrouter-finally-strike-a-deal/828326/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/citi-acquires-rewards-fintech-kard-loyalty/828046/",
       "description": "The New York startup Kard has&nbsp;technology, talent and merchant ties that the bank expects will&nbsp;strengthen a loyalty strategy for&nbsp;its consumer cards business.",
       "published": "Mon, 17 Aug 2026 14:50:46 -0400"
-    },
-    {
-      "title": "Western Union navigates challenges",
-      "link": "https://www.paymentsdive.com/news/western-union-navigates-challenges/827976/",
-      "description": "The company is dealing with turmoil from the shift to digital money transfers as it seeks regulatory approvals for a $500 million deal for rival Intermex.",
-      "published": "Mon, 17 Aug 2026 08:26:42 -0400"
-    },
-    {
-      "title": "How state payments oversight skids",
-      "link": "https://www.paymentsdive.com/news/how-state-payments-oversight-skids-ai-privacy/827508/",
-      "description": "&ldquo;In the absence of a federal consumer privacy framework, both consumers and businesses are paying the price,&rdquo; one company founder writes.",
-      "published": "Fri, 14 Aug 2026 09:00:00 -0400"
     }
   ]
 }
