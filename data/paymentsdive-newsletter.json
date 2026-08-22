@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-08-21T13:09:28.269796Z",
-  "generated_date": "2026-08-21",
+  "generated_at": "2026-08-22T12:59:12.430387Z",
+  "generated_date": "2026-08-22",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "PayPal, Venmo connect to colleges",
+      "link": "https://www.paymentsdive.com/news/venmo-connects-colleges/828506/",
+      "description": "The peer-to-peer player and its PayPal parent have forged new ties to higher education institutions, allowing students to make payments with the P2P tool.",
+      "published": "Fri, 21 Aug 2026 10:44:00 -0400"
+    },
+    {
+      "title": "Regulators pursue stablecoin rules",
+      "link": "https://www.paymentsdive.com/news/sec-fasb-advance-separate-crypto-proposals/828396/",
+      "description": "Separate proposals advanced by the SEC and the FASB this week could provide the cryptocurrency sector with regulatory relief as legislation founders.",
+      "published": "Fri, 21 Aug 2026 10:15:00 -0400"
+    },
+    {
+      "title": "Considering card network options",
+      "link": "https://www.paymentsdive.com/news/considering-card-network-options/828493/",
+      "description": "&quot;The real challenge for merchants is not which rail a payment uses but a lack of visibility, control, and intelligence to optimize payment flows,&quot; a fintech marketing executive writes.",
+      "published": "Fri, 21 Aug 2026 10:13:00 -0400"
+    },
     {
       "title": "Teens targeted for scams",
       "link": "https://www.paymentsdive.com/news/teens-targeted-for-scams/828390/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/stripe-openrouter-acquisition-may-bolster-its-ai-strategy/828216/",
       "description": "If the company completes a prospective acquisition of OpenRouter, it will set itself up to be at the center of artificial intelligence token payments.",
       "published": "Wed, 19 Aug 2026 09:37:00 -0400"
-    },
-    {
-      "title": "Doxo to pay $2.1M settlement",
-      "link": "https://www.paymentsdive.com/news/doxo-to-pay-21m-settlement/828154/",
-      "description": "The online bill-pay company agreed to settle a case brought by the Federal Trade Commission over deceptive ads and undisclosed fees.",
-      "published": "Tue, 18 Aug 2026 10:49:00 -0400"
-    },
-    {
-      "title": "Klarna\u2019s growth hits speed bump",
-      "link": "https://www.paymentsdive.com/news/klarnas-growth-hits-speed-bump/828141/",
-      "description": "The buy now, pay later player won&rsquo;t live up to its financial forecast for this year because of a slowdown in one of its largest markets.",
-      "published": "Tue, 18 Aug 2026 10:34:12 -0400"
-    },
-    {
-      "title": "Citi scoops up card rewards firm",
-      "link": "https://www.paymentsdive.com/news/citi-acquires-rewards-fintech-kard-loyalty/828046/",
-      "description": "The New York startup Kard has&nbsp;technology, talent and merchant ties that the bank expects will&nbsp;strengthen a loyalty strategy for&nbsp;its consumer cards business.",
-      "published": "Mon, 17 Aug 2026 14:50:46 -0400"
     }
   ]
 }
