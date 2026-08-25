@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-08-24T13:11:25.271584Z",
-  "generated_date": "2026-08-24",
+  "generated_at": "2026-08-25T13:10:07.662150Z",
+  "generated_date": "2026-08-25",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Walmart adds digital wallet options",
+      "link": "https://www.paymentsdive.com/news/walmart-adds-digital-wallet-options/828600/",
+      "description": "The mega-retailer said it will now accept Apple Pay and Google Pay payments, using tap-to-pay with smartwatches, contactless cards and phones.",
+      "published": "Mon, 24 Aug 2026 10:32:00 -0400"
+    },
+    {
+      "title": "Stripe tips toward staying private",
+      "link": "https://www.paymentsdive.com/news/stripe-tips-toward-staying-private/828572/",
+      "description": "The payments giant&rsquo;s founders told investors that the company&rsquo;s private structure will help it to be more nimble amid AI shifts.",
+      "published": "Mon, 24 Aug 2026 09:55:00 -0400"
+    },
     {
       "title": "PayPal, Venmo connect to colleges",
       "link": "https://www.paymentsdive.com/news/venmo-connects-colleges/828506/",
@@ -13,7 +25,7 @@
     {
       "title": "Regulators pursue stablecoin rules",
       "link": "https://www.paymentsdive.com/news/sec-fasb-advance-separate-crypto-proposals/828396/",
-      "description": "Separate proposals advanced by the SEC and the FASB this week could provide the cryptocurrency sector with regulatory relief as legislation founders.",
+      "description": "Separate proposals advanced by the SEC and the FASB last week could provide the cryptocurrency sector with regulatory relief as legislation founders.",
       "published": "Fri, 21 Aug 2026 10:15:00 -0400"
     },
     {
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/stripe-openrouter-finally-strike-a-deal/828326/",
       "description": "The payments behemoth&rsquo;s acquisition of the AI spend management firm has been in the works for weeks. The reported price tag: $7.5 billion.",
       "published": "Wed, 19 Aug 2026 15:50:00 -0400"
-    },
-    {
-      "title": "Weave scooped up for $650M",
-      "link": "https://www.paymentsdive.com/news/weave-scooped-up-for-650m/828260/",
-      "description": "The latest purchase by Fransciso Partners adds to the private equity firm&rsquo;s stockpile of payments companies, including one it bought earlier this month.",
-      "published": "Wed, 19 Aug 2026 10:30:00 -0400"
-    },
-    {
-      "title": "Stripe acquisition may bolster its AI strategy",
-      "link": "https://www.paymentsdive.com/news/stripe-openrouter-acquisition-may-bolster-its-ai-strategy/828216/",
-      "description": "If the company completes a prospective acquisition of OpenRouter, it will set itself up to be at the center of artificial intelligence token payments.",
-      "published": "Wed, 19 Aug 2026 09:37:00 -0400"
     }
   ]
 }
