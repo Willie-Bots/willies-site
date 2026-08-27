@@ -1,9 +1,33 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-08-26T13:15:18.691905Z",
-  "generated_date": "2026-08-26",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-08-27T22:15:13.412550Z",
+  "generated_date": "2026-08-27",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Card fees have staying power",
+      "link": "https://www.paymentsdive.com/news/card-fees-have-staying-power/828957/",
+      "description": "Merchants keep attacking the fees, but the charges keep coming because consumers love swiping their cards.",
+      "published": "Thu, 27 Aug 2026 11:19:36 -0400"
+    },
+    {
+      "title": "Is the nickel nearing a revamp?",
+      "link": "https://www.paymentsdive.com/news/is-the-nickel-nearing-a-revamp/828935/",
+      "description": "It costs 13 cents to produce the five-cent coin. Congress wants the U.S. to explore more cost-effective methods.",
+      "published": "Thu, 27 Aug 2026 10:29:00 -0400"
+    },
+    {
+      "title": "RTP gears up for int\u2019l reach",
+      "link": "https://www.paymentsdive.com/news/rtp-gears-up-for-intl-reach/828839/",
+      "description": "The Bank of New York and other financial institutions are preparing for a pilot next year that will stretch the real-time payments network across borders.",
+      "published": "Wed, 26 Aug 2026 10:55:00 -0400"
+    },
+    {
+      "title": "Priority Tech buys IntelliPay for up to $15M",
+      "link": "https://www.paymentsdive.com/news/priority-tech-buys-intellipay-for-up-to-15m/828831/",
+      "description": "The payments company is gaining a new government payments business with its deal for Utah-based IntelliPay.",
+      "published": "Wed, 26 Aug 2026 10:40:00 -0400"
+    },
     {
       "title": "Building Block\u2019s Square base",
       "link": "https://www.paymentsdive.com/news/building-blocks-square-base/828712/",
@@ -27,30 +51,6 @@
       "link": "https://www.paymentsdive.com/news/stripe-tips-toward-staying-private/828572/",
       "description": "The payments giant&rsquo;s founders told investors that the company&rsquo;s private structure will help it to be more nimble amid AI shifts.",
       "published": "Mon, 24 Aug 2026 09:55:00 -0400"
-    },
-    {
-      "title": "PayPal, Venmo connect to colleges",
-      "link": "https://www.paymentsdive.com/news/venmo-connects-colleges/828506/",
-      "description": "The peer-to-peer player and its PayPal parent have forged new ties to higher education institutions, allowing students to make payments with the P2P tool.",
-      "published": "Fri, 21 Aug 2026 10:44:00 -0400"
-    },
-    {
-      "title": "Regulators pursue stablecoin rules",
-      "link": "https://www.paymentsdive.com/news/sec-fasb-advance-separate-crypto-proposals/828396/",
-      "description": "Separate proposals advanced by the SEC and the FASB last week could provide the cryptocurrency sector with regulatory relief as legislation founders.",
-      "published": "Fri, 21 Aug 2026 10:15:00 -0400"
-    },
-    {
-      "title": "Considering card network options",
-      "link": "https://www.paymentsdive.com/news/considering-card-network-options/828493/",
-      "description": "&quot;The real challenge for merchants is not which rail a payment uses but a lack of visibility, control, and intelligence to optimize payment flows,&quot; a fintech marketing executive writes.",
-      "published": "Fri, 21 Aug 2026 10:13:00 -0400"
-    },
-    {
-      "title": "Teens targeted for scams",
-      "link": "https://www.paymentsdive.com/news/teens-targeted-for-scams/828390/",
-      "description": "It&rsquo;s not just the elderly being drawn into fraud. Young people are also increasingly prey for financial crime, according to a Federal Reserve report.",
-      "published": "Thu, 20 Aug 2026 10:32:00 -0400"
     }
   ]
 }
