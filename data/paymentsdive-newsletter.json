@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-08-27T22:15:13.412550Z",
-  "generated_date": "2026-08-27",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
+  "generated_at": "2026-08-28T22:18:29.265085Z",
+  "generated_date": "2026-08-28",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Modernizing payments is a must",
+      "link": "https://www.paymentsdive.com/news/modernizing-payments-is-a-must/829074/",
+      "description": "&ldquo;Payments modernization is no longer a future aspiration,&rdquo; writes one bank tech executive. &ldquo;It has become an operational and strategic imperative.&rdquo;",
+      "published": "Fri, 28 Aug 2026 10:03:32 -0400"
+    },
+    {
+      "title": "Illinois seeks to support cash use",
+      "link": "https://www.paymentsdive.com/news/illinois-seeks-to-support-cash-use/828982/",
+      "description": "A new state law will require retailers to accept cash for most transactions below $500, and fine repeat violators up to $5,000.",
+      "published": "Fri, 28 Aug 2026 09:57:00 -0400"
+    },
     {
       "title": "Card fees have staying power",
       "link": "https://www.paymentsdive.com/news/card-fees-have-staying-power/828957/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/amexs-low-fraud-rate-turns-on-its-closed-system/828716/",
       "description": "More access to cardholder and merchant data also gives the card network an edge in fraud detection over its rivals.",
       "published": "Tue, 25 Aug 2026 10:38:00 -0400"
-    },
-    {
-      "title": "Walmart adds digital wallet options",
-      "link": "https://www.paymentsdive.com/news/walmart-adds-digital-wallet-options/828600/",
-      "description": "The mega-retailer said it will now accept Apple Pay and Google Pay payments, using tap-to-pay with smartwatches, contactless cards and phones.",
-      "published": "Mon, 24 Aug 2026 10:32:00 -0400"
-    },
-    {
-      "title": "Stripe tips toward staying private",
-      "link": "https://www.paymentsdive.com/news/stripe-tips-toward-staying-private/828572/",
-      "description": "The payments giant&rsquo;s founders told investors that the company&rsquo;s private structure will help it to be more nimble amid AI shifts.",
-      "published": "Mon, 24 Aug 2026 09:55:00 -0400"
     }
   ]
 }
