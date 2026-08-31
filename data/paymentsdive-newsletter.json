@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-08-30T16:40:06.975945Z",
-  "generated_date": "2026-08-30",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-08-31T19:07:17.537651Z",
+  "generated_date": "2026-08-31",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "EWA grows despite legal limbo",
+      "link": "https://www.paymentsdive.com/news/ewa-grows-despite-legal-limbo/829183/",
+      "description": "Instant Financial and Clair are among the earned wage access companies expanding even as state and federal oversight evolves.",
+      "published": "Mon, 31 Aug 2026 10:48:00 -0400"
+    },
+    {
+      "title": "Visa delivers 6M documents to DOJ",
+      "link": "https://www.paymentsdive.com/news/visa-delivers-6m-documents-to-doj/829168/",
+      "description": "The government and the card network will need to complete their pre-trial evidence work by the end of January, a magistrate ruled Friday.",
+      "published": "Mon, 31 Aug 2026 10:33:00 -0400"
+    },
+    {
+      "title": "Beyond the booking: How Navan scaled global card issuing with embedded finance",
+      "link": "https://www.paymentsdive.com/spons/beyond-the-booking-how-navan-scaled-global-card-issuing-with-embedded-fina/828874/",
+      "description": "How Navan unlocked &euro;1B+ in card volume by embedding global issuing with Adyen.",
+      "published": "Mon, 31 Aug 2026 05:00:00 -0400"
+    },
     {
       "title": "Modernizing payments is a must",
       "link": "https://www.paymentsdive.com/news/modernizing-payments-is-a-must/829074/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/rtp-gears-up-for-intl-reach/828839/",
       "description": "The Bank of New York and other financial institutions are preparing for a pilot next year that will stretch the real-time payments network across borders.",
       "published": "Wed, 26 Aug 2026 10:55:00 -0400"
-    },
-    {
-      "title": "Priority Tech buys IntelliPay for up to $15M",
-      "link": "https://www.paymentsdive.com/news/priority-tech-buys-intellipay-for-up-to-15m/828831/",
-      "description": "The payments company is gaining a new government payments business with its deal for Utah-based IntelliPay.",
-      "published": "Wed, 26 Aug 2026 10:40:00 -0400"
-    },
-    {
-      "title": "Building Block\u2019s Square base",
-      "link": "https://www.paymentsdive.com/news/building-blocks-square-base/828712/",
-      "description": "The fintech is expanding its efforts to market local restaurants using its point-of-sale system across Cash App&rsquo;s user base.",
-      "published": "Tue, 25 Aug 2026 10:45:19 -0400"
-    },
-    {
-      "title": "Amex\u2019s low fraud rate turns on its closed system",
-      "link": "https://www.paymentsdive.com/news/amexs-low-fraud-rate-turns-on-its-closed-system/828716/",
-      "description": "More access to cardholder and merchant data also gives the card network an edge in fraud detection over its rivals.",
-      "published": "Tue, 25 Aug 2026 10:38:00 -0400"
     }
   ]
 }
