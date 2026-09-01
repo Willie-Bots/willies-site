@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-08-31T19:07:17.537651Z",
-  "generated_date": "2026-08-31",
+  "generated_at": "2026-09-01T16:39:00.132245Z",
+  "generated_date": "2026-09-01",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "PayPal makes job cuts",
+      "link": "https://www.paymentsdive.com/news/paypal-employee-job-cuts-restructuring-enrique-lores/829314/",
+      "description": "The digital payments pioneer turned to cutting back its workforce this week following a May plan, after reportedly bypassing a possible sale.",
+      "published": "Tue, 01 Sep 2026 11:14:00 -0400"
+    },
+    {
+      "title": "How Affirm leverages 0% interest",
+      "link": "https://www.paymentsdive.com/news/how-affirm-leverages-financing-zero-interest-earnings-report/829241/",
+      "description": "Inflation is prompting consumers to turn to Affirm&rsquo;s zero-interest buy now, pay later loans, the company&rsquo;s latest financial results suggest.",
+      "published": "Tue, 01 Sep 2026 10:34:00 -0400"
+    },
     {
       "title": "EWA grows despite legal limbo",
       "link": "https://www.paymentsdive.com/news/ewa-grows-despite-legal-limbo/829183/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/card-fees-have-staying-power/828957/",
       "description": "Merchants keep attacking the fees, but the charges keep coming because consumers love swiping their cards.",
       "published": "Thu, 27 Aug 2026 11:19:36 -0400"
-    },
-    {
-      "title": "Is the nickel nearing a revamp?",
-      "link": "https://www.paymentsdive.com/news/is-the-nickel-nearing-a-revamp/828935/",
-      "description": "It costs 13 cents to produce the five-cent coin. Congress wants the U.S. to explore more cost-effective methods.",
-      "published": "Thu, 27 Aug 2026 10:29:00 -0400"
-    },
-    {
-      "title": "RTP gears up for int\u2019l reach",
-      "link": "https://www.paymentsdive.com/news/rtp-gears-up-for-intl-reach/828839/",
-      "description": "The Bank of New York and other financial institutions are preparing for a pilot next year that will stretch the real-time payments network across borders.",
-      "published": "Wed, 26 Aug 2026 10:55:00 -0400"
     }
   ]
 }
