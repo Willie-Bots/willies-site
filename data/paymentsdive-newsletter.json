@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-09-01T16:39:00.132245Z",
-  "generated_date": "2026-09-01",
+  "generated_at": "2026-09-02T16:33:27.466231Z",
+  "generated_date": "2026-09-02",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Stablecoins lose ground",
+      "link": "https://www.paymentsdive.com/news/stablecoins-lose-ground-tokenized-deposits-jackson-hole-hernandez-ed-cos/829438/",
+      "description": "While the digital currencies have gained some acceptance, there is a growing interest by financial institutions in tokenized deposits as an alternative.",
+      "published": "Wed, 02 Sep 2026 10:39:00 -0400"
+    },
+    {
+      "title": "Banks undertake stablecoin effort",
+      "link": "https://www.paymentsdive.com/news/bofa-wells-fargo-citi-back-upcoming-stablecoin-goldman-pnc-capital-one/829388/",
+      "description": "Goldman Sachs, PNC and Capital One are also among 21 financial institutions partnering on an asset expected to go to market early next year.",
+      "published": "Wed, 02 Sep 2026 10:37:00 -0400"
+    },
+    {
+      "title": "ACI buys UK payments tech firm",
+      "link": "https://www.paymentsdive.com/news/aci-buys-uk-payments-tech-firm/829436/",
+      "description": "The deal for Cranium Ventures and its cloud-based card-payments technology aims to help ACI expand in card infrastructure.",
+      "published": "Wed, 02 Sep 2026 10:33:00 -0400"
+    },
     {
       "title": "PayPal makes job cuts",
       "link": "https://www.paymentsdive.com/news/paypal-employee-job-cuts-restructuring-enrique-lores/829314/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/spons/beyond-the-booking-how-navan-scaled-global-card-issuing-with-embedded-fina/828874/",
       "description": "How Navan unlocked &euro;1B+ in card volume by embedding global issuing with Adyen.",
       "published": "Mon, 31 Aug 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Modernizing payments is a must",
-      "link": "https://www.paymentsdive.com/news/modernizing-payments-is-a-must/829074/",
-      "description": "&ldquo;Payments modernization is no longer a future aspiration,&rdquo; writes one bank tech executive. &ldquo;It has become an operational and strategic imperative.&rdquo;",
-      "published": "Fri, 28 Aug 2026 10:03:32 -0400"
-    },
-    {
-      "title": "Illinois seeks to support cash use",
-      "link": "https://www.paymentsdive.com/news/illinois-seeks-to-support-cash-use/828982/",
-      "description": "A new state law will require retailers to accept cash for most transactions below $500, and fine repeat violators up to $5,000.",
-      "published": "Fri, 28 Aug 2026 09:57:00 -0400"
-    },
-    {
-      "title": "Card fees have staying power",
-      "link": "https://www.paymentsdive.com/news/card-fees-have-staying-power/828957/",
-      "description": "Merchants keep attacking the fees, but the charges keep coming because consumers love swiping their cards.",
-      "published": "Thu, 27 Aug 2026 11:19:36 -0400"
     }
   ]
 }
