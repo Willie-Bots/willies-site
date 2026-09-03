@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-09-02T16:33:27.466231Z",
-  "generated_date": "2026-09-02",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
+  "generated_at": "2026-09-03T16:24:31.060462Z",
+  "generated_date": "2026-09-03",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on product + fintech innovation.",
   "articles": [
+    {
+      "title": "Fiserv explores divestitures",
+      "link": "https://www.paymentsdive.com/news/fiserv-explores-divestitures/829569/",
+      "description": "The payments processor, under pressure amid management upheaval and client attrition, told analysts it&rsquo;s still considering the sale of a debit network.",
+      "published": "Thu, 03 Sep 2026 10:35:00 -0400"
+    },
+    {
+      "title": "TabaPay eyes bank charter",
+      "link": "https://www.paymentsdive.com/news/tabapay-to-buy-transact-bank-ftv-capital-155-million-investment-occ-charter/829487/",
+      "description": "The money movement platform received a $155 million investment to buy Transact Bank so it can offer payments clients banking services.",
+      "published": "Thu, 03 Sep 2026 10:26:00 -0400"
+    },
+    {
+      "title": "Stripe taps new stablecoin executive",
+      "link": "https://www.paymentsdive.com/news/stripe-taps-new-stablecoin-executive/829509/",
+      "description": "The financial tech giant hired a crypto pro to help push payment cards backed by stablecoins.",
+      "published": "Thu, 03 Sep 2026 09:30:00 -0400"
+    },
     {
       "title": "Stablecoins lose ground",
       "link": "https://www.paymentsdive.com/news/stablecoins-lose-ground-tokenized-deposits-jackson-hole-hernandez-ed-cos/829438/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/how-affirm-leverages-financing-zero-interest-earnings-report/829241/",
       "description": "Inflation is prompting consumers to turn to Affirm&rsquo;s zero-interest buy now, pay later loans, the company&rsquo;s latest financial results suggest.",
       "published": "Tue, 01 Sep 2026 10:34:00 -0400"
-    },
-    {
-      "title": "EWA grows despite legal limbo",
-      "link": "https://www.paymentsdive.com/news/ewa-grows-despite-legal-limbo/829183/",
-      "description": "Instant Financial and Clair are among the earned wage access companies expanding even as state and federal oversight evolves.",
-      "published": "Mon, 31 Aug 2026 10:48:00 -0400"
-    },
-    {
-      "title": "Visa delivers 6M documents to DOJ",
-      "link": "https://www.paymentsdive.com/news/visa-delivers-6m-documents-to-doj/829168/",
-      "description": "The government and the card network will need to complete their pre-trial evidence work by the end of January, a magistrate ruled Friday.",
-      "published": "Mon, 31 Aug 2026 10:33:00 -0400"
-    },
-    {
-      "title": "Beyond the booking: How Navan scaled global card issuing with embedded finance",
-      "link": "https://www.paymentsdive.com/spons/beyond-the-booking-how-navan-scaled-global-card-issuing-with-embedded-fina/828874/",
-      "description": "How Navan unlocked &euro;1B+ in card volume by embedding global issuing with Adyen.",
-      "published": "Mon, 31 Aug 2026 05:00:00 -0400"
     }
   ]
 }
