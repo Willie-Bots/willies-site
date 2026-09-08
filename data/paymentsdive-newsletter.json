@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-09-07T17:44:31.043328Z",
-  "generated_date": "2026-09-07",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on product + fintech innovation.",
+  "generated_at": "2026-09-08T16:37:10.226163Z",
+  "generated_date": "2026-09-08",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "RTP, Fed race on fast payments",
+      "link": "https://www.paymentsdive.com/news/rtp-fed-race-on-fast-payments/829806/",
+      "description": "While The Clearing House&rsquo;s RTP network&nbsp;races with the Federal Reserve&rsquo;s FedNow system, the U.S., overall, lags on speedy payments.",
+      "published": "Tue, 08 Sep 2026 11:01:00 -0400"
+    },
+    {
+      "title": "Nuvei pays $4.9M to settle FTC case",
+      "link": "https://www.paymentsdive.com/news/nuvei-pays-49m-to-settle-ftc-case/829799/",
+      "description": "The company has agreed to settle a Federal Trade Commission lawsuit that alleged it handled processing for merchants that were engaged in scams.",
+      "published": "Tue, 08 Sep 2026 10:37:00 -0400"
+    },
     {
       "title": "Subscription spending climbs",
       "link": "https://www.paymentsdive.com/news/subscription-spending-climbs/829682/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/stablecoins-lose-ground-tokenized-deposits-jackson-hole-hernandez-ed-cos/829438/",
       "description": "While the digital currencies have gained some acceptance, there is a growing interest by financial institutions in tokenized deposits as an alternative.",
       "published": "Wed, 02 Sep 2026 10:39:00 -0400"
-    },
-    {
-      "title": "Banks undertake stablecoin effort",
-      "link": "https://www.paymentsdive.com/news/bofa-wells-fargo-citi-back-upcoming-stablecoin-goldman-pnc-capital-one/829388/",
-      "description": "Goldman Sachs, PNC and Capital One are also among 21 financial institutions partnering on an asset expected to go to market early next year.",
-      "published": "Wed, 02 Sep 2026 10:37:00 -0400"
-    },
-    {
-      "title": "ACI buys UK payments tech firm",
-      "link": "https://www.paymentsdive.com/news/aci-buys-uk-payments-tech-firm/829436/",
-      "description": "The deal for Cranium Ventures and its cloud-based card-payments technology aims to help ACI expand in card infrastructure.",
-      "published": "Wed, 02 Sep 2026 10:33:00 -0400"
     }
   ]
 }
