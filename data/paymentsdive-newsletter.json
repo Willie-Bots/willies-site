@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-09-08T16:37:10.226163Z",
-  "generated_date": "2026-09-08",
+  "generated_at": "2026-09-09T16:37:25.770986Z",
+  "generated_date": "2026-09-09",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Visa builds business abroad",
+      "link": "https://www.paymentsdive.com/news/visa-builds-business-abroad/829918/",
+      "description": "The card network has entered a partnership with an international lender in emerging economies to fuel demand for digital payments around the world.",
+      "published": "Wed, 09 Sep 2026 10:36:00 -0400"
+    },
+    {
+      "title": "Block seeks OCC bank charter",
+      "link": "https://www.paymentsdive.com/news/block-seeks-occ-bank-charter/829903/",
+      "description": "Cash App&rsquo;s parent is joining a parade of fintechs seeking to become national banks as the Office of the Comptroller of the Currency allows more leeway for such licenses.",
+      "published": "Wed, 09 Sep 2026 10:09:00 -0400"
+    },
+    {
+      "title": "Processor pays $12M to settle \u2018sham\u2019 merchant case",
+      "link": "https://www.paymentsdive.com/news/processor-pays-12m-to-settle-sham-merchant-case/829887/",
+      "description": "ISO Humboldt Merchant Services agreed to settle a Federal Trade Commission lawsuit that alleged it processed fraudulent payments.",
+      "published": "Wed, 09 Sep 2026 08:31:38 -0400"
+    },
     {
       "title": "RTP, Fed race on fast payments",
       "link": "https://www.paymentsdive.com/news/rtp-fed-race-on-fast-payments/829806/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fiserv-explores-divestitures/829569/",
       "description": "The payments processor, under pressure amid management upheaval and client attrition, told analysts it&rsquo;s still considering the sale of a debit network.",
       "published": "Thu, 03 Sep 2026 10:35:00 -0400"
-    },
-    {
-      "title": "TabaPay eyes bank charter",
-      "link": "https://www.paymentsdive.com/news/tabapay-to-buy-transact-bank-ftv-capital-155-million-investment-occ-charter/829487/",
-      "description": "The money movement platform received a $155 million investment to buy Transact Bank so it can offer payments clients banking services.",
-      "published": "Thu, 03 Sep 2026 10:26:00 -0400"
-    },
-    {
-      "title": "Stripe taps new stablecoin executive",
-      "link": "https://www.paymentsdive.com/news/stripe-taps-new-stablecoin-executive/829509/",
-      "description": "The financial tech giant hired a crypto pro to help push payment cards backed by stablecoins.",
-      "published": "Thu, 03 Sep 2026 09:30:00 -0400"
-    },
-    {
-      "title": "Stablecoins lose ground",
-      "link": "https://www.paymentsdive.com/news/stablecoins-lose-ground-tokenized-deposits-jackson-hole-hernandez-ed-cos/829438/",
-      "description": "While the digital currencies have gained some acceptance, there is a growing interest by financial institutions in tokenized deposits as an alternative.",
-      "published": "Wed, 02 Sep 2026 10:39:00 -0400"
     }
   ]
 }
