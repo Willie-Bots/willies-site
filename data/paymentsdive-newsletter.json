@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-09-09T16:37:25.770986Z",
-  "generated_date": "2026-09-09",
+  "generated_at": "2026-09-10T16:24:17.677552Z",
+  "generated_date": "2026-09-10",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Trump pledges card fee cuts, again",
+      "link": "https://www.paymentsdive.com/news/trump-pledges-card-fee-cuts-again/830054/",
+      "description": "The president reiterated his support for policies to cut fees associated with credit cards, noting the charges are a burden for consumers.",
+      "published": "Thu, 10 Sep 2026 11:00:00 -0400"
+    },
+    {
+      "title": "Circle buys Tazapay for $400M",
+      "link": "https://www.paymentsdive.com/news/circle-buys-tazapay-for-400m/829956/",
+      "description": "The stablecoin issuer will gain new payment rails and bank relationships via the Singapore-based cross-border payments firm.",
+      "published": "Thu, 10 Sep 2026 10:55:00 -0400"
+    },
+    {
+      "title": "Zip explores an EWA play",
+      "link": "https://www.paymentsdive.com/news/zip-explores-an-ewa-play/830033/",
+      "description": "The buy now, pay later company may start a U.S. earned wage access service as an &ldquo;income-smoothing&rdquo; complement to its business.",
+      "published": "Thu, 10 Sep 2026 10:13:14 -0400"
+    },
     {
       "title": "Visa builds business abroad",
       "link": "https://www.paymentsdive.com/news/visa-builds-business-abroad/829918/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/nuvei-pays-49m-to-settle-ftc-case/829799/",
       "description": "The company has agreed to settle a Federal Trade Commission lawsuit that alleged it handled processing for merchants that were engaged in scams.",
       "published": "Tue, 08 Sep 2026 10:37:00 -0400"
-    },
-    {
-      "title": "Subscription spending climbs",
-      "link": "https://www.paymentsdive.com/news/subscription-spending-climbs/829682/",
-      "description": "Consumers are splurging more via subscription payments, often for fashion and entertainment, a new Bank of America report says.",
-      "published": "Fri, 04 Sep 2026 10:39:00 -0400"
-    },
-    {
-      "title": "Ramp takes on AI expense",
-      "link": "https://www.paymentsdive.com/news/ramp-takes-on-ai-expense/829642/",
-      "description": "The expense-management company has expanded into the nascent field of artificial intelligence routing as companies seek to keep tabs on their AI costs.",
-      "published": "Fri, 04 Sep 2026 10:21:00 -0400"
-    },
-    {
-      "title": "Fiserv explores divestitures",
-      "link": "https://www.paymentsdive.com/news/fiserv-explores-divestitures/829569/",
-      "description": "The payments processor, under pressure amid management upheaval and client attrition, told analysts it&rsquo;s still considering the sale of a debit network.",
-      "published": "Thu, 03 Sep 2026 10:35:00 -0400"
     }
   ]
 }
