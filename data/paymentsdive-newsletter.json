@@ -1,7 +1,7 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-09-11T16:27:24.279845Z",
-  "generated_date": "2026-09-11",
+  "generated_at": "2026-09-12T15:30:45.953716Z",
+  "generated_date": "2026-09-12",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
     {
@@ -9,12 +9,6 @@
       "link": "https://www.paymentsdive.com/news/visa-offers-data-to-back-onchain-lending/830172/",
       "description": "The card network aims to offer settlement and blockchain data so fintechs and card programs backed by stablecoins can better access onchain credit.",
       "published": "Fri, 11 Sep 2026 10:55:46 -0400"
-    },
-    {
-      "title": "PayPal CEO plans for a \u2018fix\u2019",
-      "link": "https://www.paymentsdive.com/news/paypal-ceo-plans-for-a-fix/830171/",
-      "description": "Can selling financial services to consumers, organizing the business into three units and pursuing acquisitions repair the digital payments pioneer?",
-      "published": "Fri, 11 Sep 2026 10:31:00 -0400"
     },
     {
       "title": "Trump pledges card fee cuts, again",
@@ -51,6 +45,12 @@
       "link": "https://www.paymentsdive.com/news/processor-pays-12m-to-settle-sham-merchant-case/829887/",
       "description": "ISO Humboldt Merchant Services agreed to settle a Federal Trade Commission lawsuit that alleged it processed fraudulent payments.",
       "published": "Wed, 09 Sep 2026 08:31:38 -0400"
+    },
+    {
+      "title": "RTP, Fed race on fast payments",
+      "link": "https://www.paymentsdive.com/news/rtp-fed-race-on-fast-payments/829806/",
+      "description": "While The Clearing House&rsquo;s RTP network&nbsp;races with the Federal Reserve&rsquo;s FedNow system, the U.S., overall, lags on speedy payments.",
+      "published": "Tue, 08 Sep 2026 11:01:00 -0400"
     }
   ]
 }
