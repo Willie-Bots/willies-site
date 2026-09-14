@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-09-13T16:15:38.597848Z",
-  "generated_date": "2026-09-13",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-09-14T18:04:35.322011Z",
+  "generated_date": "2026-09-14",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on product + fintech innovation.",
   "articles": [
+    {
+      "title": "Fiserv\u2019s CEO eyes monetization",
+      "link": "https://www.paymentsdive.com/news/fiservs-ceo-eyes-monetization/830289/",
+      "description": "Takis Georgakopoulos is trying to reposition the company so it&rsquo;s better able to sell its key payments and banking services.",
+      "published": "Mon, 14 Sep 2026 10:31:00 -0400"
+    },
+    {
+      "title": "Klarna props up new Apple phones",
+      "link": "https://www.paymentsdive.com/news/klarna-props-up-new-apple-phones/830272/",
+      "description": "The buy now, pay later company will provide lease financing for a $2,000 phone to U.S. consumers coveting the latest Apple devices.",
+      "published": "Mon, 14 Sep 2026 10:06:00 -0400"
+    },
+    {
+      "title": "The cost of friction: What 1,500 merchants told us about payments in 2026",
+      "link": "https://www.paymentsdive.com/spons/the-cost-of-friction-what-1500-merchants-told-us-about-payments-in-2026/829587/",
+      "description": "Payment expectations are changing merchant loyalty. Learn what platforms can do to reduce friction.",
+      "published": "Mon, 14 Sep 2026 05:00:00 -0400"
+    },
     {
       "title": "Visa offers data to back onchain lending",
       "link": "https://www.paymentsdive.com/news/visa-offers-data-to-back-onchain-lending/830172/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/zip-explores-an-ewa-play/830033/",
       "description": "The buy now, pay later company may start a U.S. earned wage access service as an &ldquo;income-smoothing&rdquo; complement to its business.",
       "published": "Thu, 10 Sep 2026 10:13:14 -0400"
-    },
-    {
-      "title": "Visa builds business abroad",
-      "link": "https://www.paymentsdive.com/news/visa-builds-business-abroad/829918/",
-      "description": "The card network has entered a partnership with an international lender in emerging economies to fuel demand for digital payments around the world.",
-      "published": "Wed, 09 Sep 2026 10:36:00 -0400"
-    },
-    {
-      "title": "Block seeks OCC bank charter",
-      "link": "https://www.paymentsdive.com/news/block-seeks-occ-bank-charter/829903/",
-      "description": "Cash App&rsquo;s parent is joining a parade of fintechs seeking to become national banks as the Office of the Comptroller of the Currency allows more leeway for such licenses.",
-      "published": "Wed, 09 Sep 2026 10:09:00 -0400"
-    },
-    {
-      "title": "Processor pays $12M to settle \u2018sham\u2019 merchant case",
-      "link": "https://www.paymentsdive.com/news/processor-pays-12m-to-settle-sham-merchant-case/829887/",
-      "description": "ISO Humboldt Merchant Services agreed to settle a Federal Trade Commission lawsuit that alleged it processed fraudulent payments.",
-      "published": "Wed, 09 Sep 2026 08:31:38 -0400"
     }
   ]
 }
