@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-09-14T18:04:35.322011Z",
-  "generated_date": "2026-09-14",
+  "generated_at": "2026-09-15T16:57:58.361005Z",
+  "generated_date": "2026-09-15",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on product + fintech innovation.",
   "articles": [
+    {
+      "title": "Mastercard CFO seeks int\u2019l growth",
+      "link": "https://www.paymentsdive.com/news/mastercard-cfo-seeks-intl-growth-china-debit/830413/",
+      "description": "The company&rsquo;s new chief financial officer presented his view of stablecoins, growth and acquisitions at an investment bank conference last week.",
+      "published": "Tue, 15 Sep 2026 10:32:00 -0400"
+    },
+    {
+      "title": "Walmart slams card fee pact, again",
+      "link": "https://www.paymentsdive.com/news/walmart-slams-card-fee-pact-again/830395/",
+      "description": "The largest U.S. retailer joined hundreds of other merchants calling a swipe-fee settlement with the card networks inadequate and unfair.",
+      "published": "Tue, 15 Sep 2026 10:03:00 -0400"
+    },
     {
       "title": "Fiserv\u2019s CEO eyes monetization",
       "link": "https://www.paymentsdive.com/news/fiservs-ceo-eyes-monetization/830289/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/trump-pledges-card-fee-cuts-again/830054/",
       "description": "The president reiterated his support for policies to cut fees associated with credit cards, noting the charges are a burden for consumers.",
       "published": "Thu, 10 Sep 2026 11:00:00 -0400"
-    },
-    {
-      "title": "Circle buys Tazapay for $400M",
-      "link": "https://www.paymentsdive.com/news/circle-buys-tazapay-for-400m/829956/",
-      "description": "The stablecoin issuer will gain new payment rails and bank relationships via the Singapore-based cross-border payments firm.",
-      "published": "Thu, 10 Sep 2026 10:55:00 -0400"
-    },
-    {
-      "title": "Zip explores an EWA play",
-      "link": "https://www.paymentsdive.com/news/zip-explores-an-ewa-play/830033/",
-      "description": "The buy now, pay later company may start a U.S. earned wage access service as an &ldquo;income-smoothing&rdquo; complement to its business.",
-      "published": "Thu, 10 Sep 2026 10:13:14 -0400"
     }
   ]
 }
