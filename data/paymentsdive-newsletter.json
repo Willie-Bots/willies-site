@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-09-16T16:53:44.558347Z",
-  "generated_date": "2026-09-16",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
+  "generated_at": "2026-09-17T16:58:49.905769Z",
+  "generated_date": "2026-09-17",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "MoneyGram taps stablecoin ally",
+      "link": "https://www.paymentsdive.com/news/moneygram-taps-stablecoin-ally/830673/",
+      "description": "The cross-border company and its rival Western Union are both working with Signify Holdings, aka Rain, to power new digital currency ventures.",
+      "published": "Thu, 17 Sep 2026 10:50:00 -0400"
+    },
+    {
+      "title": "Scammers fake student identities to siphon aid payments",
+      "link": "https://www.paymentsdive.com/news/scammers-fake-student-identities-to-siphon-aid-payments/830610/",
+      "description": "The Financial Crimes Enforcement Network is warning payment processors and financial institutions &ldquo;to be vigilant&rdquo; of the fraud schemes.",
+      "published": "Thu, 17 Sep 2026 10:25:00 -0400"
+    },
+    {
+      "title": "Clarity Act bill stumbles",
+      "link": "https://www.paymentsdive.com/news/clarity-act-fails-senate-trump-crypto-conflict-of-interest-sec-cftc/830651/",
+      "description": "A measure to regulate crypto assets and stablecoin payments failed in the Senate. Regulators now may have to forge a blueprint for the sector.",
+      "published": "Thu, 17 Sep 2026 09:25:20 -0400"
+    },
     {
       "title": "House passes Common Cents bill",
       "link": "https://www.paymentsdive.com/news/house-passes-common-cents-bill/830533/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/walmart-slams-card-fee-pact-again/830395/",
       "description": "The largest U.S. retailer joined hundreds of other merchants calling a swipe-fee settlement with the card networks inadequate and unfair.",
       "published": "Tue, 15 Sep 2026 10:03:00 -0400"
-    },
-    {
-      "title": "Fiserv\u2019s CEO eyes monetization",
-      "link": "https://www.paymentsdive.com/news/fiservs-ceo-eyes-monetization/830289/",
-      "description": "Takis Georgakopoulos is trying to reposition the company so it&rsquo;s better able to sell its key payments and banking services.",
-      "published": "Mon, 14 Sep 2026 10:31:00 -0400"
-    },
-    {
-      "title": "Klarna props up new Apple phones",
-      "link": "https://www.paymentsdive.com/news/klarna-props-up-new-apple-phones/830272/",
-      "description": "The buy now, pay later company will provide lease financing for a $2,000 phone to U.S. consumers coveting the latest Apple devices.",
-      "published": "Mon, 14 Sep 2026 10:06:00 -0400"
-    },
-    {
-      "title": "The cost of friction: What 1,500 merchants told us about payments in 2026",
-      "link": "https://www.paymentsdive.com/spons/the-cost-of-friction-what-1500-merchants-told-us-about-payments-in-2026/829587/",
-      "description": "Payment expectations are changing merchant loyalty. Learn what platforms can do to reduce friction.",
-      "published": "Mon, 14 Sep 2026 05:00:00 -0400"
     }
   ]
 }
