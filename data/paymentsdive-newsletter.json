@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-09-17T16:58:49.905769Z",
-  "generated_date": "2026-09-17",
+  "generated_at": "2026-09-18T16:23:07.915234Z",
+  "generated_date": "2026-09-18",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Stripe\u2019s wallet embraces AI bots",
+      "link": "https://www.paymentsdive.com/news/stripes-digital-wallet-paypal-embraces-ai-bots-agentic-commerce/830753/",
+      "description": "The payments giant has recently integrated its Link digital wallet for consumers with personal AI agents from Meta, xAI and other AI players.",
+      "published": "Fri, 18 Sep 2026 10:28:00 -0400"
+    },
     {
       "title": "MoneyGram taps stablecoin ally",
       "link": "https://www.paymentsdive.com/news/moneygram-taps-stablecoin-ally/830673/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/mastercard-cfo-seeks-intl-growth-china-debit/830413/",
       "description": "The company&rsquo;s new chief financial officer presented his view of stablecoins, growth and acquisitions at an investment bank conference last week.",
       "published": "Tue, 15 Sep 2026 10:32:00 -0400"
-    },
-    {
-      "title": "Walmart slams card fee pact, again",
-      "link": "https://www.paymentsdive.com/news/walmart-slams-card-fee-pact-again/830395/",
-      "description": "The largest U.S. retailer joined hundreds of other merchants calling a swipe-fee settlement with the card networks inadequate and unfair.",
-      "published": "Tue, 15 Sep 2026 10:03:00 -0400"
     }
   ]
 }
