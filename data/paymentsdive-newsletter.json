@@ -1,7 +1,7 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-09-19T15:52:12.727164Z",
-  "generated_date": "2026-09-19",
+  "generated_at": "2026-09-20T16:04:35.313280Z",
+  "generated_date": "2026-09-20",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
     {
@@ -15,6 +15,12 @@
       "link": "https://www.paymentsdive.com/news/moneygram-taps-stablecoin-ally/830673/",
       "description": "The cross-border company and its rival Western Union are both working with Signify Holdings, aka Rain, to power new digital currency ventures.",
       "published": "Thu, 17 Sep 2026 10:50:00 -0400"
+    },
+    {
+      "title": "FleetCor enters $100M settlement",
+      "link": "https://www.paymentsdive.com/news/fleetcor-enters-100m-settlement/830740/",
+      "description": "The fuel card company, now known as Corpay, and its CEO agreed to pay the Federal Trade Commission $100 million to settle an action over fees.",
+      "published": "Thu, 17 Sep 2026 10:34:00 -0400"
     },
     {
       "title": "Scammers fake student identities to siphon aid payments",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fintech-groups-knock-new-york-bnpl-buy-now-pay-later-rules/830515/",
       "description": "The American Fintech Council argues that New York&rsquo;s proposed buy now, pay later rules could slash credit available to the state&rsquo;s consumers.",
       "published": "Wed, 16 Sep 2026 09:18:00 -0400"
-    },
-    {
-      "title": "Mastercard CFO seeks int\u2019l growth",
-      "link": "https://www.paymentsdive.com/news/mastercard-cfo-seeks-intl-growth-china-debit/830413/",
-      "description": "The company&rsquo;s new chief financial officer presented his view of stablecoins, growth and acquisitions at an investment bank conference last week.",
-      "published": "Tue, 15 Sep 2026 10:32:00 -0400"
     }
   ]
 }
