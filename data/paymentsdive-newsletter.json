@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-09-21T18:12:08.313200Z",
-  "generated_date": "2026-09-21",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-09-22T16:56:32.238328Z",
+  "generated_date": "2026-09-22",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on product + fintech innovation.",
   "articles": [
+    {
+      "title": "PayCompass, Simpay and Exectras come together",
+      "link": "https://www.paymentsdive.com/news/paycompass-simpay-and-exectras-come-together/831029/",
+      "description": "The three payments companies have formed a new processing venture that also sells healthcare services to merchants.",
+      "published": "Tue, 22 Sep 2026 10:50:00 -0400"
+    },
+    {
+      "title": "Merchants call card-fee pact unconstitutional",
+      "link": "https://www.paymentsdive.com/news/merchants-call-card-fee-pact-unconstitutional/830998/",
+      "description": "Walmart and other retailers argue that forcing them to stay in a swipe-fee settlement class violates their due process rights.",
+      "published": "Tue, 22 Sep 2026 10:17:00 -0400"
+    },
     {
       "title": "Cross-border contest heats up",
       "link": "https://www.paymentsdive.com/news/cross-border-contest-heats-up/830877/",
@@ -13,8 +25,14 @@
     {
       "title": "Mastercard, Google push past passwords",
       "link": "https://www.paymentsdive.com/news/mastercard-google-push-past-passwords/830837/",
-      "description": "The card network and the tech titan aim to reduce the need for one-time passwords and catalyze more use of biometric payments in the country.",
+      "description": "The card network and the tech titan aim to reduce the need for one-time passwords and catalyze more use of biometric payments.",
       "published": "Mon, 21 Sep 2026 09:38:00 -0400"
+    },
+    {
+      "title": "Toast aims to scale drive-thru AI",
+      "link": "https://www.paymentsdive.com/news/presto-toast-partner-ecosystem-integration/830896/",
+      "description": "The artificial intelligence company Presto is joining the point-of-sale firm&rsquo;s ecosystem, seeking to ease restaurants&rsquo; use of a voice-order tool.",
+      "published": "Mon, 21 Sep 2026 09:29:20 -0400"
     },
     {
       "title": "Tokenization: Transforming the future of digital payments",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/moneygram-taps-stablecoin-ally/830673/",
       "description": "The cross-border company and its rival Western Union are both working with Signify Holdings, aka Rain, to power new digital currency ventures.",
       "published": "Thu, 17 Sep 2026 10:50:00 -0400"
-    },
-    {
-      "title": "FleetCor enters $100M settlement",
-      "link": "https://www.paymentsdive.com/news/fleetcor-enters-100m-settlement/830740/",
-      "description": "The fuel card company, now known as Corpay, and its CEO agreed to pay the Federal Trade Commission $100 million to settle an action over fees.",
-      "published": "Thu, 17 Sep 2026 10:34:00 -0400"
-    },
-    {
-      "title": "Scammers fake student identities to siphon aid payments",
-      "link": "https://www.paymentsdive.com/news/scammers-fake-student-identities-to-siphon-aid-payments/830610/",
-      "description": "The Financial Crimes Enforcement Network is warning payment processors and financial institutions &ldquo;to be vigilant&rdquo; of the fraud schemes.",
-      "published": "Thu, 17 Sep 2026 10:25:00 -0400"
-    },
-    {
-      "title": "Clarity Act bill stumbles",
-      "link": "https://www.paymentsdive.com/news/clarity-act-fails-senate-trump-crypto-conflict-of-interest-sec-cftc/830651/",
-      "description": "A measure to regulate crypto assets and stablecoin payments failed in the Senate. Regulators now may have to forge a blueprint for the sector.",
-      "published": "Thu, 17 Sep 2026 09:25:20 -0400"
     }
   ]
 }
