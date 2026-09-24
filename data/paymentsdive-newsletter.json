@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-09-23T16:56:53.477739Z",
-  "generated_date": "2026-09-23",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
+  "generated_at": "2026-09-24T17:09:32.545997Z",
+  "generated_date": "2026-09-24",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "ACH use rises for B2B payments",
+      "link": "https://www.paymentsdive.com/news/ach-use-rises-for-b2b-payments/831270/",
+      "description": "The automated clearing house payments have multiplied to overtake paper checks as the most popular form of business-to-business payments, according to a new Federal Reserve report.",
+      "published": "Thu, 24 Sep 2026 11:31:50 -0400"
+    },
+    {
+      "title": "Moov adds P2P competition",
+      "link": "https://www.paymentsdive.com/news/moov-adds-p2p-competition/831268/",
+      "description": "Using Mastercard and Visa&rsquo;s digital infrastructure, the tool facilitates peer-to-peer payments without requiring both parties to have the same app.",
+      "published": "Thu, 24 Sep 2026 10:51:00 -0400"
+    },
     {
       "title": "Pentair picks up ex-Fiserv CFO",
       "link": "https://www.paymentsdive.com/news/pentair-nabs-ex-fiserv-cfo-earnings-comp/831083/",
@@ -13,7 +25,7 @@
     {
       "title": "How digital IDs may battle fraud",
       "link": "https://www.paymentsdive.com/news/how-digital-ids-may-battle-fraud/831128/",
-      "description": "Americans are vulnerable to identification and payment frauds because the U.S. has been slow to adopt digital identification, two Congress members contend.",
+      "description": "Americans are vulnerable to identification and payment frauds because the U.S. has been slow to adopt digital identification, two Congress members said.",
       "published": "Wed, 23 Sep 2026 09:48:03 -0400"
     },
     {
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/merchants-call-card-fee-pact-unconstitutional/830998/",
       "description": "Walmart and other retailers argue that forcing them to stay in a swipe-fee settlement class violates their due process rights.",
       "published": "Tue, 22 Sep 2026 10:17:00 -0400"
-    },
-    {
-      "title": "Ramp tackles accounts receivable",
-      "link": "https://www.paymentsdive.com/news/ramp-expands-accounts-receivable-cfos-seek-faster-cash-flow-ai/831079/",
-      "description": "&ldquo;Finance teams today spend too much time chasing payments for outstanding invoices,&rdquo; Ramp&rsquo;s chief product officer said.",
-      "published": "Tue, 22 Sep 2026 09:59:00 -0400"
-    },
-    {
-      "title": "Cross-border contest heats up",
-      "link": "https://www.paymentsdive.com/news/cross-border-contest-heats-up/830877/",
-      "description": "Technological innovation has enabled fintechs to carve out a beachhead in cross-border payments, but banks still have cards to play.",
-      "published": "Mon, 21 Sep 2026 10:29:00 -0400"
     }
   ]
 }
