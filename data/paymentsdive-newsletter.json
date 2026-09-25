@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-09-24T17:09:32.545997Z",
-  "generated_date": "2026-09-24",
+  "generated_at": "2026-09-25T17:09:41.267997Z",
+  "generated_date": "2026-09-25",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Kroger\u2019s AI focus is on \u2018flexibility and control\u2019",
+      "link": "https://www.paymentsdive.com/news/kroger-ai-technology-groceryshop/831391/",
+      "description": "From bridging the digital and physical shopping worlds to further ramping effective personalization, the grocer&rsquo;s chief digital officer delved into the company&rsquo;s priorities.",
+      "published": "Fri, 25 Sep 2026 10:40:00 -0400"
+    },
+    {
+      "title": "FIDO wrestles with agentic trust",
+      "link": "https://www.paymentsdive.com/news/fido-wrestles-with-agentic-trust/831380/",
+      "description": "The industry consortium and payments players are considering standards for agentic commerce, particularly for verifying identity.",
+      "published": "Fri, 25 Sep 2026 10:38:00 -0400"
+    },
     {
       "title": "ACH use rises for B2B payments",
       "link": "https://www.paymentsdive.com/news/ach-use-rises-for-b2b-payments/831270/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/adyen-snaps-up-klarna-cfo/831093/",
       "description": "The Dutch digital payments processor has hired Niclas Neglen as its new chief financial officer, but he won&rsquo;t join until next year.",
       "published": "Wed, 23 Sep 2026 00:14:12 -0400"
-    },
-    {
-      "title": "PayCompass, Simpay and Exectras come together",
-      "link": "https://www.paymentsdive.com/news/paycompass-simpay-and-exectras-come-together/831029/",
-      "description": "The three payments companies have formed a new processing venture that also sells healthcare services to merchants.",
-      "published": "Tue, 22 Sep 2026 10:50:00 -0400"
-    },
-    {
-      "title": "Merchants call card-fee pact unconstitutional",
-      "link": "https://www.paymentsdive.com/news/merchants-call-card-fee-pact-unconstitutional/830998/",
-      "description": "Walmart and other retailers argue that forcing them to stay in a swipe-fee settlement class violates their due process rights.",
-      "published": "Tue, 22 Sep 2026 10:17:00 -0400"
     }
   ]
 }
