@@ -1,13 +1,43 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-09-27T16:57:02.056409Z",
-  "generated_date": "2026-09-27",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-09-28T19:39:57.255508Z",
+  "generated_date": "2026-09-28",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Fed proposes stablecoin rules",
+      "link": "https://www.paymentsdive.com/news/fed-proposes-stablecoin-rules/831405/",
+      "description": "The regulations aim to make these digital assets &ldquo;foster payments improvements that benefit households and businesses,&rdquo;&nbsp;Federal Reserve Gov. Michael Barr said.",
+      "published": "Mon, 28 Sep 2026 11:30:56 -0400"
+    },
+    {
+      "title": "Payment revenue growth to slow",
+      "link": "https://www.paymentsdive.com/news/payment-revenue-growth-to-slow/831491/",
+      "description": "The rate of payments-related revenue growth in North America, and globally, will slow in the next four years, a major consulting firm predicts.",
+      "published": "Mon, 28 Sep 2026 10:44:00 -0400"
+    },
+    {
+      "title": "Stripe alums spark new payments plays",
+      "link": "https://www.paymentsdive.com/news/stripe-alums-spark-new-payments-plays/831410/",
+      "description": "The digital processor has become a founders&rsquo; factory with former employees seeding startups across the financial technology field.",
+      "published": "Mon, 28 Sep 2026 06:47:31 -0400"
+    },
+    {
+      "title": "Turning audience data into an intent channel",
+      "link": "https://www.paymentsdive.com/spons/turning-audience-data-into-an-intent-channel/830843/",
+      "description": "Turn financial data into an intent channel that creates value across the commerce ecosystem.",
+      "published": "Mon, 28 Sep 2026 05:00:00 -0400"
+    },
+    {
+      "title": "How embedded finance is redefining the role of SaaS platforms",
+      "link": "https://www.paymentsdive.com/spons/how-embedded-finance-is-redefining-the-role-of-saas-platforms/831080/",
+      "description": "Embedded finance is the new SaaS moat. Learn how to turn payments into a core revenue engine.",
+      "published": "Mon, 28 Sep 2026 05:00:00 -0400"
+    },
     {
       "title": "Kroger\u2019s AI focus is on \u2018flexibility and control\u2019",
       "link": "https://www.paymentsdive.com/news/kroger-ai-technology-groceryshop/831391/",
-      "description": "From bridging the digital and physical shopping worlds to further ramping up effective personalization, the grocer&rsquo;s chief digital officer delved into the company&rsquo;s priorities.",
+      "description": "From bridging the digital and physical shopping worlds to further ramping effective personalization, the grocer&rsquo;s chief digital officer delved into the company&rsquo;s priorities.",
       "published": "Fri, 25 Sep 2026 10:40:00 -0400"
     },
     {
@@ -21,36 +51,6 @@
       "link": "https://www.paymentsdive.com/news/ach-use-rises-for-b2b-payments/831270/",
       "description": "The automated clearing house payments have multiplied to overtake paper checks as the most popular form of business-to-business payments, according to a new Federal Reserve report.",
       "published": "Thu, 24 Sep 2026 11:31:50 -0400"
-    },
-    {
-      "title": "Moov adds P2P competition",
-      "link": "https://www.paymentsdive.com/news/moov-adds-p2p-competition/831268/",
-      "description": "Using Mastercard and Visa&rsquo;s digital infrastructure, the tool facilitates peer-to-peer payments without requiring both parties to have the same app.",
-      "published": "Thu, 24 Sep 2026 10:51:00 -0400"
-    },
-    {
-      "title": "Pentair picks up ex-Fiserv CFO",
-      "link": "https://www.paymentsdive.com/news/pentair-nabs-ex-fiserv-cfo-earnings-comp/831083/",
-      "description": "Former Fiserv CFO Bob Hau is stepping into Pentair&rsquo;s top finance seat as it seeks to close a $1.4 billion acquisition of Taco Group.",
-      "published": "Wed, 23 Sep 2026 10:24:00 -0400"
-    },
-    {
-      "title": "How digital IDs may battle fraud",
-      "link": "https://www.paymentsdive.com/news/how-digital-ids-may-battle-fraud/831128/",
-      "description": "Americans are vulnerable to identification and payment frauds because the U.S. has been slow to adopt digital identification, two Congress members said.",
-      "published": "Wed, 23 Sep 2026 09:48:03 -0400"
-    },
-    {
-      "title": "Amazon blocks Meta\u2019s AI shopper",
-      "link": "https://www.paymentsdive.com/news/amazon-meta-muse-ai-agentic-shopping-experience/831052/",
-      "description": "The e-commerce giant said Meta had failed to notify it about the Muse agent accessing its retail site to make purchases on behalf of consumers.",
-      "published": "Wed, 23 Sep 2026 00:14:20 -0400"
-    },
-    {
-      "title": "Adyen snaps up Klarna CFO",
-      "link": "https://www.paymentsdive.com/news/adyen-snaps-up-klarna-cfo/831093/",
-      "description": "The Dutch digital payments processor has hired Niclas Neglen as its new chief financial officer, but he won&rsquo;t join until next year.",
-      "published": "Wed, 23 Sep 2026 00:14:12 -0400"
     }
   ]
 }
