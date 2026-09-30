@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-09-29T18:04:13.438953Z",
-  "generated_date": "2026-09-29",
+  "generated_at": "2026-09-30T17:59:42.324569Z",
+  "generated_date": "2026-09-30",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Will Europe unseat Visa, Mastercard?",
+      "link": "https://www.paymentsdive.com/news/will-europe-unseat-visa-mastercard/831773/",
+      "description": "The Wero project launched by European banks is making progress in challenging the card networks&rsquo; dominance on the continent, but the U.S. companies still have an edge, one firm&rsquo;s analysts contend.",
+      "published": "Wed, 30 Sep 2026 10:33:00 -0400"
+    },
+    {
+      "title": "Circle CFO to step down",
+      "link": "https://www.paymentsdive.com/news/circle-cfo-step-down-following-ipo-leadership-crypto-comp/831712/",
+      "description": "Finance chief Jeremy Fox-Geen will leave the stablecoin issuer later this year, after ushering the company through its long-awaited 2025 IPO.",
+      "published": "Wed, 30 Sep 2026 10:29:00 -0400"
+    },
+    {
+      "title": "AI shopping agents need receipts",
+      "link": "https://www.paymentsdive.com/news/ai-shopping-agents-need-receipts/831716/",
+      "description": "As artificial intelligence assumes a bigger role in commerce and finances, having a clear record of agents&rsquo; actions is critical, executives said.",
+      "published": "Wed, 30 Sep 2026 07:59:24 -0400"
+    },
     {
       "title": "Senate passes Common Cents bill",
       "link": "https://www.paymentsdive.com/news/senate-passes-common-cents-bill/831629/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/payment-revenue-growth-to-slow/831491/",
       "description": "The rate of payments-related revenue growth in North America, and globally, will slow in the next four years, a major consulting firm predicts.",
       "published": "Mon, 28 Sep 2026 10:44:00 -0400"
-    },
-    {
-      "title": "Stripe alums spark new payments plays",
-      "link": "https://www.paymentsdive.com/news/stripe-alums-spark-new-payments-plays/831410/",
-      "description": "The digital processor has become a founders&rsquo; factory with former employees seeding startups across the financial technology field.",
-      "published": "Mon, 28 Sep 2026 06:47:31 -0400"
-    },
-    {
-      "title": "Turning audience data into an intent channel",
-      "link": "https://www.paymentsdive.com/spons/turning-audience-data-into-an-intent-channel/830843/",
-      "description": "Turn financial data into an intent channel that creates value across the commerce ecosystem.",
-      "published": "Mon, 28 Sep 2026 05:00:00 -0400"
-    },
-    {
-      "title": "How embedded finance is redefining the role of SaaS platforms",
-      "link": "https://www.paymentsdive.com/spons/how-embedded-finance-is-redefining-the-role-of-saas-platforms/831080/",
-      "description": "Embedded finance is the new SaaS moat. Learn how to turn payments into a core revenue engine.",
-      "published": "Mon, 28 Sep 2026 05:00:00 -0400"
     }
   ]
 }
