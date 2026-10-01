@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-09-30T17:59:42.324569Z",
-  "generated_date": "2026-09-30",
+  "generated_at": "2026-10-01T18:24:42.058048Z",
+  "generated_date": "2026-10-01",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Stripe swallows Parafin",
+      "link": "https://www.paymentsdive.com/news/stripe-swallows-parafin/831903/",
+      "description": "The mega processor is buying an embedded financing company that caters to small businesses, in its second acquisition in as many months.",
+      "published": "Thu, 01 Oct 2026 10:54:00 -0400"
+    },
+    {
+      "title": "Fiserv\u2019s stablecoin system starts",
+      "link": "https://www.paymentsdive.com/news/fiserv-north-dakota-stablecoin-system-digital-asset/831901/",
+      "description": "The mega processor&rsquo;s system for hosting digital currencies is up and running, with North Dakota&rsquo;s stablecoin the first digital asset to go live.",
+      "published": "Thu, 01 Oct 2026 10:52:00 -0400"
+    },
     {
       "title": "Will Europe unseat Visa, Mastercard?",
       "link": "https://www.paymentsdive.com/news/will-europe-unseat-visa-mastercard/831773/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/apple-lawsuit-becomes-class-action/831575/",
       "description": "The tech giant could face claims from thousands of card issuers that paid Apple Pay fees for payments made via Apple&rsquo;s devices as part of a California lawsuit.",
       "published": "Tue, 29 Sep 2026 10:14:00 -0400"
-    },
-    {
-      "title": "Fed proposes stablecoin rules",
-      "link": "https://www.paymentsdive.com/news/fed-proposes-stablecoin-rules/831405/",
-      "description": "The regulations aim to make these digital assets &ldquo;foster payments improvements that benefit households and businesses,&rdquo;&nbsp;Federal Reserve Gov. Michael Barr said.",
-      "published": "Mon, 28 Sep 2026 11:30:56 -0400"
-    },
-    {
-      "title": "Payment revenue growth to slow",
-      "link": "https://www.paymentsdive.com/news/payment-revenue-growth-to-slow/831491/",
-      "description": "The rate of payments-related revenue growth in North America, and globally, will slow in the next four years, a major consulting firm predicts.",
-      "published": "Mon, 28 Sep 2026 10:44:00 -0400"
     }
   ]
 }
