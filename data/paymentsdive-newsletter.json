@@ -1,14 +1,20 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-10-02T17:51:43.310500Z",
-  "generated_date": "2026-10-02",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
+  "generated_at": "2026-10-03T16:16:41.325586Z",
+  "generated_date": "2026-10-03",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on product + fintech innovation.",
   "articles": [
     {
       "title": "How stablecoins speed int\u2019l payments",
       "link": "https://www.paymentsdive.com/news/how-stablecoins-speed-intl-payments-crypto-cross-border-emerging-markets/831935/",
       "description": "Startup Latitude Global pitches faster, cheaper cross-border payments by sending them on modern stablecoin rails.",
       "published": "Fri, 02 Oct 2026 10:21:56 -0400"
+    },
+    {
+      "title": "PayPal hints at BNPL holiday use",
+      "link": "https://www.paymentsdive.com/news/paypal-hints-at-bnpl-holiday-use/832010/",
+      "description": "Some consumers will turn to buy now, pay later options for holiday shopping to spread costs over time, according to a survey by the digital processor.",
+      "published": "Fri, 02 Oct 2026 10:19:00 -0400"
     },
     {
       "title": "Stripe swallows Parafin",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/senate-passes-common-cents-bill/831629/",
       "description": "The measure to provide merchants a cash rounding framework, and to formally phase out the penny, now heads to the White House.",
       "published": "Tue, 29 Sep 2026 10:35:00 -0400"
-    },
-    {
-      "title": "FedNow tiptoes into cross-border",
-      "link": "https://www.paymentsdive.com/news/fednow-tiptoes-into-cross-border/831632/",
-      "description": "The Federal Reserve is inching toward adding some sort of cross-border capability to FedNow, but it&rsquo;s not clear when or how.",
-      "published": "Tue, 29 Sep 2026 10:34:00 -0400"
     }
   ]
 }
