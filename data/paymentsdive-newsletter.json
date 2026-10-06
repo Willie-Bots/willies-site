@@ -1,9 +1,45 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-10-04T16:50:29.266360Z",
-  "generated_date": "2026-10-04",
+  "generated_at": "2026-10-06T18:20:43.834720Z",
+  "generated_date": "2026-10-06",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Payments conferences for 2027",
+      "link": "https://www.paymentsdive.com/news/payments-conferences-for-2027/832239/",
+      "description": "Real-time payments, stablecoins and AI use cases are expected to be among the hot topics at next year&rsquo;s industry events.",
+      "published": "Tue, 06 Oct 2026 10:44:00 -0400"
+    },
+    {
+      "title": "Fintechs press for Fed access",
+      "link": "https://www.paymentsdive.com/news/fintechs-press-for-fed-access/832233/",
+      "description": "Stripe and Ramp executives highlighted their companies&rsquo; need for more access to the Federal Reserve&rsquo;s payment rails during a Fed conference.",
+      "published": "Tue, 06 Oct 2026 10:23:00 -0400"
+    },
+    {
+      "title": "Toast adds fuel payments",
+      "link": "https://www.paymentsdive.com/news/toast-adds-fuel-payments-to-its-platform/832057/",
+      "description": "Toast Fuel allows customers to run gas payments inside the store and at the pump alongside foodservice and general retail sales.",
+      "published": "Mon, 05 Oct 2026 10:58:00 -0400"
+    },
+    {
+      "title": "Why Fiserv pivoted on FIUSD",
+      "link": "https://www.paymentsdive.com/news/fiserv-payments-processor-stablecoin-pivot-fiusd/832133/",
+      "description": "The payments processor had planned to issue its own stablecoin, FIUSD, by last year, but the strategy shifted for multiple reasons.",
+      "published": "Mon, 05 Oct 2026 10:49:00 -0400"
+    },
+    {
+      "title": "Toast, Square jockey on POS discounts",
+      "link": "https://www.paymentsdive.com/news/toast-square-jockey-on-pos-discounts/832111/",
+      "description": "Parts of the point-of-sale hardware market are seeing price cuts amid a growth push and new upgrade demands from merchants.",
+      "published": "Mon, 05 Oct 2026 09:55:43 -0400"
+    },
+    {
+      "title": "Building beyond software with embedded financial products",
+      "link": "https://www.paymentsdive.com/spons/building-beyond-software-with-embedded-financial-products/831560/",
+      "description": "Software providers are integrating tailored lending and corporate cards directly into their software to eliminate regional banking friction.",
+      "published": "Mon, 05 Oct 2026 05:00:00 -0400"
+    },
     {
       "title": "How stablecoins speed int\u2019l payments",
       "link": "https://www.paymentsdive.com/news/how-stablecoins-speed-intl-payments-crypto-cross-border-emerging-markets/831935/",
@@ -11,46 +47,10 @@
       "published": "Fri, 02 Oct 2026 10:21:56 -0400"
     },
     {
-      "title": "Stripe swallows Parafin",
-      "link": "https://www.paymentsdive.com/news/stripe-swallows-parafin/831903/",
-      "description": "The mega processor is buying an embedded financing company that caters to small businesses, in its second acquisition in as many months.",
-      "published": "Thu, 01 Oct 2026 10:54:00 -0400"
-    },
-    {
-      "title": "Fiserv\u2019s stablecoin system starts",
-      "link": "https://www.paymentsdive.com/news/fiserv-north-dakota-stablecoin-system-digital-asset/831901/",
-      "description": "The mega processor&rsquo;s system for hosting digital currencies is up and running, with North Dakota&rsquo;s stablecoin the first digital asset to go live.",
-      "published": "Thu, 01 Oct 2026 10:52:00 -0400"
-    },
-    {
-      "title": "Will Europe unseat Visa, Mastercard?",
-      "link": "https://www.paymentsdive.com/news/will-europe-unseat-visa-mastercard/831773/",
-      "description": "The Wero project launched by European banks is making progress in challenging the card networks&rsquo; dominance on the continent, but the U.S. companies still have an edge, one firm&rsquo;s analysts contend.",
-      "published": "Wed, 30 Sep 2026 10:33:00 -0400"
-    },
-    {
-      "title": "Circle CFO to step down",
-      "link": "https://www.paymentsdive.com/news/circle-cfo-step-down-following-ipo-leadership-crypto-comp/831712/",
-      "description": "Finance chief Jeremy Fox-Geen will leave the stablecoin issuer later this year, after ushering the company through its long-awaited 2025 IPO.",
-      "published": "Wed, 30 Sep 2026 10:29:00 -0400"
-    },
-    {
-      "title": "AI shopping agents need receipts",
-      "link": "https://www.paymentsdive.com/news/ai-shopping-agents-need-receipts/831716/",
-      "description": "As artificial intelligence assumes a bigger role in commerce and finances, having a clear record of agents&rsquo; actions is critical, executives said.",
-      "published": "Wed, 30 Sep 2026 07:59:24 -0400"
-    },
-    {
-      "title": "Senate passes Common Cents bill",
-      "link": "https://www.paymentsdive.com/news/senate-passes-common-cents-bill/831629/",
-      "description": "The measure to provide merchants a cash rounding framework, and to formally phase out the penny, now heads to the White House.",
-      "published": "Tue, 29 Sep 2026 10:35:00 -0400"
-    },
-    {
-      "title": "FedNow tiptoes into cross-border",
-      "link": "https://www.paymentsdive.com/news/fednow-tiptoes-into-cross-border/831632/",
-      "description": "The Federal Reserve is inching toward adding some sort of cross-border capability to FedNow, but it&rsquo;s not clear when or how.",
-      "published": "Tue, 29 Sep 2026 10:34:00 -0400"
+      "title": "PayPal hints at BNPL holiday use",
+      "link": "https://www.paymentsdive.com/news/paypal-hints-at-bnpl-holiday-use/832010/",
+      "description": "Some consumers will turn to buy now, pay later options for holiday shopping to spread costs over time, according to a survey by the digital processor.",
+      "published": "Fri, 02 Oct 2026 10:19:00 -0400"
     }
   ]
 }
