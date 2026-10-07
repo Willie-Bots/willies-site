@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-10-06T18:20:43.834720Z",
-  "generated_date": "2026-10-06",
+  "generated_at": "2026-10-07T18:56:26.025931Z",
+  "generated_date": "2026-10-07",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Payments income bolsters banks",
+      "link": "https://www.paymentsdive.com/news/payments-income-bolsters-banks/832378/",
+      "description": "Income from card, digital and other rails has swelled to about 40% of revenue for the global bank industry, according to consulting firm McKinsey.",
+      "published": "Wed, 07 Oct 2026 11:49:00 -0400"
+    },
+    {
+      "title": "SAP expands into payments",
+      "link": "https://www.paymentsdive.com/news/sap-expands-payments-finance-automation-push-deepens/832358/",
+      "description": "A new service from the software firm supports multiple payment methods, including wires and stablecoin-based transactions, the company said.",
+      "published": "Wed, 07 Oct 2026 10:48:00 -0400"
+    },
+    {
+      "title": "Stripe, FedEx team on SMB lending",
+      "link": "https://www.paymentsdive.com/news/stripe-fedex-team-on-smb-lending-business-capital-logistics/832368/",
+      "description": "Merging operational and financial data will offer insights into smaller businesses and guide an effort to extend capital to them, the companies said.",
+      "published": "Wed, 07 Oct 2026 10:41:17 -0400"
+    },
     {
       "title": "Payments conferences for 2027",
       "link": "https://www.paymentsdive.com/news/payments-conferences-for-2027/832239/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/toast-square-jockey-on-pos-discounts/832111/",
       "description": "Parts of the point-of-sale hardware market are seeing price cuts amid a growth push and new upgrade demands from merchants.",
       "published": "Mon, 05 Oct 2026 09:55:43 -0400"
-    },
-    {
-      "title": "Building beyond software with embedded financial products",
-      "link": "https://www.paymentsdive.com/spons/building-beyond-software-with-embedded-financial-products/831560/",
-      "description": "Software providers are integrating tailored lending and corporate cards directly into their software to eliminate regional banking friction.",
-      "published": "Mon, 05 Oct 2026 05:00:00 -0400"
-    },
-    {
-      "title": "How stablecoins speed int\u2019l payments",
-      "link": "https://www.paymentsdive.com/news/how-stablecoins-speed-intl-payments-crypto-cross-border-emerging-markets/831935/",
-      "description": "Startup Latitude Global pitches faster, cheaper cross-border payments by sending them on modern stablecoin rails.",
-      "published": "Fri, 02 Oct 2026 10:21:56 -0400"
-    },
-    {
-      "title": "PayPal hints at BNPL holiday use",
-      "link": "https://www.paymentsdive.com/news/paypal-hints-at-bnpl-holiday-use/832010/",
-      "description": "Some consumers will turn to buy now, pay later options for holiday shopping to spread costs over time, according to a survey by the digital processor.",
-      "published": "Fri, 02 Oct 2026 10:19:00 -0400"
     }
   ]
 }
