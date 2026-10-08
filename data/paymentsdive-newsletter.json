@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-10-07T18:56:26.025931Z",
-  "generated_date": "2026-10-07",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
+  "generated_at": "2026-10-08T18:50:12.350468Z",
+  "generated_date": "2026-10-08",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Treasury taps data to fend off fraud",
+      "link": "https://www.paymentsdive.com/news/treasury-taps-data-to-fend-off-payments-fraud/832511/",
+      "description": "The U.S. department has increased its scrutiny of payments using new sources of data in an attempt to stem past &lsquo;pay and chase&rsquo; patterns.",
+      "published": "Thu, 08 Oct 2026 10:53:00 -0400"
+    },
+    {
+      "title": "Finance leaders fight deepfakes",
+      "link": "https://www.paymentsdive.com/news/finance-leaders-fight-deepfakes-Certos-fraud-prevention/832475/",
+      "description": "Corporate finance departments are grappling with AI-enabled fraud, according to the results of a new survey by Early Warning Services&rsquo; Certos.",
+      "published": "Thu, 08 Oct 2026 09:29:00 -0400"
+    },
+    {
+      "title": "Amex advises businesses on AI",
+      "link": "https://www.paymentsdive.com/news/amex-advises-businesses-on-ai/832423/",
+      "description": "As consumers start using artificial intelligence to comparison shop, American Express aims to guide merchants in using the new technology.",
+      "published": "Thu, 08 Oct 2026 09:15:00 -0400"
+    },
     {
       "title": "Payments income bolsters banks",
       "link": "https://www.paymentsdive.com/news/payments-income-bolsters-banks/832378/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fintechs-press-for-fed-access/832233/",
       "description": "Stripe and Ramp executives highlighted their companies&rsquo; need for more access to the Federal Reserve&rsquo;s payment rails during a Fed conference.",
       "published": "Tue, 06 Oct 2026 10:23:00 -0400"
-    },
-    {
-      "title": "Toast adds fuel payments",
-      "link": "https://www.paymentsdive.com/news/toast-adds-fuel-payments-to-its-platform/832057/",
-      "description": "Toast Fuel allows customers to run gas payments inside the store and at the pump alongside foodservice and general retail sales.",
-      "published": "Mon, 05 Oct 2026 10:58:00 -0400"
-    },
-    {
-      "title": "Why Fiserv pivoted on FIUSD",
-      "link": "https://www.paymentsdive.com/news/fiserv-payments-processor-stablecoin-pivot-fiusd/832133/",
-      "description": "The payments processor had planned to issue its own stablecoin, FIUSD, by last year, but the strategy shifted for multiple reasons.",
-      "published": "Mon, 05 Oct 2026 10:49:00 -0400"
-    },
-    {
-      "title": "Toast, Square jockey on POS discounts",
-      "link": "https://www.paymentsdive.com/news/toast-square-jockey-on-pos-discounts/832111/",
-      "description": "Parts of the point-of-sale hardware market are seeing price cuts amid a growth push and new upgrade demands from merchants.",
-      "published": "Mon, 05 Oct 2026 09:55:43 -0400"
     }
   ]
 }
