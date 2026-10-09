@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-10-08T18:50:12.350468Z",
-  "generated_date": "2026-10-08",
+  "generated_at": "2026-10-09T18:20:31.406067Z",
+  "generated_date": "2026-10-09",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Block envisions bitcoin for all",
+      "link": "https://www.paymentsdive.com/news/block-envisions-bitcoin-for-all/832610/",
+      "description": "The company&rsquo;s head of bitcoin, Miles Suter, has two big tasks: Make bitcoin a routine payment tool and change the global financial system.",
+      "published": "Fri, 09 Oct 2026 10:20:00 -0400"
+    },
+    {
+      "title": "How agentic payments present risk",
+      "link": "https://www.paymentsdive.com/news/how-agentic-payments-artificial-intelligence-risk/832601/",
+      "description": "&ldquo;There&#39;s no clear legal rule for who bears the loss when an AI tool exceeds its mandate,&rdquo; writes one financial services consultant. &ldquo;That&#39;s a problem for issuers as they contemplate making credentials available to AI tools.&rdquo;",
+      "published": "Fri, 09 Oct 2026 10:11:00 -0400"
+    },
+    {
+      "title": "Amex dinged by Fed, OCC",
+      "link": "https://www.paymentsdive.com/news/amex-dinged-by-fed-occ-must-pay-350m-for-aml-failures/832575/",
+      "description": "American Express must pay a $350 million penalty after regulators cited &ldquo;significant deficiencies&rdquo; in its&nbsp;anti-money laundering program.",
+      "published": "Thu, 08 Oct 2026 21:01:00 -0400"
+    },
     {
       "title": "Treasury taps data to fend off fraud",
       "link": "https://www.paymentsdive.com/news/treasury-taps-data-to-fend-off-payments-fraud/832511/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/sap-expands-payments-finance-automation-push-deepens/832358/",
       "description": "A new service from the software firm supports multiple payment methods, including wires and stablecoin-based transactions, the company said.",
       "published": "Wed, 07 Oct 2026 10:48:00 -0400"
-    },
-    {
-      "title": "Stripe, FedEx team on SMB lending",
-      "link": "https://www.paymentsdive.com/news/stripe-fedex-team-on-smb-lending-business-capital-logistics/832368/",
-      "description": "Merging operational and financial data will offer insights into smaller businesses and guide an effort to extend capital to them, the companies said.",
-      "published": "Wed, 07 Oct 2026 10:41:17 -0400"
-    },
-    {
-      "title": "Payments conferences for 2027",
-      "link": "https://www.paymentsdive.com/news/payments-conferences-for-2027/832239/",
-      "description": "Real-time payments, stablecoins and AI use cases are expected to be among the hot topics at next year&rsquo;s industry events.",
-      "published": "Tue, 06 Oct 2026 10:44:00 -0400"
-    },
-    {
-      "title": "Fintechs press for Fed access",
-      "link": "https://www.paymentsdive.com/news/fintechs-press-for-fed-access/832233/",
-      "description": "Stripe and Ramp executives highlighted their companies&rsquo; need for more access to the Federal Reserve&rsquo;s payment rails during a Fed conference.",
-      "published": "Tue, 06 Oct 2026 10:23:00 -0400"
     }
   ]
 }
