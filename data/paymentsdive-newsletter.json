@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-10-12T21:15:43.822387Z",
-  "generated_date": "2026-10-12",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-10-13T19:15:40.909444Z",
+  "generated_date": "2026-10-13",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Visa moves ahead in China",
+      "link": "https://www.paymentsdive.com/news/visa-moves-ahead-in-china/832867/",
+      "description": "The card network giant said it won approval from the Chinese government to begin preparing to offer card services domestically in the country.",
+      "published": "Tue, 13 Oct 2026 11:58:00 -0400"
+    },
+    {
+      "title": "Stablecoin startups advance payments",
+      "link": "https://www.paymentsdive.com/news/stablecoin-startups-advance-payments/832871/",
+      "description": "Entrepreneurs embracing the digital assets are pushing payments modernization forward, and bringing incumbents along too.",
+      "published": "Tue, 13 Oct 2026 11:57:00 -0400"
+    },
     {
       "title": "Fed names new payments chief",
       "link": "https://www.paymentsdive.com/news/fed-names-new-payments-chief/832744/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/amex-dinged-by-fed-occ-must-pay-350m-for-aml-failures/832575/",
       "description": "American Express must pay a $350 million penalty after regulators cited &ldquo;significant deficiencies&rdquo; in its&nbsp;anti-money laundering program.",
       "published": "Thu, 08 Oct 2026 21:01:00 -0400"
-    },
-    {
-      "title": "Treasury taps data to fend off fraud",
-      "link": "https://www.paymentsdive.com/news/treasury-taps-data-to-fend-off-payments-fraud/832511/",
-      "description": "The U.S. department has increased its scrutiny of payments using new sources of data in an attempt to stem past &lsquo;pay and chase&rsquo; patterns.",
-      "published": "Thu, 08 Oct 2026 10:53:00 -0400"
-    },
-    {
-      "title": "Finance leaders fight deepfakes",
-      "link": "https://www.paymentsdive.com/news/finance-leaders-fight-deepfakes-Certos-fraud-prevention/832475/",
-      "description": "Corporate finance departments are grappling with AI-enabled fraud, according to the results of a new survey by Early Warning Services&rsquo; Certos.",
-      "published": "Thu, 08 Oct 2026 09:29:00 -0400"
     }
   ]
 }
