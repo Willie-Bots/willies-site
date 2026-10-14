@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-10-13T19:15:40.909444Z",
-  "generated_date": "2026-10-13",
+  "generated_at": "2026-10-14T17:08:46.233296Z",
+  "generated_date": "2026-10-14",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "JPMorgan rounds up partners",
+      "link": "https://www.paymentsdive.com/news/jpmorgan-rounds-up-partners/832986/",
+      "description": "The biggest U.S. bank has been collecting payments partners to better integrate software&nbsp;and keep up with industry trends, among other purposes.",
+      "published": "Wed, 14 Oct 2026 10:52:00 -0400"
+    },
+    {
+      "title": "Upgrade applies for ILC charter",
+      "link": "https://www.paymentsdive.com/news/upgrade-fintech-applies-ilc-charter-fdic-nevada/832959/",
+      "description": "The decade-old credit-card startup named a SoFi alum and longtime regulator as CEO of its proposed bank.",
+      "published": "Wed, 14 Oct 2026 10:11:00 -0400"
+    },
     {
       "title": "Visa moves ahead in China",
       "link": "https://www.paymentsdive.com/news/visa-moves-ahead-in-china/832867/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/block-envisions-bitcoin-for-all/832610/",
       "description": "The company&rsquo;s head of bitcoin, Miles Suter, has two big tasks: Make bitcoin a routine payment tool and change the global financial system.",
       "published": "Fri, 09 Oct 2026 10:20:00 -0400"
-    },
-    {
-      "title": "How agentic payments present risk",
-      "link": "https://www.paymentsdive.com/news/how-agentic-payments-artificial-intelligence-risk/832601/",
-      "description": "&ldquo;There&#39;s no clear legal rule for who bears the loss when an AI tool exceeds its mandate,&rdquo; writes one financial services consultant. &ldquo;That&#39;s a problem for issuers as they contemplate making credentials available to AI tools.&rdquo;",
-      "published": "Fri, 09 Oct 2026 10:11:00 -0400"
-    },
-    {
-      "title": "Amex dinged by Fed, OCC",
-      "link": "https://www.paymentsdive.com/news/amex-dinged-by-fed-occ-must-pay-350m-for-aml-failures/832575/",
-      "description": "American Express must pay a $350 million penalty after regulators cited &ldquo;significant deficiencies&rdquo; in its&nbsp;anti-money laundering program.",
-      "published": "Thu, 08 Oct 2026 21:01:00 -0400"
     }
   ]
 }
