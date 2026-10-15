@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-10-14T17:08:46.233296Z",
-  "generated_date": "2026-10-14",
+  "generated_at": "2026-10-15T16:59:07.662524Z",
+  "generated_date": "2026-10-15",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Stripe agentic commerce revs up",
+      "link": "https://www.paymentsdive.com/news/stripe-agentic-commerce-revs-up/833109/",
+      "description": "The digital payment juggernaut&rsquo;s agentic commerce activity went &ldquo;vertical&rdquo; last month, President John Collison said this week.",
+      "published": "Thu, 15 Oct 2026 11:36:00 -0400"
+    },
+    {
+      "title": "Fiserv \u2018reset\u2019 bolsters case, litigants say",
+      "link": "https://www.paymentsdive.com/news/fiserv-reset-bolsters-case-litigants-say/833076/",
+      "description": "The processing giant has no basis for a shareholder lawsuit to be dismissed, given its own comments, investors suing the company told a judge this week.",
+      "published": "Thu, 15 Oct 2026 10:22:00 -0400"
+    },
+    {
+      "title": "Businesses view stablecoins warily",
+      "link": "https://www.paymentsdive.com/news/businesses-view-stablecoins-warily/833006/",
+      "description": "Despite the hype surrounding the digital assets, businesses remain cool to using the cryptocurrency, according to the results of a Cleveland Federal Reserve survey.",
+      "published": "Wed, 14 Oct 2026 13:23:00 -0400"
+    },
     {
       "title": "JPMorgan rounds up partners",
       "link": "https://www.paymentsdive.com/news/jpmorgan-rounds-up-partners/832986/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fed-names-new-payments-chief/832744/",
       "description": "Federal Reserve Financial Services tapped Kim Robbins to succeed Mark Gould starting in November.",
       "published": "Mon, 12 Oct 2026 11:03:00 -0400"
-    },
-    {
-      "title": "Visa-Mastercard payouts top $631M",
-      "link": "https://www.paymentsdive.com/news/visa-mastercard-payouts-top-631m/832669/",
-      "description": "The tally of merchants receiving funds from a $5.5 billion settlement with the networks is nearing 700,000, according to a claims update.",
-      "published": "Mon, 12 Oct 2026 09:14:00 -0400"
-    },
-    {
-      "title": "Where platforms are losing (and winning) merchants: Inside switching triggers",
-      "link": "https://www.paymentsdive.com/spons/where-platforms-are-losing-and-winning-merchants-inside-switching-trigge/831856/",
-      "description": "Merchants are willing to switch. Learn which platform factors drive loyalty and retention.",
-      "published": "Mon, 12 Oct 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Block envisions bitcoin for all",
-      "link": "https://www.paymentsdive.com/news/block-envisions-bitcoin-for-all/832610/",
-      "description": "The company&rsquo;s head of bitcoin, Miles Suter, has two big tasks: Make bitcoin a routine payment tool and change the global financial system.",
-      "published": "Fri, 09 Oct 2026 10:20:00 -0400"
     }
   ]
 }
