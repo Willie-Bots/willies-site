@@ -1,9 +1,15 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-10-15T16:59:07.662524Z",
-  "generated_date": "2026-10-15",
+  "generated_at": "2026-10-16T16:37:57.711345Z",
+  "generated_date": "2026-10-16",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Congress should examine EWA bill",
+      "link": "https://www.paymentsdive.com/news/congress-should-examine-ewa-bill/833225/",
+      "description": "&ldquo;Combining employer-integrated solutions and direct-to-consumer products under a single, relaxed standard weakens consumer safety,&rdquo; writes an industry executive.",
+      "published": "Fri, 16 Oct 2026 10:11:00 -0400"
+    },
     {
       "title": "Stripe agentic commerce revs up",
       "link": "https://www.paymentsdive.com/news/stripe-agentic-commerce-revs-up/833109/",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/stablecoin-startups-advance-payments/832871/",
       "description": "Entrepreneurs embracing the digital assets are pushing payments modernization forward, and bringing incumbents along too.",
       "published": "Tue, 13 Oct 2026 11:57:00 -0400"
-    },
-    {
-      "title": "Fed names new payments chief",
-      "link": "https://www.paymentsdive.com/news/fed-names-new-payments-chief/832744/",
-      "description": "Federal Reserve Financial Services tapped Kim Robbins to succeed Mark Gould starting in November.",
-      "published": "Mon, 12 Oct 2026 11:03:00 -0400"
     }
   ]
 }
