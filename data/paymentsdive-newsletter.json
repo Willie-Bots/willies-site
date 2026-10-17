@@ -1,14 +1,26 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-10-16T16:37:57.711345Z",
-  "generated_date": "2026-10-16",
+  "generated_at": "2026-10-17T15:32:52.265920Z",
+  "generated_date": "2026-10-17",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Visa, Mastercard urge court to approve fee settlement",
+      "link": "https://www.paymentsdive.com/news/visa-mastercard-urge-court-to-approve-fee-settlement/833241/",
+      "description": "The card networks contend Walmart and trade groups want to scuttle a legal pact over card swipe fees using recycled arguments the court has rejected.",
+      "published": "Fri, 16 Oct 2026 13:40:00 -0400"
+    },
     {
       "title": "Congress should examine EWA bill",
       "link": "https://www.paymentsdive.com/news/congress-should-examine-ewa-bill/833225/",
       "description": "&ldquo;Combining employer-integrated solutions and direct-to-consumer products under a single, relaxed standard weakens consumer safety,&rdquo; writes an industry executive.",
       "published": "Fri, 16 Oct 2026 10:11:00 -0400"
+    },
+    {
+      "title": "Credit card debt ticks up",
+      "link": "https://www.paymentsdive.com/news/credit-card-debt-ticks-up/833150/",
+      "description": "Consumers have been grappling with rising credit card interest rates and ballooning balances in the past few years, a recent Fed survey found.",
+      "published": "Fri, 16 Oct 2026 09:39:55 -0400"
     },
     {
       "title": "Stripe agentic commerce revs up",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/upgrade-fintech-applies-ilc-charter-fdic-nevada/832959/",
       "description": "The decade-old credit-card startup named a SoFi alum and longtime regulator as CEO of its proposed bank.",
       "published": "Wed, 14 Oct 2026 10:11:00 -0400"
-    },
-    {
-      "title": "Visa moves ahead in China",
-      "link": "https://www.paymentsdive.com/news/visa-moves-ahead-in-china/832867/",
-      "description": "The card network giant said it won approval from the Chinese government to begin preparing to offer card services domestically in the country.",
-      "published": "Tue, 13 Oct 2026 11:58:00 -0400"
-    },
-    {
-      "title": "Stablecoin startups advance payments",
-      "link": "https://www.paymentsdive.com/news/stablecoin-startups-advance-payments/832871/",
-      "description": "Entrepreneurs embracing the digital assets are pushing payments modernization forward, and bringing incumbents along too.",
-      "published": "Tue, 13 Oct 2026 11:57:00 -0400"
     }
   ]
 }
