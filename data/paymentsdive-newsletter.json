@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-10-18T15:50:51.097007Z",
-  "generated_date": "2026-10-18",
+  "generated_at": "2026-10-19T18:42:18.310693Z",
+  "generated_date": "2026-10-19",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Utah forms digital ID consortium",
+      "link": "https://www.paymentsdive.com/news/utah-forms-digital-id-consortium/833351/",
+      "description": "The state is using its digital identity law as a model for having individuals, not governments, control their personal data, Utah&rsquo;s chief privacy officer said.",
+      "published": "Mon, 19 Oct 2026 10:27:00 -0400"
+    },
+    {
+      "title": "The 67% signal: Why card issuers should act on flexible credentials",
+      "link": "https://www.paymentsdive.com/spons/the-67-signal-why-card-issuers-should-act-on-flexible-credentials/833183/",
+      "description": "67% want one card for debit, credit and BNPL. Don&rsquo;t let a competitor give it to them first.",
+      "published": "Mon, 19 Oct 2026 05:00:00 -0400"
+    },
+    {
+      "title": "AI\u2019s real opportunity in payments is giving experts back their time",
+      "link": "https://www.paymentsdive.com/spons/ais-real-opportunity-in-payments-is-giving-experts-back-their-time/833034/",
+      "description": "Advancing operational efficiency through intelligent guidance on errors and exception handling.",
+      "published": "Mon, 19 Oct 2026 05:00:00 -0400"
+    },
     {
       "title": "Visa, Mastercard urge court to approve fee settlement",
       "link": "https://www.paymentsdive.com/news/visa-mastercard-urge-court-to-approve-fee-settlement/833241/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fiserv-reset-bolsters-case-litigants-say/833076/",
       "description": "The processing giant has no basis for a shareholder lawsuit to be dismissed, given its own comments, investors suing the company told a judge this week.",
       "published": "Thu, 15 Oct 2026 10:22:00 -0400"
-    },
-    {
-      "title": "Businesses view stablecoins warily",
-      "link": "https://www.paymentsdive.com/news/businesses-view-stablecoins-warily/833006/",
-      "description": "Despite the hype surrounding the digital assets, businesses remain cool to using the cryptocurrency, according to the results of a Cleveland Federal Reserve survey.",
-      "published": "Wed, 14 Oct 2026 13:23:00 -0400"
-    },
-    {
-      "title": "JPMorgan rounds up partners",
-      "link": "https://www.paymentsdive.com/news/jpmorgan-rounds-up-partners/832986/",
-      "description": "The biggest U.S. bank has been collecting payments partners to better integrate software&nbsp;and keep up with industry trends, among other purposes.",
-      "published": "Wed, 14 Oct 2026 10:52:00 -0400"
-    },
-    {
-      "title": "Upgrade applies for ILC charter",
-      "link": "https://www.paymentsdive.com/news/upgrade-fintech-applies-ilc-charter-fdic-nevada/832959/",
-      "description": "The decade-old credit-card startup named a SoFi alum and longtime regulator as CEO of its proposed bank.",
-      "published": "Wed, 14 Oct 2026 10:11:00 -0400"
     }
   ]
 }
