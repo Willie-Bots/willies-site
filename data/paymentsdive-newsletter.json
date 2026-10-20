@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-10-19T18:42:18.310693Z",
-  "generated_date": "2026-10-19",
+  "generated_at": "2026-10-20T17:01:16.895572Z",
+  "generated_date": "2026-10-20",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Butter Payments has been sold",
+      "link": "https://www.paymentsdive.com/news/butter-subscription-payments-sold-acquisition/833415/",
+      "description": "The company was purchased last month, said its former chief executive, Charles Rosenblatt, who noted intensifying competitive pressures.",
+      "published": "Tue, 20 Oct 2026 10:19:00 -0400"
+    },
+    {
+      "title": "PayPal isn\u2019t agile enough, CEO says",
+      "link": "https://www.paymentsdive.com/news/paypal-isnt-agile-enough-ceo-says/833449/",
+      "description": "As part of his turnaround efforts, Enrique Lores said Monday the digital payments company requires faster decisions and clearer accountability.",
+      "published": "Tue, 20 Oct 2026 10:18:00 -0400"
+    },
+    {
+      "title": "Ramp seeks bank charter",
+      "link": "https://www.paymentsdive.com/news/ramp-applies-national-trust-bank-charter-occ-fintech-icba/833467/",
+      "description": "Ramp applied with the Office of the Comptroller of the Currency for a national trust bank charter on Friday.",
+      "published": "Tue, 20 Oct 2026 10:16:00 -0400"
+    },
     {
       "title": "Utah forms digital ID consortium",
       "link": "https://www.paymentsdive.com/news/utah-forms-digital-id-consortium/833351/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/congress-should-examine-ewa-bill/833225/",
       "description": "&ldquo;Combining employer-integrated solutions and direct-to-consumer products under a single, relaxed standard weakens consumer safety,&rdquo; writes an industry executive.",
       "published": "Fri, 16 Oct 2026 10:11:00 -0400"
-    },
-    {
-      "title": "Credit card debt ticks up",
-      "link": "https://www.paymentsdive.com/news/credit-card-debt-ticks-up/833150/",
-      "description": "Consumers have been grappling with rising credit card interest rates and ballooning balances in the past few years, a recent Fed survey found.",
-      "published": "Fri, 16 Oct 2026 09:39:55 -0400"
-    },
-    {
-      "title": "Stripe agentic commerce revs up",
-      "link": "https://www.paymentsdive.com/news/stripe-agentic-commerce-revs-up/833109/",
-      "description": "The digital payment juggernaut&rsquo;s agentic commerce activity went &ldquo;vertical&rdquo; last month, President John Collison said this week.",
-      "published": "Thu, 15 Oct 2026 11:36:00 -0400"
-    },
-    {
-      "title": "Fiserv \u2018reset\u2019 bolsters case, litigants say",
-      "link": "https://www.paymentsdive.com/news/fiserv-reset-bolsters-case-litigants-say/833076/",
-      "description": "The processing giant has no basis for a shareholder lawsuit to be dismissed, given its own comments, investors suing the company told a judge this week.",
-      "published": "Thu, 15 Oct 2026 10:22:00 -0400"
     }
   ]
 }
