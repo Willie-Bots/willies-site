@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-10-20T17:01:16.895572Z",
-  "generated_date": "2026-10-20",
+  "generated_at": "2026-10-21T17:10:33.794864Z",
+  "generated_date": "2026-10-21",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Visa changes fees in Canada",
+      "link": "https://www.paymentsdive.com/news/visa-mastercard-card-fee-changes-fees-canada/833599/",
+      "description": "A Canadian trade group has urged card networks to reduce their interchange fees and pass those cost savings on to sellers.",
+      "published": "Wed, 21 Oct 2026 11:14:28 -0400"
+    },
+    {
+      "title": "Fiserv taps AI for retail rethink",
+      "link": "https://www.paymentsdive.com/news/fiserv-taps-ai-retail-rethink-payments/833581/",
+      "description": "Merchants are grappling with how their payments technology will handle artificial intelligence-fueled digital e-commerce, a Fiserv executive said.",
+      "published": "Wed, 21 Oct 2026 10:41:00 -0400"
+    },
+    {
+      "title": "New payment rails catch on, slowly",
+      "link": "https://www.paymentsdive.com/news/new-payment-rails-stablecoin-instant/833578/",
+      "description": "Some companies have yet to realize the full potential of multi-rail systems, speakers said at the Money20/20 conference said Monday.",
+      "published": "Wed, 21 Oct 2026 10:39:00 -0400"
+    },
     {
       "title": "Butter Payments has been sold",
       "link": "https://www.paymentsdive.com/news/butter-subscription-payments-sold-acquisition/833415/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/spons/the-67-signal-why-card-issuers-should-act-on-flexible-credentials/833183/",
       "description": "67% want one card for debit, credit and BNPL. Don&rsquo;t let a competitor give it to them first.",
       "published": "Mon, 19 Oct 2026 05:00:00 -0400"
-    },
-    {
-      "title": "AI\u2019s real opportunity in payments is giving experts back their time",
-      "link": "https://www.paymentsdive.com/spons/ais-real-opportunity-in-payments-is-giving-experts-back-their-time/833034/",
-      "description": "Advancing operational efficiency through intelligent guidance on errors and exception handling.",
-      "published": "Mon, 19 Oct 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Visa, Mastercard urge court to approve fee settlement",
-      "link": "https://www.paymentsdive.com/news/visa-mastercard-urge-court-to-approve-fee-settlement/833241/",
-      "description": "The card networks contend Walmart and trade groups want to scuttle a legal pact over card swipe fees using recycled arguments the court has rejected.",
-      "published": "Fri, 16 Oct 2026 13:40:00 -0400"
-    },
-    {
-      "title": "Congress should examine EWA bill",
-      "link": "https://www.paymentsdive.com/news/congress-should-examine-ewa-bill/833225/",
-      "description": "&ldquo;Combining employer-integrated solutions and direct-to-consumer products under a single, relaxed standard weakens consumer safety,&rdquo; writes an industry executive.",
-      "published": "Fri, 16 Oct 2026 10:11:00 -0400"
     }
   ]
 }
