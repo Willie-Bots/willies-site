@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-10-21T17:10:33.794864Z",
-  "generated_date": "2026-10-21",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
+  "generated_at": "2026-10-22T17:08:54.974509Z",
+  "generated_date": "2026-10-22",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Treasury tallies $270M in suspicious financial aid transactions",
+      "link": "https://www.paymentsdive.com/news/treasury-suspicious-payments-student-financial-aid-fraud/833736/",
+      "description": "The department&rsquo;s FinCEN agency flagged the potentially fraudulent activity as it seeks to stop criminals from stealing financial aid payments meant for students.",
+      "published": "Thu, 22 Oct 2026 10:52:00 -0400"
+    },
+    {
+      "title": "Paze sets big targets after revamp",
+      "link": "https://www.paymentsdive.com/news/paze-sets-big-targets-after-revamp/833721/",
+      "description": "The wallet&rsquo;s bank owners are battling Apple and PayPal with an extensive marketing push, touting it as a more secure payment method.",
+      "published": "Thu, 22 Oct 2026 10:49:00 -0400"
+    },
+    {
+      "title": "Cross River to acquire Accrue",
+      "link": "https://www.paymentsdive.com/news/cross-river-acquisition-accrue-fintech-branded-wallet-loyalty/833670/",
+      "description": "Adding the payment and reward services provider would let the bank&nbsp;offer its clients an expanded embedded finance offering.&nbsp;&ldquo;Payments and loyalty are becoming one,&rdquo; Cross River CEO says.",
+      "published": "Wed, 21 Oct 2026 12:27:08 -0400"
+    },
     {
       "title": "Visa changes fees in Canada",
       "link": "https://www.paymentsdive.com/news/visa-mastercard-card-fee-changes-fees-canada/833599/",
@@ -13,13 +31,13 @@
     {
       "title": "Fiserv taps AI for retail rethink",
       "link": "https://www.paymentsdive.com/news/fiserv-taps-ai-retail-rethink-payments/833581/",
-      "description": "Merchants are grappling with how their payments technology will handle artificial intelligence-fueled digital e-commerce, a Fiserv executive said.",
+      "description": "Merchants are grappling with how their payments technology will handle artificial intelligence-fueled digital commerce, a Fiserv executive said.",
       "published": "Wed, 21 Oct 2026 10:41:00 -0400"
     },
     {
       "title": "New payment rails catch on, slowly",
       "link": "https://www.paymentsdive.com/news/new-payment-rails-stablecoin-instant/833578/",
-      "description": "Some companies have yet to realize the full potential of multi-rail systems, speakers said at the Money20/20 conference said Monday.",
+      "description": "Some companies have yet to realize the full potential of multi-rail systems, speakers said at the Money20/20 conference Monday.",
       "published": "Wed, 21 Oct 2026 10:39:00 -0400"
     },
     {
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/paypal-isnt-agile-enough-ceo-says/833449/",
       "description": "As part of his turnaround efforts, Enrique Lores said Monday the digital payments company requires faster decisions and clearer accountability.",
       "published": "Tue, 20 Oct 2026 10:18:00 -0400"
-    },
-    {
-      "title": "Ramp seeks bank charter",
-      "link": "https://www.paymentsdive.com/news/ramp-applies-national-trust-bank-charter-occ-fintech-icba/833467/",
-      "description": "Ramp applied with the Office of the Comptroller of the Currency for a national trust bank charter on Friday.",
-      "published": "Tue, 20 Oct 2026 10:16:00 -0400"
-    },
-    {
-      "title": "Utah forms digital ID consortium",
-      "link": "https://www.paymentsdive.com/news/utah-forms-digital-id-consortium/833351/",
-      "description": "The state is using its digital identity law as a model for having individuals, not governments, control their personal data, Utah&rsquo;s chief privacy officer said.",
-      "published": "Mon, 19 Oct 2026 10:27:00 -0400"
-    },
-    {
-      "title": "The 67% signal: Why card issuers should act on flexible credentials",
-      "link": "https://www.paymentsdive.com/spons/the-67-signal-why-card-issuers-should-act-on-flexible-credentials/833183/",
-      "description": "67% want one card for debit, credit and BNPL. Don&rsquo;t let a competitor give it to them first.",
-      "published": "Mon, 19 Oct 2026 05:00:00 -0400"
     }
   ]
 }
