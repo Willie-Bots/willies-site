@@ -1,13 +1,31 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-10-22T17:08:54.974509Z",
-  "generated_date": "2026-10-22",
+  "generated_at": "2026-10-23T17:05:10.630494Z",
+  "generated_date": "2026-10-23",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
   "articles": [
     {
+      "title": "Amex to shrink workforce",
+      "link": "https://www.paymentsdive.com/news/amex-american-express-shrink-workforce-ai-squeri/833853/",
+      "description": "The card company plans to cut 4.5% of its employees to become more &ldquo;agile and efficient&rdquo; as it adjusts to more use of artificial intelligence, CEO Stephen Squeri said.",
+      "published": "Fri, 23 Oct 2026 11:49:35 -0400"
+    },
+    {
+      "title": "Sezzle seeks OCC bank charter",
+      "link": "https://www.paymentsdive.com/news/sezzle-seeks-occ-bank-charter/833847/",
+      "description": "The buy now, pay later provider wants a U.S. charter from the Office of the Comptroller of the Currency amid new state rules.",
+      "published": "Fri, 23 Oct 2026 10:54:11 -0400"
+    },
+    {
+      "title": "Shopping is Muse\u2019s top task: Meta",
+      "link": "https://www.paymentsdive.com/news/shopping-is-muses-top-task-meta/833817/",
+      "description": "About a quarter of the personal agent&rsquo;s earliest adopters look to shop, with an average purchase size around $200, Meta&rsquo;s CEO said.",
+      "published": "Fri, 23 Oct 2026 07:11:33 -0400"
+    },
+    {
       "title": "Treasury tallies $270M in suspicious financial aid transactions",
       "link": "https://www.paymentsdive.com/news/treasury-suspicious-payments-student-financial-aid-fraud/833736/",
-      "description": "The department&rsquo;s FinCEN agency flagged the potentially fraudulent activity as it seeks to stop criminals from stealing financial aid payments meant for students.",
+      "description": "The department flagged the potentially fraudulent activity as it seeks to stop criminals from stealing student financial aid payments.",
       "published": "Thu, 22 Oct 2026 10:52:00 -0400"
     },
     {
@@ -19,7 +37,7 @@
     {
       "title": "Cross River to acquire Accrue",
       "link": "https://www.paymentsdive.com/news/cross-river-acquisition-accrue-fintech-branded-wallet-loyalty/833670/",
-      "description": "Adding the payment and reward services provider would let the bank&nbsp;offer its clients an expanded embedded finance offering.&nbsp;&ldquo;Payments and loyalty are becoming one,&rdquo; Cross River CEO says.",
+      "description": "Adding the payment and reward services provider would let the bank&nbsp;offer its clients an expanded embedded finance offering.&nbsp;&ldquo;Payments and loyalty are becoming one,&rdquo; Cross River&rsquo;s CEO says.",
       "published": "Wed, 21 Oct 2026 12:27:08 -0400"
     },
     {
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fiserv-taps-ai-retail-rethink-payments/833581/",
       "description": "Merchants are grappling with how their payments technology will handle artificial intelligence-fueled digital commerce, a Fiserv executive said.",
       "published": "Wed, 21 Oct 2026 10:41:00 -0400"
-    },
-    {
-      "title": "New payment rails catch on, slowly",
-      "link": "https://www.paymentsdive.com/news/new-payment-rails-stablecoin-instant/833578/",
-      "description": "Some companies have yet to realize the full potential of multi-rail systems, speakers said at the Money20/20 conference Monday.",
-      "published": "Wed, 21 Oct 2026 10:39:00 -0400"
-    },
-    {
-      "title": "Butter Payments has been sold",
-      "link": "https://www.paymentsdive.com/news/butter-subscription-payments-sold-acquisition/833415/",
-      "description": "The company was purchased last month, said its former chief executive, Charles Rosenblatt, who noted intensifying competitive pressures.",
-      "published": "Tue, 20 Oct 2026 10:19:00 -0400"
-    },
-    {
-      "title": "PayPal isn\u2019t agile enough, CEO says",
-      "link": "https://www.paymentsdive.com/news/paypal-isnt-agile-enough-ceo-says/833449/",
-      "description": "As part of his turnaround efforts, Enrique Lores said Monday the digital payments company requires faster decisions and clearer accountability.",
-      "published": "Tue, 20 Oct 2026 10:18:00 -0400"
     }
   ]
 }
