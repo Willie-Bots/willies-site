@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-10-25T16:16:16.218543Z",
-  "generated_date": "2026-10-25",
+  "generated_at": "2026-10-26T18:40:07.241877Z",
+  "generated_date": "2026-10-26",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Euronet, Fireblocks pursue stablecoin cards",
+      "link": "https://www.paymentsdive.com/news/euronet-fireblocks-pursue-stablecoin-cards/872760/",
+      "description": "The companies are extending their partnership to provide financial firms with the infrastructure needed to issue stablecoin-funded cards.",
+      "published": "Mon, 26 Oct 2026 11:27:50 -0400"
+    },
+    {
+      "title": "The B2B payment stack wasn\u2019t built for how businesses pay now",
+      "link": "https://www.paymentsdive.com/spons/the-b2b-payment-stack-wasnt-built-for-how-businesses-pay-now/833874/",
+      "description": "The B2B payment decision used to be binary. Legacy infrastructure still is.",
+      "published": "Mon, 26 Oct 2026 05:00:00 -0400"
+    },
+    {
+      "title": "1 ring, 500 accounts: Why fraud signals need to travel",
+      "link": "https://www.paymentsdive.com/spons/1-ring-500-accounts-why-fraud-signals-need-to-travel/833146/",
+      "description": "How one reflection exposed a 500-account fraud ring and why cross-industry signals matter.",
+      "published": "Mon, 26 Oct 2026 05:00:00 -0400"
+    },
     {
       "title": "Amex to shrink workforce",
       "link": "https://www.paymentsdive.com/news/amex-american-express-shrink-workforce-ai-squeri/833853/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/paze-sets-big-targets-after-revamp/833721/",
       "description": "The wallet&rsquo;s bank owners are battling Apple and PayPal with an extensive marketing push, touting it as a more secure payment method.",
       "published": "Thu, 22 Oct 2026 10:49:00 -0400"
-    },
-    {
-      "title": "Cross River to acquire Accrue",
-      "link": "https://www.paymentsdive.com/news/cross-river-acquisition-accrue-fintech-branded-wallet-loyalty/833670/",
-      "description": "Adding the payment and reward services provider would let the bank&nbsp;offer its clients an expanded embedded finance offering.&nbsp;&ldquo;Payments and loyalty are becoming one,&rdquo; Cross River&rsquo;s CEO says.",
-      "published": "Wed, 21 Oct 2026 12:27:08 -0400"
-    },
-    {
-      "title": "Visa changes fees in Canada",
-      "link": "https://www.paymentsdive.com/news/visa-mastercard-card-fee-changes-fees-canada/833599/",
-      "description": "A Canadian trade group has urged card networks to reduce their interchange fees and pass those cost savings on to sellers.",
-      "published": "Wed, 21 Oct 2026 11:14:28 -0400"
-    },
-    {
-      "title": "Fiserv taps AI for retail rethink",
-      "link": "https://www.paymentsdive.com/news/fiserv-taps-ai-retail-rethink-payments/833581/",
-      "description": "Merchants are grappling with how their payments technology will handle artificial intelligence-fueled digital commerce, a Fiserv executive said.",
-      "published": "Wed, 21 Oct 2026 10:41:00 -0400"
     }
   ]
 }
