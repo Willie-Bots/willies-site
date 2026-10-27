@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-10-26T18:40:07.241877Z",
-  "generated_date": "2026-10-26",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
+  "generated_at": "2026-10-27T17:59:33.751052Z",
+  "generated_date": "2026-10-27",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Venmo results lift PayPal",
+      "link": "https://www.paymentsdive.com/news/venmo-results-lift-paypal/872889/",
+      "description": "The digital payments processor is benefiting from its peer-to-peer payment tool business after cutting 2,000 employee jobs.",
+      "published": "Tue, 27 Oct 2026 10:51:00 -0400"
+    },
+    {
+      "title": "USDA proposes adding chip and tap-to-pay tech to EBT cards",
+      "link": "https://www.paymentsdive.com/news/nga-snap-usda-proposed-rule-ebt-chip-cards/872881/",
+      "description": "The National Grocers Association said the payment technologies, which are currently available in nearly a dozen states, can help reduce SNAP fraud.",
+      "published": "Tue, 27 Oct 2026 10:21:00 -0400"
+    },
+    {
+      "title": "Fed loses debit card cap appeal",
+      "link": "https://www.paymentsdive.com/news/fed-loses-debit-card-cap-appeal/872785/",
+      "description": "The Federal Reserve&rsquo;s debit card interchange rule doesn&rsquo;t follow the intent of Congress in setting a limit for swipe fees, an appellate court ruled Monday.",
+      "published": "Mon, 26 Oct 2026 16:08:00 -0400"
+    },
     {
       "title": "Euronet, Fireblocks pursue stablecoin cards",
       "link": "https://www.paymentsdive.com/news/euronet-fireblocks-pursue-stablecoin-cards/872760/",
@@ -11,10 +29,10 @@
       "published": "Mon, 26 Oct 2026 11:27:50 -0400"
     },
     {
-      "title": "The B2B payment stack wasn\u2019t built for how businesses pay now",
-      "link": "https://www.paymentsdive.com/spons/the-b2b-payment-stack-wasnt-built-for-how-businesses-pay-now/833874/",
-      "description": "The B2B payment decision used to be binary. Legacy infrastructure still is.",
-      "published": "Mon, 26 Oct 2026 05:00:00 -0400"
+      "title": "Why checks still matter",
+      "link": "https://www.paymentsdive.com/news/why-checks-still-matter/872761/",
+      "description": "At a major industry conference this month, the paper instrument kept cropping up in discussions, even with an agenda focused on digital modernization.",
+      "published": "Mon, 26 Oct 2026 11:16:00 -0400"
     },
     {
       "title": "1 ring, 500 accounts: Why fraud signals need to travel",
@@ -23,34 +41,16 @@
       "published": "Mon, 26 Oct 2026 05:00:00 -0400"
     },
     {
+      "title": "The B2B payment stack wasn\u2019t built for how businesses pay now",
+      "link": "https://www.paymentsdive.com/spons/the-b2b-payment-stack-wasnt-built-for-how-businesses-pay-now/833874/",
+      "description": "The B2B payment decision used to be binary. Legacy infrastructure still is.",
+      "published": "Mon, 26 Oct 2026 05:00:00 -0400"
+    },
+    {
       "title": "Amex to shrink workforce",
       "link": "https://www.paymentsdive.com/news/amex-american-express-shrink-workforce-ai-squeri/833853/",
       "description": "The card company plans to cut 4.5% of its employees to become more &ldquo;agile and efficient&rdquo; as it adjusts to more use of artificial intelligence, CEO Stephen Squeri said.",
       "published": "Fri, 23 Oct 2026 11:49:35 -0400"
-    },
-    {
-      "title": "Sezzle seeks OCC bank charter",
-      "link": "https://www.paymentsdive.com/news/sezzle-seeks-occ-bank-charter/833847/",
-      "description": "The buy now, pay later provider wants a U.S. charter from the Office of the Comptroller of the Currency amid new state rules.",
-      "published": "Fri, 23 Oct 2026 10:54:11 -0400"
-    },
-    {
-      "title": "Shopping is Muse\u2019s top task: Meta",
-      "link": "https://www.paymentsdive.com/news/shopping-is-muses-top-task-meta/833817/",
-      "description": "About a quarter of the personal agent&rsquo;s earliest adopters look to shop, with an average purchase size around $200, Meta&rsquo;s CEO said.",
-      "published": "Fri, 23 Oct 2026 07:11:33 -0400"
-    },
-    {
-      "title": "Treasury tallies $270M in suspicious financial aid transactions",
-      "link": "https://www.paymentsdive.com/news/treasury-suspicious-payments-student-financial-aid-fraud/833736/",
-      "description": "The department flagged the potentially fraudulent activity as it seeks to stop criminals from stealing student financial aid payments.",
-      "published": "Thu, 22 Oct 2026 10:52:00 -0400"
-    },
-    {
-      "title": "Paze sets big targets after revamp",
-      "link": "https://www.paymentsdive.com/news/paze-sets-big-targets-after-revamp/833721/",
-      "description": "The wallet&rsquo;s bank owners are battling Apple and PayPal with an extensive marketing push, touting it as a more secure payment method.",
-      "published": "Thu, 22 Oct 2026 10:49:00 -0400"
     }
   ]
 }
