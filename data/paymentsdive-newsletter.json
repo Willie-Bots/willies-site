@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-10-27T17:59:33.751052Z",
-  "generated_date": "2026-10-27",
+  "generated_at": "2026-10-28T18:19:54.938689Z",
+  "generated_date": "2026-10-28",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Visa adapts to tech innovations",
+      "link": "https://www.paymentsdive.com/news/visa-adapts-to-tech-innovations/873045/",
+      "description": "The card network&rsquo;s fiscal 2026 results show it&rsquo;s reaching beyond legacy payments paths to incorporate new technologies, offer new services and extend its global reach with more partners.",
+      "published": "Wed, 28 Oct 2026 10:58:00 -0400"
+    },
+    {
+      "title": "Liability looms over AI shopping",
+      "link": "https://www.paymentsdive.com/news/liability-looms-over-ai-shopping/872979/",
+      "description": "Some banks and other payment players lament how agentic commerce has steamrolled ahead without &ldquo;rules of the road&rdquo; for liability issues.&nbsp;",
+      "published": "Wed, 28 Oct 2026 10:48:00 -0400"
+    },
     {
       "title": "Venmo results lift PayPal",
       "link": "https://www.paymentsdive.com/news/venmo-results-lift-paypal/872889/",
@@ -35,22 +47,10 @@
       "published": "Mon, 26 Oct 2026 11:16:00 -0400"
     },
     {
-      "title": "1 ring, 500 accounts: Why fraud signals need to travel",
-      "link": "https://www.paymentsdive.com/spons/1-ring-500-accounts-why-fraud-signals-need-to-travel/833146/",
-      "description": "How one reflection exposed a 500-account fraud ring and why cross-industry signals matter.",
-      "published": "Mon, 26 Oct 2026 05:00:00 -0400"
-    },
-    {
       "title": "The B2B payment stack wasn\u2019t built for how businesses pay now",
       "link": "https://www.paymentsdive.com/spons/the-b2b-payment-stack-wasnt-built-for-how-businesses-pay-now/833874/",
       "description": "The B2B payment decision used to be binary. Legacy infrastructure still is.",
       "published": "Mon, 26 Oct 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Amex to shrink workforce",
-      "link": "https://www.paymentsdive.com/news/amex-american-express-shrink-workforce-ai-squeri/833853/",
-      "description": "The card company plans to cut 4.5% of its employees to become more &ldquo;agile and efficient&rdquo; as it adjusts to more use of artificial intelligence, CEO Stephen Squeri said.",
-      "published": "Fri, 23 Oct 2026 11:49:35 -0400"
     }
   ]
 }
