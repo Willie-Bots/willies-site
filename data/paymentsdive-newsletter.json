@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-10-28T18:19:54.938689Z",
-  "generated_date": "2026-10-28",
+  "generated_at": "2026-10-29T18:27:18.450219Z",
+  "generated_date": "2026-10-29",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Elavon pursues Paze, agentic commerce",
+      "link": "https://www.paymentsdive.com/news/elavon-ceo-trust-not-speed-will-rule-agentic-commerce/873185/",
+      "description": "Mobile wallet Paze is &ldquo;ready to do pilots,&rdquo; said Wally Mlynarski, CEO of the U.S. Bank subsidiary.",
+      "published": "Thu, 29 Oct 2026 10:59:00 -0400"
+    },
+    {
+      "title": "Will ditching the \u2018honor all cards\u2019 rule matter?",
+      "link": "https://www.paymentsdive.com/news/will-ditching-honor-all-cards-rule-matter-visa-mastercard-amex/873187/",
+      "description": "Visa and Mastercard&nbsp;agreed to drop the standard in settling litigation with merchants, but the concession may not be much of a victory.",
+      "published": "Thu, 29 Oct 2026 10:54:00 -0400"
+    },
+    {
+      "title": "Settling cross-border payments remains tough",
+      "link": "https://www.paymentsdive.com/news/settling-cross-border-payments-remains-tough/872997/",
+      "description": "Global payments are moving faster, but local settlement remains a pain point for many companies, according to speakers on a Money20/20 panel.",
+      "published": "Thu, 29 Oct 2026 09:12:24 -0400"
+    },
     {
       "title": "Visa adapts to tech innovations",
       "link": "https://www.paymentsdive.com/news/visa-adapts-to-tech-innovations/873045/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/fed-loses-debit-card-cap-appeal/872785/",
       "description": "The Federal Reserve&rsquo;s debit card interchange rule doesn&rsquo;t follow the intent of Congress in setting a limit for swipe fees, an appellate court ruled Monday.",
       "published": "Mon, 26 Oct 2026 16:08:00 -0400"
-    },
-    {
-      "title": "Euronet, Fireblocks pursue stablecoin cards",
-      "link": "https://www.paymentsdive.com/news/euronet-fireblocks-pursue-stablecoin-cards/872760/",
-      "description": "The companies are extending their partnership to provide financial firms with the infrastructure needed to issue stablecoin-funded cards.",
-      "published": "Mon, 26 Oct 2026 11:27:50 -0400"
-    },
-    {
-      "title": "Why checks still matter",
-      "link": "https://www.paymentsdive.com/news/why-checks-still-matter/872761/",
-      "description": "At a major industry conference this month, the paper instrument kept cropping up in discussions, even with an agenda focused on digital modernization.",
-      "published": "Mon, 26 Oct 2026 11:16:00 -0400"
-    },
-    {
-      "title": "The B2B payment stack wasn\u2019t built for how businesses pay now",
-      "link": "https://www.paymentsdive.com/spons/the-b2b-payment-stack-wasnt-built-for-how-businesses-pay-now/833874/",
-      "description": "The B2B payment decision used to be binary. Legacy infrastructure still is.",
-      "published": "Mon, 26 Oct 2026 05:00:00 -0400"
     }
   ]
 }
