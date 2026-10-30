@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-10-29T18:27:18.450219Z",
-  "generated_date": "2026-10-29",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-10-30T17:59:24.947137Z",
+  "generated_date": "2026-10-30",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Amex nabs new risk chief",
+      "link": "https://www.paymentsdive.com/news/amex-us-bank-risk-chief-departs-richard-compliance-banking/873293/",
+      "description": "The executive shuffle comes at a pivotal time for Amex, which was hit this month with regulator penalties over anti-money laundering compliance failures.",
+      "published": "Fri, 30 Oct 2026 10:13:59 -0400"
+    },
+    {
+      "title": "FTC, states sue Toast over fees",
+      "link": "https://www.paymentsdive.com/news/ftc-states-sue-toast-over-fees-restaurant-dining-online-food/873225/",
+      "description": "The agency and eight states allege that the point-of-sale services provider charges its restaurant clients and their customers hidden fees.",
+      "published": "Thu, 29 Oct 2026 14:00:02 -0400"
+    },
     {
       "title": "Elavon pursues Paze, agentic commerce",
       "link": "https://www.paymentsdive.com/news/elavon-ceo-trust-not-speed-will-rule-agentic-commerce/873185/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/venmo-results-lift-paypal/872889/",
       "description": "The digital payments processor is benefiting from its peer-to-peer payment tool business after cutting 2,000 employee jobs.",
       "published": "Tue, 27 Oct 2026 10:51:00 -0400"
-    },
-    {
-      "title": "USDA proposes adding chip and tap-to-pay tech to EBT cards",
-      "link": "https://www.paymentsdive.com/news/nga-snap-usda-proposed-rule-ebt-chip-cards/872881/",
-      "description": "The National Grocers Association said the payment technologies, which are currently available in nearly a dozen states, can help reduce SNAP fraud.",
-      "published": "Tue, 27 Oct 2026 10:21:00 -0400"
-    },
-    {
-      "title": "Fed loses debit card cap appeal",
-      "link": "https://www.paymentsdive.com/news/fed-loses-debit-card-cap-appeal/872785/",
-      "description": "The Federal Reserve&rsquo;s debit card interchange rule doesn&rsquo;t follow the intent of Congress in setting a limit for swipe fees, an appellate court ruled Monday.",
-      "published": "Mon, 26 Oct 2026 16:08:00 -0400"
     }
   ]
 }
