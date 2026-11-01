@@ -1,7 +1,7 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-10-31T17:14:24.700886Z",
-  "generated_date": "2026-10-31",
+  "generated_at": "2026-11-01T17:55:25.216079Z",
+  "generated_date": "2026-11-01",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
     {
@@ -9,6 +9,12 @@
       "link": "https://www.paymentsdive.com/news/amex-us-bank-risk-chief-departs-richard-compliance-banking/873293/",
       "description": "The executive shuffle comes at a pivotal time for Amex, which was hit this month with regulator penalties over anti-money laundering compliance failures.",
       "published": "Fri, 30 Oct 2026 10:13:59 -0400"
+    },
+    {
+      "title": "AI agents won\u2019t pay the way you do",
+      "link": "https://www.paymentsdive.com/news/ai-agents-wont-pay-same-ways-agentic-commerce-payments/873291/",
+      "description": "Plaid&rsquo;s payments head explains how payment methods might shift as artificial intelligence begins choosing how to pay.",
+      "published": "Fri, 30 Oct 2026 09:31:52 -0400"
     },
     {
       "title": "FTC, states sue Toast over fees",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/news/liability-looms-over-ai-shopping/872979/",
       "description": "Some banks and other payment players lament how agentic commerce has steamrolled ahead without &ldquo;rules of the road&rdquo; for liability issues.&nbsp;",
       "published": "Wed, 28 Oct 2026 10:48:00 -0400"
-    },
-    {
-      "title": "Venmo results lift PayPal",
-      "link": "https://www.paymentsdive.com/news/venmo-results-lift-paypal/872889/",
-      "description": "The digital payments processor is benefiting from its peer-to-peer payment tool business after cutting 2,000 employee jobs.",
-      "published": "Tue, 27 Oct 2026 10:51:00 -0400"
     }
   ]
 }
