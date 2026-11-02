@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-11-01T17:55:25.216079Z",
-  "generated_date": "2026-11-01",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
+  "generated_at": "2026-11-02T21:41:56.849896Z",
+  "generated_date": "2026-11-02",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Mastercard scales in India",
+      "link": "https://www.paymentsdive.com/news/mastercard-scales-in-india/873405/",
+      "description": "The card network expanded its tie with the country&rsquo;s largest private bank, increasing its opportunities to sell to small businesses and consumers.",
+      "published": "Mon, 02 Nov 2026 11:18:04 -0500"
+    },
+    {
+      "title": "BNPL bolsters holiday budgets: survey",
+      "link": "https://www.paymentsdive.com/news/bnpl-bolsters-holiday-budgets-survey/873390/",
+      "description": "Younger shoppers favor buy now, pay later loans more than their older counterparts, but BNPL companies draw consumers across income brackets, a survey finds.",
+      "published": "Mon, 02 Nov 2026 06:23:23 -0500"
+    },
+    {
+      "title": "Fraud, capital and owning the infrastructure",
+      "link": "https://www.paymentsdive.com/spons/fraud-capital-and-owning-the-infrastructure/873353/",
+      "description": "Discover how unified financial infrastructure and smart fraud prevention power modern platforms.",
+      "published": "Mon, 02 Nov 2026 05:00:00 -0500"
+    },
     {
       "title": "Amex nabs new risk chief",
       "link": "https://www.paymentsdive.com/news/amex-us-bank-risk-chief-departs-richard-compliance-banking/873293/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/will-ditching-honor-all-cards-rule-matter-visa-mastercard-amex/873187/",
       "description": "Visa and Mastercard&nbsp;agreed to drop the standard in settling litigation with merchants, but the concession may not be much of a victory.",
       "published": "Thu, 29 Oct 2026 10:54:00 -0400"
-    },
-    {
-      "title": "Settling cross-border payments remains tough",
-      "link": "https://www.paymentsdive.com/news/settling-cross-border-payments-remains-tough/872997/",
-      "description": "Global payments are moving faster, but local settlement remains a pain point for many companies, according to speakers on a Money20/20 panel.",
-      "published": "Thu, 29 Oct 2026 09:12:24 -0400"
-    },
-    {
-      "title": "Visa adapts to tech innovations",
-      "link": "https://www.paymentsdive.com/news/visa-adapts-to-tech-innovations/873045/",
-      "description": "The card network&rsquo;s fiscal 2026 results show it&rsquo;s reaching beyond legacy payments paths to incorporate new technologies, offer new services and extend its global reach with more partners.",
-      "published": "Wed, 28 Oct 2026 10:58:00 -0400"
-    },
-    {
-      "title": "Liability looms over AI shopping",
-      "link": "https://www.paymentsdive.com/news/liability-looms-over-ai-shopping/872979/",
-      "description": "Some banks and other payment players lament how agentic commerce has steamrolled ahead without &ldquo;rules of the road&rdquo; for liability issues.&nbsp;",
-      "published": "Wed, 28 Oct 2026 10:48:00 -0400"
     }
   ]
 }
