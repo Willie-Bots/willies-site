@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-11-03T19:28:25.821809Z",
-  "generated_date": "2026-11-03",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-11-04T19:43:46.948515Z",
+  "generated_date": "2026-11-04",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on product + fintech innovation.",
   "articles": [
+    {
+      "title": "FIS, Toast CFOs exit",
+      "link": "https://www.paymentsdive.com/news/fis-toast-cfos-exit/873750/",
+      "description": "The chief financial officers are leaving the payments players as the companies grapple with separate challenges.",
+      "published": "Wed, 04 Nov 2026 11:03:00 -0500"
+    },
+    {
+      "title": "Block reaches $964M DOJ pact",
+      "link": "https://www.paymentsdive.com/news/block-reaches-964m-doj-pact/873729/",
+      "description": "The company would pay $764 million of the amount in the agreement to resolve U.S. charges that its anti-money laundering program was ineffective.",
+      "published": "Wed, 04 Nov 2026 10:58:00 -0500"
+    },
+    {
+      "title": "Payments firm settles FTC fees case",
+      "link": "https://www.paymentsdive.com/news/payment-processor-settle-ftc-alleged-deceptive-fees/873669/",
+      "description": "Riverside Payments and its affiliates agreed to pay $600,000 to resolve allegations they misled small businesses about processing costs.",
+      "published": "Wed, 04 Nov 2026 10:32:00 -0500"
+    },
     {
       "title": "Truist bolsters merchant tools",
       "link": "https://www.paymentsdive.com/news/truist-expands-merchant-tools-chris-ward/873617/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/mastercard-scales-in-india/873405/",
       "description": "The card network expanded its tie with the country&rsquo;s largest private bank, increasing its opportunities to sell to small businesses and consumers.",
       "published": "Mon, 02 Nov 2026 11:18:04 -0500"
-    },
-    {
-      "title": "BNPL bolsters holiday budgets: survey",
-      "link": "https://www.paymentsdive.com/news/bnpl-bolsters-holiday-budgets-survey/873390/",
-      "description": "Younger shoppers favor buy now, pay later loans more than their older counterparts, but BNPL companies draw consumers across income brackets, a survey finds.",
-      "published": "Mon, 02 Nov 2026 06:23:23 -0500"
-    },
-    {
-      "title": "Fraud, capital and owning the infrastructure",
-      "link": "https://www.paymentsdive.com/spons/fraud-capital-and-owning-the-infrastructure/873353/",
-      "description": "Discover how unified financial infrastructure and smart fraud prevention power modern platforms.",
-      "published": "Mon, 02 Nov 2026 05:00:00 -0500"
-    },
-    {
-      "title": "Amex nabs new risk chief",
-      "link": "https://www.paymentsdive.com/news/amex-us-bank-risk-chief-departs-richard-compliance-banking/873293/",
-      "description": "The executive shuffle comes at a pivotal time for Amex, which was hit this month with regulator penalties over anti-money laundering compliance failures.",
-      "published": "Fri, 30 Oct 2026 10:13:59 -0400"
     }
   ]
 }
