@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-11-04T19:43:46.948515Z",
-  "generated_date": "2026-11-04",
+  "generated_at": "2026-11-05T19:55:38.173692Z",
+  "generated_date": "2026-11-05",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on product + fintech innovation.",
   "articles": [
+    {
+      "title": "Will a \u2018blue wave\u2019 push the CCCA?",
+      "link": "https://www.paymentsdive.com/news/will-a-blue-wave-push-the-ccca/873885/",
+      "description": "With Sen. Roger Marshall voted out and Sen. Dick Durbin retiring, the Credit Card Competition Act faces an uncertain future.",
+      "published": "Thu, 05 Nov 2026 11:19:00 -0500"
+    },
+    {
+      "title": "Cards draw customers, Marqeta CEO says",
+      "link": "https://www.paymentsdive.com/news/cards-draw-customers-marqeta-ceo-says/873864/",
+      "description": "Companies have found there&rsquo;s &ldquo;almost nothing more engaging than a card,&rdquo; CEO Mike Milotich said this week in an interview.",
+      "published": "Thu, 05 Nov 2026 10:25:47 -0500"
+    },
     {
       "title": "FIS, Toast CFOs exit",
       "link": "https://www.paymentsdive.com/news/fis-toast-cfos-exit/873750/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/google-thinks-bigger-about-the-wallet-digital-agentic-retail/873585/",
       "description": "The tech giant envisions its digital wallet assuming a larger role in commerce than merely point-of-sale payments, Google&rsquo;s payments head said.",
       "published": "Tue, 03 Nov 2026 10:26:00 -0500"
-    },
-    {
-      "title": "Bilt tackles sports with $300M deal",
-      "link": "https://www.paymentsdive.com/news/bilt-acquire-lava-sports-technology-rewards-loyalty-300-million-wells-fargo-cards-cfpb/873572/",
-      "description": "The rent-rewards startup aims to stretch beyond housing payments and credit cards by buying Lava, a technology firm that focuses on sports loyalty.",
-      "published": "Tue, 03 Nov 2026 09:29:16 -0500"
-    },
-    {
-      "title": "Mastercard scales in India",
-      "link": "https://www.paymentsdive.com/news/mastercard-scales-in-india/873405/",
-      "description": "The card network expanded its tie with the country&rsquo;s largest private bank, increasing its opportunities to sell to small businesses and consumers.",
-      "published": "Mon, 02 Nov 2026 11:18:04 -0500"
     }
   ]
 }
