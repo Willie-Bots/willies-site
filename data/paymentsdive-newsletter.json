@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-11-05T19:55:38.173692Z",
-  "generated_date": "2026-11-05",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on product + fintech innovation.",
+  "generated_at": "2026-11-06T19:22:58.235289Z",
+  "generated_date": "2026-11-06",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "California takes CoinFlip to task",
+      "link": "https://www.paymentsdive.com/news/california-coinflip-crypto-atm-enforcement-fraud/874002/",
+      "description": "The state ordered the crypto ATM company to pay $4.8 million to scam victims, and bashed federal regulators over failing to police for fraud.",
+      "published": "Fri, 06 Nov 2026 10:55:00 -0500"
+    },
+    {
+      "title": "Shift4 signals caution",
+      "link": "https://www.paymentsdive.com/news/shift4-signals-caution-retail-restaurants-travel/873947/",
+      "description": "The payments processor is navigating weak demand for travel to Europe, and softer sales at its restaurant and hotel customers.",
+      "published": "Fri, 06 Nov 2026 10:50:04 -0500"
+    },
+    {
+      "title": "NCR Atleos, First Citizens lock arms",
+      "link": "https://www.paymentsdive.com/news/ncr-atleos-first-citizens-target-stores-atm-digital-banking/873953/",
+      "description": "The bank aims to expand its reach to more customers by offering services via the NCR Atleos ATMs in Target stores.",
+      "published": "Fri, 06 Nov 2026 09:39:00 -0500"
+    },
     {
       "title": "Will a \u2018blue wave\u2019 push the CCCA?",
       "link": "https://www.paymentsdive.com/news/will-a-blue-wave-push-the-ccca/873885/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/payment-processor-settle-ftc-alleged-deceptive-fees/873669/",
       "description": "Riverside Payments and its affiliates agreed to pay $600,000 to resolve allegations they misled small businesses about processing costs.",
       "published": "Wed, 04 Nov 2026 10:32:00 -0500"
-    },
-    {
-      "title": "Truist bolsters merchant tools",
-      "link": "https://www.paymentsdive.com/news/truist-expands-merchant-tools-chris-ward/873617/",
-      "description": "The super-regional rolled out a faster onboarding experience and added insights for business owners, said Chris Ward, head of enterprise payments.",
-      "published": "Tue, 03 Nov 2026 12:37:00 -0500"
-    },
-    {
-      "title": "Fiserv talks to potential asset buyers",
-      "link": "https://www.paymentsdive.com/news/fiserv-talks-to-potential-asset-buyers/873604/",
-      "description": "The processor has started engaging with potential buyers for the sale of some of its assets, the CEO said. It has also doubled its savings goal to $1 billion.",
-      "published": "Tue, 03 Nov 2026 10:56:00 -0500"
-    },
-    {
-      "title": "Google makes big plans for wallet",
-      "link": "https://www.paymentsdive.com/news/google-thinks-bigger-about-the-wallet-digital-agentic-retail/873585/",
-      "description": "The tech giant envisions its digital wallet assuming a larger role in commerce than merely point-of-sale payments, Google&rsquo;s payments head said.",
-      "published": "Tue, 03 Nov 2026 10:26:00 -0500"
     }
   ]
 }
