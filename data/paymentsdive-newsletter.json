@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-11-08T17:55:09.321753Z",
-  "generated_date": "2026-11-08",
+  "generated_at": "2026-11-09T22:19:32.893099Z",
+  "generated_date": "2026-11-09",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "Global Payments faces industry pricing pressure",
+      "link": "https://www.paymentsdive.com/news/global-payments-faces-industry-pricing-pressure/874128/",
+      "description": "While analysts point to an increasingly competitive environment for the processor, the company is still trying to raise prices.",
+      "published": "Mon, 09 Nov 2026 10:59:00 -0500"
+    },
+    {
+      "title": "How Barclays tucked into Samsung",
+      "link": "https://www.paymentsdive.com/news/5-questions-with-barclays-head-of-us-cards-samsung-wallet/874057/",
+      "description": "Twenty-plus years into card co-brands, Barclays&rsquo; newest launch &ndash; a card integrated into Samsung&rsquo;s digital wallet &ndash; offers both new challenges and opportunities.",
+      "published": "Mon, 09 Nov 2026 10:23:57 -0500"
+    },
+    {
+      "title": "BNPL for rent seeks a market",
+      "link": "https://www.paymentsdive.com/news/bnpl-for-rent-seeks-a-market/874061/",
+      "description": "A new crop of fintechs is exploring growth opportunities in pay-later lending for monthly rent payments as inflation pinches consumers.",
+      "published": "Mon, 09 Nov 2026 07:27:47 -0500"
+    },
     {
       "title": "California takes CoinFlip to task",
       "link": "https://www.paymentsdive.com/news/california-coinflip-crypto-atm-enforcement-fraud/874002/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/cards-draw-customers-marqeta-ceo-says/873864/",
       "description": "Companies have found there&rsquo;s &ldquo;almost nothing more engaging than a card,&rdquo; CEO Mike Milotich said this week in an interview.",
       "published": "Thu, 05 Nov 2026 10:25:47 -0500"
-    },
-    {
-      "title": "FIS, Toast CFOs exit",
-      "link": "https://www.paymentsdive.com/news/fis-toast-cfos-exit/873750/",
-      "description": "The chief financial officers are leaving the payments players as the companies grapple with separate challenges.",
-      "published": "Wed, 04 Nov 2026 11:03:00 -0500"
-    },
-    {
-      "title": "Block reaches $964M DOJ pact",
-      "link": "https://www.paymentsdive.com/news/block-reaches-964m-doj-pact/873729/",
-      "description": "The company would pay $764 million of the amount in the agreement to resolve U.S. charges that its anti-money laundering program was ineffective.",
-      "published": "Wed, 04 Nov 2026 10:58:00 -0500"
-    },
-    {
-      "title": "Payments firm settles FTC fees case",
-      "link": "https://www.paymentsdive.com/news/payment-processor-settle-ftc-alleged-deceptive-fees/873669/",
-      "description": "Riverside Payments and its affiliates agreed to pay $600,000 to resolve allegations they misled small businesses about processing costs.",
-      "published": "Wed, 04 Nov 2026 10:32:00 -0500"
     }
   ]
 }
