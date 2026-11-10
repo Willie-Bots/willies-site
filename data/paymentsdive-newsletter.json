@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-11-09T22:19:32.893099Z",
-  "generated_date": "2026-11-09",
+  "generated_at": "2026-11-10T19:42:23.693643Z",
+  "generated_date": "2026-11-10",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "States keep targeting card fee relief",
+      "link": "https://www.paymentsdive.com/news/states-keep-targeting-card-fee-relief/874260/",
+      "description": "Despite legal challenges to the Illinois Interchange Fee Prohibition Act, more than 30 interchange relief bills have been introduced in statehouses this year.",
+      "published": "Tue, 10 Nov 2026 10:36:00 -0500"
+    },
+    {
+      "title": "Block to provide data to FTC",
+      "link": "https://www.paymentsdive.com/news/block-to-provide-data-to-ftc/874156/",
+      "description": "The company said it will turn over documents the Federal Trade Commission sought in January in response to a probe of complaints about Square.",
+      "published": "Tue, 10 Nov 2026 09:20:00 -0500"
+    },
     {
       "title": "Global Payments faces industry pricing pressure",
       "link": "https://www.paymentsdive.com/news/global-payments-faces-industry-pricing-pressure/874128/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/ncr-atleos-first-citizens-target-stores-atm-digital-banking/873953/",
       "description": "The bank aims to expand its reach to more customers by offering services via the NCR Atleos ATMs in Target stores.",
       "published": "Fri, 06 Nov 2026 09:39:00 -0500"
-    },
-    {
-      "title": "Will a \u2018blue wave\u2019 push the CCCA?",
-      "link": "https://www.paymentsdive.com/news/will-a-blue-wave-push-the-ccca/873885/",
-      "description": "With Sen. Roger Marshall voted out and Sen. Dick Durbin retiring, the Credit Card Competition Act faces an uncertain future.",
-      "published": "Thu, 05 Nov 2026 11:19:00 -0500"
-    },
-    {
-      "title": "Cards draw customers, Marqeta CEO says",
-      "link": "https://www.paymentsdive.com/news/cards-draw-customers-marqeta-ceo-says/873864/",
-      "description": "Companies have found there&rsquo;s &ldquo;almost nothing more engaging than a card,&rdquo; CEO Mike Milotich said this week in an interview.",
-      "published": "Thu, 05 Nov 2026 10:25:47 -0500"
     }
   ]
 }
