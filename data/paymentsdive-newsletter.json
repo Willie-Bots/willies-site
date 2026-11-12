@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-11-11T19:34:36.953675Z",
-  "generated_date": "2026-11-11",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
+  "generated_at": "2026-11-12T19:52:43.860748Z",
+  "generated_date": "2026-11-12",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "FTC aims to better fight scams",
+      "link": "https://www.paymentsdive.com/news/ftc-aims-to-better-fight-scams/874509/",
+      "description": "To combat rising fraud, the Federal Trade Commission may update a rule that could make technology companies more liable when fraud occurs.",
+      "published": "Thu, 12 Nov 2026 10:58:50 -0500"
+    },
+    {
+      "title": "Merchants sue feds over Illinois card fee law",
+      "link": "https://www.paymentsdive.com/news/merchants-sue-feds-over-illinois-card-fee-law/874494/",
+      "description": "Trade groups filed lawsuits against bank and credit union regulators over a preemption of a state law that bans swipe fees for taxes and tips.",
+      "published": "Thu, 12 Nov 2026 10:28:00 -0500"
+    },
     {
       "title": "Fiserv preps debit network sale",
       "link": "https://www.paymentsdive.com/news/fiserv-preps-debit-network-sale/874395/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/global-payments-faces-industry-pricing-pressure/874128/",
       "description": "While analysts point to an increasingly competitive environment for the processor, the company is still trying to raise prices.",
       "published": "Mon, 09 Nov 2026 10:59:00 -0500"
-    },
-    {
-      "title": "How Barclays tucked into Samsung",
-      "link": "https://www.paymentsdive.com/news/5-questions-with-barclays-head-of-us-cards-samsung-wallet/874057/",
-      "description": "Twenty-plus years into card co-brands, Barclays&rsquo; newest launch &ndash; a card integrated into Samsung&rsquo;s digital wallet &ndash; offers both new challenges and opportunities.",
-      "published": "Mon, 09 Nov 2026 10:23:57 -0500"
-    },
-    {
-      "title": "BNPL for rent seeks a market",
-      "link": "https://www.paymentsdive.com/news/bnpl-for-rent-seeks-a-market/874061/",
-      "description": "A new crop of fintechs is exploring growth opportunities in pay-later lending for monthly rent payments as inflation pinches consumers.",
-      "published": "Mon, 09 Nov 2026 07:27:47 -0500"
     }
   ]
 }
