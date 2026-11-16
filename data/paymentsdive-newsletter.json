@@ -1,56 +1,56 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-11-15T18:49:47.906155Z",
-  "generated_date": "2026-11-15",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-11-16T21:59:35.804442Z",
+  "generated_date": "2026-11-16",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Checkouts are built for speed. Fraudsters are thankful.",
+      "link": "https://www.paymentsdive.com/spons/checkouts-are-built-for-speed-fraudsters-are-thankful/874221/",
+      "description": "Faster checkouts may win customers. But as friction drops, are we making fraud easier too?",
+      "published": "Mon, 16 Nov 2026 13:00:00 -0500"
+    },
+    {
+      "title": "JPMorgan cards chief to depart",
+      "link": "https://www.paymentsdive.com/news/jpmorgan-chase-cards-chief-allison-beer-to-depart-rohrbaugh/874785/",
+      "description": "Allison Beer, CEO of card and connected commerce, will leave JPMorgan for an external opportunity, according to a company memo.",
+      "published": "Mon, 16 Nov 2026 11:51:00 -0500"
+    },
+    {
+      "title": "OpenAI wallet taps card networks",
+      "link": "https://www.paymentsdive.com/news/openai-wallet-taps-card-networks/874769/",
+      "description": "The artificial intelligence company has created a digital wallet through which its ChatGPT agent can use Visa, Mastercard and American Express.",
+      "published": "Mon, 16 Nov 2026 11:35:31 -0500"
+    },
+    {
+      "title": "Mastercard pilots AI travel purchases",
+      "link": "https://www.paymentsdive.com/news/mastercard-pilots-ai-travel-purchases/874746/",
+      "description": "The card network is deploying its technology to validate consumers&rsquo; agentic transactions and hide their payment details in the process.",
+      "published": "Mon, 16 Nov 2026 10:49:00 -0500"
+    },
+    {
+      "title": "POS competition lightens up",
+      "link": "https://www.paymentsdive.com/news/pos-competition-lightens-up/874648/",
+      "description": "Point-of-sale service providers are facing less intense competition in the market as venture-funded startups drop away, Shift4&#39;s CFO contended last week.",
+      "published": "Mon, 16 Nov 2026 10:46:00 -0500"
+    },
+    {
+      "title": "Embedded finance in 2026: What merchants want (it\u2019s not what you think)",
+      "link": "https://www.paymentsdive.com/spons/embedded-finance-in-2026-what-merchants-want-its-not-what-you-think/874225/",
+      "description": "Business want simpler embedded finance. Discover what that means for your software strategy.",
+      "published": "Mon, 16 Nov 2026 05:00:00 -0500"
+    },
+    {
+      "title": "Why \u201cfaster cash flow\u201d sells embedded payments to US SMBs",
+      "link": "https://www.paymentsdive.com/spons/why-faster-cash-flow-sells-embedded-payments-to-us-smbs/874184/",
+      "description": "New research shows 65% of US SMBs use embedded payments, and what it takes to win the rest.",
+      "published": "Mon, 16 Nov 2026 05:00:00 -0500"
+    },
     {
       "title": "Stripe awaits payoff on Tempo chain",
       "link": "https://www.paymentsdive.com/news/stripe-awaits-payoff-on-tempo-chain/874618/",
       "description": "The company sees its Tempo blockchain as a key digital infrastructure play for the growing use of stablecoin transactions.",
       "published": "Fri, 13 Nov 2026 10:57:00 -0500"
-    },
-    {
-      "title": "Why PayPal wants to have a bank",
-      "link": "https://www.paymentsdive.com/news/why-paypal-wants-to-have-a-bank/874615/",
-      "description": "The digital payments company would tap a bank subsidiary for lending to its merchants, but also to diversify its sources of capital.",
-      "published": "Fri, 13 Nov 2026 10:25:00 -0500"
-    },
-    {
-      "title": "FTC aims to better fight scams",
-      "link": "https://www.paymentsdive.com/news/ftc-aims-to-better-fight-scams/874509/",
-      "description": "To combat rising fraud, the Federal Trade Commission may update a rule that could make technology companies more liable when fraud occurs.",
-      "published": "Thu, 12 Nov 2026 10:58:50 -0500"
-    },
-    {
-      "title": "Merchants sue feds over Illinois card fee law",
-      "link": "https://www.paymentsdive.com/news/merchants-sue-feds-over-illinois-card-fee-law/874494/",
-      "description": "Trade groups filed lawsuits against bank and credit union regulators over a preemption of a state law that bans swipe fees for taxes and tips.",
-      "published": "Thu, 12 Nov 2026 10:28:00 -0500"
-    },
-    {
-      "title": "Fiserv preps debit network sale",
-      "link": "https://www.paymentsdive.com/news/fiserv-preps-debit-network-sale/874395/",
-      "description": "The processing giant is shifting customers to one of its debit networks in anticipation of selling or shuttering a second one, the company&rsquo;s CEO said Tuesday.",
-      "published": "Wed, 11 Nov 2026 11:30:26 -0500"
-    },
-    {
-      "title": "Western Union, Intermex clash",
-      "link": "https://www.paymentsdive.com/news/western-union-intermex-acquisition-fight-California-regulator/874396/",
-      "description": "The money transfer services company dropped its acquisition of the smaller rival after California regulators weighed in, but now a fight over the deal has ensued.",
-      "published": "Wed, 11 Nov 2026 10:56:00 -0500"
-    },
-    {
-      "title": "Block\u2019s Cash App weaves payment tech into bandanas",
-      "link": "https://www.paymentsdive.com/news/blocks-cash-app-weaves-payment-tech-into-bandanas/874328/",
-      "description": "The peer-to-peer payment provider will soon begin selling its digital tags attached to bandanas.",
-      "published": "Tue, 10 Nov 2026 16:35:05 -0500"
-    },
-    {
-      "title": "States keep targeting card fee relief",
-      "link": "https://www.paymentsdive.com/news/states-keep-targeting-card-fee-relief/874260/",
-      "description": "Despite legal challenges to the Illinois Interchange Fee Prohibition Act, more than 30 interchange relief bills have been introduced in statehouses this year.",
-      "published": "Tue, 10 Nov 2026 10:36:00 -0500"
     }
   ]
 }
