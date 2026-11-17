@@ -1,14 +1,20 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-11-16T21:59:35.804442Z",
-  "generated_date": "2026-11-16",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, product + fintech innovation.",
+  "generated_at": "2026-11-17T20:53:30.866669Z",
+  "generated_date": "2026-11-17",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
     {
-      "title": "Checkouts are built for speed. Fraudsters are thankful.",
-      "link": "https://www.paymentsdive.com/spons/checkouts-are-built-for-speed-fraudsters-are-thankful/874221/",
-      "description": "Faster checkouts may win customers. But as friction drops, are we making fraud easier too?",
-      "published": "Mon, 16 Nov 2026 13:00:00 -0500"
+      "title": "Fed to boost payment service fees",
+      "link": "https://www.paymentsdive.com/news/federal-reserve-to-boost-payment-service-fees/874911/",
+      "description": "The Federal Reserve is also instituting a new access fee that it says will create a more &ldquo;streamlined experience&rdquo; for its bank clients.",
+      "published": "Tue, 17 Nov 2026 10:54:00 -0500"
+    },
+    {
+      "title": "Visa, Mastercard face possible trial",
+      "link": "https://www.paymentsdive.com/news/visa-mastercard-face-possible-trial/874834/",
+      "description": "If a court rejects final approval of a card-fee settlement over the networks&rsquo; swipe fees, the case will go to trial, a federal judge said.",
+      "published": "Tue, 17 Nov 2026 07:40:29 -0500"
     },
     {
       "title": "JPMorgan cards chief to depart",
@@ -45,12 +51,6 @@
       "link": "https://www.paymentsdive.com/spons/why-faster-cash-flow-sells-embedded-payments-to-us-smbs/874184/",
       "description": "New research shows 65% of US SMBs use embedded payments, and what it takes to win the rest.",
       "published": "Mon, 16 Nov 2026 05:00:00 -0500"
-    },
-    {
-      "title": "Stripe awaits payoff on Tempo chain",
-      "link": "https://www.paymentsdive.com/news/stripe-awaits-payoff-on-tempo-chain/874618/",
-      "description": "The company sees its Tempo blockchain as a key digital infrastructure play for the growing use of stablecoin transactions.",
-      "published": "Fri, 13 Nov 2026 10:57:00 -0500"
     }
   ]
 }
