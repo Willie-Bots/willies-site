@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-11-17T20:53:30.866669Z",
-  "generated_date": "2026-11-17",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
+  "generated_at": "2026-11-18T20:29:25.023357Z",
+  "generated_date": "2026-11-18",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "ACI Worldwide\u2019s CEO heads out",
+      "link": "https://www.paymentsdive.com/news/aci-worldwides-ceo-heads-out/875047/",
+      "description": "Thomas Warsop is leaving the payments software company, with insiders taking over leadership until he&rsquo;s replaced.",
+      "published": "Wed, 18 Nov 2026 11:01:00 -0500"
+    },
+    {
+      "title": "Klarna launches AI \u2018concierge\u2019",
+      "link": "https://www.paymentsdive.com/news/klarna-launches-ai-concierge/875033/",
+      "description": "The buy now, pay later provider has waded into agentic commerce with a new tool and aims to expand its longer-term loan portfolio.",
+      "published": "Wed, 18 Nov 2026 10:45:00 -0500"
+    },
     {
       "title": "Fed to boost payment service fees",
       "link": "https://www.paymentsdive.com/news/federal-reserve-to-boost-payment-service-fees/874911/",
@@ -15,6 +27,12 @@
       "link": "https://www.paymentsdive.com/news/visa-mastercard-face-possible-trial/874834/",
       "description": "If a court rejects final approval of a card-fee settlement over the networks&rsquo; swipe fees, the case will go to trial, a federal judge said.",
       "published": "Tue, 17 Nov 2026 07:40:29 -0500"
+    },
+    {
+      "title": "Checkouts are built for speed. Fraudsters are thankful.",
+      "link": "https://www.paymentsdive.com/spons/checkouts-are-built-for-speed-fraudsters-are-thankful/874221/",
+      "description": "Faster checkouts may win customers. But as friction drops, are we making fraud easier too?",
+      "published": "Mon, 16 Nov 2026 13:00:00 -0500"
     },
     {
       "title": "JPMorgan cards chief to depart",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/mastercard-pilots-ai-travel-purchases/874746/",
       "description": "The card network is deploying its technology to validate consumers&rsquo; agentic transactions and hide their payment details in the process.",
       "published": "Mon, 16 Nov 2026 10:49:00 -0500"
-    },
-    {
-      "title": "POS competition lightens up",
-      "link": "https://www.paymentsdive.com/news/pos-competition-lightens-up/874648/",
-      "description": "Point-of-sale service providers are facing less intense competition in the market as venture-funded startups drop away, Shift4&#39;s CFO contended last week.",
-      "published": "Mon, 16 Nov 2026 10:46:00 -0500"
-    },
-    {
-      "title": "Embedded finance in 2026: What merchants want (it\u2019s not what you think)",
-      "link": "https://www.paymentsdive.com/spons/embedded-finance-in-2026-what-merchants-want-its-not-what-you-think/874225/",
-      "description": "Business want simpler embedded finance. Discover what that means for your software strategy.",
-      "published": "Mon, 16 Nov 2026 05:00:00 -0500"
-    },
-    {
-      "title": "Why \u201cfaster cash flow\u201d sells embedded payments to US SMBs",
-      "link": "https://www.paymentsdive.com/spons/why-faster-cash-flow-sells-embedded-payments-to-us-smbs/874184/",
-      "description": "New research shows 65% of US SMBs use embedded payments, and what it takes to win the rest.",
-      "published": "Mon, 16 Nov 2026 05:00:00 -0500"
     }
   ]
 }
