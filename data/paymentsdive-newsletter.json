@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-11-18T20:29:25.023357Z",
-  "generated_date": "2026-11-18",
+  "generated_at": "2026-11-19T20:34:22.893773Z",
+  "generated_date": "2026-11-19",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
   "articles": [
+    {
+      "title": "M&T aims to \u2018dial up\u2019 credit card rewards",
+      "link": "https://www.paymentsdive.com/news/mt-bank-credit-card-rewards-retail/875212/",
+      "description": "The regional lender is looking to offer simple and easy-to-understand credit card perks, in line with recent customer feedback.",
+      "published": "Thu, 19 Nov 2026 12:06:00 -0500"
+    },
+    {
+      "title": "Researchers spot ACH loopholes",
+      "link": "https://www.paymentsdive.com/news/researchers-spot-ach-loopholes/875186/",
+      "description": "University of Massachusetts academics have identified vulnerabilities that hackers could exploit in restricted bank accounts.",
+      "published": "Thu, 19 Nov 2026 10:25:00 -0500"
+    },
+    {
+      "title": "Google wallet returns to Apple",
+      "link": "https://www.paymentsdive.com/news/google-wallet-returns-to-apple/875182/",
+      "description": "The wallet app gives Google an early lead among iPhone-wielding agentic shoppers and poses a rival for Stripe&rsquo;s Link wallet, analysts said.",
+      "published": "Thu, 19 Nov 2026 10:24:00 -0500"
+    },
     {
       "title": "ACI Worldwide\u2019s CEO heads out",
       "link": "https://www.paymentsdive.com/news/aci-worldwides-ceo-heads-out/875047/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/spons/checkouts-are-built-for-speed-fraudsters-are-thankful/874221/",
       "description": "Faster checkouts may win customers. But as friction drops, are we making fraud easier too?",
       "published": "Mon, 16 Nov 2026 13:00:00 -0500"
-    },
-    {
-      "title": "JPMorgan cards chief to depart",
-      "link": "https://www.paymentsdive.com/news/jpmorgan-chase-cards-chief-allison-beer-to-depart-rohrbaugh/874785/",
-      "description": "Allison Beer, CEO of card and connected commerce, will leave JPMorgan for an external opportunity, according to a company memo.",
-      "published": "Mon, 16 Nov 2026 11:51:00 -0500"
-    },
-    {
-      "title": "OpenAI wallet taps card networks",
-      "link": "https://www.paymentsdive.com/news/openai-wallet-taps-card-networks/874769/",
-      "description": "The artificial intelligence company has created a digital wallet through which its ChatGPT agent can use Visa, Mastercard and American Express.",
-      "published": "Mon, 16 Nov 2026 11:35:31 -0500"
-    },
-    {
-      "title": "Mastercard pilots AI travel purchases",
-      "link": "https://www.paymentsdive.com/news/mastercard-pilots-ai-travel-purchases/874746/",
-      "description": "The card network is deploying its technology to validate consumers&rsquo; agentic transactions and hide their payment details in the process.",
-      "published": "Mon, 16 Nov 2026 10:49:00 -0500"
     }
   ]
 }
