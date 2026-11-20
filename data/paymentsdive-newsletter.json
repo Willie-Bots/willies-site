@@ -1,9 +1,21 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-11-19T20:34:22.893773Z",
-  "generated_date": "2026-11-19",
-  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on fraud/security, regulation.",
+  "generated_at": "2026-11-20T20:15:11.676937Z",
+  "generated_date": "2026-11-20",
+  "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "PayPal CEO remakes team",
+      "link": "https://www.paymentsdive.com/news/paypal-ceo-remakes-team/875344/",
+      "description": "Chief Financial Officer Jamie Miller, who served as the digital payment company&rsquo;s interim CEO at one point, will leave as CEO Enrique Lores installs new managers.",
+      "published": "Fri, 20 Nov 2026 11:08:00 -0500"
+    },
+    {
+      "title": "Bill sells for $6B to TPG, Corpay",
+      "link": "https://www.paymentsdive.com/news/bill-sells-for-6b-to-tpg-corpay/875331/",
+      "description": "The deal for the bill-pay company fuels consolidation in the business payments and receivables software industry.",
+      "published": "Fri, 20 Nov 2026 10:54:00 -0500"
+    },
     {
       "title": "M&T aims to \u2018dial up\u2019 credit card rewards",
       "link": "https://www.paymentsdive.com/news/mt-bank-credit-card-rewards-retail/875212/",
@@ -39,18 +51,6 @@
       "link": "https://www.paymentsdive.com/news/federal-reserve-to-boost-payment-service-fees/874911/",
       "description": "The Federal Reserve is also instituting a new access fee that it says will create a more &ldquo;streamlined experience&rdquo; for its bank clients.",
       "published": "Tue, 17 Nov 2026 10:54:00 -0500"
-    },
-    {
-      "title": "Visa, Mastercard face possible trial",
-      "link": "https://www.paymentsdive.com/news/visa-mastercard-face-possible-trial/874834/",
-      "description": "If a court rejects final approval of a card-fee settlement over the networks&rsquo; swipe fees, the case will go to trial, a federal judge said.",
-      "published": "Tue, 17 Nov 2026 07:40:29 -0500"
-    },
-    {
-      "title": "Checkouts are built for speed. Fraudsters are thankful.",
-      "link": "https://www.paymentsdive.com/spons/checkouts-are-built-for-speed-fraudsters-are-thankful/874221/",
-      "description": "Faster checkouts may win customers. But as friction drops, are we making fraud easier too?",
-      "published": "Mon, 16 Nov 2026 13:00:00 -0500"
     }
   ]
 }
