@@ -1,9 +1,39 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-11-22T19:37:32.920226Z",
-  "generated_date": "2026-11-22",
+  "generated_at": "2026-11-23T23:51:45.333870Z",
+  "generated_date": "2026-11-23",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "PayPal\u2019s new CFO lands big pay",
+      "link": "https://www.paymentsdive.com/news/incoming-paypal-cfo-30m-stock-bonuses-comp-turnaround-strategy/875474/",
+      "description": "The digital payments player handed Claire Bramley, an HP alum, a $30 million pay package to take the chief financial officer post in February.",
+      "published": "Mon, 23 Nov 2026 10:39:00 -0500"
+    },
+    {
+      "title": "Fed President pitches FedNow",
+      "link": "https://www.paymentsdive.com/news/federal-reserve-president-faster-payments-fednow/875321/",
+      "description": "Jeff Schmid, who leads the Kansas City Federal Reserve, nudged credit union executives last week to adopt faster payment options, like FedNow.",
+      "published": "Mon, 23 Nov 2026 09:20:00 -0500"
+    },
+    {
+      "title": "Trump signs Common Cents bill",
+      "link": "https://www.paymentsdive.com/news/trump-signs-common-cents-bill/875442/",
+      "description": "The new law gives merchants a legal basis for rounding retail cash transactions as pennies disappear.",
+      "published": "Mon, 23 Nov 2026 07:51:01 -0500"
+    },
+    {
+      "title": "How digital dollars improve cross-border payment management",
+      "link": "https://www.paymentsdive.com/spons/how-digital-dollars-improve-cross-border-payment-management/874849/",
+      "description": "As businesses look for more dependable ways to pay partners across borders, digital dollars are an emerging option.",
+      "published": "Mon, 23 Nov 2026 05:00:00 -0500"
+    },
+    {
+      "title": "Travel brands aren\u2019t the only ones that benefit from non-prime credit card partnerships",
+      "link": "https://www.paymentsdive.com/spons/travel-brands-arent-the-only-ones-that-benefit-from-non-prime-credit-card/875363/",
+      "description": "75% of non-prime consumers plan to travel. Here&#39;s how brands can earn their loyalty.",
+      "published": "Mon, 23 Nov 2026 05:00:00 -0500"
+    },
     {
       "title": "PayPal CEO remakes team",
       "link": "https://www.paymentsdive.com/news/paypal-ceo-remakes-team/875344/",
@@ -21,36 +51,6 @@
       "link": "https://www.paymentsdive.com/news/mt-bank-credit-card-rewards-retail/875212/",
       "description": "The regional lender is looking to offer simple and easy-to-understand credit card perks, in line with recent customer feedback.",
       "published": "Thu, 19 Nov 2026 12:06:00 -0500"
-    },
-    {
-      "title": "Researchers spot ACH loopholes",
-      "link": "https://www.paymentsdive.com/news/researchers-spot-ach-loopholes/875186/",
-      "description": "University of Massachusetts academics have identified vulnerabilities that hackers could exploit in restricted bank accounts.",
-      "published": "Thu, 19 Nov 2026 10:25:00 -0500"
-    },
-    {
-      "title": "Google wallet returns to Apple",
-      "link": "https://www.paymentsdive.com/news/google-wallet-returns-to-apple/875182/",
-      "description": "The wallet app gives Google an early lead among iPhone-wielding agentic shoppers and poses a rival for Stripe&rsquo;s Link wallet, analysts said.",
-      "published": "Thu, 19 Nov 2026 10:24:00 -0500"
-    },
-    {
-      "title": "ACI Worldwide\u2019s CEO heads out",
-      "link": "https://www.paymentsdive.com/news/aci-worldwides-ceo-heads-out/875047/",
-      "description": "Thomas Warsop is leaving the payments software company, with insiders taking over leadership until he&rsquo;s replaced.",
-      "published": "Wed, 18 Nov 2026 11:01:00 -0500"
-    },
-    {
-      "title": "Klarna launches AI \u2018concierge\u2019",
-      "link": "https://www.paymentsdive.com/news/klarna-launches-ai-concierge/875033/",
-      "description": "The buy now, pay later provider has waded into agentic commerce with a new tool and aims to expand its longer-term loan portfolio.",
-      "published": "Wed, 18 Nov 2026 10:45:00 -0500"
-    },
-    {
-      "title": "Fed to boost payment service fees",
-      "link": "https://www.paymentsdive.com/news/federal-reserve-to-boost-payment-service-fees/874911/",
-      "description": "The Federal Reserve is also instituting a new access fee that it says will create a more &ldquo;streamlined experience&rdquo; for its bank clients.",
-      "published": "Tue, 17 Nov 2026 10:54:00 -0500"
     }
   ]
 }
