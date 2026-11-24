@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-11-23T23:51:45.333870Z",
-  "generated_date": "2026-11-23",
+  "generated_at": "2026-11-24T22:24:39.510870Z",
+  "generated_date": "2026-11-24",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "Adyen co-founder to step down",
+      "link": "https://www.paymentsdive.com/news/adyen-co-founder-van-der-does-step-down-uytdehaage/875648/",
+      "description": "&ldquo;I feel my cycle is complete,&rdquo; Pieter van der Does, also co-CEO, wrote after 20 years with Adyen. &ldquo;This is the right moment for me to step down.&rdquo;",
+      "published": "Tue, 24 Nov 2026 13:51:00 -0500"
+    },
+    {
+      "title": "Payoneer gets conditional approval for trust bank",
+      "link": "https://www.paymentsdive.com/news/payoneer-gets-conditional-approval-trust-bank-occ-payo-digital/875545/",
+      "description": "The cross-border payments company, which applied for a trust charter in February, is one of several payments firms that sought a charter from the OCC this year.",
+      "published": "Tue, 24 Nov 2026 10:48:00 -0500"
+    },
+    {
+      "title": "Intermex sues Western Union",
+      "link": "https://www.paymentsdive.com/news/intermex-sues-western-union/875625/",
+      "description": "The long-time remittance provider walked away from a $500 million merger deal due to &ldquo;buyer&rsquo;s remorse,&rdquo; Intermex alleged in a Tuesday lawsuit.",
+      "published": "Tue, 24 Nov 2026 10:48:00 -0500"
+    },
     {
       "title": "PayPal\u2019s new CFO lands big pay",
       "link": "https://www.paymentsdive.com/news/incoming-paypal-cfo-30m-stock-bonuses-comp-turnaround-strategy/875474/",
@@ -11,7 +29,7 @@
       "published": "Mon, 23 Nov 2026 10:39:00 -0500"
     },
     {
-      "title": "Fed President pitches FedNow",
+      "title": "Fed president pitches FedNow",
       "link": "https://www.paymentsdive.com/news/federal-reserve-president-faster-payments-fednow/875321/",
       "description": "Jeff Schmid, who leads the Kansas City Federal Reserve, nudged credit union executives last week to adopt faster payment options, like FedNow.",
       "published": "Mon, 23 Nov 2026 09:20:00 -0500"
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/spons/travel-brands-arent-the-only-ones-that-benefit-from-non-prime-credit-card/875363/",
       "description": "75% of non-prime consumers plan to travel. Here&#39;s how brands can earn their loyalty.",
       "published": "Mon, 23 Nov 2026 05:00:00 -0500"
-    },
-    {
-      "title": "PayPal CEO remakes team",
-      "link": "https://www.paymentsdive.com/news/paypal-ceo-remakes-team/875344/",
-      "description": "Chief Financial Officer Jamie Miller, who served as the digital payment company&rsquo;s interim CEO at one point, will leave as CEO Enrique Lores installs new managers.",
-      "published": "Fri, 20 Nov 2026 11:08:00 -0500"
-    },
-    {
-      "title": "Bill sells for $6B to TPG, Corpay",
-      "link": "https://www.paymentsdive.com/news/bill-sells-for-6b-to-tpg-corpay/875331/",
-      "description": "The deal for the bill-pay company fuels consolidation in the business payments and receivables software industry.",
-      "published": "Fri, 20 Nov 2026 10:54:00 -0500"
-    },
-    {
-      "title": "M&T aims to \u2018dial up\u2019 credit card rewards",
-      "link": "https://www.paymentsdive.com/news/mt-bank-credit-card-rewards-retail/875212/",
-      "description": "The regional lender is looking to offer simple and easy-to-understand credit card perks, in line with recent customer feedback.",
-      "published": "Thu, 19 Nov 2026 12:06:00 -0500"
     }
   ]
 }
