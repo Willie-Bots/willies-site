@@ -1,9 +1,27 @@
 {
   "source": "https://www.paymentsdive.com/feeds/news/",
-  "generated_at": "2026-11-24T22:24:39.510870Z",
-  "generated_date": "2026-11-24",
+  "generated_at": "2026-11-25T21:40:11.405987Z",
+  "generated_date": "2026-11-25",
   "summary": "Today\u2019s PaymentsDive recap: 8 new stories, with focus on regulation, product + fintech innovation.",
   "articles": [
+    {
+      "title": "California fines Afterpay $2.7M",
+      "link": "https://www.paymentsdive.com/news/california-fines-afterpay-27m/875775/",
+      "description": "The state imposed the penalty on Block&rsquo;s buy now, pay later business after finding the company failed to assess customers&rsquo; ability to&nbsp;repay loans.",
+      "published": "Wed, 25 Nov 2026 11:05:00 -0500"
+    },
+    {
+      "title": "Illinois fights for interchange law",
+      "link": "https://www.paymentsdive.com/news/illinois-fights-for-interchange-law/875779/",
+      "description": "The state&rsquo;s attorney general filed a brief in appellate court Monday stressing the invalidity of a federal move to stop the Illinois Interchange Fee Prohibition Act.",
+      "published": "Wed, 25 Nov 2026 11:03:00 -0500"
+    },
+    {
+      "title": "Cap One pursues payments modernization",
+      "link": "https://www.paymentsdive.com/news/cap-one-pursues-payments-modernization/875673/",
+      "description": "The bank&rsquo;s investments in real-time and cloud-based rails are letting it keep pace with technology advances, a top payments executive said.",
+      "published": "Tue, 24 Nov 2026 17:34:00 -0500"
+    },
     {
       "title": "Adyen co-founder to step down",
       "link": "https://www.paymentsdive.com/news/adyen-co-founder-van-der-does-step-down-uytdehaage/875648/",
@@ -33,24 +51,6 @@
       "link": "https://www.paymentsdive.com/news/federal-reserve-president-faster-payments-fednow/875321/",
       "description": "Jeff Schmid, who leads the Kansas City Federal Reserve, nudged credit union executives last week to adopt faster payment options, like FedNow.",
       "published": "Mon, 23 Nov 2026 09:20:00 -0500"
-    },
-    {
-      "title": "Trump signs Common Cents bill",
-      "link": "https://www.paymentsdive.com/news/trump-signs-common-cents-bill/875442/",
-      "description": "The new law gives merchants a legal basis for rounding retail cash transactions as pennies disappear.",
-      "published": "Mon, 23 Nov 2026 07:51:01 -0500"
-    },
-    {
-      "title": "How digital dollars improve cross-border payment management",
-      "link": "https://www.paymentsdive.com/spons/how-digital-dollars-improve-cross-border-payment-management/874849/",
-      "description": "As businesses look for more dependable ways to pay partners across borders, digital dollars are an emerging option.",
-      "published": "Mon, 23 Nov 2026 05:00:00 -0500"
-    },
-    {
-      "title": "Travel brands aren\u2019t the only ones that benefit from non-prime credit card partnerships",
-      "link": "https://www.paymentsdive.com/spons/travel-brands-arent-the-only-ones-that-benefit-from-non-prime-credit-card/875363/",
-      "description": "75% of non-prime consumers plan to travel. Here&#39;s how brands can earn their loyalty.",
-      "published": "Mon, 23 Nov 2026 05:00:00 -0500"
     }
   ]
 }
